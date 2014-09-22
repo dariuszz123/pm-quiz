@@ -1,0 +1,604 @@
+{
+    "questions": [
+        {
+            "question": "Ko privaloma laikytis vykdant projektus?",
+            "options": [
+                {"title": "Standartų (tam tikrų etalonų, rekomendacijų, normų)", "correct": false},
+                {"title": "Reglamentų (teisės aktų reikalavimų, taisyklių)", "correct": true},
+                {"title": "Ir reglamentų, ir standartų", "correct": false},
+                {"title": "Nei reglamentų, nei standartų", "correct": false}
+            ],
+            "explain": "Privaloma laikytis reglamentų, o ne standartų. Reglamentas – tai dokumentas, kuriame nurodomos privalomos produkto, proceso ar paslaugos charakteristikos. Standartas – tai pripažintos organizacijos, pvz., ISO, išleistas dokumentas, kuriame yra produkto, proceso ar paslaugos rekomenduojamos savybės, gairės ar charakteristikos, tačiau jų laikymasis nėra privalomas."
+        },
+        {
+            "question": "Ką reiškia programa, kai kalbama apie projektus?",
+            "options": [
+                {"title": "Vieną projektą, kuriuo siekiama tam tikrų tikslų", "correct": false},
+                {"title": "Kelių koordinuojamų projektų grupę", "correct": true},
+                {"title": "Numatomų rezultatų rinkinį, kurie padėtų pasiekti specifinius projekto tikslus", "correct": false},
+                {"title": "Vieną projektą, padalintą į smulkesnes lengviau valdomas dalis", "correct": false}
+            ],
+            "explain": "Projektų valdymo žinyne (PMBOK) programa reiškia kelių koordinuojamų projektų grupę, kurios tikslų negalima būtų pasiekti valdant projektus atskirai."
+        },
+		{
+            "question": "Kuris iš teiginių yra teisingas, kai projekto BCR (Benefit Cost Ratio – naudos-pajamų ir kainos santykis) didesnis už 1?",
+            "options": [
+                {"title": "projektas yra ypatingai rizikingas", "correct": false},
+                {"title": "išlaidos projektui neatsipirks", "correct": false},
+                {"title": "projekto vykdymas lenkia numatytą darbų grafiką", "correct": false},
+                {"title": "išlaidos projektui yra mažesnės už numatomą gauti naudą", "correct": true}
+            ],
+            "explain": "BCR rodo, kad išlaidos projektui yra mažesnės už numatomą gauti naudą-pajamas. BCR paprastai naudojamas svarstant, ar apsimoka vykdyti projektą."
+        },
+		{
+            "question": "Projekto vadovo ir akcininkų bendravimo efektyvumui yra svarbūs visi žemiau išvardinti veiksniai, išskyrus?",
+            "options": [
+                {"title": "akcininkų indėlis rengiant projekto apimtį (reikalavimus)", "correct": false},
+                {"title": "akcininkų tiesiogiai teikiama finansinė parama projektui", "correct": true},
+                {"title": "akcininkų teikiama informacija grindžiant projekto poreikį", "correct": false},
+                {"title": "akcininkų poreikių suvokimas yra būtina projekto sėkmės sąlyga", "correct": false}
+            ],
+            "explain": "Projekto vadovo ir akcininkų bendravimo efektyvumui nėra svarbi akcininkų tiesiogiai teikiama finansinė parama projektui. Ne visi akcininkai finansiškai remia projektus. Akcininkai yra šalys, kurios betarpiškai yra įtrauktos į projektą arba kurioms projekto rezultatai daro įtaką."
+        },
+		{
+            "question": "Kuriuo projekto metu akcininkų galimybės daryti įtaką galutiniams projekto rezultatams yra didesnės?",
+            "options": [
+                {"title": "vėlesniame projekto etape", "correct": false},
+                {"title": "ankstesniame projekto etape", "correct": true},
+                {"title": "bet kuriuo projekto metu", "correct": false},
+                {"title": "ankstesniame projekto etape, tačiau jos didėja projekto eigoje", "correct": false}
+            ],
+            "explain": "Paprastai akcininkai turi didesnes įtakos galimybes ankstesniame projekto etape. Projekto eigoje, kai jau būna atlikti kai kurie darbai ir padarytos išlaidos, tokios galimybės mažėja."
+        },
+		{
+            "question": "Jūsų organizacija duotu metu vykdo keturis skirtingus projektus. Atsiradus naujam svarbiam užsakymui, vadovybė nutarė laikinai stabdyti vieną iš jų ir jo išteklius skirti naujam projektui. Vykdytų projektų BCR (Benefit Cost Ratio – naudos ir kainos santykis) rodikliai yra tokie: A projekto - 1.2, B projekto – 0.7, C projekto – 1.0, Dprojekto – 0.8. Remiantis vien šia informacija, kurį projektą jūs siūlytumėte laikinai sustabdyti?",
+            "options": [
+                {"title": "A projektą", "correct": false},
+                {"title": "B projektą", "correct": true},
+                {"title": "C projektą", "correct": false},
+                {"title": "D projektą", "correct": false}
+            ],
+            "explain": "Stabdyti reikėtų B projektą. Projektai, kurių BCR yra didesnis, ekonomiškai yra labiau naudingi. "
+        },
+		{
+            "question": "Projekto sponsoriui (rėmėjui) jūs turite pateikti preliminarią projekto kainą. Galutinė projekto apimtis (reikalavimai) dar nėra aiški, tačiau jūs manote, kad projektas yra labai panašus į jūsų organizacijoje vykdytą praėjusiais metais. Kurį kainos vertinimo būdą jūs naudosite?",
+            "options": [
+                {"title": "parametrinio modeliavimo", "correct": false},
+                {"title": "analogiškojo vertinimo", "correct": true},
+                {"title": "vertinimą iš apačios į viršų", "correct": false},
+                {"title": "Monte Karlo analizę", "correct": false}
+            ],
+            "explain": "Naudosite analogiškojo vertinimo būdą, nes jis remiasi panašiais anksčiau vykdytais projektais. Analogiškasis vertinimo būdas kitaip dar vadinamas vertinimu iš viršaus į apačią. Pastarasis būdas yra pigesnis už kitus, bet yra mažiau tikslus, ypač jei ankstesnieji projektai, kuriais remiamasi, nebuvo visiškai panašūs į naująjį.\nVertinimas iš apačios į viršų remiasi jau įvardintais projekto darbais, kurie šiuo atveju dar nėra apibrėžti. Šiuo metodu kainos įvertis gaunamas tikslesnis, tačiau pats vertinimas atsieina brangiau.\nParametrinio modeliavimo būdas, matematiškai vertinant kainą, naudoja projekto ypatybes-charakteristikas. Pvz., reikiamo ilgio kabelio nutiesimo kaina apskaičiuojama žinant vieneto nutiesimo kainą (tai paprastas atvejis), arba programinės įrangos tam tikro kiekio komponentų sukūrimas (tai sudėtingesnis atvejis, nes šį darbą įtakoja daug veiksnių) žinant vieno komponento sukūrimo kainą. \nMonte Karlo metodas reikalauja sudėtingų kompiuterinių skaičiavimų. Tai tikimybinis metodas, kuris dažniausiai naudojamas įvertinti, ar nustatytu laiku ir už numatytas lėšas pavyks įgyvendinti projektą. Apskritai, tai projekto rizikingumo vertinimo būdas."
+        },
+		{
+            "question": "Jūs vertinate naujo namo statybos projektą ir manote, kad statybos atsieis 1750000 Lt. Remiantis esamais nekilnojamojo turto rinkos duomenimis, realu, kad pastatytą namą įmanoma parduoti už 2300000 Lt. Koks yra šio projekto BCR (Benefit Cost Ratio – naudos ir kainos santykis)?",
+            "options": [
+                {"title": "0.24", "correct": false},
+                {"title": "0.76", "correct": false},
+                {"title": "1.31", "correct": true},
+                {"title": "55", "correct": false}
+            ],
+            "explain": "Projekto BCR yra 1.31.\nŠiuo atveju BCR = 2300000 / 1750000 = 1.314285.\nJei BCR > 1, tai projekto nauda yra didesnė už patirtas išlaidas. Kuo BCR didesnis, tuo projektas labiau apsimoka."
+        },
+		{
+            "question": "Kas paprastai būna projekto nuostatuose?",
+            "options": [
+                {"title": "suskaidytų darbų lentelė (WBS)", "correct": false},
+                {"title": "apimties (reikalavimų) aprašas", "correct": false},
+                {"title": "galutinis darbų grafikas", "correct": false},
+                {"title": "projekto poreikis", "correct": true}
+            ],
+            "explain": "Nuostatuose būtinai išdėstomas projekto poreikis. Juos rengia iniciatorių grupė ir tvirtina organizacijos vadovybė. Projekto nuostatai yra pradinis dokumentas, kuriame aprašomas verslo poreikis vykdyti projektą, numatomas kurti produktas ir įvardinamas projekto vadovas.\nSuskaidytų darbų lentelė (WBS), projekto apimties (reikalavimų) aprašas ir darbų grafikas su jo etapais ir kontroliniais taškais yra vėlesnių, t. y. projekto planavimo procesų rezultatai."
+        },
+		{
+            "question": "Kas nėra projekto inicijavimo proceso rezultatas?",
+            "options": [
+                {"title": "projekto nuostatai", "correct": false},
+                {"title": "projekto apimties (reikalavimų) aprašas", "correct": true},
+                {"title": "formalus projekto patvirtinimas", "correct": false},
+                {"title": "projekto apimties (reikalavimų) metmenys", "correct": false}
+            ],
+            "explain": "Inicijavimo procese nėra rengiamas projekto apimties (reikalavimų) aprašas. Jis rengiamas apimties (reikalavimų) planavimo metu. Oficialiai projekto inicijavimo proceso rezultatas yra projekto nuostatai ir apimties (reikalavimų) metmenys, kuriuos tvirtina organizacijos vadovybė ir leidžia pradėti projektą."
+        },
+		{
+            "question": "Naujų medicininių tyrimų projektui buvo parengti nuostatai. Kas juos turėtų patvirtinti?",
+            "options": [
+                {"title": "projekto grupė", "correct": false},
+                {"title": "akcininkai", "correct": false},
+                {"title": "projekto vadovas", "correct": false},
+                {"title": "organizacijos vadovybės narys", "correct": true}
+            ],
+            "explain": "Projekto nuostatus turi patvirtinti įgaliotas organizacijos vadovybės narys.\nProjekto nuostatai yra bendrojo pobūdžio dokumentas, kuriame įvardinamas projekto vadovas, pateikiamas numatyto sukurti produkto aprašas ir verslo poreikis vykdyti projektą. \nSvarbu, kad projekto nuostatus pasirašytų asmuo, kuriam galiausiai visi projekto grupės nariai turės atsiskaityti."
+        },
+		{
+            "question": "Kurį iš projektų jūs rekomenduotumėte vykdyti?",
+            "options": [
+                {"title": "Atsipirkimas 38 mėn., 25% IRR", "correct": false},
+                {"title": "Atsipirkimas 24 mėn., 25% IRR", "correct": true},
+                {"title": "Atsipirkimas 28 mėn., 18% IRR", "correct": false},
+                {"title": "Atsipirkimas 24 mėn., 12% IRR", "correct": false},
+				{"title": "Atsipirkimas 36 mėn., 21% IRR", "correct": false}
+            ],
+            "explain": "Rekomenduotinas yra projektas B, nes jo IRR yra vienas iš didžiausių, o atsipirkimo periodas yra vienas iš trumpiausių.\nIRR atspindi projekto grąžą, kuri išreiškiama palūkanų normos (interest rate) pavidalu. Kuo IRR yra didesnis, tuo projektas yra patrauklesnis.\nProjektams su trumpesniu atsipirkimo periodu teikiama pirmenybė, nes jie greičiau pradeda duoti naudą."
+        },
+		{
+            "question": "Jūs esate vadovas projekto, kurio atsipirkimo periodas yra 13 mėnesių. Kuris iš teiginių yra teisingas?",
+            "options": [
+                {"title": "projektas gali būti užbaigtas per 13 mėn.", "correct": false},
+                {"title": "projektas pradės duoti pajamas po 13 mėn.", "correct": false},
+                {"title": "projektas pradės duoti pelną 13-tą mėnesį", "correct": false},
+                {"title": "per 13 mėn. atsipirks į projektą investuotos lėšos", "correct": true}
+            ],
+            "explain": "Teisingas teiginys yra tas, kad per 13 mėn. atsipirks į projektą investuotos lėšos.\nAtsipirkimo periodas reiškia laiko kiekį, per kurį grįžta į projektą investuotos lėšos. Vėliau, pradedant 14-tu mėnesiu, jau bus gaunamas pelnas."
+        },
+		{
+            "question": "Yra trys projektai, vieną iš kurių galite pasirinkti. Projekto A rodiklis IRR (Internal Rate of Return – vidinės grąžos norma) yra 23%, projekto B – 18% ir projekto C – 6%. Kuris projektas yra patraukliausias?",
+            "options": [
+                {"title": "projektas A", "correct": true},
+                {"title": "projektas B", "correct": false},
+                {"title": "projektas C", "correct": false},
+                {"title": "nepakanka informacijos tokiam sprendimui priimti", "correct": false}
+            ],
+            "explain": "Patraukliausias yra projektas A, nes jo IRR yra didžiausias.\nIRR atspindi projekto grąžą, išreiškiamą palūkanų normos (interest rate) pavidalu. Kuo ji didesnė, tuo projektas patrauklesnis. "
+        },
+		{
+            "question": "Apribojimas gali būti apibūdinamas kaip:",
+            "options": [
+                {"title": "aplinkybė, ribojanti projekto grupės pasirinkimo galimybes", "correct": true},
+                {"title": "rezultatai, kurie turi būti gauti užbaigus projektą", "correct": false},
+                {"title": "prielaida, kuri gali iššaukti projekto susiaurinimą", "correct": false},
+                {"title": "priemonė, kuria siekiama sumažinti projekto apimties (reikalavimų) keitimus", "correct": false}
+            ],
+            "explain": "Apribojimas - tai aplinkybė, ribojanti projekto grupės pasirinkimo galimybes. Jis gali turėti įtakos projekto darbams ar darbų grafikui."
+        },
+		{
+            "question": "Įmonės aplinkos duomenys naudojami rengiant projekto nuostatus ir daugelyje kitokių procesų. Kuris iš žemiau išvardintų dalykų yra įmonės aplinkos duomuo?",
+            "options": [
+                {"title": "bendrosios komunikavimo taisyklės", "correct": false},
+                {"title": "komercinė (skelbimų, čekių, kt.) duomenų bazė", "correct": true},
+                {"title": "informacijos apie kompanijos projektus duomenų bazė", "correct": false},
+                {"title": "problemų ir defektų sprendimo taisyklės", "correct": false}
+            ],
+            "explain": "Komercinė duomenų bazė yra įmonės aplinkos duomuo. Įmonės aplinkos duomenys, o taip pat ir įmonės organizaciniai dokumentai, naudojami daugelyje projekto procesų. Koks gi jų skirtumas?\nProjektų valdymo žinyne (PMBOK) įmonės aplinkos duomenims (enterprise environmental factors) priskiriama įmonės struktūra, valstybiniai ir pramoniniai standartai, infrastruktūra, žmoniškieji ištekliai, personalo dokumentai, rinkos sąlygos, leistina rizika, komercinės duomenų bazės, projektų valdymo informacinė sistema.\nĮmonės organizaciniai dokumentai (enterprise organiztional process assets) dar yra dalinami į dvi dalis:\n 1. Procesus ir procedūras aprašantys dokumentai. Tai įmonės standartai, taisyklės, nurodymai, šablonai, komunikavimo reikalavimai, projektų užbaigimo nurodymai. Procedūroms priskirtini finansinis auditas, ginčų ir problemų sprendimas, keitimų valdymas, rizikos valdymas, leidimų vykdyti darbus tvirtinimas.\n 2. Žinių bazė. Joje saugoma ne kasdieninio naudojimo informacija. Ši informacija naudojama tik prireikus jos. Tai įmonės procesų vertinimo duomenų bazė, projektų failai, informacija apie ankstesnius projektus, įgytos patirties duomenų bazė, ginčų ir problemų sprendimo eigos stebėjimo duomenų bazė, konfigūracijos valdymo duomenų bazė, finansinė duomenų bazė.\n Jei įmonės aplinkos duomenys yra prieinami visiems, tai įmonės organizaciniai dokumentai paprastai būna tik įmonės nuosavybė (pvz., gali būti paslapčių)."
+        },
+		{
+            "question": "Kalbant apie projekto išlaidas, teisinga yra tai, kad:",
+            "options": [
+                {"title": "paprastai išlaidos yra didesnės projekto pabaigoje", "correct": false},
+                {"title": "paprastai išlaidos yra mažesnės projekto pradžioje", "correct": true},
+                {"title": "paprastai išlaidos yra didesnės projekto pradžioje", "correct": false},
+                {"title": "išlaidos be perstojo auga viso projekto metu, kol nepasiekiama užbaigimo fazė", "correct": false}
+            ],
+            "explain": "Paprastai išlaidos yra mažesnės projekto pradžioje.\nIšlaidos kinta projekto bėgyje. Tačiau daugelyje projektų išlaidos būna mažesnės projekto pradžioje, jos didėja projektui einant į pabaigą ir nutrūksta pabaigus projektą.\nYra vadinamoji visų padarytų išlaidų kreivė S-curve. "
+        },
+		{
+            "question": "Jūsų organizacijos vadovybė planuoja vykdyti keturis projektus kitais metais. Dėl ribotų išteklių pradėti visus projektus vienu metu neįmanoma. Projektai charakterizuojami taip:",
+            "options": [
+                {"title": "Atsipirkimo periodas 20 mėn., NPV 30 000 Lt", "correct": true},
+                {"title": "Atsipirkimo periodas 24 mėn., NPV 27 500 Lt", "correct": false},
+                {"title": "Atsipirkimo periodas 18 mėn., NPV 25 000 Lt", "correct": false},
+                {"title": "Atsipirkimo periodas 36 mėn., NPV 30 000 Lt", "correct": false}
+            ],
+            "explain": "Siūlytinas yra projektas A.\nProjektų atrankai yra naudojama keletas įvairių metodų. Šiuo atveju yra duoti kiekvieno projekto atsipirkimo periodai ir grynosios dabartinės vertės NPV. Pagal NPV dydį sprendžiama, kuris iš projektų dabartiniu metu yra prasčiausias, o atsipirkimo periodas rodo, per kiek laiko sugrįš į projektą investuotos lėšos. Todėl atrenkant projektą reikia vadovautis didžiausiu NPV ir trumpiausiu atsipirkimo periodu. Kadangi projekto A NPV=30 000 Lt yra vienas iš didžiausių, o atsipirkimo laikas 20 mėn. yra vienas iš mažesnių, šį projektą ir reikėtų siūlyti.\nApskritai projektų atrankai dažniausiai naudojami tokie rodikliai, kaip BCR (Benefit Cost Ratio, naudos ir kainos santykis), IRR (Internal Rate of Return, vidinė grąžos norma), NPV (Net Present Value, grynoji dabartinė vertė), atsipirkimo periodas, ROI (Return Of Investment, atsipirkimo norma)."
+        },
+		{
+            "question": "Yra dvi pagrindinės projektų atrankos metodų kategorijos (grupės). Kurios:",
+            "options": [
+                {"title": "naudą vertinantys metodai ir išlaidų-vertės analizės metodai", "correct": false},
+                {"title": "vertinimo balais metodai ir išlaidų-vertės analizės metodai", "correct": false},
+                {"title": "naudą vertinantys metodai ir matematinio modeliavimo metodai", "correct": true},
+                {"title": "vertinimo balais metodai ir dalinės optimizacijos metodai", "correct": false}
+            ],
+            "explain": "Dvi pagrindinės projektų atrankos metodų kategorijos yra naudą vertinantys metodai ir matematinio modeliavimo metodai.\n Naudą vertinantys projektų atrankos metodai apima įvairius projektų palyginimo būdus: naudos ir kainos santykio analizę (BCR), vertinimo balais metodą, diskontuotą pinigų srautą (DCF), atsipirkimo periodą, grynąją dabartinę vertę (NPV), vidinės grąžos normą (IRR).\n Matematinio modeliavimo metodai naudoja įvairių tipų algoritmus: tiesinio, netiesinio ar daugiatikslio programavimo."
+        },
+		{
+            "question": "Kuriame projektų valdymo procese naudojami projektų atrankos metodai?",
+            "options": [
+                {"title": "projektų nuostatų rengimo", "correct": true},
+                {"title": "apimties planavimo", "correct": false},
+                {"title": "apimties apibrėžimo", "correct": false},
+                {"title": "apimties patvirtinimo", "correct": false}
+            ],
+            "explain": "Projektų atrankos metodai reikalingi projektų nuostatų rengimo procese. Pastarojo proceso įeities duomenys yra koks nors sandoris, darbo užduotis (SOW - Statement Of Work), įmonės aplinkos duomenys, įmonės organizaciniai dokumentai. Šie duomenys ir įvairūs projektų atrankos metodai naudojami rengiant projekto nuostatus. Be projektų atrankos metodų šiame procese dar naudojamos projektų valdymo metodologijos, projektų valdymo informacinės sistemos, kokių nors ekspertų paslaugos.\n Kituose paminėtuose procesuose projektų atrankos metodai nenaudojami.\n Apimties planavimo procese naudojami įmonės aplinkos duomenys, įmonės organizaciniai dokumentai, projekto nuostatai, preliminarus projekto apimties aprašas ir valdymo planas.\n Apimties apibrėžimo procese naudojami įmonės organizaciniai duomenys, projekto nuostatai, preliminarus projekto apimties aprašas, projekto valdymo planas, kai kurie patvirtinti prašymai padaryti pakeitimus. Jo metu atliekama numatomo kurti produkto analizė, įvardijamos alternatyvos, išklausoma ekspertų nuomonė, akcininkų siūlymai.\n Apimties patvirtinimo procese naudojamas projekto apimties aprašas (nebe preliminarus aprašas), suskaidytų darbų lentelė (WBS – Work Breakdown Structure), projekto apimties valdymo planas, kai kurie rezultatai. Šio proceso metu patikrinama projekto apimtis."
+        },
+		{
+            "question": "Atliekant projektų atranką, vertinimo balais metodas suprantamas kaip:",
+            "options": [
+                {"title": "eksperimentų planas", "correct": false},
+                {"title": "sprendimo priėmimo metodas", "correct": false},
+                {"title": "naudos matavimo metodas", "correct": true},
+                {"title": "matematinis modelis", "correct": false}
+            ],
+            "explain": "Atliekant projektų atranką, vertinimas balais yra projekto naudos matavimo metodas.\n Projektų vertinimo metodai paprastai dalomi į dvi kategorijas: naudą vertinantys metodai bei matematinio modeliavimo metodai. Naudą vertinančių metodų tarpe yra vertinimo balais metodas.\n Eksperimentų planas yra statistinis metodas veiksniams, darantiems įtaką tam tikriems kintamiesiems, įvardinti.\n Matematinio modeliavimo metodai susiję su įvairių tipų algoritmais: tiesinio, netiesinio ar daugiatikslio programavimo.\n Sprendimo priėmimo metodas nėra vertinimo balais metodas. Sprendimo priėmimas grindžiamas įverčiais."
+        },
+		{
+            "question": "Kuris iš žemiau išvardintų dalykų nėra naudojamas projektų atrankos metu?",
+            "options": [
+                {"title": "atsipirkimo periodas", "correct": false},
+                {"title": "jautrumo analizė", "correct": true},
+                {"title": "naudos-kainos analizė", "correct": false},
+                {"title": "vertinimo balais modelis", "correct": false}
+            ],
+            "explain": "Jautrumo analizė nėra naudojama projektų atrankos metu. Ji naudojama atliekant kokybinę rizikos analizę, t. y. norint nustatyti, kuris rizikos veiksnys gali turėti didžiausią poveikį projektui."
+        },
+		{
+            "question": "Organizacijos vadovybė paprašė jūsų įvertinti keturis potencialius projektus. Kurį projektą jūs rekomenduotumėte?",
+            "options": [
+                {"title": "projektą A, kurio BCR (Benefit Cost Ratio - naudos ir kainos santykis) yra 2.1", "correct": true},
+                {"title": "projektą B, kurio BCR – 1.2", "correct": false},
+                {"title": "projektą C, kurio BCR – -2.1", "correct": false},
+                {"title": "projektą D, kurio BCR – 1.8", "correct": false}
+            ],
+            "explain": "Rekomenduotinas yra projektas A.\nKuo didesnis BCR, tuo projektas ekonomiškai labiau apsimoka.\nBCR < 1 rodo, kad išlaidos projektui buvo didesnės, nei jo atnešta nauda."
+        },
+		{
+            "question": "Kuris iš išvardintų dalykų nėra projektas?",
+            "options": [
+                {"title": "naujų sporto įrenginių statyba", "correct": false},
+                {"title": "sąskaitų klientams už suteiktas paslaugas rašymas", "correct": true},
+                {"title": "gamybos darbų paskirstymo sistemos diegimas", "correct": false},
+                {"title": "papildomos aparatinės įrangos bendrojo tinklo infrastruktūrai pagerinti diegimas", "correct": false}
+            ],
+            "explain": "Sąskaitų klientams už suteiktas paslaugas rašymas nėra projektas.\n Pagal projektų valdymo žinyną (PMBOK) projektas yra ribotos trukmės pastangos unikaliam produktui, paslaugai ar rezultatui gauti.\n Ribota trukmė reiškia, kad toks darbas nėra tęstinis ar pasikartojantis reguliariais laiko intervalais. Projektas turi apibrėžtus pradžios ir pabaigos terminus.\n Unikalumas reiškia, kad projektas kažkuo skiriasi nuo ankstesniųjų. "
+        },
+		{
+            "question": "Projektas apibūdinamas kaip:",
+            "options": [
+                {"title": "ribotos trukmės pastangos unikaliam produktui, paslaugai ar rezultatui gauti", "correct": true},
+                {"title": "grupė susijusių veiklų specifiniams verslo tikslams pasiekti", "correct": false},
+                {"title": "suplanuotos veiklos atlikti užduotims, kurios anksčiau nebuvo atliktos", "correct": false},
+                {"title": "grupė veiklų keleto nuolatinių ir bendrai valdomų funkcijų vykdymui", "correct": false}
+            ],
+            "explain": "Pagal projektų valdymo žinyną (PMBOK) projektas yra ribotos trukmės pastangos unikaliam produktui, paslaugai ar rezultatui gauti.\n Apskritai imant, ir projektas, ir einamoji darbinė veikla vykdomi pagal kažkokį planą arba yra kažkokių veiksmų seka. Tačiau pagrindinis projekto skiriamasis bruožas yra tas, kad jis yra ribotos trukmės ir juo kuriamas unikalus produktas, paslauga ar rezultatas."
+        },
+		{
+            "question": "Reglamentas (reikalavimai, taisyklės) dažniausiai suprantamas kaip:",
+            "options": [
+                {"title": "rizika", "correct": false},
+                {"title": "apribojima", "correct": true},
+                {"title": "prielaida", "correct": false},
+                {"title": "rizikos veiksnys (priežastis)", "correct": false}
+            ],
+            "explain": "Reglamentas dažniausiai suprantamas kaip projekto apribojimai. Reglamentas –dokumentas, kuriame išdėstomos privalomos produkto, proceso ar paslaugos charakteristikos. Pastarųjų privalomumas ir reiškia apribojimus.\n Rizika – tai įvykis, neigiamą ar teigiamą poveikį darantis projektui, kuris gali atsitikti, bet gali ir neatsitikti. Reglamento pasikeitimas, bet ne pats reglamentas, yra rizikos veiksnys.\n Prielaidos, t. y. samprotavimai, kad kažkas taip ir bus, yra daromos planuojant projekto tikslus. Jų dokumentavimas yra svarbus apibrėžiant projekto rezultatus ir tikslus."
+        },
+		{
+            "question": "Organizacijos vadovybė paprašė jūsų įvertinti keletą potencialių projektų ir rekomenduoti vieną iš jų vykdyti. Naudodami vertinimo balais metodą, imant balų reikšmes nuo 1 iki 10, jūs parengėte lentelę. Kurį projektą jūs rekomenduosite?\n<img src='data/images/1_27.jpg' alt='' style='max-width: 100%;'>",
+            "options": [
+                {"title": "Projekt. A", "correct": false},
+                {"title": "Projekt. B", "correct": false},
+                {"title": "Projekt. C", "correct": true},
+                {"title": "Projekt. D", "correct": false}
+            ],
+            "explain": "Rekomenduotinas yra projektas C.\n Suminis svoris balais apskaičiuojamas kiekvieno kriterijaus reikšmę dauginant iš kriterijaus svorio ir sumuojant visas sandaugas konkrečiam projektui. Gauname:\nprojekto A: 48+12+15+17.5+8=100,5;\nprojekto B: 30+36+15+7.5+8=96.5;\nprojekto C: 48+28+18+17.5+16=127.5;\nprojekto D: 18+24+9+17.5+4=72.5;\nProjekto C suminis svoris balais yra didžiausias: 127.5 balai."
+        },
+		{
+            "question": "Jūs dirbate projekto vadovu didelėje organizacijoje. Vadovybė neseniai sužinojo apie naujus pasaulinio pozicionavimo sistemos atradimus, kas įgalintų ir jūsų organizaciją teikti papildomas paslaugas klientams. Jūsų paprašė vadovauti naujų paslaugų kūrimo projektui, ir organizacijos vadovybė nori pristatyti naują paslaugą prekybos parodoje kitų metų pirmąjį ketvirtį. Kokia šio projekto inicijavimo priežastis?",
+            "options": [
+                {"title": "socialiniai poreikiai", "correct": false},
+                {"title": "verslo poreikiai", "correct": false},
+                {"title": "paklausa rinkoje", "correct": false},
+                {"title": "technologijų pažanga", "correct": true}
+            ],
+            "explain": "Šio projekto inicijavimo priežastis yra technologijų pažanga. Pagal projektų valdymo žinyną (PMBOK) projektai pradedami iškilus problemoms, atsiradus galimybėms ar esant verslo poreikiams. Bendrosios projektų inicijavimo priežastys yra paklausa rinkoje, verslo poreikiai, pirkėjų pageidavimai, technologinė pažanga, teisės aktų reikalavimai, socialiniai poreikiai."
+        },
+		{
+            "question": "Jūs esate didelės gamybinės linijos plėtojimo projekto vadovas. Projektu norima įdiegti linijoje naują įrangą. Kuris iš žemiau išvardintų dalykų nėra prielaida, kurią jūs turėtumėte dokumentuoti projekte?",
+            "options": [
+                {"title": "projekto planas yra tikslus ir išsamus", "correct": false},
+                {"title": "tiekėjas anksčiau arba darbų grafike numatytu laiku pristatys naują įrangą", "correct": false},
+                {"title": "naujos įrangos neteks diegti paskutinę mėnesio savaitę, nes tuo metu yra gamybos pikas", "correct": true},
+                {"title": "laikantis darbo krūvio normų, atskirų darbų vadovai galės skirti savo darbuotojus naujai įrangai testuoti", "correct": false}
+            ],
+            "explain": "Tai, kad naujos įrangos neteks diegti paskutinę mėnesio savaitę, nes tuo metu yra gamybos pikas, nėra prielaida. Greičiau, tai yra apribojimas, kuris mažina projekto grupės galimybes. Dažniausiai projekto grupės galimybes riboja terminai ir biudžetas.\n Prielaida – tai veiksnys, kuris, manoma, egzistuos projekto eigoje, ir juo remiamasi rengiant planus. Paprastai prielaidos daromos kalbant apie projekto išteklius, tiekėjus ar pardavėjus, projekto plano ar darbų apimties tikslumą, tam tikrų įvykių atsitikimolaiką."
+        },
+		{
+            "question": "Jūsų organizacijos projektų atrankos komitetas svarsto vieną iš siūlomų projektų. Projekto kaina yra 1000000 Lt. Tikimasi, kad pirmus penkerius metus kasmetinės pajamos bus 100000 Lt, o vėlesniais metais – 200000 Lt. Koks yra šio projekto atsipirkimo periodas?",
+            "options": [
+                {"title": "60 mėn.", "correct": false},
+                {"title": "84 mėn.", "correct": false},
+                {"title": "86 mėn.", "correct": false},
+                {"title": "90 mėn.", "correct": true}
+            ],
+            "explain": "Šio projekto atsipirkimo periodas yra 90 mėn. Atsipirkimo periodas – tai laikas, per kurį sugrįžta į projektą investuotos lėšos.\n Duotu atveju per pirmus 5 metus (t. y. 60 mėn.) sugrįš 500000 Lt. Likę 500000 Lt sugrįš per 2,5 metų (t. y. 30 mėn.). Taigi, visas projekto atsipirkimo periodas yra 90 mėn."
+        },
+		{
+            "question": "Jūs gavote tokią informaciją apie keletą potencialių projektų. Kurį projektą jūs siūlytumėte pradėti visų pirma?",
+            "options": [
+                {"title": "projekto A rodiklis NPV (Net Present Value, grynoji dabartinė vertė) yra 30000 Lt", "correct": false},
+                {"title": "projekto B NPV yra 185000 Lt", "correct": false},
+                {"title": "projekto C NPV yra 275000 Lt", "correct": true},
+                {"title": "projekto D NPV yra 95000 Lt", "correct": false}
+            ],
+            "explain": "Siūlytinas yra projektas C.\nNPV yra apskaičiuojamas dydis ir naudojamas vertinant projektus. Jis gaunamas sumuojant būsimo periodo pajamas dabartine verte (diskontavus) ir atimant padarytas išlaidas. Didesnė NPV reikšmė reiškia didesnę projekto vertę."
+        },
+		{
+            "question": "Jūs esate paskirtas naujos įrangos diegimo projekto vadovu. Tokia įranga padėtų sutrumpinti klientų užsakymų įvykdymo laiką. Projektas yra priklausomas nuo išorinio tiekėjo, ar jis pristatys reikiamą diegti įrangą iki numatytos diegėjų brigados atvykimo datos. Tiekėjo paslaugomis jūs naudojotės ir ankstesniuose projektuose, todėl manote, kad jis pristatys įrangą pažadėtu laiku. Kieno pavyzdys visa tai yra?",
+            "options": [
+                {"title": "apribojimo", "correct": false},
+                {"title": "prielaidos", "correct": true},
+                {"title": "rezultatų", "correct": false},
+                {"title": "darbų rinkinio", "correct": false}
+            ],
+            "explain": "Tai yra prielaidos pavyzdys.\n Prielaida – tai veiksnys, kuris, manoma, egzistuos projekto eigoje, ir juo remiamasi rengiant planus. Šiuo atveju, remiantis ankstesne patirtimi, daroma prielaida, kad tiekėjas pristatys įrangą laiku. \n Tai nėra apribojimo pavyzdys, nes apribojimas – tai aplinkybė, ribojanti projekto grupės pasirinkimo galimybes. Paprastai laikas, biudžetas, apimtis, kokybė yra projekto apribojimai.\n Tai nėra rezultato pavyzdys, nes rezultatas – tai apčiuopiamas, patikrinamas darbo produktas. \n Tai taip pat nėra darbų rinkinys. Darbų rinkiniu (work package) vadinamas žemiausio lygmens suskaidytų darbų lentelės (WBS) elementai."
+        },
+		{
+            "question": "Kuris iš teiginių yra teisingas kalbant apie stiprios (strong) matricos tipo organizaciją?",
+            "options": [
+                {"title": "tai yra tas pat, kaip ir siaurojo (tight) matricos tipo organizacija", "correct": false},
+                {"title": "joje projekto vadovui suteikiami visi įgaliojimai;", "correct": false},
+                {"title": "joje projekto vadovui suteikiama didžioji dalis įgaliojimų", "correct": true},
+                {"title": "joje projekto vadovas suprantamas kaip pavedimus operatyviai atliekantis asmuo (expeditor).", "correct": false}
+            ],
+            "explain": "Stiprios (kitaip griežtojo) matricos tipo organizacijoje projekto vadovui suteikiama didžioji dalis įgaliojimų.\n Bet kurio matricos tipo organizacijoje dalį įgaliojimų turi funkcinių padalinių vadovai. Visi įgaliojimai projekto vadovui suteikiami tik projektinio tipo organizacijose.\n Siaurojo matricos tipo organizacijų nėra. Tai išgalvotas pavadinimas.\n Stiprios matricos tipo organizacijose projekto vadovas nėra pavedimus operatyviai atliekantis asmuo. Taip projekto vadovas traktuojamas tik funkcinio tipo organizacijose."
+        },
+		{
+            "question": "Kuris kainos vertinimo būdas labiausiai tikėtina yra naudojamas projekto apimties metmenų rengimo metu?",
+            "options": [
+                {"title": "biudžetinis", "correct": false},
+                {"title": "detalusis", "correct": false},
+                {"title": "pavyzdinis (definitive)", "correct": false},
+                {"title": "analogiškasis.", "correct": true}
+            ],
+            "explain": "Analogiškasis (kitaip dar vadinamas iš viršaus į apačią) kainos vertinimo būdas dažniausiai yra naudojamas rengiant projekto apimties metmenis (preliminarią apimtį). Šiuo būdu gaunamas kainos įvertis yra apytikslis ir nustatomas neturint detalių duomenų. Jo tikslumas svyruoja nuo -25% iki 75%. Naudojamas dėl savo paprastumo.\n Biudžetinis, detalusis ir pavyzdinis kainos vertinimo būdai rengiant projekto apimties metmenis dažniausiai nėra naudojami, nes jiems reikia detalių duomenų, gerai parengtos specifikacijos. Biudžetinio kainos vertinimo būdo tikslumas svyruoja nuo -10% iki 25%, pavyzdinio – nuo -5% iki 10%."
+        },
+		{
+            "question": "Kuris iš žemiau išvardintų dalykų nėra bendroji priežastis projektui inicijuoti?",
+            "options": [
+                {"title": "paklausa rinkoje", "correct": false},
+                {"title": "specifiniai klientų pageidavimai", "correct": false},
+                {"title": "nepanaudoti organizacijos ištekliai", "correct": true},
+                {"title": "atitikimo išoriniams teisės aktams reikalavimas", "correct": false}
+            ],
+            "explain": "Nepanaudoti organizacijos ištekliai nėra bendroji priežastis pradėti kokį nors projektą.\n Pagal projektų valdymo žinyną (PMBOK) projektai paprastai pradedami iškilus problemai ir esant galimybei ją spręsti arba atsiradus verslo poreikiui. Bendrosios projektų inicijavimo priežastys yra paklausa rinkoje, verslo poreikiai, technologinė pažanga, teisės aktų reikalavimai, socialiniai poreikiai. Vien tik nepanaudotų išteklių organizacijoje turėjimas nėra priežastis pradėti projektą."
+        },
+		{
+            "question": "Jūs rengiate preliminarų projekto biudžetą (biudžeto metmenis). Projekto kaina negali viršyti 475 000 Lt. Todėl jūs rengdami projekto planą turite atsižvelgti į šį apribojimą. Kokį kainos vertinimo būdą jūs naudosite?",
+            "options": [
+                {"title": "iš viršaus į apačią", "correct": true},
+                {"title": "iš apačios į viršų", "correct": false},
+                {"title": "parametrinį", "correct": false},
+                {"title": "tiesinės regresijos", "correct": false}
+            ],
+            "explain": "Naudotinas iš viršaus į apačią (top-down) projekto kainos vertinimo būdas. Šiuo būdu nustatoma orientacinė projekto kaina, o po to projekto planas (design) rengiamas taip, kad atitiktų tą orientacinę kainą. Iš viršaus į apačią projekto kainos vertinimo būdas yra priešingas iš apačios į viršų (bottom-up) vertinimo būdui. Pastarajame sumuojamos visos tiesioginės ir netiesioginės galutinio produkto kūrimo išlaidos ir taip gaunama viso projekto kaina. Projekto kainos vertinimo iš viršaus į apačią būdas remiasi anksčiau vykdytų analogiškų projektų patirtimi, todėl jis dar vadinamas analogiškuoju arba leistinų ribų būdu ir yra mažiausiai tikslus, nes anksčiau vykdyti analogiški projektai ne visada būna panašūs į naująjį.\n Iš apačios į viršų būde sumuojamos atskirų darbų kainos ir gaunama viso projekto kaina. Tačiau šiuo atveju jau turi būti sudarytas darbų sąrašas. Vertinama projekto kaina gaunama tikslesnė, bet pats vertinimas atsieina brangiau.\n Tiesinė regresija nėra biudžeto sudarymo būdas. Tai statistikos priemonė, naudojama palyginti sąsajoms tarp kainą įtakojančių veiksnių ir visos projekto kainos.\n Parametrinis būdas projekto kainai nustatyti šiuo atveju nėra naudojamas, nes tai projekto charakteristikas naudojantis matematinis modelis (pvz., visos ryšio linijos nutiesimo kaina, žinant ilgio vieneto nutiesimo kainą). Šis būdas yra daug tikslesnis, kai naudojama tiksli informacija ir modelio parametrai yra lengvai išmatuojami."
+        },
+		{
+            "question": "Įmonės organizaciniai dokumentai (enterprise organiztional process assets) yra įeities duomenys projekto nuostatų rengimo ir kitiems procesams. Kuris iš žemiau išvardintų dalykų nėra įmonės organizacinis dokumentas?",
+            "options": [
+                {"title": "įmonės anksčiau vykdytų projektų archyvas", "correct": false},
+                {"title": "įmonės organizacinė struktūra ir nuostatai", "correct": true},
+                {"title": "įmonės kokybės kontrolės katalogas (kontrolinis sąrašas)", "correct": false},
+                {"title": "įmonės nurodymai projektams užbaigti", "correct": false}
+            ],
+            "explain": "Įmonės organizacinė struktūra ir nuostatai nėra organizaciniai dokumentai. Tai įmonės aplinkos duomenys. Įmonės turi savo specifinę organizacinę struktūrą ir nuostatus, kas nedaro įtakos kasdieniniam jų darbui (nurodomos pareigos, funkcijos, o ne kaip jas vykdyti).\n Projektų valdymo žinyne (PMBOK) įmonės aplinkos duomenims (enterprise environmental factors) priskiriama įmonės struktūra, valstybiniai ir pramoniniai standartai, infrastruktūra, žmoniškieji ištekliai, personalo dokumentai, rinkos sąlygos, leistina rizika, komercinės duomenų bazės, projektų valdymo informacinė sistema.\n Įmonės organizaciniai dokumentai (enterprise organiztional process assets) dalinami į dvi dalis:\n1. Procesus ir procedūras aprašantys dokumentai. Tai įmonės standartai, taisyklės, nurodymai, šablonai, komunikavimo reikalavimai, projektų užbaigimo nurodymai. Procedūroms priskirtini finansinis auditas, ginčų ir problemų sprendimas, keitimų valdymas, rizikos valdymas, leidimų vykdyti darbus tvirtinimas.\n2. Žinių bazė. Joje saugoma ne kasdieninio naudojimo informacija. Ši informacija naudojama tik prireikus jos. Tai įmonės procesų vertinimo duomenų bazė, projektų failai, informacija apie ankstesnius projektus, įgytos patirties duomenų bazė, ginčų ir problemų sprendimo eigos stebėjimo duomenų bazė, konfigūracijos valdymo duomenų bazė, finansinė duomenų bazė.\n Įmonės aplinkos duomenys yra prieinami visiems, o įmonės organizaciniai dokumentai paprastai būna tik įmonės nuosavybė (pvz., gali būti paslapčių)."
+        },
+		{
+            "question": "Jūsų paprašė atrinkti vieną iš trijų projektų, kurie charakterizuojami taip... Kuris iš projektų yra perspektyviausias?",
+            "options": [
+                {"title": "projekto A rodiklis NPV (Net Presnt Value, grynoji dabartinė vertė) yra 80 000 Lt ir projektui įvykdyti reikia 5 metų", "correct": false},
+                {"title": "projekto B NPV yra 100 000 Lt ir projektui įvykdyti reikia 2 metų", "correct": true},
+                {"title": "projekto C NPV yra 100 000 Lt ir projektui įvykdyti reikia 3 metų.", "correct": false},
+                {"title": "visi projektai yra perspektyvūs", "correct": false}
+            ],
+            "explain": "Perspektyviausias yra projektas B.\nPagal NPV sprendžiama, kurio projekto vertė duotu metu yra mažiausia. NPV gaunamas sumuojant būsimo periodo pajamas dabartine verte (diskontavus) ir atimant padarytas išlaidas. Didesnė NPV reikšmė reiškia didesnę projekto vertę."
+        },
+		{
+            "question": "Kas rengia projekto nuostatus (charter)?",
+            "options": [
+                {"title": "projekto sponsorius", "correct": false},
+                {"title": "projekto vadovas", "correct": false},
+                {"title": "pagrindinis projekto akcininkas", "correct": false},
+                {"title": "nuo projekto nepriklausantis asmuo", "correct": true}
+            ],
+            "explain": "Nuostatus rengia nuo projekto nepriklausantis asmuo, tačiau turintis atitinkamus įgaliojimus išleisti nuostatus.\n Nuostatai rengiami projekto inicijavimo proceso metu, ir juos turi patvirtinti organizacijos vadovybė. Tai bendrojo pobūdžio dokumentas, kuriame aprašomas verslo poreikis projektui, kuriamas produktas ir įvardinamas projekto vadovas."
+        },
+		{
+            "question": "Jūs darote pranešimą apie kolegos projektą jam susirgus. Turimi duomenys rodo, kad įvykdyta 30% projekto, o galutinė projekto kaina tikėtina bus dvigubai didesnė, nei planuota pradžioje. Kuris iš žemiau išvardintų dalykų nėra tokios situacijos priežastis?",
+            "options": [
+                {"title": "neteisingas projekto planavimas", "correct": false},
+                {"title": "netikusiai atlikta projekto atranka", "correct": true},
+                {"title": "vykusiuose projekto stovio svarstymo susirinkimuose nebuvo stebimas projekto išlaidų grafikas", "correct": false},
+                {"title": "nepakankami projekto grupės įgūdžiai ir darbo našumas", "correct": false}
+            ],
+            "explain": "Prastos padėties priežastis nėra netikusiai atlikta projekto atranka.\nProjekto atrankos metu nusprendžiama, kurį projektą derėtų vykdyti. Tą dažniausiai daro organizacijos vadovybės nariai, tačiau kartais tokį sprendimą priimanumatytas projekto vadovas arba prašoma jo informuoti vadovybę apie projektą. Projektų atranka vykdoma projekto inicijavimo procese, jo nuostatų rengimo metu. Tuomet peržiūrimi kai kurie projektų aspektai (sprendimo priėmimo modelis, ekspertų nuomonė, kt.) ir nusprendžiama, ar apsimoka pradėti projektą. \n Kiti čia išvardinti dalykai gali būti projekto biudžeto viršijimo arba darbų atsilikimo nuo grafiko priežastimi ir jie pastebimi tik projekto vykdymo etape."
+        },
+		{
+            "question": "Įmonės organizaciniai dokumentai (organizational process assets):",
+            "options": [
+                {"title": "padeda nustatyti įmonės konkurencingumą rinkoje", "correct": false},
+                {"title": "pristato įmonės struktūrą ir nuostatus", "correct": false},
+                {"title": "aprašo procesus ir procedūras, kurių įmonė griežtai laikosi savo darbe", "correct": true},
+                {"title": "padeda įvertinti, kokios krypties (tendencijų) įmonė laikosi rinkoje", "correct": false}
+            ],
+            "explain": "Įmonės organizaciniai dokumentai (organizational process assets) aprašo procesus ir procedūras, kurių įmonė griežtai laikosi savo darbe. \n Pirkimų metu atsižvelgiama į įmonių konkurencingumą, tačiau apie jį daugiau sprendžiama pagal įmonės aplinkos duomenis (enterprise environmental factor). \n Apie kryptį (tendenciją), kurios įmonė laikosi rinkoje, taip pat daugiausiai sprendžiama pagal įmonės aplinkos duomenis. \n Įmonės struktūra ir nuostatai yra priskiriami įmonės aplinkos duomenims. \n Įmonės aplinkos duomenys ir įmonės organizaciniai dokumentai turi įtakos daugeliui projektų valdymo procesų, todėl svarbu suprasti, iš ko jie susideda ir kuo jie skiriasi."
+        },
+		{
+            "question": "Jūs esate didelės įmonės projekto vadovas. Ketinama kurti naują gamybai reikalingų medžiagų planavimo (GRMP) sistemą ir įdiegti ją iki metų pabaigos. Dalį projekto darbų sudarytų senos sistemos duomenų konvertavimas ir perkėlimas į naująją sistemą. Vienas iš jūsų programuotojų gerai žino senąją sistemą. Kokią prielaidą reikėtų dokumentuoti šiame projekte?",
+            "options": [
+                {"title": "įmonės vadovybė pritars naujos GRMP sistemos diegimui", "correct": false},
+                {"title": "naują GRMP sistemą reikės įdiegti iki metų pabaigos", "correct": false},
+                {"title": "sėkmingam duomenų konvertavimai reikės laikytis kokybės standartų", "correct": false},
+                {"title": "senąją sistemą gerai žinantis programuotojas sutiks dalyvauti projekte.", "correct": true}
+            ],
+            "explain": "Dokumentuotina projekto prielaida yra ta, kad senąją sistemą gerai žinantis programuotojas sutiks dalyvauti projekte.\n Prielaida – tai veiksnys, kuris, manoma, egzistuos projekto eigoje, ir juo remiamasi rengiant projekto planus. Manymas, kad specifines žinias turintis darbuotojas (žmoniškieji ištekliai) prisidės prie projekto, yra prielaida. Paprastai prielaidos daromos kalbant apie projekto išteklius, tiekėjus ar pardavėjus, projekto plano ar darbų apimties tikslumą, tam tikrų įvykių atsitikimo laiką. Labai svarbu yra aiškiai dokumentuoti ir pagrįsti projekto prielaidas. \n Kiti išvardinti atsakymų į klausimą variantai yra neteisingi, nes jie reiškia projekto apribojimus arba projekto reikalavimus, bet ne prielaidą."
+        },
+		{
+            "question": "Kuris iš projekto kainos vertinimo būdų kitaip dar yra vadinamas analogiškuoju?",
+            "options": [
+                {"title": "iš viršaus į apačią", "correct": true},
+                {"title": "iš apačios į viršų", "correct": false},
+                {"title": "parametrinis", "correct": false},
+                {"title": "pavyzdinis (definitive)", "correct": false}
+            ],
+            "explain": "Projekto kainos vertinimo iš viršaus į apačią būdas dar yra vadinamas analogiškuoju būdu. Vertinant projekto kainą remiamasi anksčiau vykdytų panašių projektų duomenimis. Taip gaunamas kainos įvertis yra apytikslis ir nustatomas neturint detalių duomenų. Jo tikslumas svyruoja nuo -25% iki 75%. Naudojamas dėl savo paprastumo. \n Iš apačios į viršų, parametriniam ir pavyzdiniam (pavyzdinis=detalusis) projekto kainos vertinimo būdams reikia detalių duomenų, gerai parengtos specifikacijos."
+        },
+		{
+            "question": "Jūs buvote paskirtas projekto vadovu didelėje aprangos gamybos įmonėje. Jums pavedė sukurti naujos aprangos gamybos liniją kitoje šalyje. Naujos aprangos debiutą (pristatymą pirmą kartą) įmonė planuoja kitų metų konferencijoje. Projektas susijęs su ugniai atsparios aprangos gamyba. Gamybos procesui kitoje šalyje pradėti reikėsnaujos įrangos ir naujos cheminės sudėties medžiagų. Kas nepriskirtina projekto rezultatams?",
+            "options": [
+                {"title": "naujos cheminės sudėties medžiaga", "correct": false},
+                {"title": "nauja gamybos įranga", "correct": false},
+                {"title": "nauja ugniai atspari apranga", "correct": false},
+                {"title": "naujos aprangos debiutas (pristatymas pirmą kartą)", "correct": true}
+            ],
+            "explain": "Projekto rezultatu nėra laikytinas naujos aprangos debiutas (pristatymas pirmą kartą). Rezultatas – tai realus, apčiuopiamas, patikrinamas projekto darbų rezultatas. Apie naujos aprangos sukūrimą bus pranešama baigus projektą. Todėl naujos aprangos debiutas (pranešimas) negali būti traktuojamas kaip projekto rezultatas. \n Kiti išvardinti dalykai – medžiaga, įranga, nauja apranga – yra projekto rezultatai."
+        },
+		{
+            "question": "Jūs esate didelės gamybinės įmonės projektų vadovas ir rengiate naujo projekto preliminarų biudžetą. Kurios iš žemiau pateiktų išlaidų laikomos administracinėmis?",
+            "options": [
+                {"title": "mokymo išlaidos", "correct": false},
+                {"title": "pardavėjo mokestis", "correct": false},
+                {"title": "patalpų nuomos", "correct": true},
+                {"title": "rangovų algos", "correct": false}
+            ],
+            "explain": "Patalpų nuomos išlaidos yra administracinių išlaidų pavyzdys. \n Išlaidos dažnai skirstomos į tiesiogines ir netiesiogines. Administracinės išlaidos priskiriamos netiesioginių išlaidų kategorijai. Tai normalių darbo sąlygų palaikymo išlaidos, kurios nėra tiesiogiai susiję su projektu. Todėl patalpų nuomos išlaidos traktuojamos kaip administracinės išlaidos. \n Mokymo išlaidos, pardavėjo mokestis ir rangovų algos yra susiję su projektu ir todėl nelaikomos administracinėmis išlaidomis. Su projektu susijusios išlaidos vadinamos tiesioginėmis išlaidomis."
+        },
+		{
+            "question": "Įmonėje jūs esate patyręs projektų vadovas. Jums kilo potencialaus projekto idėja. Jūsų vertinimu projektas turėtų būti sėkmingas, tačiau jis yra susijęs su naujomis technologijomis, kurių jūs gerai nežinote. Koks turėtų būti tolesnis jūsų žingsnis?",
+            "options": [
+                {"title": "sudaryti naujo projekto darbuotojų grupę", "correct": false},
+                {"title": "prašyti sponsorių finansuoti galimybių studiją (feasibility study)", "correct": true},
+                {"title": "nagrinėti naujas technologijas kiekvienos projekto prastovos metu", "correct": false},
+                {"title": "rengti preliminarų projekto apimties aprašą (project scope statement)", "correct": false}
+            ],
+            "explain": "Jūs turėtumėte prašyti sponsorių finansuoti galimybių studiją. Kadangi jūs esate patyręs projektų vadovas, jūsų potencialaus projekto įvertis bus laikomas autoritetingu. Tačiau profesionalūs projektų vadovai žino savo galimybes. Šiuo atveju trūksta žinių apie naujas technologijas, kurių reikia projekte.\n Geriausias sprendimas yra kreiptis į sponsorių finansuoti galimybių studiją, kad įsitikintumėte, ar jūsų vertinimas yra teisingas. Taip pat, tai padeda įvertinti naujas technologijas. Galimybių studijos dar yra vadinamos konceptualiomis studijomis (concept studies).\n Jūs neturėtumėte formuoti projekto grupės arba rengti preliminarų projekto apimties aprašą, nes šie veiksmai dar yra per ankstyvi.\n Taip pat jūs neturėtumėte nagrinėti naujų technologijų projekto prastovų metu. \nPrastovų gali ir nebūti, taip pat jūs galite neturėti įgaliojimų naudoti darbo valandas tokiems tyrinėjimams."
+        },
+		{
+            "question": "Įmonės vadovybė paprašė jūsų išanalizuoti projektą, kurio ketinama imtis. Yra 75% tikimybė, kad projektas atneš 500 000 Lt naudą. Tačiau yra ir 40% tikimybė patirti 400 000 Lt nuostolį. Kokia yra projekto tikėtina nauda?",
+            "options": [
+                {"title": "100 000 Lt", "correct": false},
+                {"title": "185 000 Lt", "correct": false},
+                {"title": "215 000 Lt", "correct": true},
+                {"title": "325 000 Lt", "correct": false}
+            ],
+            "explain": "Projekto tikėtina piniginė vertė (TPV) yra 215 000 Lt. Ji gaunama taip:\n0.75 * 500000 – 0.4 * 400000 = 215 000 Lt."
+        },
+		{
+            "question": "Jūs esate automobilių dalių platinimo projekto vadovas. Analizuojate tris siūlomus projektus. Kurį projektą jūs rekomenduotumėte?",
+            "options": [
+                {"title": "projekto A rodiklis IRR (Internal Return Rate, vidinės grąžos norma) yra 29%", "correct": false},
+                {"title": "projekto B – 45%", "correct": true},
+                {"title": "projekto C – 38%", "correct": false}
+            ],
+            "explain": "Rekomenduotinas yra projektas B, nes jo IRR yra didžiausias.\n IRR atspindi projekto grąžą palūkanų normos (interest rate) pavidalu. Jis apskaičiuojamas pagal formulę \n0 = Σn ( Sn /(1+IRR)n ), kur n = 0, 1, 2, ..., k; k – numatomas projekte sukurto produkto gyvavimo periodų \n(pvz., metų) kiekis; Sn – n-tojo periodo pinigų srautas."
+        },
+		{
+            "question": "Jūsų įmonės projektų atrankos komitetas svarsto du projektus. Projektas A, manoma, kainuos 250 000 Lt. Po to pirmais metais jis duos 100 000 Lt pajamų, o kiekvienais vėlesniais metais - po 50 000 Lt pajamų. Jeigu projekto B atsipirkimo periodas (payback period) yra 26 mėnesiai, kurį projektą jūs rekomenduotumėte?",
+            "options": [
+                {"title": "projektą A, nes jo atsipirkimo periodas yra 12 mėnesių", "correct": false},
+                {"title": "projektą A, nes jo atsipirkimo periodas yra 24 mėnesiai", "correct": false},
+                {"title": "projektą B, nes projekto A atsipirkimo periodas yra 48 mėnesiai", "correct": true},
+                {"title": "bet kurį iš šių projektų, nes jų abiejų atsipirkimo periodas yra 26 mėnesiai", "correct": false}
+            ],
+            "explain": "Rekomenduoti reikėtų projektą B, nes projekto A atsipirkimo periodas yra 48 mėnesiai.\n Projekto A atsipirkimo periodas gaunamas taip: per pirmus metus (12 mėn.) grįš 100 000 Lt, likę 150 000 Lt – per trejus metus (36 mėn.). Visas projektas atsipirks per 48 mėn."
+        },
+		{
+            "question": "Kada parametrinio modeliavimo būdas duoda labiausiai patikimus projekto kainos įverčius?",
+            "options": [
+                {"title": "kai yra nedidelės apimties projektas", "correct": false},
+                {"title": "kai projekto grupėje yra daug žmonių", "correct": false},
+                {"title": "kai anksčiau vykdytų projektų informacija (historical information), kuriais remiamasi vertinimo metu, yra tiksli", "correct": true},
+                {"title": "kai smulkių darbų įverčiai, esantys įmonėje, yra naudojami vertinant viso projekto kainą", "correct": false}
+            ],
+            "explain": "Parametrinio modeliavimo būdas vertinant projekto kainą duoda tiksliausius rezultatus, kai anksčiau vykdytų projektų informacija (historical information), kuriais remiamasi vertinimo metu, yra tiksli. Parametriniame modelyje (tai matematinis modelis) naudojamos kai kurios projekto charakteristikos. Jos gali būti labai paprastos (pvz., ryšio kabelio ilgio vieneto nutiesimo kaina) arba labai sudėtingos (pvz., programinės įrangos sukūrimo kainai įvertinti reikia daug parametrų). Parametrinio modeliavimo būdas yra daugiau patikimas, jei turima ankstesnių projektų informacija yra tiksli.\n Parametrinio modeliavimo būdas yra lankstus, lengvai plečiamas, todėl jam įtakos neturi nei projekto apimties dydis, nei projekto grupės dydis. \n Parametriniame modeliavime smulkių darbų įverčiai nenaudojami. Tai naudojama iš apačios į viršų projekto kainos vertinimo būde."
+        },
+		{
+            "question": "Įmonės aplinkos duomenys (enterprise environmental factors) yra naudojami projekto nuostatų rengimo procese ir daugelyje kitų procesų. Kuris iš žemiau išvardintų dalykų nepriklauso įmonės aplinkos duomenims?",
+            "options": [
+                {"title": "įmonės struktūra ir nuostatai", "correct": false},
+                {"title": "valstybiniai ir pramoniniai standartai", "correct": false},
+                {"title": "rinkos sąlygos", "correct": false},
+                {"title": "anksčiau įgytos patirties (lessons learned) duomenų bazė", "correct": true}
+            ],
+            "explain": "Anksčiau įgytos patirties (lessons learned) duomenų bazė nepriklauso įmonės aplinkos duomenims. Ši duomenų bazė priskiriama įmonės organizacinių dokumentų (organizational process asset) kategorijai. \n Įmonės aplinkos duomenys, o taip pat ir įmonės organizaciniai dokumentai, naudojami daugelyje projekto procesų. Koks gi jų skirtumas? \n Projektų valdymo žinyne (PMBOK) įmonės aplinkos duomenims (enterprise environmental factors) priskiriama įmonės struktūra, valstybiniai ir pramoniniai standartai, infrastruktūra, žmoniškieji ištekliai, personalo dokumentai, rinkos sąlygos, leistina rizika, komercinės duomenų bazės, projektų valdymo informacinė sistema. \n Įmonės organizaciniai dokumentai (enterprise organiztional process assets) dalinami į dvi dalis:\n1. Procesus ir procedūras aprašantys dokumentai. \n2. Žinių bazė."
+        },
+		{
+            "question": "Kurie trys veiksniai tradiciškai vadinami projekto „apribojimų trijule“?",
+            "options": [
+                {"title": "laikas, kaina, rizika", "correct": false},
+                {"title": "laikas, kaina, apimtis", "correct": true},
+                {"title": "laikas, kaina, kokybė", "correct": false},
+                {"title": "laikas, rizika, našumas", "correct": false}
+            ],
+            "explain": "Tradiciškai laikas, kaina ir apimtis vadinami projekto “apribojimų trijule”. \n Apribojimas - tai aplinkybė, kuri riboja projekto grupės pasirinkimo galimybes. Jis gali turėti įtakos projekto darbams ar darbų grafikui. \n Rizika, kokybė, našumas taip pat yra svarbūs projektų valdyme, ir jie paprastai apima didesnį klausimų ratą nei laikas, kaina ir apimtis."
+        },
+		{
+            "question": "NPV (Net Present Value, grynoji dabartinė vertė) suprantama kaip vertė, išreikšta?",
+            "options": [
+                {"title": "esamuoju kursu (pinigų)", "correct": false},
+                {"title": "atsižvelgus į diskonto normą", "correct": true},
+                {"title": "vyraujančiu kursu", "correct": false},
+                {"title": "atsižvelgus į vidinę grąžos normą (IRR)", "correct": false}
+            ],
+            "explain": "NPV suprantama kaip vertė, atsižvelgus į diskonto normą (kapitalo kainą, diskontavus)."
+        },
+		{
+            "question": "Jūsų įmonė vertina tris projektus. Projekto A rodiklis NPV (Net Present Value, grynoji dabartinė vertė) yra 70 000 Lt, projekto B – 90 000 Lt ir projekto C – 20 000 Lt. Įmonės projektų atrankos komitetas nutarė vykdyti projektą B. Kokia yra praleistų galimybių kaina (opportunity cost)?",
+            "options": [
+                {"title": "20 000 Lt", "correct": false},
+                {"title": "70 000 Lt", "correct": false},
+                {"title": "90 000 Lt", "correct": true},
+                {"title": "negalima nustatyti", "correct": false}
+            ],
+            "explain": "Praleistų arba neišnaudotų galimybių kaina (opportunity cost) šiuo atveju yra 90 000 Lt. Ji gaunama sudėjus nepasirinktų projektų kainas. Kadangi buvo pasirinktas projektas B, tai likusių dviejų projektų kainų suma yra 70000 + 20000 = 90 000 Lt."
+        },
+		{
+            "question": "Jūs esate pašto įmonės projekto vadovas. Jums pavedė vykdyti projektą, kuris įgalintų perkelti pašto tvarkymo programinę įrangą iš nuomojamo didžiojo tipo kompiuterio (mainframe) į naujos platformos aplinką. Tuo pačiu mažiausiomis sąnaudomis turi būti pagerintas minėtos programinės įrangos funkcionalumas. Preliminarus projekto biudžetas buvo patvirtintas, ir sponsorius informavo, kad didžiojo kompiuterio nuomos sandorio terminas yra metų pabaiga. Nauja sistema turi būti įdiegta iki to laiko, kad didžiojo kompiuterio nuomai nebereikėtų papildomų išlaidų. Kuris iš jūsų projekto apribojimų yra pirmaeilis?",
+            "options": [
+                {"title": "kaina", "correct": false},
+                {"title": "laikas", "correct": true},
+                {"title": "projekto apimtis (scope)", "correct": false},
+                {"title": "kokybė", "correct": false}
+            ],
+            "explain": "Šiame scenarijuje laikas yra pirmaeilis ribojantis veiksnys. Pirmaeilis apribojimas yra toks, kurio svarba yra didžiausia. Nors projektai gali turėti įvairių apribojimų, jūsų projektas turi būti baigtas iki to laiko, kad nebereikėtų atnaujinti naudojimosi didžiuoju kompiuteriu sandorio. Paprastai tokių sandorių atnaujinimo data yra fiksuota ir nekeičiama. Todėl jūs turite perkelti savo duomenis į naują platformą iki didžiojo kompiuterio nuomos sandorio termino pabaigos."
+        },
+		{
+            "question": "Jūs formuojate savo projekto grupę. Projektas yra sudėtingas ir jam įvykdyti reikia mažiausiai vienerių metų. Projektas turės įtakos įvairiems organizacijos padaliniams (rinkodaros, gamybos, realizavimo, IT). Projekto grupė bus formuojama iš žmonių, dirbančių tuose padaliniuose. Kokio tipo grupė yra geriausia šiam projektui?",
+            "options": [
+                {"title": "matricos", "correct": true},
+                {"title": "funkcinio", "correct": false},
+                {"title": "projektinio", "correct": false},
+                {"title": "skaičiuojamojo", "correct": false}
+            ],
+            "explain": "Šiam projektui geriausia matricos tipo grupė (prisiminkime funkcinio, matricos ir projektinio tipo organizacijas). Matricos tipo organizacijoje į projekto grupę įtraukti nariai turi atsiskaityti savo funkcinių padalinių vadovams ir projekto vadovui. Matricos tipo organizacijos leidžia savo funkcinių padalinių darbuotojams dirbti projekte, neprarandant pagrindinės darbo vietos. Projekto grupės nariai dalį savo darbo laiko (arba net visą laiką) gali skirti projektui, o kitą dalį - pagrindinėms pareigoms atlikti. Bet kuriuo atveju balansuojama, kada ir kur to darbuotojo labiau reikia. \n Nei funkcinio, nei projektinio tipo grupė šiam projektui nėra geriausias variantas.\n Funkcinio tipo grupės nariai atsiskaito savo organizacijos funkcinių padalinių vadovams, o ne projekto vadovui. Taip dažniausiai būna, kai projekto tikslai apsiriboja vienos funkcijos, pvz., kažkokios apskaitos, įgyvendinimu. \n Projektinio tipo grupės nariai atsiskaito tik projekto vadovui. Toks darbų organizavimas geriausiai tinka smulkiems projektams arba kai projektas yra skirtas tik vienam funkciniam padaliniui. \n Skaičiuojamojo tipo projekto grupės ar organizacijos neegzistuoja. \n Lengvojo pobūdžio (weak) matricos tipo grupė yra artima funkciniam tipui, o stiprios (griežtojo pobūdžio) (strong) matricos tipo grupė yra panaši į projektinio tipo grupę."
+        },
+		{
+            "question": "Jūs esate programinės įrangos kūrimo projekto vadovas ir turite keblumų derindami siekiamus rezultatus su akcininkais. Po susirinkimo su akcininkais jūs priėjote išvados, kad neįmanoma patenkinti visų akcininkų pageidavimų. Ką jūsų manymu reikėtų daryti toliau?",
+            "options": [
+                {"title": "susitikti su akcininkais ir išsiaiškinti, kurie iš jų trauksis iš projekto", "correct": false},
+                {"title": "apgailestauti dėl to, kad jūs negalite pasiekti visų sutarimo, ir koncentruotis ties daugumos pagrindinių akcininkų poreikiais", "correct": false},
+                {"title": "surinkti ir išanalizuoti akcininkų pageidavimus ir įgyvendinti tuos, kuriuos išreiškė visi", "correct": false},
+                {"title": "gauti sponsoriaus raštišką sutikimą (patvirtinimą) dėl visų siekiamų pagrindinių rezultatų iki darbų pradžios", "correct": true}
+            ],
+            "explain": "Jūs turite gauti sponsoriaus raštišką sutikimą (patvirtinimą) dėl visų siekiamų pagrindinių rezultatų iki darbų pradžios. Tai svarbus patvirtinimas, kad akcininkai aiškiai ir visiškai sutinka su siekiamais rezultatais. Būtent jie turi apibrėžti produktą ar paslaugą, kas atneš naudą organizacijai. Jei akcininkai nesutaria, jūs, kaip projekto vadovas, primygtinai turite reikalauti sutarimo ir siekiamų rezultatų formalaus patvirtinimo parašais iki darbų pradžios.\n Jums nėra reikalo šaukti susirinkimą, kad išsiaiškintumėte, kuris iš akcininkų trauksis iš projekto. Visiems akcininkams projektas turi įtakos. Reikėtų laikytis tos nuostatos, kad kiekvienas akcininkas gali turėti vertingų pasiūlymų, norint sėkmingai įvykdyti projektą. \n Jums nereikėtų apgailestauti dėl to, kad negalite pasiekti visų sutarimo, ir koncentruotis ties daugumos pagrindinių akcininkų poreikiais. Jums reikalinga visų akcininkų pagalba ir bendradarbiavimas, kad sėkmingai įvykdytumėte projektą. \n Jūs taip pat neturėtumėte rinkti ir analizuoti akcininkų pageidavimus ir įgyvendinti tuos, kuriuos išreiškė visi. Nors jūs ir galite surinkti pageidavimus ir parengti jų lentelę akcininkams, parodyti bendrumus tarp įvairių pageidavimų, tačiau sprendimą dėl jų įgyvendinimo turi priimti akcininkai. Jūs, kaip projekto vadovas negalite spręsti, ką reikėtų ar ko nereikėtų daryti."
+        },
+		{
+            "question": "Jūs esate naujos programinės įrangos kūrimo savo organizacijai projekto vadovas. Žinodami projekto tikslus ir uždavinius, jūs turite apibrėžti projektui reikiamus išteklius. Kuris iš žemiau išvardintų dalykų nėra priskirtinas projekto ištekliams?",
+            "options": [
+                {"title": "programinės įrangos kūrėjams reikalingos tinklo jungtys", "correct": false},
+                {"title": "rangovai specialioms programavimo užduotims atlikti", "correct": false},
+                {"title": "projekto testavimo fazei reikalingų papildomų serverių įrengimas", "correct": false},
+                {"title": "užduotys programinės įrangos moduliams sukurti", "correct": true}
+            ],
+            "explain": "Užduotys programinės įrangos moduliams sukurti nėra projekto ištekliai. Tai daugiau sietina su projekto rezultatais. \n Visi kiti išvardinti dalykai suprantami kaip projekto ištekliai. Projekto išteklius sudaro žmoniškieji ištekliai, inventorius, medžiagos, reikalinga aparatinė ir programinė įranga, tiekėjų paslaugos, mokymai, komandiruotės."
+        },
+		{
+            "question": "Kuri iš žemiau pateiktų frazių nėra teisinga, kalbant apie projektų valdymo gyvavimo ciklą?",
+            "options": [
+                {"title": "ciklas aiškiai išskiria projekto pradžią ir pabaigą", "correct": false},
+                {"title": "kiekvienas subprojektas (projekto dalis) turi tokias pačias fazes kaip ir viso projekto gyvavimo ciklas", "correct": true},
+                {"title": "ciklas apibūdina darbus, kuriuos reikia atlikti kiekvienoje projekto fazėje", "correct": false},
+                {"title": "ciklas susieja projektą su kitomis organizacijoje atliekamomis operacijomis", "correct": false}
+            ],
+            "explain": "Netiesa, kad kiekvienas subprojektas (projekto dalis) turi tokias pačias fazes kaip ir viso projekto gyvavimo ciklas. Kiekvienas subprojektas turi savo gyvavimo ciklą. Nors daugelio projektų gyvavimo ciklai turi panašius fazių pavadinimus, tačiau tai nėra privaloma. Projekte atskiri jo subprojektai gali turėti savus gyvavimo ciklus. \n Projekto gyvavimo cikle išskiriama projekto pradžia ir pabaiga, apibūdinami darbai, kuriuos reikia atlikti kiekvienoje fazėje, bei projektas gali būti siejamas su kitomis organizacijoje atliekamomis operacijomis."
+        },
+		{
+            "question": "Jūs parengėte savo projekto kainos įvertį. Kokios laikoma yra tokio įverčio tikslumo ribos?",
+            "options": [
+                {"title": "nuo -5% iki 10%;", "correct": false},
+                {"title": "nuo -10% iki 10%;", "correct": false},
+                {"title": "nuo -10% iki 25%", "correct": true},
+                {"title": "nuo -25% iki 75%", "correct": false}
+            ],
+            "explain": "Įprasta laikyti, kad projektų kainos įverčio tikslumo ribos yra nuo -10% iki 25%.\n Tikslumo ribos nuo -5% iki 10% pasiekiamos vertinant projekto kainą pavyzdiniu būdu (turint projekte reikalingų atlikti darbų sąrašą, darbų įkainius). Projekto kainos įverčio paklaida gali svyruoti ribose nuo -25% iki 75% (pvz., analogiškuoju būdu)."
+        }
+    ]
+}
