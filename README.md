@@ -1,6 +1,6 @@
 #pm-quiz
 
-Quiz based for software projects management practice class at VU.
+Quiz for software projects management practice class at VU.
 
 Live: http://pm.cuf.lt
 
