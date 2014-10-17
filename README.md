@@ -44,8 +44,7 @@ Data structure is self explaining:
 ##Credits
 
 * Course lecturer: dr. Asta Vaitkevičienė http://uosis.mif.vu.lt/~astak
-
-* Questions data: professor Valdas Undzėnas http://uosis.mif.vu.lt/~astak/data/laboratoriniai/2014_09_INICIJAVIMAS_pratyboms_auditorijoje.pdf
+* Questions data: professor Valdas Undzėnas
 
 ##License
 
