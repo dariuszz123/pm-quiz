@@ -54,6 +54,10 @@ body {
     text-align: center;
 }
 
+.start .btn {
+    margin-top: 10px;
+}
+
 .start .btn, .results .btn {
     padding: 14px 24px;
     font-size: 21px;

@@ -104,7 +104,11 @@ $(document).ready(function () {
         return correct;
     };
 
+    var score_shown = false;
+
     var show_score = function (quiz) {
+        score_shown = true;
+
         var correct = answered_correctly(quiz);
         var total = quiz.getQuestionsCount();
         var percent = (correct * 100 / total);
@@ -121,11 +125,15 @@ $(document).ready(function () {
     var next_action = function (quiz) {
         var index = get_first_not_answered_index(quiz);
 
-        if (null === index) {
-            show_score(quiz);
-        } else {
-            if (quiz.getCurrentQuestionNumber() === quiz.getQuestionsCount()) {
+        if (quiz.getCurrentQuestionNumber() === quiz.getQuestionsCount()) {
+            if (null !== index) {
                 quiz.goTo(index);
+            } else {
+                show_score(quiz);
+            }
+        } else {
+            if ((null === index) && (false === score_shown)) {
+                show_score(quiz);
             } else {
                 quiz.next();
             }
@@ -191,40 +199,44 @@ $(document).ready(function () {
         $('.options-list').html('');
     };
 
-    $.getJSON("data/test_1.json", function (data) {
+    var load_quiz = function(data_path) {
+        $.getJSON(data_path, function (data) {
 
-        var questions = create_questions(data['questions']);
+            var questions = create_questions(data['questions']);
 
-        var quiz = new Quiz();
+            var quiz = new Quiz();
 
-        quiz.addPreLoadCallback(clear_options);
+            quiz.addPreLoadCallback(clear_options);
 
-        quiz.addPostLoadCallback(update_questions_count);
-        quiz.addPostLoadCallback(update_current_question_number);
+            quiz.addPostLoadCallback(update_questions_count);
+            quiz.addPostLoadCallback(update_current_question_number);
 
-        quiz.addPreChangeQuestionCallback(clear_options);
+            quiz.addPreChangeQuestionCallback(clear_options);
 
-        quiz.addPostSetAnswersCallback(hide_show_explain);
+            quiz.addPostSetAnswersCallback(hide_show_explain);
 
-        quiz.addPostChangeQuestionCallback(update_current_question_number);
-        quiz.addPostChangeQuestionCallback(update_question_html);
-        quiz.addPostChangeQuestionCallback(update_question_options_html);
-        quiz.addPostChangeQuestionCallback(hide_show_explain);
+            quiz.addPostChangeQuestionCallback(update_current_question_number);
+            quiz.addPostChangeQuestionCallback(update_question_html);
+            quiz.addPostChangeQuestionCallback(update_question_options_html);
+            quiz.addPostChangeQuestionCallback(hide_show_explain);
 
-        quiz.load(questions);
+            quiz.load(questions);
 
-        $('.quiz .next').click(function () {
-            next_action(quiz)
+            $('.quiz .next').click(function () {
+                next_action(quiz)
+            });
+            $('.quiz .previous').click(quiz.prev);
         });
-        $('.quiz .previous').click(quiz.prev);
-    });
+    };
 
     $('.results').hide();
     $('.quiz').hide();
 
     $('.start .btn').click(function () {
         $('.start').hide();
-        $('.quiz').show();
+        var data_file = $("select[name='data']:first").val();
+        load_quiz("data/" + data_file);
+        $(".quiz").show();
     });
 
     $('.results .previous').click(function () {
