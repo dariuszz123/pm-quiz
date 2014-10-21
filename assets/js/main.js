@@ -4,17 +4,21 @@ $(document).ready(function () {
         return str.replace(new RegExp('\r?\n', 'g'), '<br />');
     };
 
+    var shuffle = function (array) {
+        return array.sort(function () { return 0.5 - Math.random(); });
+    };
+
     var create_questions = function (questions_data) {
         var questions = [];
 
         for (var index = 0; index < questions_data.length; index++) {
             var question_data = questions_data[index];
-            var options = create_options(question_data['options']);
+            var options = shuffle(create_options(question_data['options']));
             var question = new Question(question_data['question'], options, question_data['explain']);
             questions.push(question);
         }
 
-        return questions;
+        return shuffle(questions);
     };
 
     var create_options = function (options_data) {
