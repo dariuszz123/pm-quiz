@@ -3,13 +3,23 @@ $(document).ready(function () {
     var parse_str = function (str) {
         return str.replace(new RegExp('\r?\n', 'g'), '<br />');
     };
-	
-	var shuffle = function (array) {
-        return array.sort(function () { return 0.5 - Math.random(); });
-    };
 
     var shuffle = function (array) {
-        return array.sort(function () { return 0.5 - Math.random(); });
+        return array.sort(function () {
+            return 0.5 - Math.random();
+        });
+    };
+
+    var create_options = function (options_data) {
+        var options = [];
+
+        for (var index = 0; index < options_data.length; index++) {
+            var option_data = options_data[index];
+            var option = new QuestionOption(option_data.title, option_data.correct, false);
+            options.push(option);
+        }
+
+        return options;
     };
 
     var create_questions = function (questions_data) {
@@ -24,8 +34,8 @@ $(document).ready(function () {
 
         return shuffle(questions);
     };
-	
-	var create_random_questions = function (questions_data) {
+
+    var create_random_questions = function (questions_data) {
         var questions = [];
 
         for (var index = 0; index < questions_data.length; index++) {
@@ -36,18 +46,6 @@ $(document).ready(function () {
         }
 
         return shuffle(questions);
-    };
-
-    var create_options = function (options_data) {
-        var options = [];
-
-        for (var index = 0; index < options_data.length; index++) {
-            var option_data = options_data[index];
-            var option = new QuestionOption(option_data.title, option_data.correct, false);
-            options.push(option);
-        }
-
-        return options;
     };
 
     var update_questions_count = function (quiz) {
@@ -96,12 +94,10 @@ $(document).ready(function () {
             $('.question-explain').hide();
         }
     };
-	
-	var show_random_questions = function()
-	{
-	    var value = $("input:checkbox").is(":checked");
-		return value;
-	}
+
+    var show_random_questions = function () {
+        return $("#randomize").is(":checked");
+    };
 
     var get_first_not_answered_index = function (quiz) {
         var questions = quiz.getQuestions();
@@ -226,17 +222,15 @@ $(document).ready(function () {
         $('.options-list').html('');
     };
 
-    var load_quiz = function(data_path) {
+    var load_quiz = function (data_path) {
         $.getJSON(data_path, function (data) {
 
-			if(show_random_questions() === true)
-			{ 
-				var questions = create_random_questions(data['questions']);
-			} 
-			else 
-			{ 
-				var questions = create_questions(data['questions']); 
-			}
+            if (show_random_questions() === true) {
+                var questions = create_random_questions(data['questions']);
+            }
+            else {
+                var questions = create_questions(data['questions']);
+            }
 
             var quiz = new Quiz();
 

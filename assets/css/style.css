@@ -125,6 +125,14 @@ body {
     margin-top: 28px;
 }
 
+.randomize .input-group-addon  {
+    text-align: left;
+}
+
+.randomize label {
+    font-weight: normal;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     /* Remove the padding we set earlier */
