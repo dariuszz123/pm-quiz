@@ -66,32 +66,32 @@
         {"title": "Kokybės taisykles paprastai paskelbia projekto vadovas", "correct": false},
         {"title": "Organizacijos kokybės taisyklės yra svarbesnės už kitus kokybės standartus", "correct": false},
         {"title": "Kokybės taisyklės įvardina išorinius kokybės reglamentus, kurie gali turėti įtakos projektui", "correct": false},
-        {"title": "Kokybės taisyklės - tai organizacijos bendrosios nuostatos ir gairės kokybėsklausimais", "correct": true}
+        {"title": "Kokybės taisyklės - tai organizacijos bendrosios nuostatos ir gairės kokybės klausimais", "correct": true}
       ],
       "explain": "Kokybės taisyklės (quality policy) yra organizacijos bendrosios nuostatos ir gairėskokybės klausimais. Šios taisyklės priklauso įmonės organizacinių dokumentų(enterprise organizational process asset) kategorijai. Naudojamos kaip įeities duomenys Kokybės planavimo procese.\nKokybės taisykles paprastai išleidžia organizacijos vadovybė, bet ne projekto vadovas.\nKokybės taisyklės nėra svarbesnės už kitus kokybės standartus. Projekto užsakovas gali turėti savus papildomus kokybės standartus, kurie gali būti svarbesni už kokybės taisykles. \n Kokybės taisyklės nėra kokių nors išorinių kokybės reglamentų, kurie gali turėti įtakos projektui, įvardinimas. Tai vidinis organizacijos dokumentas. Išoriniai kokybėsreglamentai dažnai priskiriami įmonės aplinkos duomenų (enterprise environmental factors) kategorijai ir jie yra kiti įeities duomenys Kokybės planavimo procese.\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
     },
     {
-      "question": "Jūs jau esate įvardinę būtinus projekto tikslams pasiekti darbus ir sudarę darbųišdėstymo eilės tvarka PDM (Precedence Diagramming Method) diagramą. Toliau jums reikia įvertinti darbų trukmes. Kas turi didžiausią įtaką vertinant kiekvieno darbo trukmę?",
+      "question": "Jūs jau esate įvardinę būtinus projekto tikslams pasiekti darbus ir sudarę darbų išdėstymo eilės tvarka PDM (Precedence Diagramming Method) diagramą. Toliau jums reikia įvertinti darbų trukmes. Kas turi didžiausią įtaką vertinant kiekvieno darbo trukmę?",
       "options": [
         {"title": "Organizacijos struktūra (tipas)", "correct": false},
         {"title": "Darbui skirti ištekliai", "correct": true},
         {"title": "Ankstesnis darbas, nurodytas PDM diagramoje", "correct": false},
         {"title": "Laikas, kada projekto eigoje darbas turi būti daromas", "correct": false}
       ],
-      "explain": "Darbo trukmės vertinimo metu didžiausią įtaką turidarbui skirti ištekliai. Trukmės įverčiui įtakos turi darbo dydis (apimtis) ir išteklių ypatybės. Pvz., aukštos kvalifikacijos specialistai darbą atliks greičiau, nei prastesnius įgūdžius turintys žmonės.\n Kiti klausime išvardinti veiksniai neturi įtakos vertinant darbų trukmę.\n Tema: projekto planavimas\n Temos dalis: darbų grafiko planavimas "
+      "explain": "Darbo trukmės vertinimo metu didžiausią įtaką turi darbui skirti ištekliai. Trukmės įverčiui įtakos turi darbo dydis (apimtis) ir išteklių ypatybės. Pvz., aukštos kvalifikacijos specialistai darbą atliks greičiau, nei prastesnius įgūdžius turintys žmonės.\n Kiti klausime išvardinti veiksniai neturi įtakos vertinant darbų trukmę.\n Tema: projekto planavimas\n Temos dalis: darbų grafiko planavimas "
     },
     {
-      "question": "Kuris iš žemiau išvardintų dalykų yra projekto biudžeto rengimo proceso rezultatas ?",
+      "question": "Kuris iš žemiau išvardintų dalykų yra projekto biudžeto rengimo proceso rezultatas?",
       "options": [
         {"title": "Projekto etapams paskirstytos lėšos (cost baseline)", "correct": true},
         {"title": "Darbų kainų įverčiai", "correct": false},
         {"title": "Lėšų apjungimas (cost aggregation)", "correct": false},
         {"title": "Atliktų darbų dydis", "correct": false}
       ],
-      "explain": "Projekto etapams (pvz., mėnesiams) paskirstytos lėšos yra biudžeto rengimo rezultatas.\n Darbų kainų įverčiai gaunami kainos vertinimo procese.Lėšų apjungimas yra būdas arba priemonė, kuri naudojama biudžeto rengimoprocese.\nAtliktų darbų dydis yra naudojamas išlaidų kontrolės procese.\nTema: projekto planavimas\nTemos dalis: projekto kainos planavimas"
+      "explain": "Projekto etapams (pvz., mėnesiams) paskirstytos lėšos yra biudžeto rengimo rezultatas.\n Darbų kainų įverčiai gaunami kainos vertinimo procese. Lėšų apjungimas yra būdas arba priemonė, kuri naudojama biudžeto rengimoprocese.\nAtliktų darbų dydis yra naudojamas išlaidų kontrolės procese.\nTema: projekto planavimas\nTemos dalis: projekto kainos planavimas"
     },
     {
-      "question": "Kuris iš žemiau išvardintų dalykų nėra kliūtis efektyviam komunikavimui ?",
+      "question": "Kuris iš žemiau išvardintų dalykų nėra kliūtis efektyviam komunikavimui?",
       "options": [
         {"title": "Pašalinė su projektu nesusijusi informacija", "correct": false},
         {"title": "Prasti rašymo įgūdžiai", "correct": false},
