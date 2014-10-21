@@ -27,12 +27,12 @@ $(document).ready(function () {
 
         for (var index = 0; index < questions_data.length; index++) {
             var question_data = questions_data[index];
-            var options = shuffle(create_options(question_data['options']));
+            var options = create_options(question_data['options']);
             var question = new Question(question_data['question'], options, question_data['explain']);
             questions.push(question);
         }
 
-        return shuffle(questions);
+        return questions;
     };
 
     var create_random_questions = function (questions_data) {
