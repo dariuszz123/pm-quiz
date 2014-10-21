@@ -68,7 +68,7 @@
         {"title": "Kokybės taisyklės įvardina išorinius kokybės reglamentus, kurie gali turėti įtakos projektui", "correct": false},
         {"title": "Kokybės taisyklės - tai organizacijos bendrosios nuostatos ir gairės kokybės klausimais", "correct": true}
       ],
-      "explain": "Kokybės taisyklės (quality policy) yra organizacijos bendrosios nuostatos ir gairėskokybės klausimais. Šios taisyklės priklauso įmonės organizacinių dokumentų(enterprise organizational process asset) kategorijai. Naudojamos kaip įeities duomenys Kokybės planavimo procese.\nKokybės taisykles paprastai išleidžia organizacijos vadovybė, bet ne projekto vadovas.\nKokybės taisyklės nėra svarbesnės už kitus kokybės standartus. Projekto užsakovas gali turėti savus papildomus kokybės standartus, kurie gali būti svarbesni už kokybės taisykles. \n Kokybės taisyklės nėra kokių nors išorinių kokybės reglamentų, kurie gali turėti įtakos projektui, įvardinimas. Tai vidinis organizacijos dokumentas. Išoriniai kokybėsreglamentai dažnai priskiriami įmonės aplinkos duomenų (enterprise environmental factors) kategorijai ir jie yra kiti įeities duomenys Kokybės planavimo procese.\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
+      "explain": "Kokybės taisyklės (quality policy) yra organizacijos bendrosios nuostatos ir gairėskokybės klausimais. Šios taisyklės priklauso įmonės organizacinių dokumentų (enterprise organizational process asset) kategorijai. Naudojamos kaip įeities duomenys Kokybės planavimo procese.\nKokybės taisykles paprastai išleidžia organizacijos vadovybė, bet ne projekto vadovas.\nKokybės taisyklės nėra svarbesnės už kitus kokybės standartus. Projekto užsakovas gali turėti savus papildomus kokybės standartus, kurie gali būti svarbesni už kokybės taisykles. \n Kokybės taisyklės nėra kokių nors išorinių kokybės reglamentų, kurie gali turėti įtakos projektui, įvardinimas. Tai vidinis organizacijos dokumentas. Išoriniai kokybėsreglamentai dažnai priskiriami įmonės aplinkos duomenų (enterprise environmental factors) kategorijai ir jie yra kiti įeities duomenys Kokybės planavimo procese.\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
     },
     {
       "question": "Jūs jau esate įvardinę būtinus projekto tikslams pasiekti darbus ir sudarę darbų išdėstymo eilės tvarka PDM (Precedence Diagramming Method) diagramą. Toliau jums reikia įvertinti darbų trukmes. Kas turi didžiausią įtaką vertinant kiekvieno darbo trukmę?",
@@ -156,9 +156,9 @@
         {"title": "Išteklių kalendoriai (kada užimti, kada laisvi)", "correct": false},
         {"title": "Darbų sąrašas", "correct": false},
         {"title": "Projekto darbų sekos diagramos", "correct": false},
-        {"title": "Darbų grafikas(baseline)", "correct": true}
+        {"title": "Darbų grafikas (baseline)", "correct": true}
       ],
-      "explain": "Darbų grafikas(baseline) nėra įeities duomenys darbų grafiko rengimo procesui.Jis yra šio proceso rezultatas. Darbų grafikas vėliau naudojami kontroliuojant, ar projektas vyksta pagal darbų grafiką. \n Kiti šiame klausime įvardinti dalykai yra darbų grafiko rengimo proceso įeities duomenys. Šio proceso įeities duomenims priskiriami įmonės organizaciniai dokumentai, projekto apimties aprašas (project scope statement), darbų sąrašas, darbų charakteristikos, projekto darbų sekos diagramos, darbams atlikti reikalingi ištekliai, išteklių kalendoriai (kada užimti, kada laisvi), darbų trukmės įverčiai, projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
+      "explain": "Darbų grafikas (baseline) nėra įeities duomenys darbų grafiko rengimo procesui.Jis yra šio proceso rezultatas. Darbų grafikas vėliau naudojami kontroliuojant, ar projektas vyksta pagal darbų grafiką. \n Kiti šiame klausime įvardinti dalykai yra darbų grafiko rengimo proceso įeities duomenys. Šio proceso įeities duomenims priskiriami įmonės organizaciniai dokumentai, projekto apimties aprašas (project scope statement), darbų sąrašas, darbų charakteristikos, projekto darbų sekos diagramos, darbams atlikti reikalingi ištekliai, išteklių kalendoriai (kada užimti, kada laisvi), darbų trukmės įverčiai, projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
     },
     {
       "question": "Jūs rengiate savo projekto darbų grafiką ir pastebite, kad vieno iš darbų vėliausias pradžios laikas yra ankstesnis už jo anksčiausią pradžios laiką. Sakoma, kad toks darbas turi?",
@@ -198,13 +198,13 @@
         {"title": "Atsakomybė", "correct": false},
         {"title": "Darbo sąlygos", "correct": false}
       ],
-      "explain": "Saugumas yra minimas Maslow’o sukurtoje žmogaus poreikių hierarchijos teorijoje. Joje laikoma, kad žmogaus gyvenimas pagrįstas poreikių tenkinimu. Norint patenkinti aukštesnio lygmens poreikius, jau turi būti patenkinti žemesnio lygmens poreikiai. Einant nuo žemiausio iki aukščiausio, yra tokie poreikių lygmenys:\n - 1 lygmuo: fiziologiniai poreikiai (oras, vanduo, maistas, pastogė, rūbai);\n-2 lygmuo: saugumo poreikiai (patikimumas, stabilumas, skriaudos ar žalos nebuvimas);\n-3 lygmuo: socialiniai poreikiai (meilė, prisirišimas, pripažinimas, draugai);\n-4 lygmuo: pagarbos poreikiai (kvalifikacija, pagarba, dėmesys, dėkingumas);\n-5 lygmuo: pasireiškimo poreikiai (pasitenkinimas, augimas, mokymasis).\nKiti šiam klausime išvardinti dalykai nėra minimi Maslow‘o teorijoje. \nTema: projekto planavimas\nTemos dalis: projekto grupės planavimas"
+      "explain": "Saugumas yra minimas Maslow’o sukurtoje žmogaus poreikių hierarchijos teorijoje. Joje laikoma, kad žmogaus gyvenimas pagrįstas poreikių tenkinimu. Norint patenkinti aukštesnio lygmens poreikius, jau turi būti patenkinti žemesnio lygmens poreikiai. Einant nuo žemiausio iki aukščiausio, yra tokie poreikių lygmenys:\n - 1 lygmuo: fiziologiniai poreikiai (oras, vanduo, maistas, pastogė, rūbai)\n-2 lygmuo: saugumo poreikiai (patikimumas, stabilumas, skriaudos ar žalos nebuvimas)\n-3 lygmuo: socialiniai poreikiai (meilė, prisirišimas, pripažinimas, draugai)\n-4 lygmuo: pagarbos poreikiai (kvalifikacija, pagarba, dėmesys, dėkingumas)\n-5 lygmuo: pasireiškimo poreikiai (pasitenkinimas, augimas, mokymasis).\nKiti šiam klausime išvardinti dalykai nėra minimi Maslow‘o teorijoje. \nTema: projekto planavimas\nTemos dalis: projekto grupės planavimas"
     },
     {
       "question": "Kam skirsite pagrindinį dėmesį vadovaudami projektui, kuriame su tiekėju yra sudarytas laiko ir medžiagų apmokėjimo (T&M) tipo sandoris? ",
       "options": [
         {"title": "Projekto apimčiai (scope)", "correct": false},
-        {"title": "Projekto darbų grafikui(schedule)", "correct": true},
+        {"title": "Projekto darbų grafikui (schedule)", "correct": true},
         {"title": "Tiekėjo patikimumui", "correct": false},
         {"title": "Tiekėjo medžiagų kainai", "correct": false}
       ],
@@ -305,10 +305,10 @@
       "options": [
         {"title": "Ar yra reikalingi išoriniai tiekėjai", "correct": true},
         {"title": "Neplatintinos (jautrios) projekto detalės", "correct": false},
-        {"title": "Sarbų kaina, jei juos darysite patys", "correct": false},
+        {"title": "Darbų kaina, jei juos darysite patys", "correct": false},
         {"title": "Jūsų organizacijos vidiniai ištekliai", "correct": false}
       ],
-      "explain": "Jūs mažiausiai kreipsite dėmesį į tai, ar yra reikalingi išoriniai tiekėjai. Klausimo daryti patiems ar pirkti svarstymu siekiama išsiaiškinti, kokius produktus pigiau yra gamintis patiems, o kokius geriau pirkti. Tokio svarstymo metu labai svarbu žinoti: \n- ar jūsų organizacijoje yra specialistų, galinčių atlikti tam tikrus darbus;\n- ar reikalingi atlikti darbai susiję su komercinėmis, organizacijos vidinėmis, kt.\npaslaptimis;\n- ar pakanka laiko ir organizacijos išteklių norint patiems atlikti reikiamus darbus;\n- ar reikiamus darbus atlikti patiems yra pigiau (patogiau, naudingiau).\nKiti klausime išvardinti veiksniai yra svarbūs svarstant darymo patiems ar pirkimo klausimą. \nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
+      "explain": "Jūs mažiausiai kreipsite dėmesį į tai, ar yra reikalingi išoriniai tiekėjai. Klausimo daryti patiems ar pirkti svarstymu siekiama išsiaiškinti, kokius produktus pigiau yra gamintis patiems, o kokius geriau pirkti. Tokio svarstymo metu labai svarbu žinoti: \n- ar jūsų organizacijoje yra specialistų, galinčių atlikti tam tikrus darbus\n- ar reikalingi atlikti darbai susiję su komercinėmis, organizacijos vidinėmis, kt.\npaslaptimis\n- ar pakanka laiko ir organizacijos išteklių norint patiems atlikti reikiamus darbus\n- ar reikiamus darbus atlikti patiems yra pigiau (patogiau, naudingiau).\nKiti klausime išvardinti veiksniai yra svarbūs svarstant darymo patiems ar pirkimo klausimą. \nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
     },
     {
       "question": "Kuri iš žemiau išvardintų priemonių nėra naudojama atliekant kokybinę rizikos analizę?",
@@ -418,13 +418,13 @@
         {"title": "Informacijos paieškos sistemos", "correct": false},
         {"title": "Komunikacijų valdymo planas", "correct": false}
       ],
-      "explain": "Apribojimai yra komunikacijų proceso įeities duomenys. Apskritai, šio proceso įeities duomenys yra įmonės aplinkos duomenys (enterprise environmental factors),įmonės organizaciniai dokumentai (enterprise organizational process assets; juose yra komunikacijų reikalavimai), projekto apimties aprašas ir projekto valdymo planas.\nKomunikavimo įgūdžiai ir informacijos paieškos sistemos yra priemonės, kurios naudojamos informacijos platinimo procese.\nKomunikacijų valdymo planas yra komunikacijų planavimo proceso rezultatas, o ne įeities duomenys.\n\nTema: projekto planavimas\nTemos dalis: komunikacijų planavimas "
+      "explain": "Apribojimai yra komunikacijų proceso įeities duomenys. Apskritai, šio proceso įeities duomenys yra įmonės aplinkos duomenys (enterprise environmental factors),įmonės organizaciniai dokumentai (enterprise organizational process assets; juose yra komunikacijų reikalavimai), projekto apimties aprašas ir projekto valdymo planas.\nKomunikavimo įgūdžiai ir informacijos paieškos sistemos yra priemonės, kurios naudojamos informacijos platinimo procese.\nKomunikacijų valdymo planas yra komunikacijų planavimo proceso rezultatas, o ne įeities duomenys.\n\nTema: projekto planavimas\nTemos dalis: komunikacijų planavimas"
     },
     {
       "question": "Kas daroma darbų apibrėžimo procese?",
       "options": [
         {"title": "Įvardinamos priklausomybės tarp suskaidytų darbų lentelėje (WBS) nurodytų darbų", "correct": false},
-        {"title": "Apibūdinami WBS’e nurodyti darbai (ką, kaip reikėtų daryti);", "correct": true},
+        {"title": "Apibūdinami WBS’e nurodyti darbai (ką, kaip reikėtų daryti)", "correct": true},
         {"title": "Rengiamas WBS’e nurodytų darbų vykdymo grafikas", "correct": false},
         {"title": "Įvertinamas kiekvienam WBS’e nurodytam darbui atlikti reikalingas laiko kiekis", "correct": false}
       ],
@@ -568,12 +568,12 @@
         {"title": "Atnaujinti projekto nuostatus, įtraukiant į juos detalizuotų darbų sąrašą", "correct": false},
         {"title": "Nustatyti priklausomybes tarp darbų ir surikiuoti juos atlikimo eilės tvarka", "correct": true}
       ],
-      "explain": "Kitas jūsų žingsnis turėtų būti priklausomybės tarp darbų nustatymas ir jų surikiavimas atlikimo eilės tvarka. Įvardinus projekto darbus, jie turi būti surikiuojami atlikimo eilės tvarka, remiantis priklausomybėmis tarp darbų. Darbų rikiavimo atlikimo eilės tvarka metu peržiūrimas detalizuotų darbų sąrašas, projektu kuriamo produkto aprašymas, priklausomybės tarp darbų. Tam naudojamos diagramos arba šablonai ir sudaroma darbų išdėstymo diagrama (PDM arba ADM). \n Jūs kitame žingsnyje neturėtumėte: \n - vertinti kiekvieno darbo trukmės. Tai daroma darbų trukmės vertinimo procese, kai jau būna nustatyta darbų atlikimo eilės tvarka; \n - rengti projekto darbų grafiko, remdamiesi detalizuotų darbų sąrašu. Darbų grafikas rengiamas vėliau, kai būna nustatyta darbų atlikimo eilės tvarka ir įvertintos darbų trukmės; \n - atnaujinti projekto nuostatų, įtraukiant į juos detalizuotų darbų sąrašą. Nuostatuose tokio lygio detalės nerodomos. Paprastai juose nurodomi projekto tikslai."
+      "explain": "Kitas jūsų žingsnis turėtų būti priklausomybės tarp darbų nustatymas ir jų surikiavimas atlikimo eilės tvarka. Įvardinus projekto darbus, jie turi būti surikiuojami atlikimo eilės tvarka, remiantis priklausomybėmis tarp darbų. Darbų rikiavimo atlikimo eilės tvarka metu peržiūrimas detalizuotų darbų sąrašas, projektu kuriamo produkto aprašymas, priklausomybės tarp darbų. Tam naudojamos diagramos arba šablonai ir sudaroma darbų išdėstymo diagrama (PDM arba ADM). \n Jūs kitame žingsnyje neturėtumėte: \n - vertinti kiekvieno darbo trukmės. Tai daroma darbų trukmės vertinimo procese, kai jau būna nustatyta darbų atlikimo eilės tvarka \n - rengti projekto darbų grafiko, remdamiesi detalizuotų darbų sąrašu. Darbų grafikas rengiamas vėliau, kai būna nustatyta darbų atlikimo eilės tvarka ir įvertintos darbų trukmės \n - atnaujinti projekto nuostatų, įtraukiant į juos detalizuotų darbų sąrašą. Nuostatuose tokio lygio detalės nerodomos. Paprastai juose nurodomi projekto tikslai."
     },
     {
       "question": "Kas yra šių dviejų procesų - darbų atlikimo eilės tvarkos nustatymo ir darbų trukmės vertinimo - bendras rezultatas?",
       "options": [
-        {"title": "Projekto darbų grafikas;", "correct": false},
+        {"title": "Projekto darbų grafikas", "correct": false},
         {"title": "Trijų taškų įverčiai", "correct": false},
         {"title": "Atnaujinti darbų atributai", "correct": true},
         {"title": "Darbų trukmės įverčiai", "correct": false}
