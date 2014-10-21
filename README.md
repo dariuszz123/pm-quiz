@@ -20,6 +20,17 @@ Modern web browser with enabled javascript.
 
 ```./node_modules/.bin/bower install```
 
+###Run the Application
+
+We have preconfigured the project with a simple development web server.  The simplest way to start
+this server is:
+
+```
+npm start
+```
+
+Now browse to the app at `http://localhost:8000/`.
+
 ###Questions data
 
 Questions data stored in JSON ```./data/test_1.json```
