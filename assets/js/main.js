@@ -1,15 +1,33 @@
 $(document).ready(function () {
 
+    /**
+     * Convert some special chars to html.
+     *
+     * @param {string} str
+     * @returns {string}
+     */
     var parse_str = function (str) {
         return str.replace(new RegExp('\r?\n', 'g'), '<br />');
     };
 
+    /**
+     * Randomize array order.
+     *
+     * @param {Array.<>} array
+     * @returns {Array.<>}
+     */
     var shuffle = function (array) {
         return array.sort(function () {
             return 0.5 - Math.random();
         });
     };
 
+    /**
+     * Create options objects from json object.
+     *
+     * @param {Object} options_data
+     * @returns {Array.<QuestionOption>}
+     */
     var create_options = function (options_data) {
         var options = [];
 
@@ -22,6 +40,12 @@ $(document).ready(function () {
         return options;
     };
 
+    /**
+     * Create question objects from json object.
+     *
+     * @param {Object} questions_data
+     * @returns {Array.<Question>}
+     */
     var create_questions = function (questions_data) {
         var questions = [];
 
@@ -35,6 +59,12 @@ $(document).ready(function () {
         return questions;
     };
 
+    /**
+     * Create randomized order question objects from json object.
+     *
+     * @param {Object} questions_data
+     * @returns {Array.<Question>}
+     */
     var create_random_questions = function (questions_data) {
         var questions = [];
 
@@ -48,14 +78,29 @@ $(document).ready(function () {
         return shuffle(questions);
     };
 
+    /**
+     * Update question count in GUI.
+     *
+     * @param {Quiz} quiz
+     */
     var update_questions_count = function (quiz) {
         $('.total-questions').text(quiz.getQuestionsCount());
     };
 
+    /**
+     * Update current question number in GUI.
+     *
+     * @param {Quiz} quiz
+     */
     var update_current_question_number = function (quiz) {
         $('.question-index').text(quiz.getCurrentQuestionNumber());
     };
 
+    /**
+     * Show current question in GUI.
+     *
+     * @param {Quiz} quiz
+     */
     var update_question_html = function (quiz) {
         var question = quiz.getCurrentQuestion();
 
@@ -63,6 +108,11 @@ $(document).ready(function () {
         $('.question-explain-text').html(parse_str(question.explain));
     };
 
+    /**
+     * Disable question option on GUI.
+     *
+     * @param {Question} question
+     */
     var disable_options = function (question) {
         var options_list = $('.options-list');
         var options = question.options;
@@ -71,6 +121,11 @@ $(document).ready(function () {
         }
     };
 
+    /**
+     * Highlight correct/incorrect question option in GUI.
+     *
+     * @param {Question} question
+     */
     var highlight_options = function (question) {
         var options_list = $('.options-list');
         var options = question.options;
@@ -86,6 +141,11 @@ $(document).ready(function () {
         }
     };
 
+    /**
+     * Show/hide question explain in GUI.
+     *
+     * @param {Quiz} quiz
+     */
     var hide_show_explain = function (quiz) {
         var question = quiz.getCurrentQuestion();
         if (quiz.isAnswered(question) && (false === quiz.isCorrect(question))) {
@@ -95,10 +155,21 @@ $(document).ready(function () {
         }
     };
 
+    /**
+     * Check if need to randomize question.
+     *
+     * @returns {boolean}
+     */
     var show_random_questions = function () {
         return $("#randomize").is(":checked");
     };
 
+    /**
+     * Get first not answered question index in quiz.
+     *
+     * @param {Quiz} quiz
+     * @returns {int|null}
+     */
     var get_first_not_answered_index = function (quiz) {
         var questions = quiz.getQuestions();
 
@@ -113,6 +184,12 @@ $(document).ready(function () {
         return null;
     };
 
+    /**
+     * Get correctly answered questions count in quiz.
+     *
+     * @param {Quiz} quiz
+     * @returns {int}
+     */
     var answered_correctly = function (quiz) {
         var questions = quiz.getQuestions();
         var correct = 0;
@@ -127,8 +204,18 @@ $(document).ready(function () {
         return correct;
     };
 
+    /**
+     * Is score already shown.
+     *
+     * @type {boolean}
+     */
     var score_shown = false;
 
+    /**
+     * Show score in GUI.
+     *
+     * @param {Quiz} quiz
+     */
     var show_score = function (quiz) {
         score_shown = true;
 
@@ -145,6 +232,11 @@ $(document).ready(function () {
         $('.results').show();
     };
 
+    /**
+     * Move forward in quiz.
+     *
+     * @param {Quiz} quiz
+     */
     var next_action = function (quiz) {
         var index = get_first_not_answered_index(quiz);
 
@@ -163,8 +255,21 @@ $(document).ready(function () {
         }
     };
 
+    /**
+     * Is question options click temporary disabled.
+     *
+     * @type {boolean}
+     */
     var click_answer_disabled = false;
 
+    /**
+     * Select answer.
+     *
+     * @param {Quiz} quiz
+     * @param {int} index - selected answer index
+     * @param {Question} question
+     * @returns {Function}
+     */
     var click_answer = function (quiz, index, question) {
         return function () {
             if (!click_answer_disabled) {
@@ -193,6 +298,11 @@ $(document).ready(function () {
         }
     };
 
+    /**
+     * Show current question Options in GUI.
+     *
+     * @param {Quiz} quiz
+     */
     var update_question_options_html = function (quiz) {
         var question = quiz.getCurrentQuestion();
         var options = question.options;
@@ -218,18 +328,26 @@ $(document).ready(function () {
         }
     };
 
+    /**
+     * Clear question options list in GUI.
+     */
     var clear_options = function () {
         $('.options-list').html('');
     };
 
+    /**
+     * Load quiz data json.
+     *
+     * @param {string} data_path
+     */
     var load_quiz = function (data_path) {
         $.getJSON(data_path, function (data) {
+            var questions = [];
 
-            if (show_random_questions() === true) {
-                var questions = create_random_questions(data['questions']);
-            }
-            else {
-                var questions = create_questions(data['questions']);
+            if (true === show_random_questions()) {
+                questions = create_random_questions(data['questions']);
+            } else {
+                questions = create_questions(data['questions']);
             }
 
             var quiz = new Quiz();
@@ -257,18 +375,31 @@ $(document).ready(function () {
         });
     };
 
-    $('.results').hide();
-    $('.quiz').hide();
-
-    $('.start .btn').click(function () {
-        $('.start').hide();
-        var data_file = $("select[name='data']:first").val();
-        load_quiz("data/" + data_file);
-        $(".quiz").show();
-    });
-
-    $('.results .previous').click(function () {
+    /**
+     * Initialize default GUI state.
+     */
+    var init_gui_state = function() {
         $('.results').hide();
-        $('.quiz').show();
-    });
+        $('.quiz').hide();
+    };
+
+    /**
+     * Bind action to GUI elements.
+     */
+    var bind_gui_items = function() {
+        $('.start .btn').click(function () {
+            $('.start').hide();
+            var data_file = $("select[name='data']:first").val();
+            load_quiz("data/" + data_file);
+            $(".quiz").show();
+        });
+
+        $('.results .previous').click(function () {
+            $('.results').hide();
+            $('.quiz').show();
+        });
+    };
+    
+    init_gui_state();
+    bind_gui_items();
 });
