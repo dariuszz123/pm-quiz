@@ -18,8 +18,6 @@ Modern web browser with enabled javascript.
 
 ```npm install```
 
-```./node_modules/.bin/bower install```
-
 ###Run the Application
 
 We have preconfigured the project with a simple development web server.  The simplest way to start
