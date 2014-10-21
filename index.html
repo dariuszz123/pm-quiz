@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -31,90 +31,100 @@
 
 <body>
 
-<!-- TOP RIGHT RIBBON: START COPYING HERE -->
-<div class="github-fork-ribbon-wrapper right">
-    <div class="github-fork-ribbon">
-        <a href="https://github.com/dariuszz123/pm-quiz">Fork me on GitHub</a>
-    </div>
-</div>
-
-<div class="container">
-    <div class="header">
-        <h3 class="text-muted">Programų sistemų projektų ir kokybės valdymas</h3>
+    <!-- TOP RIGHT RIBBON: START COPYING HERE -->
+    <div class="github-fork-ribbon-wrapper right">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/dariuszz123/pm-quiz">Fork me on GitHub</a>
+        </div>
     </div>
 
-    <div class="jumbotron start">
-        <h2>Projekto inicijavimo pratybų testai</h2>
+    <div class="container">
+        <div class="header">
+            <h3 class="text-muted">Programų sistemų projektų ir kokybės valdymas</h3>
+        </div>
 
-        <div class="form-group">
-            <div class="input-group">
-                <div class="input-group-addon">Pasirinkite testą</div>
-                <select name="data" class="form-control" id="data_file">
-                    <option value="test_2.json">2. Projekto planavimas</option>
-                    <option value="test_1.json">1. Projekto inicijavimas</option>
-                </select>
+        <div class="jumbotron start">
+            <h2>Projekto inicijavimo pratybų testai</h2>
+
+            <div class="form-group">
+                <div class="input-group">
+                    <div class="input-group-addon">Pasirinkite testą</div>
+                    <select name="data" class="form-control" id="data_file">
+                        <option value="test_2.json">2. Projekto planavimas</option>
+                        <option value="test_1.json">1. Projekto inicijavimas</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="input-group">
+                    <span class="input-group-addon">
+                        <input type="checkbox">
+                    </span>
+                    <fieldset disabled>
+                        <input type="text" class="form-control" placeholder="Rodyti klausimus atsitiktine tvarka" readonly>
+                    </fieldset>
+                </div>
+            </div>
+            <p><a class="btn btn-lg btn-success" href="javascript:;" role="button">Pradėti</a></p>
+        </div>
+
+        <div class="jumbotron quiz">
+            <ul class="pager">
+                <li class="previous"><a href="javascript:;">&larr;</a></li>
+                <li class="next"><a href="javascript:;">&rarr;</a></li>
+            </ul>
+
+            <h3 class="question"><span class="badge"><span class="question-index"><!-- --></span>/<span class="total-questions"><!-- --></span></span><span class="question-title"><!-- --></span></h3>
+
+            <ol class="options-list" data-option='
+                <li><button type="button" class="btn btn-default btn-block">{{ title }}</button></li>'>
+                <!-- -->
+            </ol>
+
+            <div class="question-explain">
+                <div class="alert alert-info question-explain-text"><!-- --></div>
+                <div class="btn btn-block btn-primary next">Tęsti &rarr;</div>
             </div>
         </div>
 
-        <p><a class="btn btn-lg btn-success" href="javascript:;" role="button">Pradėti</a></p>
-    </div>
+        <div class="jumbotron results">
+            <ul class="pager">
+                <li class="previous"><a href="javascript:;">&larr;</a></li>
+            </ul>
 
-    <div class="jumbotron quiz">
-        <ul class="pager">
-            <li class="previous"><a href="javascript:;">&larr;</a></li>
-            <li class="next"><a href="javascript:;">&rarr;</a></li>
-        </ul>
+            <h2>Rezultatai</h2>
 
-        <h3 class="question"><span class="badge"><span class="question-index"><!-- --></span>/<span class="total-questions"><!-- --></span></span><span class="question-title"><!-- --></span></h3>
+            <div class="progress" style="position: relative; height: 50px;">
+                <div class="progress-bar progress-bar-success" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
 
-        <ol class="options-list" data-option='<li><button type="button" class="btn btn-default btn-block">{{ title }}</button></li>'>
-            <!-- -->
-        </ol>
-
-        <div class="question-explain">
-            <div class="alert alert-info question-explain-text"><!-- --></div>
-            <div class="btn btn-block btn-primary next">Tęsti &rarr;</div>
-        </div>
-    </div>
-
-    <div class="jumbotron results">
-        <ul class="pager">
-            <li class="previous"><a href="javascript:;">&larr;</a></li>
-        </ul>
-
-        <h2>Rezultatai</h2>
-
-        <div class="progress" style="position: relative; height: 50px;">
-            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-
+                </div>
+                <div class="text"><span class="percent"><!-- --></span>% (<span class="correct"><!-- --></span> iš <span class="total-questions"><!-- --></span> teisignai)</div>
             </div>
-            <div class="text"><span class="percent"><!-- --></span>% (<span class="correct"><!-- --></span> iš <span class="total-questions"><!-- --></span> teisignai)</div>
+
+            <p><a class="btn btn-lg btn-default" href="/" role="button">Kartoti?</a></p>
         </div>
 
-        <p><a class="btn btn-lg btn-default" href="/" role="button">Kartoti?</a></p>
-    </div>
+        <div class="row marketing">
+            <div class="col-md-6">
+                <h4>Dalyko informacija</h4>
+                <p><a href="http://uosis.mif.vu.lt/~astak"><span class="glyphicon glyphicon-home"></span> http://uosis.mif.vu.lt/~astak</a></p>
+            </div>
 
-    <div class="row marketing">
-        <div class="col-md-6">
-            <h4>Dalyko informacija</h4>
-            <p><a href="http://uosis.mif.vu.lt/~astak"><span class="glyphicon glyphicon-home"></span> http://uosis.mif.vu.lt/~astak</a></p>
+            <div class="col-md-6">
+                <h4>Testo klausimai</h4>
+                <p><a href="http://uosis.mif.vu.lt/~astak/data/laboratoriniai/2014_09_INICIJAVIMAS_pratyboms_auditorijoje.pdf"><span class="glyphicon glyphicon-download"></span> Projekto inicijavimas PDF</a></p>
+            </div>
+
+            <div class="col-lg-12">
+                <h4>Perspėjimas</h4>
+                <p>Klausimuose gali būti klaidų. Suradus nepatingėkit nusiųsti pool request'o į github'ą :)</p>
+            </div>
         </div>
 
-        <div class="col-md-6">
-            <h4>Testo klausimai</h4>
-            <p><a href="http://uosis.mif.vu.lt/~astak/data/laboratoriniai/2014_09_INICIJAVIMAS_pratyboms_auditorijoje.pdf"><span class="glyphicon glyphicon-download"></span> Projekto inicijavimas PDF</a></p>
+        <div class="footer">
+            <p>Darius Krištapavičius 2014</p>
         </div>
 
-        <div class="col-lg-12">
-            <h4>Perspėjimas</h4>
-            <p>Klausimuose gali būti klaidų. Suradus nepatingėkit nusiųsti pool request'o į github'ą :)</p>
-        </div>
-    </div>
-
-    <div class="footer">
-        <p>Darius Krištapavičius 2014</p>
-    </div>
-
-</div> <!-- /container -->
+    </div> <!-- /container -->
 </body>
 </html>
