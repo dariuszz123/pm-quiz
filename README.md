@@ -52,8 +52,13 @@ Data structure is self explaining:
 
 ##Credits
 
-* Course lecturer: dr. Asta Vaitkevičienė http://uosis.mif.vu.lt/~astak
-* Questions data: professor Valdas Undzėnas
+Course lecturer: dr. Asta Vaitkevičienė http://uosis.mif.vu.lt/~astak
+
+Questions data: professor Valdas Undzėnas
+
+Various improvements:
+* Tautvidas Sipavičius http://www.tautvidas.com
+* Aurimas Sadauskas http://www.aursad.eu
 
 ##License
 
