@@ -399,7 +399,7 @@ $(document).ready(function () {
             $('.quiz').show();
         });
     };
-    
+
     init_gui_state();
     bind_gui_items();
 });

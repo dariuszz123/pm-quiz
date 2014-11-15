@@ -1,305 +1,1325 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "question": "Projekto grupės plėtra (ugdymas) yra procesas, kuris vyksta:",
+      "options": [
         {
-            "question": "Projekto grupės plėtra (ugdymas) yra procesas, kuris vyksta",
-            "options": [
-                {"title": "viso projekto metu", "correct": true},
-                {"title": "pasibaigus projektui", "correct": false},
-                {"title": "prieš pradedant projektą", "correct": false},
-                {"title": "projekto pradžioje", "correct": false}
-            ],
-            "explain": "Projekto grupės plėtra (ugdymas) vyksta viso projekto metu. Nežiūrint to, kad projektų valdymo žinyne (PMBOK) projekto grupės plėtra yra nurodoma kaip projekto vykdymo proceso dalis, iš tikro tai vyksta viso projekto metu. Kuo anksčiau pradedama projekto grupės plėtra, tuo geriau.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės plėtra"
+          "title": "Viso projekto metu",
+          "correct": true
         },
         {
-            "question": "Kuris iš žemiau išvardintų dalykų reikalingas atrankos (screening) sistemai, norint naudoti ją tiekėjų atrankos procese?",
-            "options": [
-                {"title": "potencialių tiekėjų sąrašas, surikiuotų eilės tvarka pagal svertąsias reikšmes, gaunamas sumuojant kiekvieno kriterijaus reikšmės ir jo svorio sandaugas", "correct": false},
-                {"title": "dokumentuoti minimalūs reikalavimai potencialiems tiekėjams", "correct": true},
-                {"title": "prašomų atlikti darbų kainos įvertis, parengtas nepriklausomų specialistų (should-cost)", "correct": false},
-                {"title": "rinkos kainų apžvalga tiekėjų prašomų kainų pagrįstumui įvertinti", "correct": false}
-            ],
-            "explain": "Norint naudoti atrankos (screening) sistemą, turi būti parengti dokumentuoti minimalūs reikalavimai potencialių tiekėjų veiklai. Atrankos sistemoje naudojamas slenkstis, pagal kurį filtruojami pasiūlymai. Tai sąlygos, kurias turi atitikti tiekėjas, kad jis būtų pakviestas deryboms.\nPotencialūs tiekėjai yra rikiuojami eilės tvarka pagal svertąsias reikšmes, gaunamas sumuojant kiekvieno kriterijaus reikšmės ir jo svorio sandaugas. Tačiau svertųjų reikšmių nustatymas yra priemonė, kuri naudojama nešališkam potencialių tiekėjų reitingui nustatyti.\nPrašomų atlikti darbų kainos įvertis, parengtas nepriklausomų specialistų (should-cost), yra paremtas rinkoje sutinkamomis kainomis ar kita informacija. Toks įvertis padeda suvokti tiekėjų prašomos kainos pagrįstumą.\nRinkos kainų apžvalga reikalinga nepriklausomiems specialistams, kad jie galėtų įvertinti darbų kainą.\n\nTema: projekto vykdymas\nTemos dalis: tiekėjų atranka"
+          "title": "Pasibaigus projektui",
+          "correct": false
         },
         {
-            "question": "Jūs esate projekto vadovas, dirbantis automobilių gamykloje. Jūsų projektas yra susijęs su naujo automobilio kūrimu. Jūs įvardinote keletą komponentų, kurių gamybą norėtumėte pavesti rangovui. Todėl norite susitikti su galimais tiekėjais, turinčiais reikalingų įgūdžių. Jūsų gamyklos pirkimų departamentas pateikė jums projektui potencialių tiekėjų sąrašą. Ką jūs turėtumėte daryti toliau?",
-            "options": [
-                {"title": "išsiuntinėti sandorio projekto (draft) kopijas departamento sąraše nurodytiems potencialiems tiekėjams", "correct": false},
-                {"title": "pakviesti departamento sąraše nurodytus tiekėjus deryboms", "correct": false},
-                {"title": "išsiuntinėti pirkimo dokumentus departamento sąraše nurodytiems tiekėjams;", "correct": true},
-                {"title": "viešai paskelbti savo reikalavimus ir laukti tiekėjų pasiūlymų", "correct": false}
-            ],
-            "explain": "Toliau jūs turėtumėte išsiuntinėti pirkimo dokumentus departamento sąraše nurodytiems tiekėjams. Pirkimo dokumentai reikalingi prašant potencialius tiekėjus teikti pasiūlymus, ir jie yra prašymo tiekėjams teikti pasiūlymus proceso įeities duomenys. Užsakovas (pirkėjas) turi parengti šiuos dokumentus taip, kad jie padėtų potencialiems tiekėjams parengti tikslius ir išsamius pasiūlymus. Klausime minimu atveju jums reikėtų išsiuntinėti pirkimo dokumentus iš pirkimų departamento gautame sąraše nurodytiems tiekėjams ir paprašyti atsiųsti atsakymus iki nurodyto laiko. Visa tai yra prašymo tiekėjams teikti pasiūlymus proceso dalis. \nJūs neturėtumėte išsiuntinėti departamento sąraše nurodytiems tiekėjams sandorio projekto (draft) kopijų. Sandorio projekto kopija siunčiama vėliau išrinktam tiekėjui. Toks projektas (raštas) naudojamas teisiškai derinant sandorio sąlygas su tiekėju. Šalims sutarus pasirašomas sandoris.\nJūs neturėtumėte kviesti departamento sąraše nurodytų tiekėjų deryboms. Derybos pradedamos tada, kai jau būna gauti pasiūlymai iš potencialių tiekėjų. Tai yra tiekėjų atrankos procesas.\nJūs neturėtumėte viešai skelbti savo reikalavimų ir laukti tiekėjų pasiūlymų. Reikalavimų skelbimas nėra teisingas žingsnis, nes jūs turite departamento sąraše nurodytus potencialius tiekėjus. Reikalavimai skelbiami tais atvejais, kai potencialių tiekėjų sąrašas nėra žinomas arba kai yra atitinkami vyriausybės nutarimai.\n\nTema: projekto vykdymas\nTemos dalis: prašymas teikti pasiūlymus"
+          "title": "Prieš pradedant projektą",
+          "correct": false
         },
         {
-            "question": "Kuri iš žemiau išvardintų veiklų nėra sutinkama projekto vykdymo valdymo procese?",
-            "options": [
-                {"title": "atliekamų darbų vertinimas, kad galima būtų įvardinti reikiamus korekcinius ar prevencinius veiksmus;", "correct": true},
-                {"title": "vidinių ir išorinių komunikacijos kanalų valdymas", "correct": false},
-                {"title": "projekto rezultatų tvirtinimas", "correct": false},
-                {"title": "reakcijos į riziką veiksmų atlikimas", "correct": false}
-            ],
-            "explain": "Projekto vykdymo valdymo procese nėra atliekamų darbų vertinimo, kad galima būtų įvardinti reikiamus korekcinius ar prevencinius veiksmus. Toks vertinimas atliekamas projekto darbų kontrolės procese, ir patvirtinti korekciniai ar prevenciniai veiksmai, kurių numatoma imtis, yra projekto vykdymo valdymo proceso įeities duomenys.\nVisi kiti nurodyti atsakymai į užduotą klausimą yra neteisingi, nes juose minimos veiklos dažnai sutinkamos projekto vykdymo valdymo procese. Pagal PMBOK, projekto vykdymo valdymo procesas apima veiklas, kurios būtinos projekto apimtyje apibrėžtiems darbams atlikti.\nKomunikacijos kanalų valdymas yra svarbus, kad būtų užtikrintas darbų vykdymas pagal planą. Efektyvios ir dalykiškos komunikacijos tarp projektu suinteresuotų šalių turi didelę įtaką projekto vykdymui.\nProjekto rezultatų tvirtinimu paliudijama, kad visi darbai yra atlikti ir plane numatyti rezultatai yra gauti.\nReakcijos į riziką veiksmų atlikimo dažnai prireikia vykdant projektus. Jei vykdant darbus susiduriama su rizikos veiksniu (pvz., susirgo darbuotojas), reaguojant į jį turi būti imamasi suplanuotų veiksmų.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
-        },
-        {
-            "question": "Projekto grupės sudarymo (acquire) procese jūs, rinkdamiesi žmones, turėtumėte atsižvelgti į visus žemiau išvardintus įmonės aplinkos duomenis (enterprise environmental factors), išskyrus vieną iš jų",
-            "options": [
-                {"title": "potencialaus grupės nario amžių", "correct": true},
-                {"title": "potencialaus grupės nario gebėjimus", "correct": false},
-                {"title": "potencialaus grupės nario patirtį", "correct": false},
-                {"title": "potencialaus grupės nario suinteresuotumą projektu.", "correct": false}
-            ],
-            "explain": "Projekto grupės sudarymo (acquire) procese jūs neturėtumėte kreipti dėmesio į potencialaus grupės nario amžių. Yra teisės aktai, draudžiantys asmenų ignoravimą dėl jų amžiaus.\nĮmonės aplinkos duomenys (enterprise environmental factors), kuriais reikėtų remtis renkantis projekto grupės narius, yra jų tinkamumas, gebėjimai, patirtis, suinteresuotumas projektu, kaina. Potencialaus grupės nario patirtis vertinama pagal tai, kiek laiko jis yra dirbęs panašiuose projektuose ar tam tikroje srityje. Idealu būtų, jei projekto vadovas rastų žmones, kurie yra dirbę panašiuose projektuose. Dėl turimų žinių jie galėtų būti jūsų projekto patarėjai ar ekspertai.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės sudarymas"
-        },
-        {
-            "question": "Projektų valdymo informacinė sistema yra instrumentas, kuris nėra naudojamas",
-            "options": [
-                {"title": "informacijos apie projekto eigą platinimui", "correct": true},
-                {"title": "projekto vykdymo valdymui", "correct": false},
-                {"title": "projekto plano rengimui", "correct": false},
-                {"title": "integruotajai keitimų kontrolei", "correct": false}
-            ],
-            "explain": "Projektų valdymo informacinė sistema (PVIS) nėra naudojama informacijos apie projekto eigą platinimui. Informacijos platinimo tikslas yra suteikti projekto akcininkams informaciją apie projekto stovį nustatytu laiku. Informacijos platinimo priemonėms ir būdams priskiriami komunikavimo įgūdžiai, informacijos rinkimo ir paieškos sistemos, informacijos platinimo metodai, šios srities pamokos. PVIS priemonės, tiek automatinės, tiek rankinės, yra skirtos projekto procesams valdyti.\nKitiems šiame klausime nurodytiems reikalams PVIS yra naudojama.\nProjektų vykdymo valdymas apima veiklas, kurios yra būtinos, kad projekto apimties (scope) plane apibrėžti darbai būtų atlikti. PVIS turi priemones, kurios labai praverčia projekto vykdymo metu.\nVisi planavimui būtini duomenys yra projekto plano rengimo proceso įeities duomenys. Pastarojo metu sudaromas formalus projekto planas. PVIS sudėtyje yra planavimui ir darbų grafikui rengti reikalingi instrumentai.\nIntegruotosios keitimų kontrolės procese svarbu efektyviai tvarkytis su projekto eigoje daromais projekto plano keitimais. Tam reikalingi instrumentai yra PVIS sudėtyje.\n\nTema: projekto vykdymas\nTemos dalis: projekto informacijos platinimas"
-        },
-        {
-            "question": "Po pertvarkos jūsų organizacijoje iš projekto grupės pasitraukė keletas narių. Jūs sušaukėte pasitarimą su asmenimis, kurie pakeitė pasitraukusius. Kurį iš žemiau išvardintų klausimų yra svarbiausia aptarti?",
-            "options": [
-                {"title": "projekto apimtį;", "correct": true},
-                {"title": "projekto biudžetą;", "correct": false},
-                {"title": "grupės narių techninius gebėjimus", "correct": false},
-                {"title": "jūsų, kaip projekto vadovo, darbo stilių", "correct": false}
-            ],
-            "explain": "Svarbiausia yra aptarti projekto apimtį (scope). Kai į grupę priimami nauji asmenys, svarbu, kad jie peržiūrėtų suskaidytų darbų lentelę (WBS) ir kitus projekto dokumentus. Taip jie galės geriau suprasti projekto apimtį.\nNors žinoti projekto biudžetą yra gerai, kai kuriems grupės nariams to gali nereikėti. Projekto apimtis nurodo, kokius darbus grupės nariai turi daryti ir kokių ne.\nGrupės narių techninius gebėjimus reikia žinoti, tačiau svarbiau yra tai, kad nariai žinotų projekto apimtį.\nJūsų, kaip projekto vadovo, darbo stiliaus aptarimas nėra svarbus.\n\nTema: projekto vykdymas\nTemos dalis: projekto informacijos platinimas"
-        },
-        {
-            "question": "Kuriame iš žemiau nurodytų projekto procesų atsiranda apčiuopiami rezultatai, informacija apie darbų vykdymą, prašymai daryti pakeitimus, o taip pat yra daromi pakeitimai, atliekami korekciniai ir/ar prevenciniai veiksmai, šalinami defektai?",
-            "options": [
-                {"title": "projekto vykdymo", "correct": true},
-                {"title": "projekto valdymo plano rengimo", "correct": false},
-                {"title": "keitimų kontrolės", "correct": false},
-                {"title": "informacijos platinimo", "correct": false}
-            ],
-            "explain": "Visi klausime minimi dalykai atsiranda ir nurodyti veiksmai atliekami projekto vykdymo procese. Projekto vykdymas apima veiklas, susijusias su projekto valdymo plane įvardintų darbų atlikimu.\nProjekto valdymo planas yra planavimo proceso rezultatas. Visi planavimo eigoje gauti rezultatai apibendrinami ir sudedami į projekto valdymo planą.\nKeitimų kontrolė yra procedūrų visuma, kuri padeda nagrinėti projekto vykdymo eigoje atsirandančius prašymus daryti pakeitimus. Tai instrumentas, kuris naudojamas projekto integruotosios keitimų kontrolės procese.\nEinamieji organizaciniai dokumentai ar jų pakeitimai yra informacijos platinimo proceso rezultatas. Šio proceso tikslas yra suteikti projekto akcininkams savalaikę informaciją apie projekto stovį. Pagal PMBOK einamiesiems dokumentams priskiriamos patirtų dalykų atmintinės, projekto įrašai, projekto ataskaitos, projekto prezentacijos, akcininkų atsiliepimai, pranešimai akcininkams.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra traktuojamas kaip darbų eigos informacija, kuri renkama projekto vykdymo procese?",
-            "options": [
-                {"title": "darbų grafike numatyti darbai, kurie nebuvo pradėti", "correct": false},
-                {"title": "atlikti darbai", "correct": false},
-                {"title": "detali informacija apie išteklių panaudojimą", "correct": false},
-                {"title": "visų projekto grupės narių tabeliai (darbo valandų lentelės).", "correct": true}
-            ],
-            "explain": "Projekto grupės narių tabeliai nėra traktuojami kaip darbų eigos informacija. Nors projekto vykdymo procese paprastai tabeliai yra renkami, kur fiksuojamas grupės narių dirbtas laikas, tačiau juose nėra informacijos apie projekto darbų eigą.\nVisi kiti atsakymai į šį klausimą yra neteisingi, nes juose nurodyta informacija reikalinga darbų eigai apibūdinti. Projekto vykdymo procese įvairi informacija apie atliekamus darbus yra renkama. Be jau minėtos informacijos gali būti renkama informacija apie pažangą, projekto stovį, gautus rezultatus, užbaigtus darbus, darbų grafiko laikymąsi, išlaidas, kt.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
-        },
-        {
-            "question": "Jūs nagrinėjate kliento užsakyto projekto plėtros klausimą. Klientas paprašė jūsų padaryti pakeitimus projekte. Tie pakeitimai neturi įtakos projekto kainai, tačiau projekto pabaigą gali tekti nukelti trimis savaitėmis. Ką jūs, kaip projekto vadovas, visų pirma darysite?",
-            "options": [
-                {"title": "aptarsite prašomus pakeitimus su projekto grupe", "correct": false},
-                {"title": "įvertinsite prašomų pakeitimų poveikį projektui ir informuosite klientą apie tai", "correct": true},
-                {"title": "kreipsitės į aukštesnius projektų vadovus", "correct": false},
-                {"title": "pakeisite darbų grafiką taip, kad ir padarius pakeitimus projektas būtų įvykdytas numatytu laiku", "correct": false}
-            ],
-            "explain": "Jūs, kaip projekto vadovas, visų pirma turėtumėte įvertinti visą situaciją ir išaiškinti klientui jo prašomo pakeitimo poveikį projektui.\nĮvertinę pakeitimo poveikį, jūs turite parengti galimų sprendimų sąrašą turimoje situacijoje ir apsvarstyti jį su projekto grupe artimiausiame susirinkime.\nApsvarstytus galimus sprendimus turimoje situacijoje jūs galite pateikti aukštesniems projektų vadovams.\nKeitimų valdymo taryba turi nuspręsti dėl tolesnių veiksmų. Jei ji nutaria daryti pakeitimus ir sudaryti sąlygas užbaigti projektą pradžioje planuotu laiku, jūs pakoreguojate darbų grafiką taip, kad pakeisto projekto užbaigimas nebūtų vėluojamas.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra virtualios grupės teikiamas privalumas?",
-            "options": [
-                {"title": "galima imtis projektų, kurių kitaip imtis neapsimokėtų", "correct": false},
-                {"title": "į projektą gali būti įtraukti judėjimo negalią turintys asmenys", "correct": false},
-                {"title": "grupės nariai gali efektyviau komunikuoti", "correct": true},
-                {"title": "specialių įgūdžių nariai gali būti įtraukti į projektą, nežiūrint jų geografinės buvimo vietos", "correct": false}
-            ],
-            "explain": "Tai, kad grupės nariai gali efektyviau komunikuoti, nėra virtualios grupės teikiamas privalumas. Virtuali grupė – tai bendrą tikslą turinčių individų grupė, kurie retai arba niekada betarpiškai nesusitinka. Komunikavimas virtualiose grupėse paprastai būna sunkesnis.\nKiti šio klausimo atsakymai yra virtualios grupės privalumai.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės rinkimas"
-        },
-        {
-            "question": "Projekto įrašai (faktų aprašymai), ataskaitos ir pristatymai yra vieno iš žemiau išvardintų procesų rezultatas. Kurio?",
-            "options": [
-                {"title": "projekto vykdymo valdymo", "correct": false},
-                {"title": "ataskaitų apie darbą rengimo", "correct": false},
-                {"title": "informacijos platinimo;", "correct": true},
-                {"title": "komunikacijų planavimo", "correct": false}
-            ],
-            "explain": "Projekto įrašai (faktų aprašymai), ataskaitos ir pristatymai yra informacijos platinimo proceso rezultatas. Pastarojo metu nustatytais laiko momentais parengiama akcininkams reikalinga informacija.\nKiti nurodyti atsakymai į šį klausimą yra neteisingi, nes:\n- projektų vykdymo valdymo procese yra įgyvendinamas projekto planas. Jame nurodyti darbai, kuriuos reikia atlikti, norint pasiekti projekto apimtyje (scope) įvardintus rezultatus. Pagal PMBOK projekto vykdymo valdymo proceso rezultatams priskiriami prašymai daryti pakeitimus, atliktos korekcijos, įdiegtos prevencinės priemonės, pašalinti defektai , informacija apie darbų eigą;\n- ataskaitų apie darbą rengimo procesas yra susijęs su informacijos, kaip yra naudojami ištekliai projekto tikslams pasiekti, platinimu akcininkams. Šio proceso rezultatams priskiriami pranešimai apie darbų eigą, prognozės, prašymai daryti pakeitimus, rekomenduojami korekciniai veiksmai, įmonės organizacinių dokumentų atnaujinimai, specifinės pastabos dokumente apie įgytą patirtį (lessons learned);\n- komunikacijų planavimo procese apibrėžiama, kokia informacija ir kada ji turėtų būti perduodama akcininkams.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
-        },
-        {
-            "question": "Projekto grupės išdėstymas (co-location) apima žemiau išvardintus dalykus, išskyrus vieną iš jų:",
-            "options": [
-                {"title": "patalpos paskyrimą projekto grupės narių susirinkimams", "correct": false},
-                {"title": "pagalbą projekto grupės nariams dirbti vienoje vietoje, nes grupiniam darbui tai turi teigiamos įtakos", "correct": false},
-                {"title": "apmokėjimo už darbus paskirstymą grupelėms, dirbančioms skirtingose vietovėse", "correct": true},
-                {"title": "visiems arba aktyviausiems projekto grupės nariams darbo vietų suteikimas toje pačioje vietovėje.", "correct": false}
-            ],
-            "explain": "Projekto grupės išdėstymas (co-location) nėra apmokėjimo už darbus paskirstymas grupelėms, dirbančioms skirtingose vietovėse. Projekto grupės išdėstymas daugiau yra susijęs su grupės formavimu, nei su apmokėjimo už darbus paskirstymu. Projekto grupės išdėstymas reiškia visų jos narių arba daugumos aktyviausių narių įdarbinimą vienoje vietoje. Tai priemonė, kuri naudojama grupės ugdymo (develop team) procese jo darbo našumui padidinti.\nKiti šiame klausime išvardinti dalykai yra susiję su projekto grupės išdėstymo veikla. Kai kuriems projektams grupės narių darbo vietų įrengimas vienoje patalpoje ar vietovėje gali būti nepageidaujamas arba net neįmanomas. Kaip alternatyva grupės narių surinkimui į vieną vietą yra dažnas narių susirinkimų organizavimas. Tai ypač svarbu virtualių grupių atveju, kurių nariai yra išsibarstę atskirose geografinėse vietovėse.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
-        },
-        {
-            "question": "Projekto grupės formavime yra naudojami žemiau išvardinti veiksmai, išskyrus vieną:",
-            "options": [
-                {"title": "valdymo veiksmai grupės našumui pagerinti", "correct": false},
-                {"title": "individualūs veiksmai atskirų narių ir visos grupės našumui pagerinti", "correct": false},
-                {"title": "veiksmai akcininkų tarpusavio ryšiams pagerinti", "correct": false},
-                {"title": "kolektyviniai veiksmai, kad vadovybė patenkintų projekto grupės reikalavimus", "correct": true}
-            ],
-            "explain": "Projekto grupės formavime nenaudojami kolektyviniai veiksmai, kad vadovybė patenkintų projekto grupės reikalavimus.\nKiti šiame klausime išvardinti veiksmai naudojami formuojant projekto grupę. Grupės formavimo veikloms priskiriami ir vadovybės, ir atskirų grupės narių veiksmai, kuriais siekiama pagerinti atskirų narių ir visos grupės našumą. Jie yra svarbūs keliant grupės našumą ir didina galimybes pasiekti norimus projekto tikslus.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
-        },
-        {
-            "question": "Kuri iš žemiau išvardintų priežasčių, pasitaikančių projekto grupės rinkimo (acquire) procese, yra mažiausiai svarbi, dėl kurios reikėtų keisti projekto grupės valdymo planą?",
-            "options": [
-                {"title": "grupės narys organizacijoje buvo pakeltas į aukštesnes pareigas ir daugiau nebebus grupėje", "correct": false},
-                {"title": "grupės narys, atidirbęs organizacijoje 30 metų, išėjo į pensiją", "correct": false},
-                {"title": "grupės narys išvyko į kitą šalį;", "correct": true},
-                {"title": "grupės narys sunkiai susirgo ir neaišku, kiek laiko negalės grįžti į darbą", "correct": false}
-            ],
-            "explain": "Grupės nario išvykimas į kitą šalį yra mažiausiai svarbi priežastis, dėl kurios reikėtų keisti projekto grupės valdymo planą. Toks narys gali išlikti grupėje ir dirbti iš toli.\nVisos kitos šiame klausime išvardintos priežastys yra svarbios, ir, esant joms, projekto grupės valdymo planas turi būti keičiamas. Kiekvienu iš šių atvejų netenkama grupės nario. Todėl būtina nurodyti grupės valdymo plane, kas bus daroma pasitraukus darbuotojui.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės rinkimas"
-        },
-        {
-            "question": "Kokia kokybės užtikrinimo procese naudota informacija gali būti įtraukta į projekto valdymo planą?",
-            "options": [
-                {"title": "gautos pamokos", "correct": false},
-                {"title": "panaudotų naujų arba pagerintų kokybės užtikrinimo būdų informacija", "correct": true},
-                {"title": "prašymai daryti pakeitimus, atsiradę vykdant kokybės užtikrinimo veiklas", "correct": false},
-                {"title": "naudotos kokybės metrikos", "correct": false}
-            ],
-            "explain": "Į projekto valdymo planą gali būti įtraukta kokybės užtikrinimo procese panaudota naujų arba pagerintų kokybės užtikrinimo būdų informacija. Kokybės užtikrinimo proceso eigoje jūs galite atrasti ir panaudoti naujus procesus arba pagerinti esamus kokybės užtikrinimo procesus. Būtent jie gali būti perkelti į kokybės valdymo planą, kuris yra projekto valdymo plano dalis.\nĮ projekto valdymo planą neturi būti įtraukiamos:\n- gautos pamokos. Jos registruojamos tam, kad įgyta patirtimi galėtume pasinaudoti ateityje naujuose projektuose;\n- prašymai daryti pakeitimus, atsiradę vykdant kokybės užtikrinimo veiklas. Kad galėtume juos perkelti į projekto valdymo planą, prieš tai jie turi būti apsvarstyti ir jiems pritarta.\n\nTema: projekto vykdymas\nTemos dalis: kokybės užtikrinimas"
-        },
-        {
-            "question": "Taisyklių projekto grupei nustatymo tikslas yra:",
-            "options": [
-                {"title": "dokumentuoti pareigų paskirstymą grupėje", "correct": false},
-                {"title": "aiškiai apibrėžti grupės narių galimybes, lūkesčius", "correct": true},
-                {"title": "informuoti grupės narius apie pareigas projekte", "correct": false},
-                {"title": "sukurti darnius ryšius tarp grupės narių", "correct": false}
-            ],
-            "explain": "Taisyklių nustatymo tikslas yra aiškiai apibrėžti grupės narių galimybes, lūkesčius. Grupės nariams turi būti aiškios jų galimybės, ko jie gali tikėtis ir ko ne.\nTaisyklių paskirtis nėra dokumentuoti pareigų paskirstymą grupėje arba grupės narius informuoti apie pareigas projekte. Pareigų paskirstymas grupėje dažniausiai nurodomas tam skirtoje lentelėje, o ne taisyklėse.\nTaisyklių paskirtis nėra sukurti darnius ryšius tarp grupės narių. Tam dažniausiai yra naudojamos kitos grupės ugdymo veiklos.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
-        },
-        {
-            "question": "Kai kuriems projekto darbams atlikti Jūs nutarėte samdyti paslaugų tiekėją iš šalies. Tam įsidiegėte svorinę sistemą potencialių tiekėjų eilei sudaryti. Jūs nustatėte kiekvieno vertinimo kriterijaus svorį ir nustatėte kiekvienam potencialiam tiekėjui kriterijų reikšmes. Koks bus kitas jūsų žingsnis?",
-            "options": [
-                {"title": "kiekvieno potencialaus tiekėjo kriterijų reikšmių dauginimas iš atitinkamų svorių", "correct": true},
-                {"title": "kriterijų svorių reikšmių sumavimas", "correct": false},
-                {"title": "kiekvieno potencialaus tiekėjo kriterijų reikšmių vidurkio radimas", "correct": false},
-                {"title": "potencialaus tiekėjo įvardinimas, remiantis tik didžiausią svorį turinčio vertinimo kriterijaus reikšme.", "correct": false}
-            ],
-            "explain": "Kitas jūsų žingsnis turėtų būti kiekvieno potencialaus tiekėjo kriterijų reikšmių dauginimas iš atitinkamų svorių. Svorinė sistema yra įrankis, kuris naudojamas potencialių tiekėjų atrankos metu jų eilei nustatyti. Naudojant šią sistemą visų pirma nustatomi vertinimo kriterijų svoriai ir nustatomos kiekvieno potencialaus tiekėjo kiekvieno kriterijaus reikšmės.\nKiekvieno potencialaus tiekėjo kriterijų reikšmės yra dauginamos iš atitinkamų svorių, gautos sandaugos sumuojamos ir taip gaunamas bendras rodiklis potencialiam tiekėjui.\nKitas jūsų žingsnis neturėtų būti:\n- kriterijų svorių reikšmių sumavimas. Jūs tuos svorius turite dauginti iš potencialaus tiekėjo atitinkamų kriterijų reikšmių, kad apskaičiuotumėte kiekvienam tiekėjui bendro rodiklio reikšmę;\n- kiekvieno potencialaus tiekėjo kriterijų reikšmių vidurkio radimas;\n- potencialaus tiekėjo įvardinimas, remiantis tik didžiausią svorį turinčio vertinimo kriterijaus reikšme .\n\nTema: projekto vykdymas\nTemos dalis: tiekėjų atranka"
-        },
-        {
-            "question": "Neseniai jūs pradėjote dirbti projektų vadovu IT kompanijoje. Gavę projektą, jūs rengiatės pirmajam (kickoff) susirinkimui. Projekto plane numatytų išteklių poreikis jau buvo perduotas kompanijos vadovybei. Eidami pas išteklius tvarkantį direktorių, kokio tipo įgaliojimais jūs vadovausitės?",
-            "options": [
-                {"title": "formaliais;", "correct": true},
-                {"title": "nuopelnais grindžiamų", "correct": false},
-                {"title": "referento;", "correct": false},
-                {"title": "eksperto.", "correct": false}
-            ],
-            "explain": "Nurodytu atveju jūs turite vadovautis jums, kaip projekto vadovui, suteiktais formaliais įgaliojimais. Formalūs įgaliojimai priklauso nuo organizacijoje užimamų pareigų.\nNuopelnais grindžiami įgaliojimai remiasi asmens pripažinimu ar pasiekimais.\nReferento įgaliojimai remiasi asmens pagarba arba aukštesnėmis pareigomis.\nEksperto įgaliojimai remiasi geru dalyko žinojimu.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės formavimas"
-        },
-        {
-            "question": "Jūs nutarėte taikyti kai kuriuos pripažinimo ar skatinimo būdus grupės narių darnai ir motyvacijai padidinti. Kokie veiksmai tam būtų geriausi?",
-            "options": [
-                {"title": "įdiegti “mėnesio Darbuotojo” programą, padedančią išryškinti geriausiai dirbantį grupės narį kiekvieną mėnesį", "correct": false},
-                {"title": "visiems grupės nariams padovanoti leidimus nemokamai lankytis krepšinio rungtynėse", "correct": false},
-                {"title": "įdiegti nulinės sumos apdovanojimą (atpildą)", "correct": false},
-                {"title": "įsteigti paskatinamąjį fondą grupės nariams už gerai ir laiku atliktą darbą", "correct": true}
-            ],
-            "explain": "Geriausia būtų įsteigti paskatinamąjį fondą grupės nariams už gerai ir laiku atliktą darbą. Pripažinimas ir paskatinimai skiriami už pageidaujamus rezultatus, kuriuos pasiekti gali visi grupės nariai.\nĮdiegti “mėnesio Darbuotojo” programą, padedančią išryškinti geriausiai dirbantį grupės narį kiekvieną mėnesį, nėra geriausias sprendimas. Tai leistų paskatinti tik vieną darbuotoją per mėnesį. Paskatinimai, kurie gali būti pasiekiami tik keliems grupės nariams, dar yra vadinami nulinės sumos apdovanojimais. Geriau yra turėti tokį paskatinimą, kuris būtų pasiekiamas visiems.\nVisiems grupės nariams dovanoti leidimus nemokamai lankytis krepšinio rungtynėse nėra geriausias sprendimas. Paskatinimai grupės nariams turėtų būti skiriami tik už ypatingus nuopelnus ar gerai atliktus darbus.\nNulinės sumos apdovanojimų diegimas nėra geriausias sprendimas. Tai paskatinimai, kurie pasiekiami tik keliems grupės nariams. Geriau naudoti tokius pripažinimo ar skatinimo būdus, kurie būtų pasiekiami visiems grupės nariams.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
-        },
-        {
-            "question": "Kuri priemonė ar būdas nėra naudojama projekto grupės plėtros (ugdymo) procese?",
-            "options": [
-                {"title": "projekto grupės išdėstymas", "correct": false},
-                {"title": "informacija apie darbų eigą", "correct": true},
-                {"title": "grupės formavimo veiklos", "correct": false},
-                {"title": "paskatinimų sistemos", "correct": false}
-            ],
-            "explain": "Informacija apie darbų eigą kaip priemonė ar būdas nėra naudojama projekto grupės plėtros (ugdymo) procese. Greičiau ji yra projekto grupės valdymo proceso įeities duomenys.\niti šiame klausime pateikti atsakymai yra neteisingi. Pagal PMBOK projekto grupės plėtros (ugdymo) procesas apima bendruosius valdymo įgūdžius, mokymus, grupės formavimo veiklas, taisykles, projekto grupės išdėstymą, paskatinimus.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
-        },
-        {
-            "question": "Kurio proceso rezultatas yra projekto grupės narių pareigos, tinkami žmoniškieji ištekliai ir darbuotojų valdymo plano atnaujinimai?",
-            "options": [
-                {"title": "projekto grupės rinkimo (acquisition)", "correct": true},
-                {"title": "projekto grupės konstravimo (team building)", "correct": false},
-                {"title": "informacijos platinimo", "correct": false},
-                {"title": "žmoniškųjų išteklių planavimo", "correct": false}
-            ],
-            "explain": "Projekto grupės narių pareigos, tinkami žmoniškieji ištekliai ir darbuotojų valdymo plano atnaujinimai yra projekto grupės rinkimo proceso rezultatas. Pagal PMBOK projekto grupės rinkimo procesas apima projekto vykdymui reikiamų žmonių suradimą.\nProjekto grupės narių pareigos, tinkami žmoniškieji ištekliai ir darbuotojų valdymo plano atnaujinimai nėra šių procesų rezultatas:\n- projekto grupės konstravimo, nes šis procesas susijęs su grupės narių kompetencijos ir jų tarpusavio sąveikos gerinimu. Projekto grupės konstravimo procesu siekiama grupės darbo našumo padidėjimo;\n- informacijos platinimo, nes šio proceso paskirtis yra nustatytu laiku teikti informaciją akcininkams apie projekto eigą. Tai informacija apie projektą vykdančios įmonės organizacinių dokumentų pakeitimus ir prašymus daryti projekto keitimus. Pagal PMBOK – tai įvykius (patirtį) fiksuojantys dokumentai, projekto eigos ataskaitos, projekto prezentacijos, akcininkų pastabos, atsakymai akcininkams ;\n- žmoniškųjų išteklių planavimo, nes šio proceso metu įvardinamos, dokumentuojamos ir paskirstomos projekto grupės narių pareigos, atsakomybė ir kas kam turės atsiskaityti. Šio proceso rezultatas yra reikiamų specialistų, jų atsakomybių įvardijimas, projekto organizacinė struktūra ir darbuotojų valdymo planas.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės rinkimas"
-        },
-        {
-            "question": "Kuriame procese kaip priemonė yra naudojamas kokybės auditas",
-            "options": [
-                {"title": "kokybės kontrolės", "correct": false},
-                {"title": "kokybės planavimo", "correct": false},
-                {"title": "kokybės užtikrinimo", "correct": true},
-                {"title": "reakcijos į kokybę planavimo", "correct": false}
-            ],
-            "explain": "Kokybės auditas yra kokybės užtikrinimo proceso priemonė. Kokybės auditas atliekamas įvairiuose projekto etapuose. Tuo siekiama, kad projekto rezultatas atitiktų apibrėžtus kokybės standartus. Pagal PMBOK yra nemažai kokybės užtikrinimo priemonių ir būdų. Jiems priskiriami ir įvairūs kokybės planavimo proceso instrumentai, kaip kainos-naudos analizė, sistemų bandymai, eksperimentų planavimas, kokybės užtikrinimo proceso kainos analizė, o taip pat ir įvairios kokybės kontrolės proceso priemonės, kaip kontrolinės diagramos, histogramos, Pareto diagramos, statistiniai vertinimai, apžiūros, defektų šalinimo stebėjimas.\nKokybės auditas nėra daromas:\n- kokybės kontrolės procese. Pagal PMBOK šiame procese naudojamos įvairios diagramos, statistiniai metodai, apžiūros, defektų šalinimo stebėjimas, kt.;\n- kokybės planavimo procese. Pagal PMBOK šiame procese atliekama kainos-naudos analizė, sistemų bandymai, eksperimentų planavimas, kokybės užtikrinimo kainos analizė, o taip pat naudojama nemažai papildomų priemonių, kaip kolektyviniai svarstymai (brainstorming), panašumo diagramos, veiksnių įtakos analizė, prioritetų lentelės, kt.;\n- reakcijos į kokybę planavimo procese, nes toks procesas pagal PMBOK neegzistuoja.\n\nTema: projekto vykdymas\nTemos dalis: kokybės užtikrinimo procesas"
-        },
-        {
-            "question": "Kuriame projektų valdymo procese naudojami kokybės matavimų rezultatai?",
-            "options": [
-                {"title": "išlaidų kontrolės", "correct": false},
-                {"title": "darbų grafiko laikymosi kontrolės", "correct": false},
-                {"title": "kokybės planavimo", "correct": false},
-                {"title": "kokybės užtikrinimo", "correct": true}
-            ],
-            "explain": "Kokybės matavimų rezultatai yra naudojami kokybės užtikrinimo procese. Kokybės užtikrinimas yra neatsiejama visų planuotų projekto veiklų dalis, kad būtų pasiekti kokybės valdymo plane numatyti kokybės reikalavimai. Kokybės užtikrinimas yra vykdomoji veikla ir yra glaudžiai susijusi su kokybės kontrolės procesu.\nKokybės matavimų rezultatai nėra naudojami:\n- išlaidų kontrolės procese. Pastarasis procesas yra kontrolės procesų grupės dalis. Jo metu stebima, kaip laikomasi numatyto išlaidų plano (cost baseline), įvardijami ir valdomi projekto išlaidų keitimai. Tam, kaip įeities duomenys, naudojamas numatytas išlaidų planas, darbų ataskaitos ir išlaidų valdymo planas;\n- darbų grafiko laikymosi kontrolės procese. Jis taip pat yra kontrolės procesų grupės dalis. Šio proceso metu stebimi veiksniai, galintys įtakoti nukrypimus nuo darbų grafiko, įvardijami ir valdomi projekto darbų grafiko keitimai . Kaip įeities duomenys šiame procese yra naudojamas suplanuotas darbų grafikas, darbų ataskaitos ir darbų grafiko valdymo planas;\n- kokybės planavimo procese, kurio metu įvardijami projekto kokybės standartai ir būdai, kaip tuos standartus reikėtų įgyvendinti. Tam naudojamos kokybės taisyklės (policy), projekto apimties aprašas, kuriamo produkto aprašas, standartai ir reglamentai.\n\nTema: projekto vykdymas\nTemos dalis: kokybės užtikrinimo procesas"
-        },
-        {
-            "question": "Kuris iš žemiau nurodytų dalykų yra informacijos platinimo proceso rezultatas:",
-            "options": [
-                {"title": "projekto planas", "correct": false},
-                {"title": "projekto būsena", "correct": true},
-                {"title": "projekto nuostatai", "correct": false},
-                {"title": "komunikacijų valdymo planas", "correct": false}
-            ],
-            "explain": "Projekto būsena yra informacijos platinimo proceso rezultatas. Informacijos platinimo proceso metu projekto akcininkai nustatytu laiku informuojami apie projekto būseną. Tai projekto valdymo grupės ataskaitos, rengiamos komunikacijų valdymo plane numatytais laiko momentais , kuriose apžvelgiamas projektas.\nProjekto planas yra projekto valdymo plano rengimo proceso rezultatas ir yra projekto integruotojo valdymo proceso dalis. Projekto planas yra vienas iš informacijos platinimo proceso įeities duomenų. Tačiau projekto plano pakeitimai, bet ne pats planas, gali būti kaip informacijos platinimo proceso rezultatas.\nProjekto nuostatai yra organizacijos vadovybės leidžiamas dokumentas. Juo projekto vadovui suteikiami įgaliojamai pradėti projekto darbus. Projekto nuostatų rengimo procesas priklauso projekto inicijavimo procesų grupei.\nKomunikacijų valdymo planas yra komunikacijų planavimo proceso rezultatas. Jis vienas iš informacijos platinimo proceso įeities duomenų. Komunikacijų valdymo plane bendrais bruožais apibrėžiamos vidinės ir išorinės komunikacijos visam projekto laikotarpiui.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
-        },
-        {
-            "question": "Kuris iš teiginių yra teisingas, kai kalbama apie komunikavimo būdus?",
-            "options": [
-                {"title": "iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo balsu (pasikalbėjimo) būdą", "correct": false},
-                {"title": "iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo raštu būdą", "correct": true},
-                {"title": "iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo raštu arba neformalų komunikavimo balsu (pasikalbėjimo) būdą", "correct": false},
-                {"title": "sudėtingais projekto atvejais jūs turite naudoti situaciją geriausiai atitinkantį komunikavimo būdą", "correct": false}
-            ],
-            "explain": "Iškilus sudėtingiems projekto klausimams reikia naudoti formalų komunikavimo raštu būdą. Sudėtingi klausimai dažniausiai yra susiję su sudėtingais ir daug pastangų reikalaujančiais projekto darbais. Tokiais atvejais geriau naudoti formalų komunikavimo raštu būdą, nes kartu jis padeda dokumentuoti iškilusius klausimus.\nKiti atsakymai į šį klausimą nėra tinkami.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
-        },
-        {
-            "question": "Kada ypač svarbūs yra komunikacijų klausimai?",
-            "options": [
-                {"title": "sandorių sudarymo metu", "correct": false},
-                {"title": "rengiant darbų eigos ataskaitas", "correct": false},
-                {"title": "informacijos platinimo procese", "correct": true},
-                {"title": "komunikacijų planavimo procese", "correct": false}
-            ],
-            "explain": "Komunikacijų klausimai ypač svarbūs yra informacijos platinimo procese, kad akcininkams tinkamai būtų perteikta informacija apie projektą. Priklausomai nuo naudojamos terpės ir tikslų, komunikavimo būdai gali būti įvairūs.\nKomunikacijų klausimai nėra pagrindinis dalykas:\n- sandorių sudarymo metu. Sandorio sudarymas nėra procesas (ilgiau trunkanti veikla), nes jis greičiau traktuotinas kaip veiksmas, atliekamas tiekėjo atrankos procese;\n- rengiant darbų eigos ataskaitas. Pagal PMBOK ataskaitų rengimo eigoje svarbios yra šios priemonės ir būdai: informacijos perteikimo priemonės, informacijos rinkimo ir apdorojimo priemonės, projekto stovio peržiūros, darbų grafiko laikymosi ir išlaidų stebėjimo sistemos;\n- komunikacijų planavimo procese, nes jo metu apibrėžiama informacija, kuri reikalinga akcininkams, jos perdavimo laikas ir būdai.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
-        },
-        {
-            "question": "Jūs gavote potencialių tiekėjų pasiūlymus. Išanalizavę juos pastebėjote didelį siūlomų produktų specifikacijų skirtumą. Kokia yra viso to priežastis?",
-            "options": [
-                {"title": "pirkimo dokumentuose netikusiai buvo apibrėžtas pasiūlymų formatas", "correct": false},
-                {"title": "tiekėjai nesuprato reikalavimų", "correct": false},
-                {"title": "pirkimo dokumentai buvo neaiškūs ir neišbaigti", "correct": true},
-                {"title": "pirkimo dokumentuose nebuvo apibrėžti pasiūlymų vertinimo kriterijai", "correct": false}
-            ],
-            "explain": "Manytina, kad šiame scenarijuje tiekėjams buvo neaiški prašomo produkto specifikacija, t. y. pirkimo dokumentai buvo neaiškūs ir neišbaigti. Pirkimo dokumentais siekiama gauti pasiūlymus iš potencialių tiekėjų. Šie dokumentai yra prašymo tiekėjams teikti pasiūlymus proceso įeities duomenys. Pirkėjas turėtų juos parengti taip, kad tiekėjai galėtų pateikti tikslius ir išsamius pasiūlymus.\nPirkimo dokumentuose netikusiai apibrėžtas pasiūlymų formatas nėra priežastis, dėl kurios atsirado dideli siūlomų produktų specifikacijų skirtumai. Priežastis yra ta, kad tiekėjai nesuprato reikalavimų, nes pirkimo dokumentai buvo neaiškūs.\nPrašymo tiekėjams teikti pasiūlymus procese pirkėjas turi parengti tiekėjams aiškius ir suprantamus reikalavimus. Pirkimo dokumentuose nurodomi pasiūlymų vertinimo kriterijai turi poveikį tiekėjų atrankos procese. Tačiau pasiūlymų vertinimo kriterijai ne visada pateikiami tiekėjams. Tai priklauso nuo perkančiosios organizacijos vidaus taisyklių.\n\nTema: projekto vykdymas\nTemos dalis: prašymas tiekėjams teikti pasiūlymus"
-        },
-        {
-            "question": "Jūs rengiate kompetentingų tiekėjų sąrašą savo projektui. Kuris iš žemiau išvardintų šaltinių nenaudotinas, renkant informaciją apie potencialius tiekėjus?",
-            "options": [
-                {"title": "verslininkų asociacijos", "correct": false},
-                {"title": "verslo publikacijos", "correct": false},
-                {"title": "interviu su potencialių tiekėjų konkurentais", "correct": true},
-                {"title": "interneto puslapiai.", "correct": false}
-            ],
-            "explain": "Rengiant kompetentingų tiekėjų sąrašą nereikėtų naudoti interviu su potencialių tiekėjų konkurentais. Tai neetiška.\nVisus kitus šiame klausime išvardintus šaltinius galima naudoti rengiant kompetentingų tiekėjų sąrašą. Tai sąrašas tiekėjų, pajėgių atlikti jums reikalingus darbus. Kompetentingų tiekėjų sąrašas paprastai rengiamas prašymo tiekėjams teikti pasiūlymus procese. Tokiam sąrašui parengti galima naudoti ir kitokius šaltinius, kaip bibliotekų katalogus ar kontaktus su ankstesniais pirkėjais ir jų potencialiais tiekėjais.\n\nTema: projekto vykdymas\nTemos dalis: prašymas tiekėjams teikti pasiūlymus"
-        },
-        {
-            "question": "Tiekėjų atrankos proceso rezultatas yra:",
-            "options": [
-                {"title": "sandoris;", "correct": true},
-                {"title": "tiekėjų sąskaitos", "correct": false},
-                {"title": "darbo užduotis", "correct": false},
-                {"title": "vertinimo kriterijai", "correct": false}
-            ],
-            "explain": "Tiekėjų atrankos procesas baigiasi sandorio sudarymu. Sandoris – tai bendras susitarimas, įpareigojantis tiekėją pristatyti apibrėžtą produktą, o pirkėją - atsilyginti už tai.\nTiekėjai sąskaitas pateikia atlikę sandorio užduotyje numatytus darbus. Tai yra sandorio administravimo proceso dalis, o ne tiekėjų atrankos proceso rezultatas.\nDarbo užduotis (SOW) yra detalus perkamo produkto aprašas. SOW yra vienas iš pirkimų planavimo proceso rezultatų. Tai vienas iš pagrindinių dokumentų, kuriuo remiamasi planuojant ir vertinant pirkimų valdymą.\nVertinimo kriterijai yra naudojami tiekėjų atrankos procese. Jie parengiami anksčiau, kad galima būtų įvertinti tiekėjo tinkamumą ir galimybes kokybiškai atlikti apibrėžtus darbus.\n\nTema: projekto vykdymas\nTemos dalis: tiekėjų atranka"
+          "title": "Projekto pradžioje",
+          "correct": false
         }
+      ],
+      "explain": "Projekto grupės plėtra (ugdymas) vyksta viso projekto metu. Nežiūrint to, kad projektų valdymo žinyne (PMBOK) projekto grupės plėtra yra nurodoma kaip projekto vykdymo proceso dalis, iš tikro tai vyksta viso projekto metu. Kuo anksčiau pradedama projekto grupės plėtra, tuo geriau.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės plėtra"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų reikalingas atrankos (screening) sistemai, norint naudoti ją tiekėjų atrankos procese?",
+      "options": [
+        {
+          "title": "Potencialių tiekėjų sąrašas, surikiuotų eilės tvarka pagal svertąsias reikšmes, gaunamas sumuojant kiekvieno kriterijaus reikšmės ir jo svorio sandaugas",
+          "correct": false
+        },
+        {
+          "title": "Dokumentuoti minimalūs reikalavimai potencialiems tiekėjams",
+          "correct": true
+        },
+        {
+          "title": "Prašomų atlikti darbų kainos įvertis, parengtas nepriklausomų specialistų (should-cost)",
+          "correct": false
+        },
+        {
+          "title": "Rinkos kainų apžvalga tiekėjų prašomų kainų pagrįstumui įvertinti",
+          "correct": false
+        }
+      ],
+      "explain": "Norint naudoti atrankos (screening) sistemą, turi būti parengti dokumentuoti minimalūs reikalavimai potencialių tiekėjų veiklai. Atrankos sistemoje naudojamas slenkstis, pagal kurį filtruojami pasiūlymai. Tai sąlygos, kurias turi atitikti tiekėjas, kad jis būtų pakviestas deryboms.\nPotencialūs tiekėjai yra rikiuojami eilės tvarka pagal svertąsias reikšmes, gaunamas sumuojant kiekvieno kriterijaus reikšmės ir jo svorio sandaugas. Tačiau svertųjų reikšmių nustatymas yra priemonė, kuri naudojama nešališkam potencialių tiekėjų reitingui nustatyti.\nPrašomų atlikti darbų kainos įvertis, parengtas nepriklausomų specialistų (should-cost), yra paremtas rinkoje sutinkamomis kainomis ar kita informacija. Toks įvertis padeda suvokti tiekėjų prašomos kainos pagrįstumą.\nRinkos kainų apžvalga reikalinga nepriklausomiems specialistams, kad jie galėtų įvertinti darbų kainą.\n\nTema: projekto vykdymas\nTemos dalis: tiekėjų atranka"
+    },
+    {
+      "question": "Jūs esate projekto vadovas, dirbantis automobilių gamykloje. Jūsų projektas yra susijęs su naujo automobilio kūrimu. Jūs įvardinote keletą komponentų, kurių gamybą norėtumėte pavesti rangovui. Todėl norite susitikti su galimais tiekėjais, turinčiais reikalingų įgūdžių. Jūsų gamyklos pirkimų departamentas pateikė jums projektui potencialių tiekėjų sąrašą. Ką jūs turėtumėte daryti toliau?",
+      "options": [
+        {
+          "title": "Išsiuntinėti sandorio projekto (draft) kopijas departamento sąraše nurodytiems potencialiems tiekėjams",
+          "correct": false
+        },
+        {
+          "title": "Pakviesti departamento sąraše nurodytus tiekėjus deryboms",
+          "correct": false
+        },
+        {
+          "title": "Išsiuntinėti pirkimo dokumentus departamento sąraše nurodytiems tiekėjams",
+          "correct": true
+        },
+        {
+          "title": "Viešai paskelbti savo reikalavimus ir laukti tiekėjų pasiūlymų",
+          "correct": false
+        }
+      ],
+      "explain": "Toliau jūs turėtumėte išsiuntinėti pirkimo dokumentus departamento sąraše nurodytiems tiekėjams. Pirkimo dokumentai reikalingi prašant potencialius tiekėjus teikti pasiūlymus, ir jie yra prašymo tiekėjams teikti pasiūlymus proceso įeities duomenys. Užsakovas (pirkėjas) turi parengti šiuos dokumentus taip, kad jie padėtų potencialiems tiekėjams parengti tikslius ir išsamius pasiūlymus. Klausime minimu atveju jums reikėtų išsiuntinėti pirkimo dokumentus iš pirkimų departamento gautame sąraše nurodytiems tiekėjams ir paprašyti atsiųsti atsakymus iki nurodyto laiko. Visa tai yra prašymo tiekėjams teikti pasiūlymus proceso dalis. \nJūs neturėtumėte išsiuntinėti departamento sąraše nurodytiems tiekėjams sandorio projekto (draft) kopijų. Sandorio projekto kopija siunčiama vėliau išrinktam tiekėjui. Toks projektas (raštas) naudojamas teisiškai derinant sandorio sąlygas su tiekėju. Šalims sutarus pasirašomas sandoris.\nJūs neturėtumėte kviesti departamento sąraše nurodytų tiekėjų deryboms. Derybos pradedamos tada, kai jau būna gauti pasiūlymai iš potencialių tiekėjų. Tai yra tiekėjų atrankos procesas.\nJūs neturėtumėte viešai skelbti savo reikalavimų ir laukti tiekėjų pasiūlymų. Reikalavimų skelbimas nėra teisingas žingsnis, nes jūs turite departamento sąraše nurodytus potencialius tiekėjus. Reikalavimai skelbiami tais atvejais, kai potencialių tiekėjų sąrašas nėra žinomas arba kai yra atitinkami vyriausybės nutarimai.\n\nTema: projekto vykdymas\nTemos dalis: prašymas teikti pasiūlymus"
+    },
+    {
+      "question": "Kuri iš žemiau išvardintų veiklų nėra sutinkama projekto vykdymo valdymo procese?",
+      "options": [
+        {
+          "title": "Atliekamų darbų vertinimas, kad galima būtų įvardinti reikiamus korekcinius ar prevencinius veiksmus",
+          "correct": true
+        },
+        {
+          "title": "Vidinių ir išorinių komunikacijos kanalų valdymas",
+          "correct": false
+        },
+        {
+          "title": "Projekto rezultatų tvirtinimas",
+          "correct": false
+        },
+        {
+          "title": "Reakcijos į riziką veiksmų atlikimas",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto vykdymo valdymo procese nėra atliekamų darbų vertinimo, kad galima būtų įvardinti reikiamus korekcinius ar prevencinius veiksmus. Toks vertinimas atliekamas projekto darbų kontrolės procese, ir patvirtinti korekciniai ar prevenciniai veiksmai, kurių numatoma imtis, yra projekto vykdymo valdymo proceso įeities duomenys.\nVisi kiti nurodyti atsakymai į užduotą klausimą yra neteisingi, nes juose minimos veiklos dažnai sutinkamos projekto vykdymo valdymo procese. Pagal PMBOK, projekto vykdymo valdymo procesas apima veiklas, kurios būtinos projekto apimtyje apibrėžtiems darbams atlikti.\nKomunikacijos kanalų valdymas yra svarbus, kad būtų užtikrintas darbų vykdymas pagal planą. Efektyvios ir dalykiškos komunikacijos tarp projektu suinteresuotų šalių turi didelę įtaką projekto vykdymui.\nProjekto rezultatų tvirtinimu paliudijama, kad visi darbai yra atlikti ir plane numatyti rezultatai yra gauti.\nReakcijos į riziką veiksmų atlikimo dažnai prireikia vykdant projektus. Jei vykdant darbus susiduriama su rizikos veiksniu (pvz., susirgo darbuotojas), reaguojant į jį turi būti imamasi suplanuotų veiksmų.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
+    },
+    {
+      "question": "Projekto grupės sudarymo (acquire) procese jūs, rinkdamiesi žmones, turėtumėte atsižvelgti į visus žemiau išvardintus įmonės aplinkos duomenis (enterprise environmental factors), išskyrus vieną iš jų",
+      "options": [
+        {
+          "title": "Potencialaus grupės nario amžių",
+          "correct": true
+        },
+        {
+          "title": "Potencialaus grupės nario gebėjimus",
+          "correct": false
+        },
+        {
+          "title": "Potencialaus grupės nario patirtį",
+          "correct": false
+        },
+        {
+          "title": "Potencialaus grupės nario suinteresuotumą projektu.",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto grupės sudarymo (acquire) procese jūs neturėtumėte kreipti dėmesio į potencialaus grupės nario amžių. Yra teisės aktai, draudžiantys asmenų ignoravimą dėl jų amžiaus.\nĮmonės aplinkos duomenys (enterprise environmental factors), kuriais reikėtų remtis renkantis projekto grupės narius, yra jų tinkamumas, gebėjimai, patirtis, suinteresuotumas projektu, kaina. Potencialaus grupės nario patirtis vertinama pagal tai, kiek laiko jis yra dirbęs panašiuose projektuose ar tam tikroje srityje. Idealu būtų, jei projekto vadovas rastų žmones, kurie yra dirbę panašiuose projektuose. Dėl turimų žinių jie galėtų būti jūsų projekto patarėjai ar ekspertai.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės sudarymas"
+    },
+    {
+      "question": "Projektų valdymo informacinė sistema yra instrumentas, kuris nėra naudojamas",
+      "options": [
+        {
+          "title": "Informacijos apie projekto eigą platinimui",
+          "correct": true
+        },
+        {
+          "title": "Projekto vykdymo valdymui",
+          "correct": false
+        },
+        {
+          "title": "Projekto plano rengimui",
+          "correct": false
+        },
+        {
+          "title": "Integruotajai keitimų kontrolei",
+          "correct": false
+        }
+      ],
+      "explain": "Projektų valdymo informacinė sistema (PVIS) nėra naudojama informacijos apie projekto eigą platinimui. Informacijos platinimo tikslas yra suteikti projekto akcininkams informaciją apie projekto stovį nustatytu laiku. Informacijos platinimo priemonėms ir būdams priskiriami komunikavimo įgūdžiai, informacijos rinkimo ir paieškos sistemos, informacijos platinimo metodai, šios srities pamokos. PVIS priemonės, tiek automatinės, tiek rankinės, yra skirtos projekto procesams valdyti.\nKitiems šiame klausime nurodytiems reikalams PVIS yra naudojama.\nProjektų vykdymo valdymas apima veiklas, kurios yra būtinos, kad projekto apimties (scope) plane apibrėžti darbai būtų atlikti. PVIS turi priemones, kurios labai praverčia projekto vykdymo metu.\nVisi planavimui būtini duomenys yra projekto plano rengimo proceso įeities duomenys. Pastarojo metu sudaromas formalus projekto planas. PVIS sudėtyje yra planavimui ir darbų grafikui rengti reikalingi instrumentai.\nIntegruotosios keitimų kontrolės procese svarbu efektyviai tvarkytis su projekto eigoje daromais projekto plano keitimais. Tam reikalingi instrumentai yra PVIS sudėtyje.\n\nTema: projekto vykdymas\nTemos dalis: projekto informacijos platinimas"
+    },
+    {
+      "question": "Po pertvarkos jūsų organizacijoje iš projekto grupės pasitraukė keletas narių. Jūs sušaukėte pasitarimą su asmenimis, kurie pakeitė pasitraukusius. Kurį iš žemiau išvardintų klausimų yra svarbiausia aptarti?",
+      "options": [
+        {
+          "title": "Projekto apimtį",
+          "correct": true
+        },
+        {
+          "title": "Projekto biudžetą",
+          "correct": false
+        },
+        {
+          "title": "Grupės narių techninius gebėjimus",
+          "correct": false
+        },
+        {
+          "title": "Jūsų, kaip projekto vadovo, darbo stilių",
+          "correct": false
+        }
+      ],
+      "explain": "Svarbiausia yra aptarti projekto apimtį (scope). Kai į grupę priimami nauji asmenys, svarbu, kad jie peržiūrėtų suskaidytų darbų lentelę (WBS) ir kitus projekto dokumentus. Taip jie galės geriau suprasti projekto apimtį.\nNors žinoti projekto biudžetą yra gerai, kai kuriems grupės nariams to gali nereikėti. Projekto apimtis nurodo, kokius darbus grupės nariai turi daryti ir kokių ne.\nGrupės narių techninius gebėjimus reikia žinoti, tačiau svarbiau yra tai, kad nariai žinotų projekto apimtį.\nJūsų, kaip projekto vadovo, darbo stiliaus aptarimas nėra svarbus.\n\nTema: projekto vykdymas\nTemos dalis: projekto informacijos platinimas"
+    },
+    {
+      "question": "Kuriame iš žemiau nurodytų projekto procesų atsiranda apčiuopiami rezultatai, informacija apie darbų vykdymą, prašymai daryti pakeitimus, o taip pat yra daromi pakeitimai, atliekami korekciniai ir/ar prevenciniai veiksmai, šalinami defektai?",
+      "options": [
+        {
+          "title": "Projekto vykdymo",
+          "correct": true
+        },
+        {
+          "title": "Projekto valdymo plano rengimo",
+          "correct": false
+        },
+        {
+          "title": "Keitimų kontrolės",
+          "correct": false
+        },
+        {
+          "title": "Informacijos platinimo",
+          "correct": false
+        }
+      ],
+      "explain": "Visi klausime minimi dalykai atsiranda ir nurodyti veiksmai atliekami projekto vykdymo procese. Projekto vykdymas apima veiklas, susijusias su projekto valdymo plane įvardintų darbų atlikimu.\nProjekto valdymo planas yra planavimo proceso rezultatas. Visi planavimo eigoje gauti rezultatai apibendrinami ir sudedami į projekto valdymo planą.\nKeitimų kontrolė yra procedūrų visuma, kuri padeda nagrinėti projekto vykdymo eigoje atsirandančius prašymus daryti pakeitimus. Tai instrumentas, kuris naudojamas projekto integruotosios keitimų kontrolės procese.\nEinamieji organizaciniai dokumentai ar jų pakeitimai yra informacijos platinimo proceso rezultatas. Šio proceso tikslas yra suteikti projekto akcininkams savalaikę informaciją apie projekto stovį. Pagal PMBOK einamiesiems dokumentams priskiriamos patirtų dalykų atmintinės, projekto įrašai, projekto ataskaitos, projekto prezentacijos, akcininkų atsiliepimai, pranešimai akcininkams.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra traktuojamas kaip darbų eigos informacija, kuri renkama projekto vykdymo procese?",
+      "options": [
+        {
+          "title": "Darbų grafike numatyti darbai, kurie nebuvo pradėti",
+          "correct": false
+        },
+        {
+          "title": "Atlikti darbai",
+          "correct": false
+        },
+        {
+          "title": "Detali informacija apie išteklių panaudojimą",
+          "correct": false
+        },
+        {
+          "title": "Visų projekto grupės narių tabeliai (darbo valandų lentelės)",
+          "correct": true
+        }
+      ],
+      "explain": "Projekto grupės narių tabeliai nėra traktuojami kaip darbų eigos informacija. Nors projekto vykdymo procese paprastai tabeliai yra renkami, kur fiksuojamas grupės narių dirbtas laikas, tačiau juose nėra informacijos apie projekto darbų eigą.\nVisi kiti atsakymai į šį klausimą yra neteisingi, nes juose nurodyta informacija reikalinga darbų eigai apibūdinti. Projekto vykdymo procese įvairi informacija apie atliekamus darbus yra renkama. Be jau minėtos informacijos gali būti renkama informacija apie pažangą, projekto stovį, gautus rezultatus, užbaigtus darbus, darbų grafiko laikymąsi, išlaidas, kt.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
+    },
+    {
+      "question": "Jūs nagrinėjate kliento užsakyto projekto plėtros klausimą. Klientas paprašė jūsų padaryti pakeitimus projekte. Tie pakeitimai neturi įtakos projekto kainai, tačiau projekto pabaigą gali tekti nukelti trimis savaitėmis. Ką jūs, kaip projekto vadovas, visų pirma darysite?",
+      "options": [
+        {
+          "title": "Aptarsite prašomus pakeitimus su projekto grupe",
+          "correct": false
+        },
+        {
+          "title": "Įvertinsite prašomų pakeitimų poveikį projektui ir informuosite klientą apie tai",
+          "correct": true
+        },
+        {
+          "title": "Kreipsitės į aukštesnius projektų vadovus",
+          "correct": false
+        },
+        {
+          "title": "Pakeisite darbų grafiką taip, kad ir padarius pakeitimus projektas būtų įvykdytas numatytu laiku",
+          "correct": false
+        }
+      ],
+      "explain": "Jūs, kaip projekto vadovas, visų pirma turėtumėte įvertinti visą situaciją ir išaiškinti klientui jo prašomo pakeitimo poveikį projektui.\nĮvertinę pakeitimo poveikį, jūs turite parengti galimų sprendimų sąrašą turimoje situacijoje ir apsvarstyti jį su projekto grupe artimiausiame susirinkime.\nApsvarstytus galimus sprendimus turimoje situacijoje jūs galite pateikti aukštesniems projektų vadovams.\nKeitimų valdymo taryba turi nuspręsti dėl tolesnių veiksmų. Jei ji nutaria daryti pakeitimus ir sudaryti sąlygas užbaigti projektą pradžioje planuotu laiku, jūs pakoreguojate darbų grafiką taip, kad pakeisto projekto užbaigimas nebūtų vėluojamas.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra virtualios grupės teikiamas privalumas?",
+      "options": [
+        {
+          "title": "Galima imtis projektų, kurių kitaip imtis neapsimokėtų",
+          "correct": false
+        },
+        {
+          "title": "Į projektą gali būti įtraukti judėjimo negalią turintys asmenys",
+          "correct": false
+        },
+        {
+          "title": "Grupės nariai gali efektyviau komunikuoti",
+          "correct": true
+        },
+        {
+          "title": "Specialių įgūdžių nariai gali būti įtraukti į projektą, nežiūrint jų geografinės buvimo vietos",
+          "correct": false
+        }
+      ],
+      "explain": "Tai, kad grupės nariai gali efektyviau komunikuoti, nėra virtualios grupės teikiamas privalumas. Virtuali grupė – tai bendrą tikslą turinčių individų grupė, kurie retai arba niekada betarpiškai nesusitinka. Komunikavimas virtualiose grupėse paprastai būna sunkesnis.\nKiti šio klausimo atsakymai yra virtualios grupės privalumai.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės rinkimas"
+    },
+    {
+      "question": "Projekto įrašai (faktų aprašymai), ataskaitos ir pristatymai yra vieno iš žemiau išvardintų procesų rezultatas. Kurio?",
+      "options": [
+        {
+          "title": "Projekto vykdymo valdymo",
+          "correct": false
+        },
+        {
+          "title": "Ataskaitų apie darbą rengimo",
+          "correct": false
+        },
+        {
+          "title": "Informacijos platinimo;",
+          "correct": true
+        },
+        {
+          "title": "Komunikacijų planavimo",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto įrašai (faktų aprašymai), ataskaitos ir pristatymai yra informacijos platinimo proceso rezultatas. Pastarojo metu nustatytais laiko momentais parengiama akcininkams reikalinga informacija.\nKiti nurodyti atsakymai į šį klausimą yra neteisingi, nes:\n- projektų vykdymo valdymo procese yra įgyvendinamas projekto planas. Jame nurodyti darbai, kuriuos reikia atlikti, norint pasiekti projekto apimtyje (scope) įvardintus rezultatus. Pagal PMBOK projekto vykdymo valdymo proceso rezultatams priskiriami prašymai daryti pakeitimus, atliktos korekcijos, įdiegtos prevencinės priemonės, pašalinti defektai , informacija apie darbų eigą;\n- ataskaitų apie darbą rengimo procesas yra susijęs su informacijos, kaip yra naudojami ištekliai projekto tikslams pasiekti, platinimu akcininkams. Šio proceso rezultatams priskiriami pranešimai apie darbų eigą, prognozės, prašymai daryti pakeitimus, rekomenduojami korekciniai veiksmai, įmonės organizacinių dokumentų atnaujinimai, specifinės pastabos dokumente apie įgytą patirtį (lessons learned);\n- komunikacijų planavimo procese apibrėžiama, kokia informacija ir kada ji turėtų būti perduodama akcininkams.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
+    },
+    {
+      "question": "Projekto grupės išdėstymas (co-location) apima žemiau išvardintus dalykus, išskyrus vieną iš jų:",
+      "options": [
+        {
+          "title": "Patalpos paskyrimą projekto grupės narių susirinkimams",
+          "correct": false
+        },
+        {
+          "title": "Pagalbą projekto grupės nariams dirbti vienoje vietoje, nes grupiniam darbui tai turi teigiamos įtakos",
+          "correct": false
+        },
+        {
+          "title": "Apmokėjimo už darbus paskirstymą grupelėms, dirbančioms skirtingose vietovėse",
+          "correct": true
+        },
+        {
+          "title": "Visiems arba aktyviausiems projekto grupės nariams darbo vietų suteikimas toje pačioje vietovėje.",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto grupės išdėstymas (co-location) nėra apmokėjimo už darbus paskirstymas grupelėms, dirbančioms skirtingose vietovėse. Projekto grupės išdėstymas daugiau yra susijęs su grupės formavimu, nei su apmokėjimo už darbus paskirstymu. Projekto grupės išdėstymas reiškia visų jos narių arba daugumos aktyviausių narių įdarbinimą vienoje vietoje. Tai priemonė, kuri naudojama grupės ugdymo (develop team) procese jo darbo našumui padidinti.\nKiti šiame klausime išvardinti dalykai yra susiję su projekto grupės išdėstymo veikla. Kai kuriems projektams grupės narių darbo vietų įrengimas vienoje patalpoje ar vietovėje gali būti nepageidaujamas arba net neįmanomas. Kaip alternatyva grupės narių surinkimui į vieną vietą yra dažnas narių susirinkimų organizavimas. Tai ypač svarbu virtualių grupių atveju, kurių nariai yra išsibarstę atskirose geografinėse vietovėse.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
+    },
+    {
+      "question": "Projekto grupės formavime yra naudojami žemiau išvardinti veiksmai, išskyrus vieną:",
+      "options": [
+        {
+          "title": "Valdymo veiksmai grupės našumui pagerinti",
+          "correct": false
+        },
+        {
+          "title": "Individualūs veiksmai atskirų narių ir visos grupės našumui pagerinti",
+          "correct": false
+        },
+        {
+          "title": "Veiksmai akcininkų tarpusavio ryšiams pagerinti",
+          "correct": false
+        },
+        {
+          "title": "Kolektyviniai veiksmai, kad vadovybė patenkintų projekto grupės reikalavimus",
+          "correct": true
+        }
+      ],
+      "explain": "Projekto grupės formavime nenaudojami kolektyviniai veiksmai, kad vadovybė patenkintų projekto grupės reikalavimus.\nKiti šiame klausime išvardinti veiksmai naudojami formuojant projekto grupę. Grupės formavimo veikloms priskiriami ir vadovybės, ir atskirų grupės narių veiksmai, kuriais siekiama pagerinti atskirų narių ir visos grupės našumą. Jie yra svarbūs keliant grupės našumą ir didina galimybes pasiekti norimus projekto tikslus.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
+    },
+    {
+      "question": "Kuri iš žemiau išvardintų priežasčių, pasitaikančių projekto grupės rinkimo (acquire) procese, yra mažiausiai svarbi, dėl kurios reikėtų keisti projekto grupės valdymo planą?",
+      "options": [
+        {
+          "title": "Grupės narys organizacijoje buvo pakeltas į aukštesnes pareigas ir daugiau nebebus grupėje",
+          "correct": false
+        },
+        {
+          "title": "Grupės narys, atidirbęs organizacijoje 30 metų, išėjo į pensiją",
+          "correct": false
+        },
+        {
+          "title": "Grupės narys išvyko į kitą šalį;",
+          "correct": true
+        },
+        {
+          "title": "Grupės narys sunkiai susirgo ir neaišku, kiek laiko negalės grįžti į darbą",
+          "correct": false
+        }
+      ],
+      "explain": "Grupės nario išvykimas į kitą šalį yra mažiausiai svarbi priežastis, dėl kurios reikėtų keisti projekto grupės valdymo planą. Toks narys gali išlikti grupėje ir dirbti iš toli.\nVisos kitos šiame klausime išvardintos priežastys yra svarbios, ir, esant joms, projekto grupės valdymo planas turi būti keičiamas. Kiekvienu iš šių atvejų netenkama grupės nario. Todėl būtina nurodyti grupės valdymo plane, kas bus daroma pasitraukus darbuotojui.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės rinkimas"
+    },
+    {
+      "question": "Kokia kokybės užtikrinimo procese naudota informacija gali būti įtraukta į projekto valdymo planą?",
+      "options": [
+        {
+          "title": "Gautos pamokos",
+          "correct": false
+        },
+        {
+          "title": "Panaudotų naujų arba pagerintų kokybės užtikrinimo būdų informacija",
+          "correct": true
+        },
+        {
+          "title": "Prašymai daryti pakeitimus, atsiradę vykdant kokybės užtikrinimo veiklas",
+          "correct": false
+        },
+        {
+          "title": "Naudotos kokybės metrikos",
+          "correct": false
+        }
+      ],
+      "explain": "Į projekto valdymo planą gali būti įtraukta kokybės užtikrinimo procese panaudota naujų arba pagerintų kokybės užtikrinimo būdų informacija. Kokybės užtikrinimo proceso eigoje jūs galite atrasti ir panaudoti naujus procesus arba pagerinti esamus kokybės užtikrinimo procesus. Būtent jie gali būti perkelti į kokybės valdymo planą, kuris yra projekto valdymo plano dalis.\nĮ projekto valdymo planą neturi būti įtraukiamos:\n- gautos pamokos. Jos registruojamos tam, kad įgyta patirtimi galėtume pasinaudoti ateityje naujuose projektuose;\n- prašymai daryti pakeitimus, atsiradę vykdant kokybės užtikrinimo veiklas. Kad galėtume juos perkelti į projekto valdymo planą, prieš tai jie turi būti apsvarstyti ir jiems pritarta.\n\nTema: projekto vykdymas\nTemos dalis: kokybės užtikrinimas"
+    },
+    {
+      "question": "Taisyklių projekto grupei nustatymo tikslas yra:",
+      "options": [
+        {
+          "title": "Dokumentuoti pareigų paskirstymą grupėje",
+          "correct": false
+        },
+        {
+          "title": "Aiškiai apibrėžti grupės narių galimybes, lūkesčius",
+          "correct": true
+        },
+        {
+          "title": "Informuoti grupės narius apie pareigas projekte",
+          "correct": false
+        },
+        {
+          "title": "Sukurti darnius ryšius tarp grupės narių",
+          "correct": false
+        }
+      ],
+      "explain": "Taisyklių nustatymo tikslas yra aiškiai apibrėžti grupės narių galimybes, lūkesčius. Grupės nariams turi būti aiškios jų galimybės, ko jie gali tikėtis ir ko ne.\nTaisyklių paskirtis nėra dokumentuoti pareigų paskirstymą grupėje arba grupės narius informuoti apie pareigas projekte. Pareigų paskirstymas grupėje dažniausiai nurodomas tam skirtoje lentelėje, o ne taisyklėse.\nTaisyklių paskirtis nėra sukurti darnius ryšius tarp grupės narių. Tam dažniausiai yra naudojamos kitos grupės ugdymo veiklos.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
+    },
+    {
+      "question": "Kai kuriems projekto darbams atlikti Jūs nutarėte samdyti paslaugų tiekėją iš šalies. Tam įsidiegėte svorinę sistemą potencialių tiekėjų eilei sudaryti. Jūs nustatėte kiekvieno vertinimo kriterijaus svorį ir nustatėte kiekvienam potencialiam tiekėjui kriterijų reikšmes. Koks bus kitas jūsų žingsnis?",
+      "options": [
+        {
+          "title": "Kiekvieno potencialaus tiekėjo kriterijų reikšmių dauginimas iš atitinkamų svorių",
+          "correct": true
+        },
+        {
+          "title": "Kriterijų svorių reikšmių sumavimas",
+          "correct": false
+        },
+        {
+          "title": "Kiekvieno potencialaus tiekėjo kriterijų reikšmių vidurkio radimas",
+          "correct": false
+        },
+        {
+          "title": "Potencialaus tiekėjo įvardinimas, remiantis tik didžiausią svorį turinčio vertinimo kriterijaus reikšme.",
+          "correct": false
+        }
+      ],
+      "explain": "Kitas jūsų žingsnis turėtų būti kiekvieno potencialaus tiekėjo kriterijų reikšmių dauginimas iš atitinkamų svorių. Svorinė sistema yra įrankis, kuris naudojamas potencialių tiekėjų atrankos metu jų eilei nustatyti. Naudojant šią sistemą visų pirma nustatomi vertinimo kriterijų svoriai ir nustatomos kiekvieno potencialaus tiekėjo kiekvieno kriterijaus reikšmės.\nKiekvieno potencialaus tiekėjo kriterijų reikšmės yra dauginamos iš atitinkamų svorių, gautos sandaugos sumuojamos ir taip gaunamas bendras rodiklis potencialiam tiekėjui.\nKitas jūsų žingsnis neturėtų būti:\n- kriterijų svorių reikšmių sumavimas. Jūs tuos svorius turite dauginti iš potencialaus tiekėjo atitinkamų kriterijų reikšmių, kad apskaičiuotumėte kiekvienam tiekėjui bendro rodiklio reikšmę;\n- kiekvieno potencialaus tiekėjo kriterijų reikšmių vidurkio radimas;\n- potencialaus tiekėjo įvardinimas, remiantis tik didžiausią svorį turinčio vertinimo kriterijaus reikšme .\n\nTema: projekto vykdymas\nTemos dalis: tiekėjų atranka"
+    },
+    {
+      "question": "Neseniai jūs pradėjote dirbti projektų vadovu IT kompanijoje. Gavę projektą, jūs rengiatės pirmajam (kickoff) susirinkimui. Projekto plane numatytų išteklių poreikis jau buvo perduotas kompanijos vadovybei. Eidami pas išteklius tvarkantį direktorių, kokio tipo įgaliojimais jūs vadovausitės?",
+      "options": [
+        {
+          "title": "Formaliais",
+          "correct": true
+        },
+        {
+          "title": "Nuopelnais grindžiamų",
+          "correct": false
+        },
+        {
+          "title": "Referento",
+          "correct": false
+        },
+        {
+          "title": "Eksperto",
+          "correct": false
+        }
+      ],
+      "explain": "Nurodytu atveju jūs turite vadovautis jums, kaip projekto vadovui, suteiktais formaliais įgaliojimais. Formalūs įgaliojimai priklauso nuo organizacijoje užimamų pareigų.\nNuopelnais grindžiami įgaliojimai remiasi asmens pripažinimu ar pasiekimais.\nReferento įgaliojimai remiasi asmens pagarba arba aukštesnėmis pareigomis.\nEksperto įgaliojimai remiasi geru dalyko žinojimu.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės formavimas"
+    },
+    {
+      "question": "Jūs nutarėte taikyti kai kuriuos pripažinimo ar skatinimo būdus grupės narių darnai ir motyvacijai padidinti. Kokie veiksmai tam būtų geriausi?",
+      "options": [
+        {
+          "title": "Įdiegti “mėnesio Darbuotojo” programą, padedančią išryškinti geriausiai dirbantį grupės narį kiekvieną mėnesį",
+          "correct": false
+        },
+        {
+          "title": "Visiems grupės nariams padovanoti leidimus nemokamai lankytis krepšinio rungtynėse",
+          "correct": false
+        },
+        {
+          "title": "Įdiegti nulinės sumos apdovanojimą (atpildą)",
+          "correct": false
+        },
+        {
+          "title": "Įsteigti paskatinamąjį fondą grupės nariams už gerai ir laiku atliktą darbą",
+          "correct": true
+        }
+      ],
+      "explain": "Geriausia būtų įsteigti paskatinamąjį fondą grupės nariams už gerai ir laiku atliktą darbą. Pripažinimas ir paskatinimai skiriami už pageidaujamus rezultatus, kuriuos pasiekti gali visi grupės nariai.\nĮdiegti “mėnesio Darbuotojo” programą, padedančią išryškinti geriausiai dirbantį grupės narį kiekvieną mėnesį, nėra geriausias sprendimas. Tai leistų paskatinti tik vieną darbuotoją per mėnesį. Paskatinimai, kurie gali būti pasiekiami tik keliems grupės nariams, dar yra vadinami nulinės sumos apdovanojimais. Geriau yra turėti tokį paskatinimą, kuris būtų pasiekiamas visiems.\nVisiems grupės nariams dovanoti leidimus nemokamai lankytis krepšinio rungtynėse nėra geriausias sprendimas. Paskatinimai grupės nariams turėtų būti skiriami tik už ypatingus nuopelnus ar gerai atliktus darbus.\nNulinės sumos apdovanojimų diegimas nėra geriausias sprendimas. Tai paskatinimai, kurie pasiekiami tik keliems grupės nariams. Geriau naudoti tokius pripažinimo ar skatinimo būdus, kurie būtų pasiekiami visiems grupės nariams.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
+    },
+    {
+      "question": "Kuri priemonė ar būdas nėra naudojama projekto grupės plėtros (ugdymo) procese?",
+      "options": [
+        {
+          "title": "Projekto grupės išdėstymas",
+          "correct": false
+        },
+        {
+          "title": "Informacija apie darbų eigą",
+          "correct": true
+        },
+        {
+          "title": "Grupės formavimo veiklos",
+          "correct": false
+        },
+        {
+          "title": "Paskatinimų sistemos",
+          "correct": false
+        }
+      ],
+      "explain": "Informacija apie darbų eigą kaip priemonė ar būdas nėra naudojama projekto grupės plėtros (ugdymo) procese. Greičiau ji yra projekto grupės valdymo proceso įeities duomenys.\nKiti šiame klausime pateikti atsakymai yra neteisingi. Pagal PMBOK projekto grupės plėtros (ugdymo) procesas apima bendruosius valdymo įgūdžius, mokymus, grupės formavimo veiklas, taisykles, projekto grupės išdėstymą, paskatinimus.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
+    },
+    {
+      "question": "Kurio proceso rezultatas yra projekto grupės narių pareigos, tinkami žmoniškieji ištekliai ir darbuotojų valdymo plano atnaujinimai?",
+      "options": [
+        {
+          "title": "Projekto grupės rinkimo (acquisition)",
+          "correct": true
+        },
+        {
+          "title": "Projekto grupės konstravimo (team building)",
+          "correct": false
+        },
+        {
+          "title": "Informacijos platinimo",
+          "correct": false
+        },
+        {
+          "title": "Žmoniškųjų išteklių planavimo",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto grupės narių pareigos, tinkami žmoniškieji ištekliai ir darbuotojų valdymo plano atnaujinimai yra projekto grupės rinkimo proceso rezultatas. Pagal PMBOK projekto grupės rinkimo procesas apima projekto vykdymui reikiamų žmonių suradimą.\nProjekto grupės narių pareigos, tinkami žmoniškieji ištekliai ir darbuotojų valdymo plano atnaujinimai nėra šių procesų rezultatas:\n- projekto grupės konstravimo, nes šis procesas susijęs su grupės narių kompetencijos ir jų tarpusavio sąveikos gerinimu. Projekto grupės konstravimo procesu siekiama grupės darbo našumo padidėjimo;\n- informacijos platinimo, nes šio proceso paskirtis yra nustatytu laiku teikti informaciją akcininkams apie projekto eigą. Tai informacija apie projektą vykdančios įmonės organizacinių dokumentų pakeitimus ir prašymus daryti projekto keitimus. Pagal PMBOK – tai įvykius (patirtį) fiksuojantys dokumentai, projekto eigos ataskaitos, projekto prezentacijos, akcininkų pastabos, atsakymai akcininkams ;\n- žmoniškųjų išteklių planavimo, nes šio proceso metu įvardinamos, dokumentuojamos ir paskirstomos projekto grupės narių pareigos, atsakomybė ir kas kam turės atsiskaityti. Šio proceso rezultatas yra reikiamų specialistų, jų atsakomybių įvardijimas, projekto organizacinė struktūra ir darbuotojų valdymo planas.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės rinkimas"
+    },
+    {
+      "question": "Kuriame procese kaip priemonė yra naudojamas kokybės auditas",
+      "options": [
+        {
+          "title": "Kokybės kontrolės",
+          "correct": false
+        },
+        {
+          "title": "Kokybės planavimo",
+          "correct": false
+        },
+        {
+          "title": "Kokybės užtikrinimo",
+          "correct": true
+        },
+        {
+          "title": "Reakcijos į kokybę planavimo",
+          "correct": false
+        }
+      ],
+      "explain": "Kokybės auditas yra kokybės užtikrinimo proceso priemonė. Kokybės auditas atliekamas įvairiuose projekto etapuose. Tuo siekiama, kad projekto rezultatas atitiktų apibrėžtus kokybės standartus. Pagal PMBOK yra nemažai kokybės užtikrinimo priemonių ir būdų. Jiems priskiriami ir įvairūs kokybės planavimo proceso instrumentai, kaip kainos-naudos analizė, sistemų bandymai, eksperimentų planavimas, kokybės užtikrinimo proceso kainos analizė, o taip pat ir įvairios kokybės kontrolės proceso priemonės, kaip kontrolinės diagramos, histogramos, Pareto diagramos, statistiniai vertinimai, apžiūros, defektų šalinimo stebėjimas.\nKokybės auditas nėra daromas:\n- kokybės kontrolės procese. Pagal PMBOK šiame procese naudojamos įvairios diagramos, statistiniai metodai, apžiūros, defektų šalinimo stebėjimas, kt.;\n- kokybės planavimo procese. Pagal PMBOK šiame procese atliekama kainos-naudos analizė, sistemų bandymai, eksperimentų planavimas, kokybės užtikrinimo kainos analizė, o taip pat naudojama nemažai papildomų priemonių, kaip kolektyviniai svarstymai (brainstorming), panašumo diagramos, veiksnių įtakos analizė, prioritetų lentelės, kt.;\n- reakcijos į kokybę planavimo procese, nes toks procesas pagal PMBOK neegzistuoja.\n\nTema: projekto vykdymas\nTemos dalis: kokybės užtikrinimo procesas"
+    },
+    {
+      "question": "Kuriame projektų valdymo procese naudojami kokybės matavimų rezultatai?",
+      "options": [
+        {
+          "title": "Išlaidų kontrolės",
+          "correct": false
+        },
+        {
+          "title": "Darbų grafiko laikymosi kontrolės",
+          "correct": false
+        },
+        {
+          "title": "Kokybės planavimo",
+          "correct": false
+        },
+        {
+          "title": "Kokybės užtikrinimo",
+          "correct": true
+        }
+      ],
+      "explain": "Kokybės matavimų rezultatai yra naudojami kokybės užtikrinimo procese. Kokybės užtikrinimas yra neatsiejama visų planuotų projekto veiklų dalis, kad būtų pasiekti kokybės valdymo plane numatyti kokybės reikalavimai. Kokybės užtikrinimas yra vykdomoji veikla ir yra glaudžiai susijusi su kokybės kontrolės procesu.\nKokybės matavimų rezultatai nėra naudojami:\n- išlaidų kontrolės procese. Pastarasis procesas yra kontrolės procesų grupės dalis. Jo metu stebima, kaip laikomasi numatyto išlaidų plano (cost baseline), įvardijami ir valdomi projekto išlaidų keitimai. Tam, kaip įeities duomenys, naudojamas numatytas išlaidų planas, darbų ataskaitos ir išlaidų valdymo planas;\n- darbų grafiko laikymosi kontrolės procese. Jis taip pat yra kontrolės procesų grupės dalis. Šio proceso metu stebimi veiksniai, galintys įtakoti nukrypimus nuo darbų grafiko, įvardijami ir valdomi projekto darbų grafiko keitimai . Kaip įeities duomenys šiame procese yra naudojamas suplanuotas darbų grafikas, darbų ataskaitos ir darbų grafiko valdymo planas;\n- kokybės planavimo procese, kurio metu įvardijami projekto kokybės standartai ir būdai, kaip tuos standartus reikėtų įgyvendinti. Tam naudojamos kokybės taisyklės (policy), projekto apimties aprašas, kuriamo produkto aprašas, standartai ir reglamentai.\n\nTema: projekto vykdymas\nTemos dalis: kokybės užtikrinimo procesas"
+    },
+    {
+      "question": "Kuris iš žemiau nurodytų dalykų yra informacijos platinimo proceso rezultatas:",
+      "options": [
+        {
+          "title": "Projekto planas",
+          "correct": false
+        },
+        {
+          "title": "Projekto būsena",
+          "correct": true
+        },
+        {
+          "title": "Projekto nuostatai",
+          "correct": false
+        },
+        {
+          "title": "Komunikacijų valdymo planas",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto būsena yra informacijos platinimo proceso rezultatas. Informacijos platinimo proceso metu projekto akcininkai nustatytu laiku informuojami apie projekto būseną. Tai projekto valdymo grupės ataskaitos, rengiamos komunikacijų valdymo plane numatytais laiko momentais , kuriose apžvelgiamas projektas.\nProjekto planas yra projekto valdymo plano rengimo proceso rezultatas ir yra projekto integruotojo valdymo proceso dalis. Projekto planas yra vienas iš informacijos platinimo proceso įeities duomenų. Tačiau projekto plano pakeitimai, bet ne pats planas, gali būti kaip informacijos platinimo proceso rezultatas.\nProjekto nuostatai yra organizacijos vadovybės leidžiamas dokumentas. Juo projekto vadovui suteikiami įgaliojamai pradėti projekto darbus. Projekto nuostatų rengimo procesas priklauso projekto inicijavimo procesų grupei.\nKomunikacijų valdymo planas yra komunikacijų planavimo proceso rezultatas. Jis vienas iš informacijos platinimo proceso įeities duomenų. Komunikacijų valdymo plane bendrais bruožais apibrėžiamos vidinės ir išorinės komunikacijos visam projekto laikotarpiui.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
+    },
+    {
+      "question": "Kuris iš teiginių yra teisingas, kai kalbama apie komunikavimo būdus?",
+      "options": [
+        {
+          "title": "Iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo balsu (pasikalbėjimo) būdą",
+          "correct": false
+        },
+        {
+          "title": "Iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo raštu būdą",
+          "correct": true
+        },
+        {
+          "title": "Iškilus sudėtingiems projekto klausimams, jūs turite naudoti formalų komunikavimo raštu arba neformalų komunikavimo balsu (pasikalbėjimo) būdą",
+          "correct": false
+        },
+        {
+          "title": "Sudėtingais projekto atvejais jūs turite naudoti situaciją geriausiai atitinkantį komunikavimo būdą",
+          "correct": false
+        }
+      ],
+      "explain": "Iškilus sudėtingiems projekto klausimams reikia naudoti formalų komunikavimo raštu būdą. Sudėtingi klausimai dažniausiai yra susiję su sudėtingais ir daug pastangų reikalaujančiais projekto darbais. Tokiais atvejais geriau naudoti formalų komunikavimo raštu būdą, nes kartu jis padeda dokumentuoti iškilusius klausimus.\nKiti atsakymai į šį klausimą nėra tinkami.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
+    },
+    {
+      "question": "Kada ypač svarbūs yra komunikacijų klausimai?",
+      "options": [
+        {
+          "title": "Sandorių sudarymo metu",
+          "correct": false
+        },
+        {
+          "title": "Rengiant darbų eigos ataskaitas",
+          "correct": false
+        },
+        {
+          "title": "Informacijos platinimo procese",
+          "correct": true
+        },
+        {
+          "title": "Komunikacijų planavimo procese",
+          "correct": false
+        }
+      ],
+      "explain": "Komunikacijų klausimai ypač svarbūs yra informacijos platinimo procese, kad akcininkams tinkamai būtų perteikta informacija apie projektą. Priklausomai nuo naudojamos terpės ir tikslų, komunikavimo būdai gali būti įvairūs.\nKomunikacijų klausimai nėra pagrindinis dalykas:\n- sandorių sudarymo metu. Sandorio sudarymas nėra procesas (ilgiau trunkanti veikla), nes jis greičiau traktuotinas kaip veiksmas, atliekamas tiekėjo atrankos procese;\n- rengiant darbų eigos ataskaitas. Pagal PMBOK ataskaitų rengimo eigoje svarbios yra šios priemonės ir būdai: informacijos perteikimo priemonės, informacijos rinkimo ir apdorojimo priemonės, projekto stovio peržiūros, darbų grafiko laikymosi ir išlaidų stebėjimo sistemos;\n- komunikacijų planavimo procese, nes jo metu apibrėžiama informacija, kuri reikalinga akcininkams, jos perdavimo laikas ir būdai.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
+    },
+    {
+      "question": "Jūs gavote potencialių tiekėjų pasiūlymus. Išanalizavę juos pastebėjote didelį siūlomų produktų specifikacijų skirtumą. Kokia yra viso to priežastis?",
+      "options": [
+        {
+          "title": "Pirkimo dokumentuose netikusiai buvo apibrėžtas pasiūlymų formatas",
+          "correct": false
+        },
+        {
+          "title": "Tiekėjai nesuprato reikalavimų",
+          "correct": false
+        },
+        {
+          "title": "Pirkimo dokumentai buvo neaiškūs ir neišbaigti",
+          "correct": true
+        },
+        {
+          "title": "Pirkimo dokumentuose nebuvo apibrėžti pasiūlymų vertinimo kriterijai",
+          "correct": false
+        }
+      ],
+      "explain": "Manytina, kad šiame scenarijuje tiekėjams buvo neaiški prašomo produkto specifikacija, t. y. pirkimo dokumentai buvo neaiškūs ir neišbaigti. Pirkimo dokumentais siekiama gauti pasiūlymus iš potencialių tiekėjų. Šie dokumentai yra prašymo tiekėjams teikti pasiūlymus proceso įeities duomenys. Pirkėjas turėtų juos parengti taip, kad tiekėjai galėtų pateikti tikslius ir išsamius pasiūlymus.\nPirkimo dokumentuose netikusiai apibrėžtas pasiūlymų formatas nėra priežastis, dėl kurios atsirado dideli siūlomų produktų specifikacijų skirtumai. Priežastis yra ta, kad tiekėjai nesuprato reikalavimų, nes pirkimo dokumentai buvo neaiškūs.\nPrašymo tiekėjams teikti pasiūlymus procese pirkėjas turi parengti tiekėjams aiškius ir suprantamus reikalavimus. Pirkimo dokumentuose nurodomi pasiūlymų vertinimo kriterijai turi poveikį tiekėjų atrankos procese. Tačiau pasiūlymų vertinimo kriterijai ne visada pateikiami tiekėjams. Tai priklauso nuo perkančiosios organizacijos vidaus taisyklių.\n\nTema: projekto vykdymas\nTemos dalis: prašymas tiekėjams teikti pasiūlymus"
+    },
+    {
+      "question": "Jūs rengiate kompetentingų tiekėjų sąrašą savo projektui. Kuris iš žemiau išvardintų šaltinių nenaudotinas, renkant informaciją apie potencialius tiekėjus?",
+      "options": [
+        {
+          "title": "Verslininkų asociacijos",
+          "correct": false
+        },
+        {
+          "title": "Verslo publikacijos",
+          "correct": false
+        },
+        {
+          "title": "Interviu su potencialių tiekėjų konkurentais",
+          "correct": true
+        },
+        {
+          "title": "Interneto puslapiai",
+          "correct": false
+        }
+      ],
+      "explain": "Rengiant kompetentingų tiekėjų sąrašą nereikėtų naudoti interviu su potencialių tiekėjų konkurentais. Tai neetiška.\nVisus kitus šiame klausime išvardintus šaltinius galima naudoti rengiant kompetentingų tiekėjų sąrašą. Tai sąrašas tiekėjų, pajėgių atlikti jums reikalingus darbus. Kompetentingų tiekėjų sąrašas paprastai rengiamas prašymo tiekėjams teikti pasiūlymus procese. Tokiam sąrašui parengti galima naudoti ir kitokius šaltinius, kaip bibliotekų katalogus ar kontaktus su ankstesniais pirkėjais ir jų potencialiais tiekėjais.\n\nTema: projekto vykdymas\nTemos dalis: prašymas tiekėjams teikti pasiūlymus"
+    },
+    {
+      "question": "Tiekėjų atrankos proceso rezultatas yra:",
+      "options": [
+        {
+          "title": "Sandoris",
+          "correct": true
+        },
+        {
+          "title": "Tiekėjų sąskaitos",
+          "correct": false
+        },
+        {
+          "title": "Darbo užduotis",
+          "correct": false
+        },
+        {
+          "title": "Vertinimo kriterijai",
+          "correct": false
+        }
+      ],
+      "explain": "Tiekėjų atrankos procesas baigiasi sandorio sudarymu. Sandoris – tai bendras susitarimas, įpareigojantis tiekėją pristatyti apibrėžtą produktą, o pirkėją - atsilyginti už tai.\nTiekėjai sąskaitas pateikia atlikę sandorio užduotyje numatytus darbus. Tai yra sandorio administravimo proceso dalis, o ne tiekėjų atrankos proceso rezultatas.\nDarbo užduotis (SOW) yra detalus perkamo produkto aprašas. SOW yra vienas iš pirkimų planavimo proceso rezultatų. Tai vienas iš pagrindinių dokumentų, kuriuo remiamasi planuojant ir vertinant pirkimų valdymą.\nVertinimo kriterijai yra naudojami tiekėjų atrankos procese. Jie parengiami anksčiau, kad galima būtų įvertinti tiekėjo tinkamumą ir galimybes kokybiškai atlikti apibrėžtus darbus.\n\nTema: projekto vykdymas\nTemos dalis: tiekėjų atranka"
+    },
 
-    ]
-}
+    {
+      "question": "Kokie projekto vadovo įgūdžiai yra svarbiausi?",
+      "options": [
+        {
+          "title": "Techniniai",
+          "correct": false
+        },
+        {
+          "title": "Projekto grupės formavimo",
+          "correct": false
+        },
+        {
+          "title": "Bendravimo stilius",
+          "correct": false
+        },
+        {
+          "title": "Komunikavimo žodžiu ir raštu",
+          "correct": true
+        }
+      ],
+      "explain": "Projekto vadovui svarbu turėti gerus komunikavimo žodžiu ir raštu įgūdžius. Apie 90 proc. savo darbo laiko projekto vadovas sugaišta įvairioms komunikacijoms. Todėl geri komunikavimo įgūdžiai jam yra svarbiausi.\nNors projekto vadovo techniniai įgūdžiai taip pat yra svarbūs, tačiau jo pagrindinė funkcija yra komunikavimas su projekto akcininkais (suinteresuotais asmenimis).  Sugebėjimas formuoti projekto grupę projekto vadovui taip pat yra svarbus, tačiau grupės formavimo veikloje reikalingi geri komunikavimo įgūdžiai.\nProjekto vadovo bendravimo stilius nėra toks svarbus, kaip komunikavimo įgūdžiai.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
+    },
+    {
+      "question": "Kurio proceso įeities duomenys yra pirkimo dokumentai ir kompetentingų tiekėjų sąrašas?",
+      "options": [
+        {
+          "title": "Tiekėjų atrankos",
+          "correct": true
+        },
+        {
+          "title": "Sandorių planavimo",
+          "correct": false
+        },
+        {
+          "title": "Pirkimų planavimo",
+          "correct": false
+        },
+        {
+          "title": "Sandorių administravimo",
+          "correct": false
+        }
+      ],
+      "explain": "Pirkimo dokumentai ir kompetentingų tiekėjų sąrašas yra tiekėjų atrankos proceso įeities duomenys. Pagal PMBOK tiekėjų atrankos procesas apima pasiūlymų gavimą ir vertinimo kriterijų taikymą tiekėjui išrinkti. Sandorių planavimo procese rengiami dokumentai prašymo tiekėjams teikti pasiūlymus procesui. Tai vertinimo kriterijai, darbų užduotis (SOW) ir pirkimo dokumentai. Pirkimų planavimo procese įvardinami projekto darbai, kuriems atlikti bus kviečiami rangovai (sudaromi sandoriai). Tai sprendimo kažkuriuos darbus daryti patiems ar pavesti kitiems (pirkti paslaugas) priėmimas. Jei nusprendžiama darbus pavesti kitiems, rengiami reikalavimai jiems (ką, kaip, kada). Sandorių administravimo proceso įeities duomenys yra sandoris, sandorio valdymo planas, išrinkti tiekėjai, darbų ataskaitos, patvirtinti prašymai daryti pakeitimus ir darbų eigos informacija. Sandorių administravimo tikslas yra užtikrinti, kad rangovo atliekami darbai atitiktų sandoryje išdėstytus reikalavimus. \n\nTema: projekto vykdymas\nTemos dalis: tiekėjų atranka"
+    },
+    {
+      "question": "Projekto grupės konstravimo (team-building) veiklų tikslas yra:",
+      "options": [
+        {
+          "title": "Didinti grupės darbo našumą",
+          "correct": true
+        },
+        {
+          "title": "Gerinti grupės narių santykius",
+          "correct": false
+        },
+        {
+          "title": "Kalbinti grupės narius dirbti viršvalandžius",
+          "correct": false
+        },
+        {
+          "title": "Laikytis projektų valdymo gairių",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto grupės konstravimo veiklų tikslas yra didinti grupės darbo našumą. Į jas įtraukiami vadovai ir atskiri grupės nariai. Projekto grupės konstravimo veiklų tikslas nėra:\n- gerinti grupės narių santykius. Geri grupės narių santykiai ne visada turi \nįtakos didesniam darbo našumui; \n- kalbinti grupės narius dirbti viršvalandžius. Faktiškai papildomos darbo \nvalandos kai kuriais atvejais gali pabloginti darbo našumą;\n- laikytis projektų valdymo gairių. Nors laikymasis visuotinai pripažintų projektų valdymo gairių yra pageidautinas, tačiau tai nėra grupės plėtros veiklų tikslas. \n\nTema: projekto vykdymas\nTemos dalis: projekto grupės plėtra"
+    },
+    {
+      "question": "Kurio proceso rezultatas yra projekto grupės darbo našumo įverčiai?",
+      "options": [
+        {
+          "title": "Projekto grupės rinkimo (acquisition)",
+          "correct": false
+        },
+        {
+          "title": "Projekto grupės plėtros (team building)",
+          "correct": true
+        },
+        {
+          "title": "Informacijos platinimo",
+          "correct": false
+        },
+        {
+          "title": "Žmoniškųjų išteklių planavimo",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto grupės darbo našumo įverčiai yra projekto grupės plėtros proceso rezultatas. Pagal PMBOK šis procesas apima ir individualių grupės narių galimybių didinimą, ir grupinio darbo našumo gerinimą. \nProjekto grupės rinkimo proceso rezultatai yra įvardintos grupei reikalingų narių specialybės, turimi žmoniškieji ištekliai ir personalo valdymo plano pakeitimai. \nPagal PMBOK šis procesas apima reikiamų specialistų sutikimo (leidimo) dirbti projekte gavimą. \nInformacijos platinimo proceso rezultatai yra įmonės organizacinių dokumentų pakeitimai ir prašomi projekto pakeitimai. Šiuo procesu užtikrinama, kad akcininkai laiku gautų jiems reikalingą informaciją apie projekto stovį. \nŽmoniškųjų išteklių planavimo proceso rezultatai yra grupės narių pareigos ir atsakomybė, projekto organizacinė schema ir personalo valdymo planas. Pagal PMBOK šis procesas apima projekto narių pareigų, atsakomybės ir kas kam bus atskaitingas nustatymą, dokumentavimą.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės plėtra"
+    },
+    {
+      "question": "Pagrindinių darbo ir elgesio taisyklių (ground rules) nustatymas projekto ankstyvojoje stadijoje yra naudingas dėl žemiau išvardintų priežasčių, išskyrus:",
+      "options": [
+        {
+          "title": "Jos padeda išvengti netvarkos grupėje",
+          "correct": false
+        },
+        {
+          "title": "Jos padeda grupei dirbti našiau",
+          "correct": false
+        },
+        {
+          "title": "Jos suteikia grupės nariams aiškumo, ką jie gali daryti ir ko ne",
+          "correct": false
+        },
+        {
+          "title": "Jos sudaro sąlygas projekto nariams susipažinti",
+          "correct": true
+        }
+      ],
+      "explain": "Sąlygų sudarymas projekto nariams susipažinti nėra nauda, kurią duoda pagrindinių darbo ir elgesio taisyklių (ground rules) nustatymas ankstyvojoje projekto stadijoje. Taisyklės aiškiai apibrėžia, kas leidžiama grupės nariams ir kas ne. \nVisos kitos išvardintos priežastys skatina nustatyti pagrindines darbo ir elgesio taisykles projekto ankstyvojoje stadijoje. Jos padeda grupės nariams aiškiai suprasti, ką jie gali daryti, išvengti nesusipratimų ir dirbti našiau.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės plėtra"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų yra projekto vykdymo valdymo proceso rezultatas?",
+      "options": [
+        {
+          "title": "Projekto valdymo planas",
+          "correct": false
+        },
+        {
+          "title": "Prašomi pakeitimai",
+          "correct": true
+        },
+        {
+          "title": "Patvirtinti korekciniai veiksmai",
+          "correct": false
+        },
+        {
+          "title": "Patvirtinti defektų šalinimai",
+          "correct": false
+        }
+      ],
+      "explain": "Prašomi pakeitimai yra projekto vykdymo valdymo proceso rezultatas. Šis procesas apima veiklas, būtinas projektui įvykdyti. Dažnai, atliekant šias veiklas, tenka daryti projekto pakeitimus. Prašomi pakeitimai verčia didinti arba mažinti projekto apimtį, koreguoti projekto darbų grafiką. \nProjekto valdymo planas yra projekto valdymo plano rengimo proceso rezultatas. Jis yra vienas iš įeities duomenų projekto vykdymo valdymo procesui. \nPatvirtinti korekciniai veiksmai yra vienas iš įeities duomenų projekto vykdymo valdymo procesui. Prireikus, šių veiksmų imamasi, kad projekto eiga grįžtų į plane numatytas vėžes. \nPatvirtinti defektų pašalinimai yra vienas iš įeities duomenų projekto vykdymo valdymo procesui. Defektų šalinimą dažnai vadina perdarymu. Kai projekto eigoje pastebimi defektai, juos reikia pašalinti, o tai turi būti atlikta ir patvirtinta, kad defekto neliko.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
+    },
+    {
+      "question": "Visi žemiau išvardinti dalykai yra informacijos platinimo proceso rezultatai, išskyrus:",
+      "options": [
+        {
+          "title": "Projekto planą",
+          "correct": true
+        },
+        {
+          "title": "Projekto ataskaitas",
+          "correct": false
+        },
+        {
+          "title": "Projekto įrašus",
+          "correct": false
+        },
+        {
+          "title": "Projekto pristatymus",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto planas nėra informacijos platinimo proceso rezultatas. Projekto planas rengiamas projekto plano rengimo procese, kurio metu integruojami (sujungiami) visų planavimų (projekto apimties, darbų grafiko, kainos, kt.) rezultatai. Projekto plano dalis – komunikacijų planas, yra įeities duomenys informacijos platinimo procesui. \nProjekto ataskaitos, projekto įrašai ir projekto pristatymai yra informacijos platinimo proceso rezultatas. Pagal PMBOK informacijos platinimo proceso rezultatams dar priskiriami gautų pamokų dokumentavimo medžiaga, akcininkų pastabos, prašomi pakeitimai.\n\nTema: projekto vykdymas\nTemos dalis: informacijos platinimas"
+    },
+    {
+      "question": "Jūs esate didelio mokomojo projekto internetu projekto vadovas. Renkate projekto grupę ir manote suformuoti virtualią grupę iš įvairiuose žemynuose dirbančių žmonių. Tokios virtualios grupės efektyviame valdyme kuris dalykas jums neturėtų rūpėti?",
+      "options": [
+        {
+          "title": "Dažnas grupės narių įtraukimas į sprendimų priėmimą",
+          "correct": false
+        },
+        {
+          "title": "Darbo ir elgesio taisyklės (ground rules) grupės nariams",
+          "correct": false
+        },
+        {
+          "title": "Išankstinis pareigų paskyrimas",
+          "correct": true
+        },
+        {
+          "title": "Komunikacijų standartai",
+          "correct": false
+        }
+      ],
+      "explain": "Tokios virtualios grupės efektyviame valdyme jums neturėtų rūpėti išankstinis pareigų paskyrimas. Išankstinis pareigų paskyrimas reiškia grupės nario įtraukimą į projektą dar jam neprasidėjus. Tai atvejai, kai žmogui seniau būna pažadėtos pareigos projekte arba jis turi specialius įgūdžius ir siekiama neprarasti jo. Virtuali grupė yra tokia, kurios nariai turi bendrą tikslą ir retai susitinka akis į akį. \nJums turėtų rūpėti:\n- dažnas grupės narių įtraukimas į sprendimų priėmimą. Tai padeda stiprinti virtualios grupės narių ryšius, nes kitaip stiprinti ryšius sunku dėl geografinio narių išsibarstymo; \n- darbo ir elgesio taisyklės(ground rules) grupės nariams. Jos svarbios virtualių grupių atveju, nes nustatytos taisyklės padeda nariams geriau suprasti ko iš jų  tikimasi; \n- komunikacijų standartai.\nJie reikalingi visiems projektams, tačiau ypatingai svarbūs yra virtualioms grupėms. Kadangi grupės nariai yra geografiškai išsibarstę, jiems komunikuoti gali būti sunku.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės rinkimas"
+    },
+    {
+      "question": "Projekto vykdymo valdymo proceso charakteringi bruožai yra visi žemiau išvardinti dalykai, išskyrus:",
+      "options": [
+        {
+          "title": "Projekto pabaigos susirinkimas",
+          "correct": true
+        },
+        {
+          "title": "Projekto produkto kūrimas",
+          "correct": false
+        },
+        {
+          "title": "Nustatyti projekto stovio apžvalgų terminai",
+          "correct": false
+        },
+        {
+          "title": "Panaudojama didžioji projekto biudžeto dalis",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto vykdymo valdymo proceso charakteringas bruožas nėra projekto pabaigos susirinkimas. Projekto pabaigos susirinkimas yra projekto užbaigimo proceso dalis. Tai grupės susirinkimas, kuriame nariai dalinasi savo patirtimi su visa grupe. \nKiti šio klausimo atsakymai nėra teisingi, nes projekto vykdymo valdymo procese panaudojama didžioji projekto biudžeto dalis, kuriamas projekto produktas ir yra nustatyti projekto stovio apžvalgų terminai.\n\nTema: projekto vykdymas\nTemos dalis: projekto vykdymo valdymas"
+    },
+    {
+      "question": "Atlyginimo už darbą ir darbuotojus skatinančios sistemos yra žemiau išvardinti dalykai, išskyrus vieną iš jų:",
+      "options": [
+        {
+          "title": "Sistemos, kurios skatina žmones elgtis pageidaujamu būdu",
+          "correct": false
+        },
+        {
+          "title": "Netiesioginės išmokos darbuotojams, siekiant apsaugoti juos nuo privalomų mokesčių",
+          "correct": true
+        },
+        {
+          "title": "Įprasti vadybiniai veiksmai, kuriais siekiama padidinti grupės našumą",
+          "correct": false
+        },
+        {
+          "title": "Veiksmai, kurie padeda pasiekti norimus grupės narių darbo rezultatus",
+          "correct": false
+        }
+      ],
+      "explain": "Atlyginimo už darbą ir darbuotojus skatinančioms sistemoms nepriklauso netiesioginės išmokos darbuotojams, siekiant apsaugoti juos nuo privalomų mokesčių. Šios sistemos nėra būdas išvengti mokesčių, bet yra skatinimo būdas siekti projekte norimų rezultatų. \nKiti šio klausimo atsakymuose išvardinti dalykai yra atlyginimo už darbą ir darbuotojus skatinančias sistemų apibūdinimas. Atlyginimo už darbą ir darbuotojus skatinančios sistemos yra formalūs vadovybės veiksmai, kuriais siekiama pagerinti grupės ar atskirų narių atitinkamas pastangas.\n\nTema: projekto vykdymas\nTemos dalis: projekto grupės ugdymas"
+    },
+    {
+      "question": "Jūs esate projekto vadovas. Projekto vykdymo metu jūs pastebite, kad komandoje kyla nesutarimų tiek dėl techninių sprendimų, tiek tarpasmeniniame lygyje. Kuris iš nurodytų būdų yra tinkamiausias konfliktams suvaldyti?",
+      "options": [
+        {
+          "title": "Konfliktai blaško komandą ir įtakoja darbo ritmą. Jūs visada turėtumėte juos švelninti vos tik jie atsiranda",
+          "correct": false
+        },
+        {
+          "title": "Konfliktas turi būti aptartas susitikimo metu, kad visa projekto komanda galėtų dalyvauti surandant sprendimą",
+          "correct": false
+        },
+        {
+          "title": "Į konfliktus turi būti atkreipiamas dėmesys kiek įmanoma anksčiau, tipiškai privačiai, pasitelkiant tiesų, bendradarbiaujantį požiūrį",
+          "correct": true
+        },
+        {
+          "title": "Jūs turėtumėte priversti komandą išspręsti konfliktus, kad būtų galima kuo greičiau susitelkti ties projekto tikslais",
+          "correct": false
+        }
+      ],
+      "explain": "greičiau susitelkti ties projekto tikslais.\nTinkamiausias sprendimas yra atkreipti dėmesį į konfliktą kiek įmanoma anksčiau ir pabandyti jį išspręsti tiesiogiai. Sprendžiant konfliktus svarbus yra privatumas.\nPMBOK siūlomi konfliktų sprendimo būdai:\n Atsitraukimas (Vengti)\n Sušvelninimas (Pripratinti)\n Kompromisas (Suderinti)\n Jėga (Valdyti)\n Bendradarbiavimas (Išspręsti problemą)\nPraktikoje taikomi visi būdai, tačiau pats geriausias yra paskutinysis –\nbendradarbiavimas, kadangi problema yra išsprendžiama iš esmės ir neturėtų \nkartotis. Visgi, šis būdas yra ir pats sudėtingiausias. \nSėkmingas konfliktų valdymas pagerina komandos efektyvumą.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Koks geriausias būdas projektų vadovui palaikyti ryšį su projekto komanda?",
+      "options": [
+        {
+          "title": "Stebint ir bendraujant",
+          "correct": true
+        },
+        {
+          "title": "Užduodamas trumpus, aiškius klausimus per susitikimus su komanda",
+          "correct": false
+        },
+        {
+          "title": "Per trečių šalių vertinimus",
+          "correct": false
+        },
+        {
+          "title": "Per padalinių vadovus",
+          "correct": false
+        }
+      ],
+      "explain": "Projektų vadovas neturėtų blaškyti komandos, neturėtų jai trukdyti dirbti, kontroliuoti pasitelkdamas trečiąsias šalis ar padalinių vadovus. Projektų vadovas neturėtų rengti susitikimų vien tik todėl, kad parodytų jog palaiko ryšį su komanda.\nSusitikimai yra skirti darbinėms temoms. Geriausia jeigu projektų vadovas stebi projekto komandą ir bendrauja trumpai su kiekvienu nariu be specialių planuotų susitikimų\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Klientas jums pateikia prašymą atlikti nedidelius pakeitimus, tikėdamasis, kad jūs juos atliksite nekeisdamas projekto trukmės ir biudžeto. Jūs manote, kad jums suteikti įgaliojimai nuspręsti ar atlikti šį pakeitimą, bet jūs nesate tuo visiškai įsitikinęs. Kokie turėtų būti jūsų tolimesni žingsniai?",
+      "options": [
+        {
+          "title": "Prašymai pakeitimams visada yra gera proga užsidirbti iš kliento ir paslapčia išspręsti grafiko ir kokybės problemas. Jūs turėtumėte protingai įvertinti pageidaujamų darbų trukmę, kainą, rizikas bei kita ir tada priskaičiuoti papildomą pelno maržą tam, kad galiausiai gautumėte naują projekto kainą.",
+          "correct": false
+        },
+        {
+          "title": "Kliento pasitenkinimas yra jūsų pagrindinis prioritetas. Klientas jums suteikė galimybę padidinti jo pasitenkinimą, kurią jūs turėtumėte maksimaliai išnaudoti. Didžioji dauguma projekto vadovų turi biudžetą padengti rizikas, kuris gali būti panaudotas šioms papildomoms išlaidoms padengti.",
+          "correct": false
+        },
+        {
+          "title": "Prieš priimdamas sprendimą jūs turėtumėte pasižiūrėti koks automobilis stovi jūsų kliento automobilių aikštelėje. Jeigu jūs pamatote daug prabangių, naujų modelių automobilių, tuomet labiausiai tikėtina, kad iš šio prašymo pakeitimui jūs galite uždirbti projektui daugiau pinigų. Jeigu automobiliai nėra prabangūs, nauji – tuomet jūs turėtumėte pakeitimą atmesti.",
+          "correct": false
+        },
+        {
+          "title": "Prašymui turėtumėte taikyti pakeitimų valdymo procedūrą, kuri aprašyta jūsų valdymo plane. Tada kartu su plane nurodytais asmenimis priimti sprendimą dėl pakeitimo įtraukimo į projekto apimtį, vertinant ar padidėjęs kliento pasitenkinimas yra vertas išleidžiamų pinigų, atliekamo darbo ir prisiimamų rizikų.",
+          "correct": true
+        }
+      ],
+      "explain": "Kiekvienam prašymui jūs turėtumėte taikyti pakeitimų valdymo procedūrą, kuri aprašyta jūsų valdymo plane. Tada atlikti įvertinimą ir su plane nurodytais asmenimis priimti sprendimą ar prašymą pakeitimui priimsite ir įtrauksite į darbų grafiką, ar ne. Jūs turėtumėte nuosekliai laikytis sukurtų procedūrų.\nPakeitimai nėra jūsų proga pasipelnyti iš kliento. Taip pat, siekiant pagrįsti pakeitimus, kliento pasitenkinimas negali būti vienintelis argumentas.\n\nTema: projekto vykdymas\nTemos dalis: projekto darbų valdymas"
+    },
+    {
+      "question": "Ką projekto vadovas turėtų įvertinti prieš pradėdamas vertinti kiekvieno projekto nario efektyvumą?",
+      "options": [
+        {
+          "title": "Kokias valdymo klaidas galėtumėte užkrauti darbuotojui?",
+          "correct": false
+        },
+        {
+          "title": "Kaip galėtumėte išvengti vadovaujančio stiliaus diskusijos?",
+          "correct": false
+        },
+        {
+          "title": "Ar darbuotojas gavo reikiamus darbo įrankius ir instrukcijas?",
+          "correct": true
+        },
+        {
+          "title": "Kaip išvengti ginčų apie nepakankamą efektyvumą?",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto vadovas prieš vertindamas komandos narį visų pirma turi įvertinti ar komandos narys turėjo visas priemones ir galimybes dirbti našiai ir efektyviai. \nProjektų vadovas jokiu būdu neturi ieškoti kaltų. \nProjektų vadovas neturėtų specialiai rūpintis pokalbio stiliumi, kuris leistų išvengti ginčų ar vadovaujančio tono. Projektų vadovas neturėtų veltis į ginčus, o turėtų kalbėti faktais ir konkrečių matavimų konkrečiais rezultatais, taip demonstruodamas savo įžvalgų pagrįstumą. Projektų vadovo rolė nėra siejama su specialia valdžia ar autoritetu. Projektų vadovas yra komandos narys, kuris \natsakingas už darbų organizavimą ir sėkmingą projekto baigtį. Projektų vadovas \nneturėtų demonstruoti perdėtos valdžios ir galiausiai dėl to rūpintis.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Jūsų vadovaujamo projekto pradžioje jūs pastebite, kad komandos nariai skirtingai supranta darbus, kurie turės būti padaryti projekto metu; rezultatus, kuriuos reikės pateikti ir projekto sudėtingumo lygį. Ką jūs turėtumėte daryti pirmiausia?",
+      "options": [
+        {
+          "title": "Duoti komandai šiek tiek laiko prieiti vieningos nuomonės apie projekto \napimtį ir gaminamo produkto apimtį. Sąsajos problemos galės būti išspręstos ir vėliau",
+          "correct": false
+        },
+        {
+          "title": "Panaudoti rizikų valdymo procedūras tam, kad nustatytumėte ir \nįvertintumėte rizikas, susijusias su nesusikalbėjimu bei sukurtumėte planą su tam tikrais matavimais, leisiančiais reaguoti į nesusikalbėjimus",
+          "correct": false
+        },
+        {
+          "title": "Organizuoti vidinius komandos susitikimus, kurių metu įvardintumėte ir išspręstumėte nesusipratimus tarp komandos narių, taip išvengdami sąsajų \nproblemas, susiskaldymo ir brangiai kainuojančio darbų perdarymo \nvėlesniuose projekto etapuose",
+          "correct": true
+        },
+        {
+          "title": "Organizuoti privačius susitikimus su kiekvienu komandos nariu individualiai tam, kad juos informuotumėte apie jūsų lūkesčius ir atmosferai bei pasitikėjimui projekte keliamus reikalavimus",
+          "correct": false
+        }
+      ],
+      "explain": "Projekto vadovas, siekdamas suvienodinti komandos suvokimą apie projektą, turėtų rengti vidinius komandos susitikimus bei išaiškinti kokie darbai turės būti padaryti projekte, kokie yra siekiami rezultatai ir įvardinti projekto sudėtingumo lygį.\nProjekto vadovo geriausia strategija yra nenuleisti negirdomis problemų. Tiek tarpasmenines, tiek darbines problemas jis turėtų bandyti spręsti ar švelninti.\nProjekto vadovas negali traktuoti įvardintos situacijos kaip rizikos, kadangi rizika yra kažkas kas dar neįvyko, šiuo atveju įvardinta situacija nusako problemą (tai kas jau vyksta). \nŠiuo atveju, kadangi problemos kyla projekte ne dėl asmeniškumų, bendrauti privačiai neverta.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Vykdant projektą, kurio metu statomas modernus tiltas, jūsų komanda surado esminę klaidą techninėje projekto dokumentacijoje, kurioje buvo pateikti tilto brėžiniai. Susitelkusi komanda surado apėjimą (workaround), kuris buvo panaudotas tam, kad būtų išvengta projekto atsilikimo nuo grafiko ir sušvelnintos techninės problemas. Kaip jūs turėtumėte toliau elgtis?",
+      "options": [
+        {
+          "title": "Kruopščiai dokumentuosite surastą problemą, kaip ir surastą apėjimą tam, \nkad sukurtumėte prašymą projekto plano pakeitimui (change request), kurį vėliau pateiksite atsakingiems už pakeitimų procedūros vykdymą",
+          "correct": true
+        },
+        {
+          "title": "Surastas apėjimas buvo atliktas tik techniniame lygyje. Kol jis neįtakoja tilto \nfunkcionalumo ir organizacinės struktūros pokyčių, prašymas pakeitimams (change request) yra nereikalingas",
+          "correct": false
+        },
+        {
+          "title": "Prašymas pakeitimui atgaline data yra nepagrįstas. Sukursite papildomą \ndokumentą, kuriame aprašysite apėjimą ir pats jį pasirašysite. Kitame susitikime su vadovybe dokumentą pristatysite",
+          "correct": false
+        },
+        {
+          "title": "Normalu, kad vykdant projektą atsiranda tam tikri neatitikimai tarp projektinės dokumentacijos ir realaus įgyvendinimo. Tai nėra problema kol produktas atitinka funkcinius reikalavimus",
+          "correct": false
+        }
+      ],
+      "explain": "Pakeitimai projekte turi būti dokumentuoti ir tam yra pildoma prašymo pakeitimams forma. \nVisi pakeitimai turi būti dokumentuoti – projekto dokumentacija turi atitikti realų įgyvendinimą.\nKad pakeitimas turi būti patvirtintas, jis turi būti apdorotas pagal pakeitimų valdymo procedūrą – tik jūsų parašo neužtenka.\n\nTema: projekto vykdymas\nTemos dalis: projekto darbų valdymas"
+    },
+    {
+      "question": "Skirtumas tarp darbų užduoties (SOW) ir projekto apimties (scope) yra:",
+      "options": [
+        {
+          "title": "Darbų užduotį parengia klientas, o apimtį apibrėžia projekto valdymo komanda",
+          "correct": true
+        },
+        {
+          "title": "Darbų užduotis akcentuoja fizinius ir techninius dalykus, kai apimtis nusako funkcinius dalykus",
+          "correct": false
+        },
+        {
+          "title": "Apimtis daugumoje projektų yra apibrėžiama prieš parašant darbų užduotį",
+          "correct": false
+        },
+        {
+          "title": "Apimtis gali būti sutarties dalis, o darbų užduotis negali",
+          "correct": false
+        }
+      ],
+      "explain": "Darbų užduotį rengia klientas, o apimtį apibrėžia projekto vadovas.\nDarbų užduotis apima ir funkcinius, ir nefunkcinius reikalavimus. Darbų užduotis yra apibrėžiama prieš pasirašant sutartį, kaip pirkimo dokumentų dalis. Tipiškai darbų užduotis yra sutarties priedas.\n\nTema: projekto vykdymas\nTemos dalis: projekto darbų valdymas"
+    },
+    {
+      "question": "Vykdant projektą, pastebėjote, kad komanda linkusi izoliuoti vieną komandos narį. Ko nereikėtų daryti šioje situacijoje?",
+      "options": [
+        {
+          "title": "Jūs neturėtumėte kištis. Tarpasmeniniai santykiai yra jų privatus reikalas",
+          "correct": true
+        },
+        {
+          "title": "Jūs turėtumėte pritaikyti komandos konstravimo (team building) praktikas, \nkad pagerintumėte komandos efektyvumą",
+          "correct": false
+        },
+        {
+          "title": "Jūs turėtumėte paklausti izoliuoto nario apie šią situaciją, kad suprastumėte \nkas vyksta",
+          "correct": false
+        },
+        {
+          "title": "Jūs turėtumėte paklausti kitų komandos narių apie šią situaciją , kad suprastumėte kas vyksta",
+          "correct": false
+        }
+      ],
+      "explain": "Jeigu tarpasmeniniai santykiai trukdo projektui, kurio vienas iš sėkmės faktorių yra efektyviai dirbanti pilna komanda, jūs turėtumėte įsikišti. Likti nuošalyje negalite. \nLikusius visus veiksmus galite daryti, priklausomai nuo situacijos.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Atlikdami projekto kokybės užtikrinimą, kokią techniką tipiškai naudosite?",
+      "options": [
+        {
+          "title": "Kodo peržiūras",
+          "correct": false
+        },
+        {
+          "title": "Kokybės auditą",
+          "correct": true
+        },
+        {
+          "title": "Inspektavimą",
+          "correct": false
+        },
+        {
+          "title": "Apimties tikrinimą",
+          "correct": false
+        }
+      ],
+      "explain": "Pagal PMBOK kokybės užtikrinimo procesą, jūs tipiškai naudosite kokybės auditą. \nInspektavimas atliekamas galutiniam produktui, patikrinti ar jis atitinka reikalavimus. Apimties tikrinimas nėra kokybės užtikrinimo veikla.\n\nTema: projekto vykdymas\nTemos dalis: projekto kokybės valdymas"
+    },
+    {
+      "question": "Pareto diagrama padeda susitelkti ties:",
+      "options": [
+        {
+          "title": "Priežastimis, dėl kurių pasikartoja problemos",
+          "correct": false
+        },
+        {
+          "title": "Mažuma priežasčių, kurios sukelia didžiumą problemų",
+          "correct": true
+        },
+        {
+          "title": "Specialiomis procesų svyravimo priežastimis, kurios gali būti tiriamos, \nsiekiant išvengti tam tikro tipo klaidų",
+          "correct": false
+        },
+        {
+          "title": "Standartiniu procesų svyravimo nuokrypiu, kuris neturi būti toliau nagrinėjamas",
+          "correct": false
+        }
+      ],
+      "explain": "Pareto principas nusako, kad 20 % priežasčių lemia 80 % problemų.\n\nTema: projekto vykdymas\nTemos dalis: projekto kokybės valdymas"
+    },
+    {
+      "question": "Vadovaudamas projektui, kaip projektų vadovas, ką jūs turėtumėte labiausiai daryti projekto vykdymo fazėje?",
+      "options": [
+        {
+          "title": "Vykdyti projekto veiklas",
+          "correct": false
+        },
+        {
+          "title": "Koordinuoti žmones ir resursus",
+          "correct": true
+        },
+        {
+          "title": "Registruoti defektus",
+          "correct": false
+        },
+        {
+          "title": "Vengti trečių šalių įtakos",
+          "correct": false
+        }
+      ],
+      "explain": "Jūsų pagrindinis darbas – koordinuoti žmones ir resursus. Projekto veiklas vykdo projekto komanda. Defektus registruoja testuotojai ar klientas bandomosios eksploatacijos metu.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Kas yra netiesa kuomet kalbama apie prašymus pakeitimams?",
+      "options": [
+        {
+          "title": "Prašymai pakeitimams visada turi būti koordinuojami kontroliuojant ir pagal galimybes integruojant",
+          "correct": false
+        },
+        {
+          "title": "Prašymai pakeitimams, kurie išvengia pakeitimų kontrolės proceso, gali įtakoti apimties nukrypimus",
+          "correct": false
+        },
+        {
+          "title": "Profesionaliai valdomi, prašymai pakeitimams gali pagerinti projektą",
+          "correct": false
+        },
+        {
+          "title": "Prašymai pakeitimams visada yra blogo planavimo ženklas ir dėl to turėtų būti ignoruojami",
+          "correct": true
+        }
+      ],
+      "explain": "Prašymai pakeitimams negali būti ignoruojami.\n\nTema: projekto vykdymas\nTemos dalis: projekto darbų valdymas"
+    },
+    {
+      "question": "Vykdant projektą jūs pastebėjote, kad kai kurie jūsų projekto komandos nariai „atkrenta“, kai tuo tarpu kiti nuolatos dirba efektyviai. Ką jūs turėtumėte išmėginti pirmiausia, siekdamas, kad visa komanda dirbtų efektyviai:",
+      "options": [
+        {
+          "title": "Suorganizuoti susirinkimą, kuriame atvirai aptartumėte komandos narių blogą darbo efektyvumą ir kartu pamėgintumėte rasti sprendimą",
+          "correct": false
+        },
+        {
+          "title": "Įdiegti konkurenciją skatinančią sistemą, kuri 20 % komandos, dirbančiai geriau nei likę 80 % komandos, duotų bonusų",
+          "correct": false
+        },
+        {
+          "title": "Nesikišti, bet leisti komandai pačiai susiorganizuoti ir išsispręsti problemas",
+          "correct": false
+        },
+        {
+          "title": "Įdiegti formalią ir neformalią darbo efektyvumo vertinimo sistemą, kuri leistų patyrinėti blogo darbo efektyvumo priežastis ir tarpininkautų surandant sprendimą",
+          "correct": true
+        }
+      ],
+      "explain": "Susitikimas ir viešas blogai dirbančių įvardinimas, nepadės išspręsti problemos. \nDarbuotojai pasijaus tik dar blogiau. \nJeigu yra rimtų priežasčių, dėl kurių vyksta „atkritimai“ (trūksta žinių, kūrybinis darbas), tuomet konkurencija čia visiškai nepadės. \nKomanda neturėtų pati susiorganizuoti ir išsispręsti problemas. Iš esmės projektų vadovas yra atsakingas už darbų organizavimą, žmonių ir resursų valdymą.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Viename iš susirinkimų, kilo diskusija: iki kokio lygio reikėtų projekte laikytis PMBOK įvardintų procesų? Kokio principo jūs pasiūlytumėte laikytis?",
+      "options": [
+        {
+          "title": "PMBOK įvardinti procesai yra suprantami kaip griežtos gairės, kurių projekto komanda turėtų laikytis tik jeigu yra vidinis komandos sutarimas",
+          "correct": false
+        },
+        {
+          "title": "Kuo daugiau PMBOK‘e įvardintų procesų projektų komanda laikysis, tuo geresnis bus projekto efektyvumas",
+          "correct": false
+        },
+        {
+          "title": "Projektų vadovas, turėtų laikytis visų 42 PMBOK‘e įvardintų procesų valdydamas projektą ir neturėtų daryti išimčių",
+          "correct": false
+        },
+        {
+          "title": "Projekto komanda, turėtų pasirinkti tinkamus procesus, kurie yra reikalingi projektui įgyvendinti",
+          "correct": true
+        }
+      ],
+      "explain": "PMBOK‘e yra gerosios praktikos, o ne gairės ar griežti nurodymai. Komanda turėtų pasirinkti tuos procesus, kurie yra aktualūs projektui. Pvz., jeigu nėra vykdomi pirkimai – šių procesų vykdyti nereikėtų.\n\nTema: projekto vykdymas"
+    },
+    {
+      "question": "Kas galiausiai yra atsakingas už projekto kokybę?",
+      "options": [
+        {
+          "title": "Projekto techninis vadovas",
+          "correct": false
+        },
+        {
+          "title": "Projekto vadovas",
+          "correct": true
+        },
+        {
+          "title": "Kokybės vadovas",
+          "correct": false
+        },
+        {
+          "title": "Komandos narys",
+          "correct": false
+        }
+      ],
+      "explain": "Už projekto kokybę atsako projekto vadovas.\nProjektų vadovas yra paskirtas tam, kad būtų pasiekti projekto tikslai, tame tarpe ir sutarta kokybė.\n\nTema: projekto vykdymas\nTemos dalis: projekto kokybės valdymas"
+    },
+    {
+      "question": "Kurie iš žemiau pateiktų rezultatų yra akcininkų valdymo proceso įeities duomenys?",
+      "options": [
+        {
+          "title": "Problemų registras ir darbų eigos ataskaitos",
+          "correct": false
+        },
+        {
+          "title": "Pakeitimų registras ir įmonės aplinkos duomenys",
+          "correct": false
+        },
+        {
+          "title": "Pakeitimų registras ir rizikų registras",
+          "correct": false
+        },
+        {
+          "title": "Akcininkų valdymo planas ir pakeitimų registras",
+          "correct": true
+        }
+      ],
+      "explain": "Pagal PMBOK akcininkų valdymo proceso įeities duomenys yra: \n Akcininkų valdymo planas\n Komunikacijų valdymo planas\n Pakeitimų registras\n Įmonės organizaciniai dokumentai\nAkcininkų įsipareigojimų valdymas (angl. manage stakeholder engagement) – procesas, kurio metu komunikuojama ir dirbama su akcininkais, kad būtų patenkinti jų lūkesčiai, sprendžiamos jų problemos ir palaikomas jų susidomėjimas, įsipareigojimai projektui.\n\nTema: projekto vykdymas\nTemos dalis: akcininkų valdymas"
+    },
+    {
+      "question": "Jeronimas yra projekto, skirto pagaminti atominio ginklo komponentus, projekto vadovas. Jo projekto komandą sudaro patyrę mokslininkai, inžinieriai, dizaineriai ir techniniai ekspertai. Jeronimas, siekdamas komandoje sukurti pasitikėjimo atmosferą, inicijavo pradinį projekto susitikimą (kickoff meeting) su visais komandos nariais. Susitikimo metu Jeronimas siekia supažindinti komandą su projekto tikslais ir sužinoti daugiau apie kiekvieno komandos nario interesus ir patirtį. Jis taip pat turi paskirstyti roles ir atsakomybes kiekvienam komandos nariui. Kuriame etape yra Jeronimo komanda?",
+      "options": [
+        {
+          "title": "Prieštaravimo (Storming)",
+          "correct": false
+        },
+        {
+          "title": "Brandos (Performing)",
+          "correct": false
+        },
+        {
+          "title": "Pusiausvyros (Norming)",
+          "correct": false
+        },
+        {
+          "title": "Formavimosi (Forming)",
+          "correct": true
+        }
+      ],
+      "explain": "Pagal Tuckman kopėčių papildytą modelį yra 5 iš eilės einantys etapai:\nFormavimosi etapas (angl. forming) – supažindinimas su projektu, formalia atsakomybe; narių uždarumas, savarankiškumas.\nPrieštaravimų etapas (angl. storming) – pradedamas darbas; ieškomi techniniai sprendimai; konfliktai; lyderių išaiškėjimas.\nPusiausvyros etapas (angl. norming) – pradedama dirbti kartu; prisitaikoma\nBrandos etapas (angl. performing) – pasiekiamas efektyvumas; dirbama nepriklausomai, gerai organizuotai, sklandžiai.\nUžbaigimo etapas (angl. adjourning) – užduočių užbaigimas; komandos išformavimas.\nKadangi Jeronimas dar tik inicijuoja pradinį susitikimą, komanda yra pirmajame, formavimosi, etape.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    },
+    {
+      "question": "Patvirtinti prašymai pakeitimams yra įeities duomenys į:",
+      "options": [
+        {
+          "title": "Apimties patikrinimo ir apimties kontrolės procesus",
+          "correct": false
+        },
+        {
+          "title": "Darbų valdymo procesą",
+          "correct": true
+        },
+        {
+          "title": "Projekto valdymo plano ir projekto nuostatų sukūrimą",
+          "correct": false
+        },
+        {
+          "title": "Projekto valdymo plano parengimo ir grafiko planavimo procesus",
+          "correct": false
+        }
+      ],
+      "explain": "Patvirtinti pakeitimai yra įeities duomenys darbų vykdymui.\n\nTema: projekto vykdymas\nTemos dalis: projekto darbų valdymas"
+    },
+    {
+      "question": "Projekto komunikacija apima informacijos viešinimą įvairiais metodais. Komunikacija gali būti formali, neformali, verbalinė ir neverbalinė. Kuris iš žemiau pateiktų atsakymo variantų apibrėžia tiesioginę komunikaciją?",
+      "options": [
+        {
+          "title": "Formali komunikacija",
+          "correct": false
+        },
+        {
+          "title": "Horizontali komunikacija",
+          "correct": true
+        },
+        {
+          "title": "Išorinė komunikacija",
+          "correct": false
+        },
+        {
+          "title": "Vertikali komunikacija",
+          "correct": false
+        }
+      ],
+      "explain": "Komunikavimas yra apibrėžiamas:\n Vidinis (su projekto komanda) vs. Išorinis (su klientu, tiekėju)\n Formalus (ataskaitos, protokolai) vs. Neformalus (el. laiškai, diskusijos)\n Vertikalus (su vadovybe, pavaldiniais) vs. Horizontalus (su kolegomis)\n Oficialus (naujienlaiškiai, apžvalgos) vs. Neoficialus (ne protokolui)\n Rašytinis vs. Žodinis\n Verbalinis (balsu) vs. Neverbalinis (kūno kalba)\nTiesioginę komunikaciją apibrėžia horizontalus būdas, kuomet bendraujama su sau lygiais asmenimis, tipiškai kolegomis.\n\nTema: projekto vykdymas\nTemos dalis: komunikacijos valdymas"
+    },
+    {
+      "question": "Koks yra aukščiausias Maslow piramidės, atspindinčios žmonių poreikius, lygis?",
+      "options": [
+        {
+          "title": "Fiziologinis pasitenkinimas",
+          "correct": false
+        },
+        {
+          "title": "Pasiekti išgyvenimą",
+          "correct": false
+        },
+        {
+          "title": "Savivertė",
+          "correct": false
+        },
+        {
+          "title": "Savirealizacija",
+          "correct": true
+        }
+      ],
+      "explain": "Pagal Maslow piramidę apibrėžiami 5 lygiai (nuo žemiausio):\n1. Fiziologiniai poreikiai – kvėpavimas, maistas, vanduo, miegas\n2. Saugumo poreikiai – kūno saugumas, nuosavybė\n3. Priklausymo poreikiai – draugystė, šeima, intymumas\n4. Meilės ir pagarbos poreikiai – savivertė, pasiekimai, kitų pagarba\n5. Savirealizacijos poreikiai– moralė, kūrybingumas, spontaniškumas\nAukščiausiame taške yra savirealizacijos poreikis.\n\nTema: projekto vykdymas\nTemos dalis: projekto komandos valdymas"
+    }
+  ]
+}s
