@@ -52,9 +52,11 @@ Data structure is self explaining:
 
 ##Credits
 
+Author: Darius Krištapavičius
+
 Course lecturer: dr. Asta Vaitkevičienė http://uosis.mif.vu.lt/~astak
 
-Questions data: professor Valdas Undzėnas
+Questions: professor Valdas Undzėnas
 
 Various improvements:
 * Tautvidas Sipavičius http://www.tautvidas.com
