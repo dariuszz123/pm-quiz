@@ -1,0 +1,28 @@
+{
+  "questions": [
+  {
+  "question": "Problemų priežasčių rikiavimas pagal jų pasireiškimo dažnį naudojamas rengiant korekcinius veiksmus. Tai yra pagrindinis principas, kuriuo remiasi",
+  "options": [
+  {"title": "inspektavimai;": false},
+  {"title": "tendencijų analizė", "correct": false},
+  {"title": "kontroliniai grafikai", "correct": false},
+  {"title": "Pareto diagramos", "correct": true}
+  ],
+  "explain": "Problemų priežasčių rikiavimas pagal jų pasireiškimo dažnį naudojamas rengiant Pareto diagramas. Pareto diagramų pagrindinio principo esmė yra ta, kad 80 procentų problemų kyla dėl 20 procentų priežasčių. Tokios diagramos padeda atkreipti dėmesį į kritines priežastis ir koncentruotis ties jų šalinimu.
+\nInspektavimai (tikrinimai) yra priemonė, naudojama kokybės kontrolės procese. Tai nagrinėjimo, matavimo ir testavimo veiklos, kuriomis tikrinama, ar gauti rezultatai atitinka projekto reikalavimus.
+Tendencijų analizė yra būdas projekto rezultatams stebėti laiko bėgyje, kad nustatytume, ar kažkuriuo požiūriu projekto padėtis gerėja ar blogėja.
+Kontrolinis grafikas yra priemonė, padedanti nustatyti, ar procesas vyksta pagal planą, ar nėra nukrypimo nuo numatyto grafiko.
+Tema: projekto kontrolė Temos dalis: kokybės kontrolė"
+  },
+  questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  }
+}
