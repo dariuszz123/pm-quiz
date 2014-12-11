@@ -10,12 +10,551 @@
   ],
   "explain": "Problemų priežasčių rikiavimas pagal jų pasireiškimo dažnį naudojamas rengiant Pareto diagramas. Pareto diagramų pagrindinio principo esmė yra ta, kad 80 procentų problemų kyla dėl 20 procentų priežasčių. Tokios diagramos padeda atkreipti dėmesį į kritines priežastis ir koncentruotis ties jų šalinimu.\nInspektavimai (tikrinimai) yra priemonė, naudojama kokybės kontrolės procese. Tai nagrinėjimo, matavimo ir testavimo veiklos, kuriomis tikrinama, ar gauti rezultatai atitinka projekto reikalavimus.\nTendencijų analizė yra būdas projekto rezultatams stebėti laiko bėgyje, kad nustatytume, ar kažkuriuo požiūriu projekto padėtis gerėja ar blogėja.\nKontrolinis grafikas yra priemonė, padedanti nustatyti, ar procesas vyksta pagal planą, ar nėra nukrypimo nuo numatyto grafiko.\n\nTema: projekto kontrolė \nTemos dalis: kokybės kontrolė"
   },
-  questions": [
+  "questions": [
+  {
+  "question": "Jūs esate internetinio puslapio kūrimo projekto vadovas. Baigiamojoje priėmimo testavimo stadijoje užsakovo atstovas pareiškė, kad sukurtame produkte trūksta pradiniuose reikalavimuose numatytos funkcijos. Kokių veiksmų jūs imsitės?",
+  "options": [
+  {"title": "peržiūrėsite projekto nuostatus (charter) ir pasitikrinsite, ar juose tai buvo numatyta", "correct": false},
+  {"title": "peržiūrėsit suskaidytų darbų lentelę (WBS) ir tuomet priimsite arba atmesite užsakovo atstovo pretenzijas", "correct": true},
+  {"title": "peržiūrėsite projekto apimties (scope) valdymo planą ir tuomet priimsite arba atmesite užsakovo atstovo pretenzijas", "correct": false},
+  {"title": "peržiūrėsite susirinkimų protokolus, kad įsitikintumėte, ar tos funkcijos buvo reikalaujama, ir tuomet nuspręsite, ar ji buvo projekto apimties (scope) dalis", "correct": false}
+  ],
+  "explain": "Toliau jūs turėtumėte peržiūrėti suskaidytų darbų lentelę (WBS) ir tuomet priimti arba atmesti užsakovo atstovo pretenzijas. Detalus projekto apimties (scope) aprašas, suskaidytų darbų lentelė (WBS) ir WBS darbų sąrašas turi būti visa ir galutinė medžiaga projekto apimčiai patikrinti ir ginčams dėl projekto apimties išspręsti. WBS‘e neįvardinti rezultatai ir darbai nėra projekto apimties dalis.\nJūs neturėtumėte peržiūrėti:\n- projekto nuostatų (charter) ar susirinkimų protokolų, nes jie negali būti traktuojami kaip projekto apimtis (scope). Detalus projekto apimties (scope) aprašas, suskaidytų darbų lentelė (WBS) ir WBS darbų sąrašas yra galutinė projekto apimties medžiaga;\n- projekto apimties (scope) valdymo plano ir tuomet priimti arba atmesti užsakovo atstovo pretenzijas. Projekto apimties valdymo planas yra dokumentas, kuriame apibrėžiama, kaip projekto eigoje turi būti valdoma projekto apimtis. Jis yra apimties tvirtinimo proceso įeities duomuo ir vienas negali būti naudojamas visiems projekto darbams patvirtinti. Tik detalus projekto apimties (scope) aprašas, suskaidytų darbų lentelė (WBS) ir WBS darbų sąrašas suteikia informaciją apie kiekvieną projekto rezultatą ir darbą. Tik jais remiantis turi būti sprendžiama, ar visi darbai projekte buvo atlikti.\n\nTema: projekto kontrolė\nTemos dalis: apimties tvirtinimas"
+  },
+  "questions": [
+  {
+  "question": "Jūs esate vadovas projekto, kurio trukmė pradiniame darbų grafike buvo numatyta 12 mėn. Pradinis projekto biudžetas buvo 486 000 Lt arba 40 500 Lt kiekvieną mėnesį. Mėnesio gale jūs vertinate projekto eigą. Atlikta 40 proc. projekto darbų, o pinigų liko 90 000 Lt. Kokia yra likusių projekto darbų prognozuojama kaina (ETC – Estimate To Complete)?",
+  "options": [
+  {"title": "194 000 Lt", "correct": false},
+  {"title": "396 000 Lt", "correct": false},
+  {"title": "595 918,37 Lt", "correct": true},
+  {"title": "991 836,73 Lt", "correct": false}
+  ],
+  "explain": "ETC apskaičiuojamas taip:\nBAC = 486 000 Lt (projekto kainos įvertis projekto pradžioje; BAC – budget at completion);\nAC = 486 000 – 90 000 = 396 000 Lt (tikrosios projekto išlaidos; AC – Actual Cost);\nEV = BAC x atliktų darbų procentas = 486 000 x 0,4 = 194 000 Lt (atliktų darbų vertė; EV – Earned Value);\nCPI = EV / AC = 194 000 / 396 000 = 0,49 (išlaidų indeksas; CPI – cost performance index);\nETC = (BAC - EV) / CPI = (486 000 – 194 000) / 0,49 = 595 918,37 Lt\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Kurį iš žemiau parodytų rodiklių jūs galite apskaičiuoti žinodami atliktų darbų vertę (BCWP - Budgeted Cost of Work Performed; EV - Earned Value; BCWP = EV) ir darbų indeksą (SPI – schedule performance index)?",
+  "options": [
+  {"title": "SV (darbų nuokrypį; SV – schedule variance)", "correct": true},
+  {"title": "CPI (išlaidų indeksą; CPI – Cost Performance Index)", "correct": false},
+  {"title": "EAC (viso projekto patikslintos kainos įvertį duotu laiku; EAC – Estimate At Completion)", "correct": false},
+  {"title": "ROI (atsipirkimų normą; ROI – Return Of Investment)", "correct": false}
+  ],
+  "explain": "Jei jūs žinote savo projekto BCWP ir SPI, tai jūs galite apskaičiuoti SV. Nukrypimų analizė yra efektyvus instrumentas kontroliuoti projekto darbų grafiko laikymąsi. SPI = BCWP / BCWS, kur BCWS – Budgeted Cost of Work Sheduled, planuotų atlikti darbų vertė. SV = BCWP – BCVS. Turėdami SPI ir BCWP, jūs galite apskaičiuoti BCWS, o tuo pačiu ir SV. Taip pat, turėdami šiuos dydžius, jūs galite apskaičiuoti, koks procentas darbų yra atlikta: (BCWP / BCWS x 100) arba (SPI x 100).\nTurėdami BCWP ir SPI jūs negalite apskaičiuoti:\n- CPI. Šis dydis apskaičiuojamas taip: CPI = EV / AC, kur AC – Actual Cost, tikrosios išlaidos;\n- EAC. Jis gaunamas taip: EAC = AC + ETC , kur ETC - Estimate To Complete, iki projekto pabaigos likusių darbų prognozuojama kaina;\n- ROI. Tai procentinis dydis, nurodantis investicijų grąžą. Tai gautų pajamų ir investuotos į projektą sumos skirtumo santykis su investuota į projektą suma. Jei ROI > 0, tai projektas atsipirko.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko laikymosi kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Klientui pakeitus kokybės reikalavimus jūs pakeitėte projekto apimtį. Atitinkamai pakoregavote projekto planą ir rezultatų priėmimo kriterijus. Koks turėtų būti kitas jūsų žingsnis?",
+  "options": [
+  {"title": "parengti pakeitimų ataskaitos versiją", "correct": false},
+  {"title": "informuoti akcininkus nustatytu būdu", "correct": true},
+  {"title": "peržiūrėti kompanijos kokybės valdymo vadovą", "correct": false},
+  {"title": "gauti formalų pritarimą iš jūsų sponsoriaus ir užsakovo", "correct": false}
+  ],
+  "explain": "Kitas jūsų žingsnis turėtų būti akcininkų informavimas nustatytu būdu. Apimties keitimas gali pareikalauti projekto kainos, trukmės, kokybės ar kitų tikslų keitimo. Po projekto plano ir rezultatų priėmimo kriterijų koregavimo jūs turite informuoti akcininkus.\nKitu žingsniu jūs neturėtumėte:\n- rengti pakeitimų ataskaitos versijos. Jūs turite informuoti akcininkus apie pakeistus dokumentus iki pakeitimų ataskaitos versijos rengimo;\n- peržiūrėti kompanijos kokybės valdymo vadovą. Kliento kokybės reikalavimų pokyčiai negali versti koreguoti jūsų kompanijos kokybės valdymo vadovo. Šie reikalavimai gali iššaukti kai kurių procedūrų pokyčius šiame specifiniame projekte, bet neturėtų turėti įtakos bendrai jūsų organizacijos kokybės sistemai (taisyklėms, politikai);\n- gauti formalų pritarimą iš jūsų sponsoriaus ir užsakovo. Formalus sponsoriaus ar užsakovo pritarimas atsiranda dar prieš projekto plano ir rezultatų priėmimo kriterijų koregavimą.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Jūs esate sportinės bazės statybos projekto vadovas, kuris vyksta pagal numatytą grafiką. Įprasto kasmėnesinio susirinkimo metu projekto stoviui su klientais aptarti vadovybė formaliai informavo, kad nori stabdyti projektą neapibrėžtam laikui dėl lėšų stokos. Jūs grįžote iš susirinkimo ir paprašėte savo grupės parengti ataskaitą apie iki šios dienos atliktus darbus, taip pat paprašėte savo teisės departamento pateikti sandorio kopiją. Kuris iš žemiau esančių sakinių geriausiai apibūdina šią situaciją?",
+  "options": [
+  {"title": "jūs pradėjote projekto užbaigimo veiklas", "correct": false},
+  {"title": "jūs pradėjote sandorio užbaigimo veiklas", "correct": false},
+  {"title": "jūs pradėjote darbų ataskaitų rengimo veiklas", "correct": false},
+  {"title": "jūs pradėjote apimties tikrinimo veiklas, kad nustatytumėte projekto užbaigtumo laipsnį", "correct": true}
+  ],
+  "explain": "Klausime aprašytą situaciją geriausiai apibūdina šis sakinys: jūs pradėjote apimties tikrinimo veiklas, kad nustatytumėte projekto užbaigtumo laipsnį. Apimties tikrinimo veiklos būtinos tada, kai yra gauti reikalaujami projekto rezultatai ir projektas eina link logiškos pabaigos arba kai reikia nutraukti projektą anksčiau laiko. Šiame scenarijuje klientas reikalauja stabdyti projektą neapibrėžtam laikui. Tai nereiškia, kad projektas turi būti nutrauktas. Jums reikia peržiūrėti sandorį ir pasiruošti ateičiai šio tipo situacijoje.\nJūs nepradėjote:\n- projekto užbaigimo veiklų. Projekto užbaigimas nėra įteisintas procesas;\n- sandorio užbaigimo veiklų. Pastarosios reikalingos sandoriui su tiekėju ar pardavėju užbaigti, o ne projektui užbaigti;\n- darbų ataskaitų rengimo veiklų. Jos jau vykdomos iki apimties patvirtinimo. Jūs visų pirma turite gauti informaciją apie duotam laiku reikalingas užbaigti užduotis ir veiklas ir tik tada pradėti apimties tvirtinimo veiklas.\n\nTema: projekto kontrolė\nTemos dalis: apimties tvirtinimas"
+  },
+  "questions": [
+  {
+  "question": "Projekto viduryje jūs atlikote nukrypimų analizę ir pastebėjote, kad SPI (Shedule Performance Index, darbų indeksas) yra lygus 0,8 ir SV (Shedule Variance, darbų nuokrypis) yra -2000 Lt. Kokios yra EV (Earned Value, atliktų darbų vertė) ir PV (Planned Value, duotam laikotarpiui skirta suma) reikšmės tuo metu?",
+  "options": [
+  {"title": "800 Lt ir 2 800 Lt", "correct": false},
+  {"title": "8 000 Lt ir 10 000 Lt", "correct": true},
+  {"title": "10 000 Lt ir 8 000 Lt", "correct": false},
+  {"title": "iš turimų duomenų šių reikšmių negalima apskaičiuoti", "correct": false}
+  ],
+  "explain": "EV ir PV reikšmės atitinkamai yra 8 000 Lt ir 10 000 Lt. Nukrypimų analizė yra efektyvus instrumentas kontroliuoti, kaip laikomasi darbų grafiko. SV = EV – PV. SPI = EV / PV. Šiame scenarijuje sprendžiama tokia lygčių sistema:\nEV – PV = -2000\nEV / PV = 0,8\nAtlikę veiksmus gauname (PV – 2000) / PV = 0,8. Taigi, PV = 10 000, o EV = 8 000.\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Duotu momentu jūsų projekto EV (Earned Value, atliktų darbų vertė) yra 750 000 Lt, AC (Actual Cost, tikrosios projekto išlaidos) yra 600 000 Lt, PV (Planned Value, duotam laikotarpiui skirta suma) yra 500 000 Lt. Koks yra jūsų projekto SPI (Schedule Performance Index, darbų indeksas)?",
+  "options": [
+  {"title": "-3,0", "correct": false},
+  {"title": "-1,5", "correct": false},
+  {"title": "1,5", "correct": true},
+  {"title": "3,0", "correct": false}
+  ],
+  "explain": "Jūsų projekto SPI yra 1,5. Jis apskaičiuojamas taip: SPI = EV / PV. Šiame scenarijuje SPI = 750 000 / 500 000 = 1,5. Tai reiškia, kad jūsų projekte duotu momentu jau atlikta daugiau darbų nei buvo planuota. SPI yra pagrindinis rodiklis, kaip laikomasi darbų grafiko. Jei SPI>1, tai darbų grafikas yra viršytas. Jei SPI<1, nuo darbų grafiko atsiliekama. Duotame scenarijuje SPI rodo, kad jūsų projektas viršija darbų grafiką.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Jūs nagrinėjate rinkinį prašymų daryti apimties pakeitimus projekto, kurį perėmėte iš pasitraukusio projekto vadovo. Projekto apimties pakeitimo laipsniui įvertinti su kuriuo projekto dokumentu jūs turite palyginti prašymus daryti projekto apimties pakeitimus?",
+  "options": [
+  {"title": "WBS (Work Breackdown Structure, suskaidytų darbų lentelė);", "correct": true},
+  {"title": "projekto valdymo planu", "correct": false},
+  {"title": "projekto veiklų atributais", "correct": false},
+  {"title": "apimties valdymo planu", "correct": false}
+  ],
+  "explain": "Jūs turite lyginti prašymus daryti projekto apimties pakeitimus su WBS‘u, nes jame įvardinama projekto apimtis. Bet kokios WBS‘o modifikacijos iššaukia apimties keitimus. Projekto apimties pakeitimo laipsniui įvertinti prašymai daryti pakeitimus turi būti lyginami su planuota projekto apimtimi. Planuota projekto apimtis yra apibrėžta detaliame projekto apimties apraše, WBS‘e ir WBS‘o darbų sąraše.\nJums nereikia lyginti prašymų daryti apimties pakeitimus su:\n- projekto valdymo planu. Valdymo planas padeda valdyti projekto vykdymą. Šį planą jūs naudosite apimties pakeitimų poveikiui kitoms projekto sritims įvertinti;\n- projekto veiklų atributais. Veiklų atributai - tai kiekvienos darbų grafiką turinčios veiklos charakteristikos. Tai veiklos pavadinimas, kodas, veiklos aprašas, loginiai ryšiai, reikalingi ištekliai;\n- apimties valdymo planu. Šis planas apibrėžia procedūras, kaip turi būti valdomi apimties pakeitimai, kaip jų prašoma, kas ir kaip svarsto prašymus ir t.t. Jame pačių apimties pakeitimų nėra.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Integruotoji keitimų kontrolė apima visus žemiau išvardintus dalykus, išskyrus",
+  "options": [
+  {"title": "išlaidų kontrolę", "correct": false},
+  {"title": "apimties keitimo kontrolę", "correct": false},
+  {"title": "sąskaitų kontrolę", "correct": true},
+  {"title": "darbų grafiko kontrolę", "correct": false}
+  ],
+  "explain": "Integruotoji keitimu kontrole nera siejama su s¹skaitu kontrole. Ji apima projekto apimties keitimo kontrolź, darbu grafiko kontrolź, ilaidu kontrolź, kokybes kontrolź, rizikos valdymo kontrolź. S¹skaitu tvarkymas nera integruotosios keitimu kontroles funkcija.\nIntegruotoji keitimu kontrole apima:\n- ilaidu kontrolź, nes tai gali tureti poveiki viso projekto eigai;\n- apimties keitimo kontrolź, nes apimties keitimas gali atsiliepti projekto kainai, rizikai, kokybei, darbuotojams. Todel yra svarbu valdyti apimties keitimus;\n- darbu grafiko kontrolź, nes siulomi grafiko keitimai gali tureti itakos projekto kainai, rizikai, kokybei, darbuotojams.\n\nTema: projekto kontrole\nTemos dalis: integruotoji keitimu kontrole"
+  },
+  "questions": [
+  {
+  "question": "Užsakovas, jūsų organizacijos vadovybė ir kiti pagrindiniai akcininkai yra sutarę dėl kuriamos sistemos reikalavimų. Projektas vyksta pagal grafiką. Tačiau išėję nauji reguliaciniai aktai verčia daryti vieną projekto specifikacijos keitimą. Ką jūs visų pirma turėtumėte daryti, kad šis pakeitimas būtų įtrauktas į projekto planą?",
+  "options": [
+  {"title": "perengti prašymą daryti pakeitimą", "correct": true},
+  {"title": "susitikti su vadovybe reikalui aptarti", "correct": false},
+  {"title": "keisti WBS (Work Breackdown Structure, suskaidytų darbų lentelę), projekto darbų grafiką ir projekto planą, kuriuose būtų atspindėti naujas reikalavimas", "correct": false},
+  {"title": "nedelsdami informuoti visus akcininkus apie numatomą pakeitimą projekte", "correct": false}
+  ],
+  "explain": "Jūs visų pirma turite parengti prašymą daryti pakeitimą. Pakeitimo darymui turi pritarti keitimų kontrolės taryba. Prašymo daryti pakeitimą parengimu jūs duodate impulsą šaukti tarybos susirinkimą ir siekiate pritarimo prašomam pakeitimui. Tik po prašymo priėmimo ar atmetimo turi būti informuojami visi akcininkai.\nJūs neturėtumėte:\n- susitikti su vadovybe reikalui aptarti. Prieš susitikdami su vadovybe jūs turite parengti prašymą daryti pakeitimą. Tai būtų lyg darbotvarkė susitikimui su vadovybe. Po prašymo parengimo gali būti šaukiama keitimų kontrolės taryba;\n- keisti WBS, projekto darbų grafiko ir projekto plano, kuriuose būtų atspindėti nauji reikalavimai. Daryti minėtus darbus reikia tik gavus visų akcininkų pritarimą ir keitimų kontrolės tarybos leidimą;\n- nedelsdami informuoti visus akcininkus apie numatomą pakeitimą projekte. Akcininkai informuojami tik po to, kai keitimų kontrolės taryba pritaria prašomam pakeitimui ir atnaujina atitinkamus projekto dokumentus.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Pareto diagrama padeda projekto grupei:",
+  "options": [
+  {"title": "prognozuoti galimas problemas", "correct": false},
+  {"title": "analizuoti problemų priežastis", "correct": false},
+  {"title": "parodyti, kad procesas yra kontroliuojamas", "correct": false},
+  {"title": "koncentruotis ties svarbiausiomis problemu prie˛astimis", "correct": true}
+  ],
+  "explain": "Pareto diagrama padeda projekto grupei koncentruotis ties svarbiausiomis problemų priežastimis. Pareto diagrama yra stačiakampių pavidalo ir pagrįsta tuo, kad 80 proc. problemų atsiranda dėl 20 proc. priežasčių. Joje problemų kiekiai priklausomai nuo priežasties išdėstomi mažėjimo tvarka. Tai padeda projekto grupei nustatyti daugiausia problemų keliančias priežastis ir koncentruotis ties tų priežasčių šalinimu.\nGalimų problemų prognozavimui jūs galite naudoti išsisklaidymo (pasiskirstymo) diagramas, kurios yra tendencijų analizės instrumentas. Šios diagramos atspindi koreliaciją tarp duomenų X/Y ašių plokštumoje. Tai padeda prognozuoti tendencijas.\nProblemų priežasčių analizei jūs galite naudoti „žuvies kaulų“ pavidalo (fishbone) arba Išikavos diagramas. Tai priežasties-pasekmės diagramos, ir jos padeda įvardinti pagrindines kokybės problemos priežastis.\nParodymui, kad procesas yra kontroliuojamas, jūs galite naudoti kontrolines diagramas, kurios yra grafinis proceso rezultatų atvaizdavimas laike. Tai padeda kontroliuoti procesą, ar jis vyksta taip, kaip turėtų. Pagal skirtumą tarp gautų ir planuotų rezultatų sprendžiama, ar tai įvyko dėl atsitiktinių priežasčių, ar tai yra nenumatyta projekto eiga ir reikalingos korekcijos.\n\nTema: projekto kontrolė\nTemos dalis: kokybės kontrolė"
+  },
+  "questions": [
+  {
+  "question": "Dėl kai kurių darbų vėlavimo jums prireikė koreguoti projekto darbų grafiką. Ko jūs neturėtumėte daryti?",
+  "options": [
+  {"title": "keisti suplanuoto projekto darbų grafiko", "correct": false},
+  {"title": "perskaičiuoti SPI (Shedule Performance Index, darbų indekso)", "correct": true},
+  {"title": "informuoti akcininkų", "correct": false},
+  {"title": "atnaujinti projekto valdymo plano", "correct": false}
+  ],
+  "explain": "Jūs neturėtumėte perskaičiuoti SPI (Shedule Performance Index, darbų indekso). SPI rodo, kaip projekto vykdymas atitinka darbų grafiką. Jį perskaičiuoti jūs turėtumėte vėliau, kai analizuosite darbų grafiko vykdymą, bet ne po darbų grafiko pakeitimo.\nKiti atsakymai į šį klausimą yra neteisingi, nes juose nurodyti veiksmai turi būti vykdomi koreguojant projekto darbų grafiką.\nPastebėkime, kad suplanuoto darbų grafiko keisti nereikėtų, kol nukrypimai nuo jo nėra žymūs.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko kontrolė"
+  },
+  "questions": [
   {
   "question": "",
   "options": [
-  {"title": "": true},
   {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
+  {"title": "", "correct": false},
+  {"title": "", "correct": false}
+  ],
+  "explain": ""
+  },
+  "questions": [
+  {
+  "question": "",
+  "options": [
+  {"title": "", "correct": false},
+  {"title": "", "correct": true},
   {"title": "", "correct": false},
   {"title": "", "correct": false}
   ],
