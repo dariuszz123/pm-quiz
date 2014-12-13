@@ -1,494 +1,604 @@
 {
-    "questions": [
-        {
-            "question": "Kuri iš žemiau pateiktų motyvacijos teorijų turi ryšį su gerovės veiksniais (hygiene factors) ir motyvais dirbti (motivating agents)",
-            "options": [
-                {"title": "X teorija", "correct": false},
-                {"title": "Y teorija", "correct": false},
-                {"title": "Herzberg’o teorija", "correct": true},
-                {"title": "Maslow’o poreikių hierarchija.", "correct": false}
-            ],
-            "explain": "Herzberg’o teorija turi ryšį su gerovės veiksniais (hygiene factors) ir dirbti skatinančiais veiksniais(motivating agents). Gerovės veiksniai palaiko žmogaus norąlikti darbovietėje. Tai darbo sąlygos, algos dydis, gyvenimo sąlygos, santykiai darbe, saugumas, tarnybinės pareigos. Dirbti skatinantys veiksniai yra atsakomybė, savirealizacija, profesinis augimas, nuopelnų pripažinimas. \n X ir Y teorijų autorius McGregor‘as visus darbuotojus dalina į dvi grupes: X ir Y.\n X teorijoje laikoma, kad darbuotojai nepradeda darbo, kol jų neparagina viršininkas. Darbuotojams reikalinga nuolatinė kontrolė ir jie nesiima jokios atsakomybės. \nY teorijoje laikoma, kad darbuotojai visada nori dirbti. Reikalinga minimali kontrolė arba jos gali iš viso nebūti, kad darbuotojai savo pastangas nukreiptų apibrėžtiems tikslams pasiekti. \n Maslow’o poreikių hierarchijos teorijoje laikoma, kad žmogaus gyvenimas pagrįstas poreikių tenkinimu. Norint patenkinti aukštesnio lygmens poreikius, jau turi būti patenkinti žemesnio lygmens poreikiai. Einant nuo žemiausio iki aukščiausio, yra tokie poreikių lygmenys: \n - 1 lygmuo: fiziologiniai poreikiai (oras, vanduo, maistas, pastogė, rūbai);\n - 2 lygmuo: saugumo poreikiai (patikimumas, stabilumas, skriaudos ar žalos nebuvimas);\n - 3 lygmuo: socialiniai poreikiai (meilė, prisirišimas, pripažinimas, draugai);\n - 4 lygmuo: pagarbos poreikiai (kvalifikacija, pagarba, dėmesys, dėkingumas);\n - 5 lygmuo: pasireiškimo poreikiai (pasitenkinimas, augimas, mokymasis).\nTema: projekto planavimas \n Temos dalis: projekto grupės planavimas\n"
-        },
-        {
-            "question": "Jūs esate didelio statybų projekto vadovas. Jau esate numatę darbus ir rengiate darbų grafiką. Jums reikės iškasti pamatų duobę prieš betonuojant pastato pamatus. Kokia yra šių darbų priklausomybė:",
-            "options": [
-                {"title": "švelnioji", "correct": false},
-                {"title": "išorinė (external)", "correct": false},
-                {"title": "privalomoji (mandatory)", "correct": true},
-                {"title": "laisvai pasirenkama (discretionary)", "correct": false}
-            ],
-            "explain": "Tarp šių darbų yra privalomoji priklausomybė. Šiame projekte, be abejo, jūs turite pirma iškasti duobę, o po to betonuoti pastato pamatus.\n Švelniosios darbų priklausomybės kaip tokios nėra. Tai išgalvotas pavadinimas.\n Išorinė priklausomybė yra tokia, kai projekte numatyto darbo atlikimas priklauso nuo išorinių veiksnių, pvz., nepalankių oro sąlygų, subrangovų, kt.\n Laisvai pasirenkama darbų priklausomybė yra tokia, kai darbų vykdymo eilės tvarką galima pasirinkti laisvai, pvz., labiau įprastą projekto grupei, nors ir galima kita darbų eilės tvarka.\nTema:projekto planavimas\nTemos dalis:darbų grafiko planavimas\n "
-        },
-        {
-            "question": "Kurio iš žemiau išvardintų dalykų nebūna projekto apimties apraše (project scope statement)?",
-            "options": [
-                {"title": "prioriteto tvarka sudėliotų projekto rizikos veiksnių sąrašo", "correct": true},
-                {"title": "preliminaraus siekiamų rezultatų sąrašo", "correct": false},
-                {"title": "kuriamo produkto trumpo aprašo", "correct": false},
-                {"title": "projekto tikslų santraukos", "correct": false}
-            ],
-            "explain": "Prioriteto tvarka sudėliotų projekto rizikos veiksnių sąrašo dar nebūna projekto apimties apraše. Šis aprašas yra bendrojo pobūdžio dokumentas, kuriame išdėstomi projekto tikslai ir siekiami rezultatai, ir jis tampa pradiniu projekto tašku (baseline). Rizikos veiksniai įvardinami vėliau, kai jau būna parengta suskaidytų darbų lentelė (WBS).\n Kiti klāusime išvardinti dalykai turi būti projekto apimties apraše. Rengiant jį na udojami įmonės organizaciniai dokumentai ( enterprise organizational process assets), projekto nuostatai (project charter), projekto apimties aprašo metmenys, projekto apimties valdymo planas (tvarka, norint keisti šį planą), visi patvirtinti prašymai daryt i šio plano keitimus. Projekto apimties apraše trumpai ir aiškiai išdėstomi reikalavimai, tikslai ir siekiami rezultatai. Pagal projektų valdymo žinyną (PMBOK) apraše turėtų būti ne vien tik tai, bet ir projekto pagrindimas, projekto produkto aprašas. Projekto pagrindime dėstomi verslo poreikiai ir potencialios projekto naudos įvertis. Projekto produkto apraše apibūdinamas pats kuriamas produktas.\n Projekto apimties apraše turėtų būti nurodyti siekiamų rezultatų metmenys. Jų tarpe turi būti ir tie rezultatai, kuriuos pasiekus projektas bus laikomas baigtu. Pastarieji turi būti išsamūs ir aiškūs, nes pagal juos akcininkai ir projekto grupė orientuosis, ko gi siekiama projektu. Tai išmatuojami projekto rezultatai, ir jie yra kritiniai projekto sėkmės kriterijai.\n Projekto apimties aprašas turėtų būti išplatintas visiems akcininkams,organizacijos vadovybei, projekto grupės nariams. Juos turėtų pasirašyti pagrindiniai akcininkai.\n Projekto apimties aprašas, kaip įeities duomenys, naudojamas rengiant suskaidytų darbų lentelę (WBS–Work Breackdown Stucture).\n Tema: projekto planavimas\n Temos dalis: projekto apimties planavimas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra pirkimų planavimo proceso įeities duomenys?",
-            "options": [
-                {"title": "tiekėjų pasiūlymai", "correct": true},
-                {"title": "suskaidytų darbų lentelė (WBS)", "correct": false},
-                {"title": "projekto apimties aprašas (scope statement)", "correct": false},
-                {"title": "įmonės organizaciniai dokumentai (enterpriseorganizational process assets)", "correct": false}
-            ],
-            "explain": "Tiekėjų pasiūlymai nėra naudojami pirkimų planavimo procese. Pasiūlymai gaunami tik paskelbus prašymą teikti juos (RFP–Request For Proposal), bet nepirkimų planavimo procese.\n Kiti šiame klausime išvardinti dalykai yra naudojami pirkimų planavimo procese.Be jų dar yra naudojamas darbų skaidymo žinynas ir projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas "
-        },
-        {
-            "question": "Kurį iš žemiau nurodytų dalykų reikėtų įtraukti į rizikos valdymo planą?",
-            "options": [
-                {"title": "reakcijos į rizikos veiksnius planą", "correct": false},
-                {"title": "pagrindinių rizikos veiksnių sąrašą", "correct": false},
-                {"title": "rizikos veiksnių tikimybės ir poveikio dydžio lentelę", "correct": true},
-                {"title": "prioriteto tvarka išdėstytų rizikos veiksnių sąrašą", "correct": false}
-            ],
-            "explain": "Į rizikos valdymo planą reikėtų įtraukti rizikos veiksnių tikimybės ir poveikio dydžio lentelę.Rizikos valdymo planas sukuriamas tik Rizikos valdymo planavimo proceso metu. Rizikos valdymo plane aprašomos detalės, kaip rizikos veiksniai turi būti įvardinami ir analizuojami, kaip rizikos veiksnių priežastys turi būti valdomos ir kaip rizika turi būti valdoma ir kontroliuojama viso projekto eigoje. Pagal projektų valdymo žinyną (PMBOK) į rizikos valdymo planą gali būti įtrauktos metodologijos, projekto grupės narių pareigos ir atsakomybės, projekto rizikos valdymo kaina, nurodymai, kaip dažnai rizikos valdymo veiksmai turi būti atliekami, rizikos veiksnių skaidymas į kategorijas, kiekybiniai ir kokybiniai rizikos analizės metodai, rizikos veiksnių tikimybės ir poveikio dydžio projektui lentelė, akcininkų požiūrių kaitą į leistiną rizikos lygį, informavimo apie riziką būdus, kaip bus stebima rizika projekto eigoje.\n Rizikos valdymo plane neturėtų būti reakcijos į rizikos veiksnius plano. Reakcijos į rizikos veiksnius planas yra atskiras dokumentas, kuriame pateikiama detali informacija apie planuojamus veiksmus kiekvieno potencialaus rizikos veiksnio atveju. Pastarasis planas parengiamas Reakcijos į rizikos veiksnius planavimo procese.\n Pagrindinių rizikos veiksnių sąrašas yra naudojamas Kokybinės rizikos analizės proceso metu. Rizikos valdymo plane tik nurodoma, kaip projekte reikėtų elgtis rizikos veiksnių atveju, tačiau jame nevardinami konkretūs rizikos veiksniai.\n Prioriteto tvarka išdėstytų rizikos veiksnių sąrašas gaunamas Kokybinės rizikos analizės ir Kiekybinės rizikos analizės procesų eigoje. Taip sudaromas išsamus projektui grėsmę galintis turėti rizikos veiksnių sąrašas. Visada prisiminkime, kad rizikos valdymo plane nevardinami konkretūs rizikos veiksniai.\n Tema: projekto planavimas\n Temos dalis: rizikos planavimas"
-        },
-        {
-            "question": "Kurioje projektų valdymo procesų grupėje rengiamas darbų grafikas?",
-            "options": [
-                {"title": "inicijavimo", "correct": false},
-                {"title": "planavimo", "correct": true},
-                {"title": "vykdymo", "correct": false},
-                {"title": "užbaigimo", "correct": false}
-            ],
-            "explain": "Projekto darbų grafikas rengiamas planavimo procesų grupės metu. Planavimo metu apibrėžiami projekto tikslai ir numatomi darbai tiems tikslams pasiekti.\n Inicijavimo procesų grupė baigiasi vadovybės pasirašytu leidimu pradėti projektą. \n Vykdymo procesų grupėje atliekami darbai suplanuotiems projekto tikslams pasiekti. \n Užbaigimo procesų grupėje formaliai priimami projekto rezultatai ir užbaigiamas projektas. \nTema: projekto planavimas\n Temos dalis: darbų grafiko planavimas "
-        },
-        {
-            "question": "Kuris iš žemiau pateiktų sakinių yra teisingas, kai kalbama apie organizacijos kokybės taisykles (quality policy) ?",
-            "options": [
-                {"title": "kokybės taisykles paprastai paskelbia projekto vadovas", "correct": false},
-                {"title": "organizacijos kokybės taisyklės yra svarbesnės už kitus kokybės standartus", "correct": false},
-                {"title": "kokybės taisyklės įvardina išorinius kokybės reglamentus, kurie gali turėti įtakos projektui", "correct": false},
-                {"title": "kokybės taisyklės - tai organizacijos bendrosios nuostatos ir gairės kokybėsklausimais", "correct": true}
-            ],
-            "explain": "Kokybės taisyklės (quality policy) yra organizacijos bendrosios nuostatos ir gairėskokybės klausimais. Šios taisyklės priklauso įmonės organizacinių dokumentų(enterprise organizational process asset) kategorijai. Naudojamos kaip įeities duomenys Kokybės planavimo procese.\nKokybės taisykles paprastai išleidžia organizacijos vadovybė, bet ne projekto vadovas.\nKokybės taisyklės nėra svarbesnės už kitus kokybės standartus. Projekto užsakovas gali turėti savus papildomus kokybės standartus, kurie gali būti svarbesni už kokybės taisykles. \n Kokybės taisyklės nėra kokių nors išorinių kokybės reglamentų, kurie gali turėti įtakos projektui, įvardinimas. Tai vidinis organizacijos dokumentas. Išoriniai kokybėsreglamentai dažnai priskiriami įmonės aplinkos duomenų (enterprise environmental factors) kategorijai ir jie yra kiti įeities duomenys Kokybės planavimo procese.\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
-        },
-        {
-            "question": "Jūs jau esate įvardinę būtinus projekto tikslams pasiekti darbus ir sudarę darbųišdėstymo eilės tvarka PDM (Precedence Diagramming Method) diagramą. Toliau jums reikia įvertinti darbų trukmes. Kas turi didžiausią įtaką vertinant kiekvieno darbo trukmę?",
-            "options": [
-                {"title": "organizacijos struktūra (tipas)", "correct": false},
-                {"title": "darbui skirti ištekliai", "correct": true},
-                {"title": "ankstesnis darbas, nurodytas PDM diagramoje", "correct": false},
-                {"title": "laikas, kada projekto eigoje darbas turi būti daromas", "correct": false}
-            ],
-            "explain": "Darbo trukmės vertinimo metu didžiausią įtaką turidarbui skirti ištekliai. Trukmės įverčiui įtakos turi darbo dydis (apimtis) ir išteklių ypatybės. Pvz., aukštos kvalifikacijos specialistai darbą atliks greičiau, nei prastesnius įgūdžius turintys žmonės.\n Kiti klausime išvardinti veiksniai neturi įtakos vertinant darbų trukmę.\n Tema: projekto planavimas\n Temos dalis: darbų grafiko planavimas "
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų yra projekto biudžeto rengimo proceso rezultatas ?",
-            "options": [
-                {"title": "projekto etapams paskirstytos lėšos (cost baseline)", "correct": true},
-                {"title": "darbų kainų įverčiai", "correct": false},
-                {"title": "lėšų apjungimas (cost aggregation)", "correct": false},
-                {"title": "atliktų darbų dydis", "correct": false}
-            ],
-            "explain": "Projekto etapams (pvz., mėnesiams) paskirstytos lėšos yra biudžeto rengimo rezultatas.\n Darbų kainų įverčiai gaunami kainos vertinimo procese.Lėšų apjungimas yra būdas arba priemonė, kuri naudojama biudžeto rengimoprocese.\nAtliktų darbų dydis yra naudojamas išlaidų kontrolės procese.\nTema: projekto planavimas\nTemos dalis: projekto kainos planavimas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra kliūtis efektyviam komunikavimui ?",
-            "options": [
-                {"title": "pašalinė su projektu nesusijusi informacija", "correct": false},
-                {"title": "prasti rašymo įgūdžiai", "correct": false},
-                {"title": "žargono naudojimas, kuris klausytojui nėra žinomas", "correct": false},
-                {"title": "atidus klausymasis", "correct": true}
-            ],
-            "explain": "Atidus klausymasis nėra kliūtis efektyviam komunikavimui. Taip parodomas dėmesys kalbančiajam, savais žodžiais pasitikslinama kalbėtojo išsakyta mintis, paprašoma reikiamų paaiškinimų.\n Su projektu nesusijusi informacija, prasti rašymo įgūdžiai, klausytojui nesuprantamas žargonas yra komunikavimo kliūtys. Efektyviam komunikavimui taip pat kenkia nepakankamos informacijos perdavimas, informacijos perdavimas ne tam asmeniui, pavėluotas info rmacijos perdavimas arba perdavimas nepatogiu metu.\nTema: projekto planavimas \nTemos dalis: komunikacijų planavimas "
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra reikalingas vertinant darbui atlikti reikalingus išteklius ?",
-            "options": [
-                {"title": "pareigybių (etatų) sąrašas", "correct": true},
-                {"title": "įmonės organizaciniai dokumentai (enterprise organizational process assets)", "correct": false},
-                {"title": "išteklių buvimas", "correct": false},
-                {"title": "darbų sąrašas ir jų charakteristikos", "correct": false}
-            ],
-            "explain": "Preigybių (etatų) sąrašas nėra reikalingas vertinant darbui atlikti reikalingus išteklius. Jo prireikia tik projekto grupės formavimo procese.\n Kiti šiame klausime išvardinti dalykai yra reikalingi. Išteklių darbui atlikti vertinime reikalingi įmonės aplinkos duomenys (enterprise environmental factor), įmonės organizaciniai dokumentai (enterprise organizational process assets), darbų sąrašas ir jų charakteristikos, išteklių buvimo faktas ir projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: projekto kainos planavimas "
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra įeities duomenys reakcijos į rizikos veiksnius planavimui?",
-            "options": [
-                {"title": "už rizikos veiksnius atsakingi asmenys", "correct": false},
-                {"title": "rizikos veiksnių slenksčiai (svoriai)", "correct": false},
-                {"title": "rizikos veiksnių priežastys", "correct": false},
-                {"title": "susitarimai dėl rizikos sandoriuose", "correct": true}
-            ],
-            "explain": "Susitarimai dėl rizikos sandoriuose nėra įeities duomenys reakcijos į rizikos veiksnius planavimui.\n Kiti šiame klausime išvardinti dalykai yra naudojami planuojant, kaip bus reaguojama į rizikos veiksnius. Reakcijos į rizikos veiksnius planavimo metu kaip įeities duomenys dar yra naudojami rizikos valdymo planas ir rizikos veiksnių sąrašas (risk register). Šis sąrašas sudaromas rizikos veiksnių įvardinimo procese ir yra naudojamas kituose rizikos valdymo procesuose: kokybinėje ir kiekybinėje rizikos analizėse, reakcijos į rizikos veiksnius planavime, rizikos stebėsenoje ir kontrolėje. Projekto eigoje rizikos veiksnių sąrašas laikas nuo laiko peržiūrimas ir atnaujinamas, iš naujo suplanuojama reakcija į rizikos veiksnius. Rizikos veiksnių sąraše būna prioriteto tvarka surašyti rizikos veiksniai, poveikio projektui dydžio tvarka surašyti rizikos veiksniai, galimų reakcijos veiksmų į rizikos veiksnius sąrašas, atsakingi asmenys rizikos problemoms spręsti, rizikos kokybinės ir kiekybinės rizikos analizės rezultatų tendencijos.\nTema: projekto planavimas\nTemos dalis: rizikos planavimas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų būdų ar priemonių nėra naudojamas nustatant projekto darbų eilę ?",
-            "options": [
-                {"title": "PDM (Precedence Diagramming Method, stačiakampių) diagrama", "correct": false},
-                {"title": "darbų priklausomybės nustatymas", "correct": false},
-                {"title": "šablonai", "correct": false},
-                {"title": "ekspertų nuomonė", "correct": true}
-            ],
-            "explain": "Ekspertų nuomonės neklausiama nustatant projekto darbų eilę. Darbų eilei nustatyti peržiūrimas išsamus projekto darbų sąrašas ir sudaroma diagrama, kurioje darbai išdėstomi logiška jų atlikimo tvarka. Tam naudojami šie būdai ar priemonės: PDM (precedence diagramming method, darbai nurodomis tačiakampiuose) arba ADM (arrow diagramming method, darbai nurodomi ant rodyklių) diagramos, darbų priklausomybių nustatymas, darbų grafiko šablonai.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas "
-        },
-        {
-            "question": "Kuriame procese kaip įeities duomenys yra reikalingi įmonės aplinkos duomenys (enterprise environmental factors), įmonės organizaciniai dokumentai (organizational process assets) ir projekto valdymo plane nurodyti darbams atlikti reikiami ištekliai ?",
-            "options": [
-                {"title": "projekto grupės plėtros", "correct": false},
-                {"title": "projekto grupės sudarymo", "correct": false},
-                {"title": "žmoniškųjų išteklių planavimo", "correct": true},
-                {"title": "informacijos platinimo", "correct": false}
-            ],
-            "explain": "Žmoniškųjų išteklių planavimo procese reikalingi įmonės aplinkos duomenys (enterprise environmental factors), įmonės organizaciniai dokumentai (organizational process assets) ir projekto valdymo plane nurodyti darbams atlikti reikalingi ištekliai. Pagal projektų valdymo žinyną (PMBOK) žmoniškųjų išteklių planavimo metu įvardinamos pareigybės (etatai), kas už ką bus atsakingas ir kas kam turės atskaityti.\n Projekto grupės plėtros proceso įeities duomenys yra grupės nariams paskirtos pareigos, etatų valdymo planas, turimi žmoniškieji ištekliai. Pagal PMBOK, projekto grupės plėtra apima projekto grupės narių gebėjimų vykdyti projekto užduotis gerinimą (mokymai, kvalifikacijos kėlimo kursai, kt.).\n Projekto grupės sudarymo procese reikalingi įmonės aplinkos duomenys, įmonės organizaciniai dokumentai, pareigybės (etatai) ir atsakomybės, projekto organizacinė schema, etatų valdymo planas. Pagal PMBOK, projekto grupės sudarymas yra ne kas kita, kaip projektui vykdyti reikalingų žmonių surinkimą.\n Informacijos platinimo proceso įeities duomenys yra komunikacijų valdymo planas. Pagal PMBOK, informacijos platinimu užtikrinamas savalaikis informacijos apie projekto stovį perdavimas akcininkams.\n Tema: projekto planavimas \nTemos dalis: projekto grupės planavimas"
-        },
-        {
-            "question": "Jūs esate naujo produkto kūrimo projekto vadovas. Rizikos veiksnių į vardinimo metu jūs pastebėjote veiksnį, galintį sukelti rimtą pavojų projektui. Todėl nusprendėte sumažinti reikalavimus naujam produktui, kad išvengtumėte pastebėto rimto rizikos veiksnio. Koks tai reakcijos į riziką būdas ?",
-            "options": [
-                {"title": "rizikos vengimas", "correct": true},
-                {"title": "rizikos prisiėmimas", "correct": false},
-                {"title": "rizikos mažinimas", "correct": false},
-                {"title": "rizikos nukreipimas kitiems", "correct": false}
-            ],
-            "explain": "Šiuo atveju jūs pasirinkote rizikos vengimo būdą. Vengimas apima projekto plano keitimą taip, kad būtų išvengta rizikos veiksnio ar jo poveikio projektui. Rizikos vengimo pavyzdžiu gali būti projekto apimties (scope) sumažinimas arba papildomų išteklių pritraukimas rizikai išvengti.\n Jūsų priimtas sprendimas nereiškia rizikos prisiėmimo. Prisiimant riziką projekto planas nėra keičiamas, bet, pvz., numatomas specialusis fondas arba atsarginis variantas. \nJūs nesiėmėt rizikos mažinimo. Rizikos mažinimas reiškia rizikos veiksnio tikimybės ar jo poveikio projektui sumažinimo iki priimtinos ribos. Jūs nenukreipėt rizikos kitiems. Rizikos nukreipimas kitiems reiškia rizikos ir jos pasekmių perdavimą trečiosioms šalims, pvz., rangovams. Tema: projekto planavimas\nTemos dalis: rizikos planavimas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra įeities duomenys darbų grafiko rengimo procesui?",
-            "options": [
-                {"title": "išteklių kalendoriai (kada užimti, kada laisvi)", "correct": false},
-                {"title": "darbų sąrašas", "correct": false},
-                {"title": "projekto darbų sekos diagramos", "correct": false},
-                {"title": "darbų grafikas(baseline)", "correct": true}
-            ],
-            "explain": "Darbų grafikas(baseline) nėra įeities duomenys darbų grafiko rengimo procesui.Jis yra šio proceso rezultatas. Darbų grafikas vėliau naudojami kontroliuojant, ar projektas vyksta pagal darbų grafiką. \n Kiti šiame klausime įvardinti dalykai yra darbų grafiko rengimo proceso įeities duomenys. Šio proceso įeities duomenims priskiriami įmonės organizaciniai dokumentai, projekto apimties aprašas (project scope statement), darbų sąrašas, darbų charakteristikos, projekto darbų sekos diagramos, darbams atlikti reikalingi ištekliai, išteklių kalendoriai (kada užimti, kada laisvi), darbų trukmės įverčiai, projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
-        },
-        {
-            "question": "Jūs rengiate savo projekto darbų grafiką ir pastebite, kad vieno iš darbų vėliausias pradžios laikas yra ankstesnis už jo anksčiausią pradžios laiką. Sakoma, kad toks darbas turi?",
-            "options": [
-                {"title": "delsimo laiką", "correct": false},
-                {"title": "svyravimo dydį (float) laike lygų nuliui", "correct": false},
-                {"title": "laisvąjį svyravimo dydį laike", "correct": false},
-                {"title": "neigiamą svyravimo dydį laike", "correct": true}
-            ],
-            "explain": "Paprastai sakoma, kad toks darbas turi neigiamą svyravimo dydį laike. Neigiamas svyravimo dydis gaunamas tada, kai darbo vėl iausias pradžios laikas yra ankstesnis už darbo anksčiausią pradžios laiką. Neigiamas svyravimo dydis rodo, kad darbas yra kritinis ir darbų grafiką būtina paderinti, kad projektas būtų užbaigtas numatytu laiku. Neigiami svyravimo dydžiai paprastai gaunami , kai projektui uždedami pernelyg griežti laiko apribojimai. Būdai neigiamiems svyravimo dydžiams darbų grafike pašalinti yra papildomų išteklių kritinio kelio darbams atlikti skyrimas arba projekto darbų grafiko perdarymas ar pailginimas.\n Klausime nurodytas darbas neturi delsimo laiko. Uždelsimas yra laikų tarp pirmojo darbo pradžios ir antrojo darbo pradžios skirtumas (tai nėra lygu vien pirmojo darbo trukmei).\n Klausime nurodyto darbo svyravimo dydis laike nėra lygus nuliui. Darbo svyravimo dydis laike lygus nuliui gaunamas tada, kai anksčiausias ir vėliausias darbo pradžios laikai yra vienodi. Tokie darbai yra kritiniai. Jei kurio nors iš jų atlikimas užtrunka ilgiau, bus vėluojama įvykdyti visą projektą. \nKlausime nurodytas darbas neturi laisvojo svyravimo dydžio laike. Laisvasis darbo svyravimo dydis yra perteklinis laikas, sugaištas iki kito darbo pradžios. Tai mažiausias skirtumas tarp pirmojo darbo anksčiausio pabaigos laiko ir visų kitų antrųjų darbų (successor) anksčiausių pradžios laikų. Laisvasis darbo svyravimo dydis atspindi laiką, kuriuo gali būti vėluojama darbo pabaiga, nedarant įtakos kitiems projekto darbams. Laisvas darbo svyravimo dydis atsiranda tik tuomet, kai dviejų ar daugiau pirmųjų darbų (predcessor) rezultatai reikalingi tam pačiam antrajam darbui (successor).Pastebėkime, kad laisvasis darbo svyravimo dydis negali būti neigiamas.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
-        },
-        {
-            "question": "Kurio proceso rezultatas yra vertinimo kriterijai?",
-            "options": [
-                {"title": "prašymo tiekėjams teikti pasiūlymus", "correct": false},
-                {"title": "tiekėjų atrankos", "correct": false},
-                {"title": "pirkimų planavimo", "correct": true},
-                {"title": "sandorių planavimo", "correct": false}
-            ],
-            "explain": "Vertinimo kriterijai yra pirkimų planavimo proceso rezultatas. Pirkimų planavimo proceso rezultatai yra pirkimų valdymo planas, darbų užduotys (SOW–Statement Of Work) tiekėjams, sprendimas daryti patiems ar pirkti, pirkimo dokumentai, vertinimo kriterijai ir įvairūs reikalingi pakeitimai.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
-        },
-        {
-            "question": "Rizikos veiksniai, atsirandantys įgyvendinant reakcijos į rizikos veiksnius planą, yra vadinami ?",
-            "options": [
-                {"title": "liekamaisiais", "correct": false},
-                {"title": "išoriniais", "correct": false},
-                {"title": "antriniais", "correct": true},
-                {"title": "ktiniais", "correct": false}
-            ],
-            "explain": "Rizikos veiksniai, atsirandantys įgyvendinant reakcijos į rizikos veiksnius planą, yra vadinami antriniais .Projekto pradžioje antrinių rizikos veiksnių nėra, tačiau jie galiatsirasti projekto eigoje atliekant reakcijos veiksmus į plane įvardintus rizikos veiksnius. Rengiant reakcijos į rizikos veiksnius planą reikėtų būti atidiems ir įvardinti galimus antrinius rizikos veiksnius bei numatyti veiksmus jų atveju. \nRizikos dalis, kuri išlieka įgyvendinus reakcijos veiksmus į rizikos veiksnį, vadinama liekamąja rizika.\n Išorinis rizikos veiksnys yra toks, kuris nėra pavaldus jūsų organizacijai ir negalite jo valdyti, pvz., teisės aktų arba oro sąlygų pasikeitimas.Atsitiktinio rizikos veiksnio sąvoka apskritai nėra naudojama.\nTema: projekto planavimas\nTemos dalis: rizikos planavimas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų individo poreikių yra minimas Maslow’o sukurtoje žmogaus poreikių hierarchijos teorijoje",
-            "options": [
-                {"title": "alga", "correct": false},
-                {"title": "saugumas", "correct": true},
-                {"title": "atsakomybė", "correct": false},
-                {"title": "darbo sąlygos", "correct": false}
-            ],
-            "explain": "Saugumas yra minimas Maslow’o sukurtoje žmogaus poreikių hierarchijos teorijoje. Joje laikoma, kad žmogaus gyvenimas pagrįstas poreikių tenkinimu. Norint patenkinti aukštesnio lygmens poreikius, jau turi būti patenkinti žemesnio lygmens poreikiai. Einant nuo žemiausio iki aukščiausio, yra tokie poreikių lygmenys:\n - 1 lygmuo: fiziologiniai poreikiai (oras, vanduo, maistas, pastogė, rūbai);\n-2 lygmuo: saugumo poreikiai (patikimumas, stabilumas, skriaudos ar žalos nebuvimas);\n-3 lygmuo: socialiniai poreikiai (meilė, prisirišimas, pripažinimas, draugai);\n-4 lygmuo: pagarbos poreikiai (kvalifikacija, pagarba, dėmesys, dėkingumas);\n-5 lygmuo: pasireiškimo poreikiai (pasitenkinimas, augimas, mokymasis).\nKiti šiam klausime išvardinti dalykai nėra minimi Maslow‘o teorijoje. \nTema: projekto planavimas\nTemos dalis: projekto grupės planavimas"
-        },
-        {
-            "question": "Kam skirsite pagrindinį dėmesį vadovaudami projektui, kuriame su tiekėju yra sudarytas laiko ir medžiagų apmokėjimo (T&M) tipo sandoris? ",
-            "options": [
-                {"title": "projekto apimčiai (scope)", "correct": false},
-                {"title": "projekto darbų grafikui(schedule)", "correct": true},
-                {"title": "tiekėjo patikimumui", "correct": false},
-                {"title": "tiekėjo medžiagų kainai", "correct": false}
-            ],
-            "explain": "Jūs, kaip pirkėjas, laiko ir medžiagų apmokėjimo (T&M) tipo sandoryje turėtumėte pagrindinį dėmesį skirti projekto darbų grafikui. Šio tipo sandoriuose atsiskaitomaremiantis fiksuotu darbo valandos įkainiu ir pateiktomis išlaidomis medžiagoms. Jei atsiliekama nuo projekto darbų grafiko, pirkėjas turi papildomas išlaidas. Todėl reikia atidžiai stebėti, kaip laikomasi projekto darbų grafiko.\n Jums, kaip projekto vadovui, nuolatos tenka stebėti projekto apimtį (scope).Dauguma projekto apimties keitimų reikalauja ilginti projekto trukmę. T&M tipo sandorio atveju tai iššaukia papildomas išlaidas. Todėl projekto darbų grafikas turi būti jūsų dėmesio centre.\n Tiekėjo patikimumas įvertinamas prieš pasirašant sandorį. Jūs kaip pirkėjas turite padengti tiekėjo išlaidas medžiagoms. Tačiau dažniausiai pirkėjo išlaidų padidėjimą lemia ne medžiagos, o atsilikimas nuo projekto darbų grafiko.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
-        },
-        {
-            "question": "Jūs esate projekto vadovas leidybos kompanijoje. Sudarydami projekto darbų grafiką pastebėjote, kad jame yra daug kritinių kelių. Kuris iš žemiau pateiktų teiginių geriausiai tinka tokiam projektui ?",
-            "options": [
-                {"title": "jūsų atlikti kritinio kelio skaičiavimai yra neteisingi, nes projektas gali turėti tik vieną kritinį kelią", "correct": false},
-                {"title": "projektui valdyti reikia mažiau pastangų, nei esant tik vienam kritiniam keliui", "correct": false},
-                {"title": "projekto rizika yra didesnė, nes esant daug kritinių kelių jo valdymas yra sudėtingesnis", "correct": true},
-                {"title": "kritiniai keliai sueina į tą patį projekto tašką", "correct": false}
-            ],
-            "explain": "Jūsų projekto rizika yra didesnė, nes esant daug kritinių kelių projekto valdymas yra sudėtingesnis. Nukrypimams nuo darbų grafiko išvengti tenka įdėti žymiai daugiau pastangų. Kuo daugiau kritinių kelių, tuo didesnė tikimybė, kad kurį nors darbą bus vėluojama atlikti.\nTeiginys, kad jūsų atlikti kritinio kelio skaičiavimai yra neteisingi, nes projektas gali turėti tik vieną kritinį kelią, yra neteisingas. Projektas gali turėti daug kritinių kelių. Teiginys, kad daug kritinių kelių turinčiam projektui valdyti reikia mažiau pastangų, nei esant tik vienam kritiniam keliui, yra neteisingas. Kuo daugiau kritinių kelių, tuo sudėtingiau valdyti tokį projektą.\nTeiginys, kad kritiniai keliai sueina į tą patį projekto tašką, yra neteisingas. Nesant informacijos apie atskirus darbus, šito nustatyti negalima.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų yra naudojamas Pirkimų planavimo procese?",
-            "options": [
-                {"title": "standartiniai blankai (formos)", "correct": false},
-                {"title": "atrankos (screening) sistema", "correct": false},
-                {"title": "ekspertų nuomonė", "correct": true},
-                {"title": "tiekėjų konferencija", "correct": false}
-            ],
-            "explain": "Ekspertų nuomonė yra svarbi Pirkimų planavimo procese. Pirkimų planavimo metu priimamas sprendimas dėl sistemos (paslaugų) darymo patiems arba pirkimo. Jeigu nutariama pirkti, išvardinami numatomi pirkti dalykai. Ekspertų nuomonė labai praverčia priimant darymo/pirkimo sprendimą.\n Standartiniai blankai (formos) nėra naudojami Pirkimų planavimo procese. Jie dažniausiai naudojami planuojant sandorius. \n Atrankos (screening) sistema nėra naudojama Pirkimų planavimo procese. Tik vėliau, gavus pasiūlymus, ji naudojama atrenkant priimtiniausią tiekėją. Tiekėjų konferencija nėra šaukiama Pirkimų planavimo procese. Ji gali būti šaukiama prašymo potencialiems tiekėjams duoti pasiūlymus paskelbimui. \nTema: projekto planavimas\nTemos dalis:pirkimų planavimas"
-        },
-        {
-            "question": "Kuri priemonė yra naudingiausia atliekant rizikos veiksnių poveikio projektui analizę?",
-            "options": [
-                {"title": "Pareto diagramos", "correct": false},
-                {"title": "tinklinės diagramos", "correct": false},
-                {"title": "besišakojančios (fishbone) diagramos", "correct": false},
-                {"title": "sprendimų medžio diagramos", "correct": true}
-            ],
-            "explain": "Sprendimų medžio diagramos yra naudingiausia priemonė atliekant rizikos veiksnių poveikio projektui analizę. Medžio pavidalo diagramos gerai tinka pavaizduoti serijai galimų alternatyvų ir jų rezultatų. Todėl sprendimų medžiai dažnai naudojami kiekybinėje rizikos analizėje rizikos veiksnių poveikiams projektui pavaizduoti.\n Pareto diagrama yra priemonė, kuri histogramos pavidalu atspindi įvairių rezultatų pasirodymo dažnį.\nTinklinės diagramos yra naudojamos projekto darbų eiliškumui ir jų tarpusavio priklausomybėms pavaizduoti. \nBesišakojančios (fishbone) diagramos dar yra vadinamos Išikavos (Ishikawa) diagramomis arba variantų -rezultatų (case-and-effect) diagramomis. Jose atspindima, kaip įvairios priežastys gali sukelti problemas.\nTema: projekto planavimas\nTemos dalis: rizikos planavimas"
-        },
-        {
-            "question": "Jūs esate įmonės išteklių planavimo (ERP) sistemos diegimo projekto vadovas ir siekiate įvardinti galimus šio projekto rizikos veiksnius. Kokios priemonės ar veiksmo tam nereikėtų naudoti? ",
-            "options": [
-                {"title": "apklausos", "correct": false},
-                {"title": "sistemos darbo bandymo (benchmarking)", "correct": true},
-                {"title": "kolektyvinio svarstymo", "correct": false},
-                {"title": "Delfi metodo", "correct": false}
-            ],
-            "explain": "Rizikos veiksniams įvardinti nereikėtų naudoti sistemos darbo bandymo (benchmarking).Tokie bandymai atliekami kokybės planavimo metu, kuomet projekto planuojama ar esama vertė palyginama su kitų projektų verte, kad būtų nustatytos galimų tobulinimų sritys ar siekiai.\n Apklausos yra informacijos rinkimo būdas, naudojamas rizikos veiksniams įvardinti. Tai individualūs susitikimai su asmenimis, užduodant jiems klausimus ir kaupiant informaciją.\nKolektyvinis svarstymas – tai grupės asmenų susirinkimas, dažniausiai projekto vykdytojų grupės arba grupės ekspertų. Susirinkimo tikslas yra spontaniškai generuoti idėjas.\nDelfi metodas yra informacijos rinkimo būdas, kuris naudojamas rizikos veiksnių įvardinimo procese. Delfi metodas – tai ekspertų grupės veikla, siekiant konsensuso (sutarimo) projekto rizikos klausimu.\n Tema:projekto planavimas\nTemos dalis: kokybės planavimas"
-        },
-        {
-            "question": "Kuris iš teiginių nėra teisingas, kalbant apie suskaidytų darbų lentelę (WBS)?",
-            "options": [
-                {"title": "WBS gali būti naudojamas išteklių poreikiui įvertinti", "correct": false},
-                {"title": "WBS yra į smulkius darbus suskaidytas projektas, kurie gali būti lengvai įvertinami", "correct": false},
-                {"title": "WBS’e atsispindi projekto apimtis, nes jame nurodomi visi reikiami atlikti darbai", "correct": false},
-                {"title": "WBS yra unikalius vardus turinčių projekto darbų sąrašas, kurie turi būti atlikti nurodyta eilės tvarka", "correct": true}
-            ],
-            "explain": "Kalbant apie suskaidytų darbų lentelę (WBS) nėra teisingas teiginys, kad WBS yra unikalius vardus turinčių projekto darbų sąrašas, kurie turi būti atlikti nurodyta eilės tvarka. WBS yra hierarchinė visų projekto darbų lentelė. Ją rengia projekto vadovas su grupe projekto apimties planavimo metu. Rengiant WBS dauguma projekto siekiamų rezultatų jau būna apibrėžti. Tuomet kiekvienas siekiamas rezultatas skaidomas į smulkesnes dalis, kurios atitinka žemiausių darbų lygmenį (work package). Kadangi WBS’e kiekvienas darbas nenurodomas unikaliu vardu, WBS’e nėra nurodoma darbų eilės tvarka. Darbų eilės tvarka nustatoma vėliau planavimo procese.\n WBS gali būti naudojamas vertinant išteklių poreikį. WBS kaip įeities duomenys naudojami daugelyje kitų projekto procesų. Projektų vadovai WBS naudoja vertindami projekto kainą, darbų trukmes ir išteklių poreikį. \n WBS’e projektas skaidomas į smulkius darbus, kuriems galima būtų sėkmingai įvertinti laiką ir kainą ir galėtume efektingai juos valdyti.\n WBS’e atsispindi projekto apimtis, nes jame nurodomi visi reikiami atlikti darbai. WBS’e nenurodyti darbai nėra privalomi.\nTema: projekto planavimas\nTemos dalis:projekto apimties planavimas"
-        },
-        {
-            "question": "Kada projekto vadovas turi didžiausią įtaką projekto kainai?",
-            "options": [
-                {"title": "rengiant projekto nuostatus", "correct": false},
-                {"title": "projekto planavimo stadijoje", "correct": true},
-                {"title": "stebint projekto išlaidų nuokrypį", "correct": false},
-                {"title": "projekto vykdymo stadijoje", "correct": false}
-            ],
-            "explain": "Projekto vadovas didžiausią įtaką projekto kainai turi projekto planavimo stadijoje. Galimybė daryti įtaką projekto kainai yra didesnė ankstesnėse planavimo stadijose, kol projektas nepradėtas vykdyti.\n Rengiant projekto nuostatus projekto vadovo įtaka projekto kainai nėra didžiausia. Geram projekto kainos įvertinimui ir išlaidų tvarkymui reikalinga projekto apimties informacija apie reikalingus atlikti darbus (WBS).\n Projekto vadovas neturi didelės įtakos projekto kainai išlaidų nuokrypio stebėjimo ar projekto vykdymo metu. Pradėjus projekto darbus yra žymiai sunkiau kontroliuoti projekto išlaidas, nes atsiranda nenumatytų atvejų.\nTema: projekto planavimas\nTemos dalis:darbų grafiko planavimas"
-        },
-        {
-            "question": "Kokiais argumentais reikėtų remtis tikrinant visas daromas prielaidas? ",
-            "options": [
-                {"title": "poveikio projektui lygiu", "correct": false},
-                {"title": "prielaidos prioritetu", "correct": false},
-                {"title": "prielaidos pagrįstumu ir poveikio projektui lygiu", "correct": true},
-                {"title": "prielaidos pagrįstumu ir tikimybe", "correct": false}
-            ],
-            "explain": "Visų prielaidų tikrinimas turi būti pagrįstas prielaidų pagrįstumu ir poveikio projektui lygiu. Prielaidų pagrįstumo tikrinimas sumažina projekto riziką. Prielaidų poveikio projektui lygio tikrinimas padeda nustatyti, kuri iš jų yra svarbiausia. \nPrielaidos turi būti tikrinamos ne tik poveikio projektui lygio požiūriu, bet dar turi būti tikrinamas ir jų pagrįstumas. Neteisingos prielaidos turi įtakos projekto rizikai. Prielaidos nėra dėstomos prioriteto tvarka.\nPrielaidos yra veiksniai, kurie turi įtakos projekto apribojimams (kainai, laikui, apimčiai). Tuo tarpu apribojimai nėra naudojami tikrinant prielaidų pagrįstumą.\n Tema: projekto planavimas\nTemos dalis: rizikos planavimas"
-        },
-        {
-            "question": "Jūs esate naujos įrangos kūrimo projekto vadovas. Dalis įrangos komponentų bus kuriami savo organizacijos jėgomis, o kiti bus perkami iš tiekėjo. Jūs pateikiate tiekėjui komponentų sąrašą, kuriuos jis turės sukurti sudarius sandorį. Kaip šis dokumentas yra vadinamas?",
-            "options": [
-                {"title": "kainos prašymas (a bid)", "correct": false},
-                {"title": "pasiūlymas (proposal)", "correct": false},
-                {"title": "projekto apimties aprašas (scope statement)", "correct": false},
-                {"title": "darbo užduotis (SOW–Statement Of Work)", "correct": true}
-            ],
-            "explain": "Tokio dokumento pavadinimas yra sandorio darbo užduotis (SOW–Statement Of Work). Tai pirkimo dokumentas, kuriame nurodoma, kas turi būti atlikta sudaryto sandorio metu.SOW parengiamas Pirkimų planavimo procese. Nors projekto eigoje sandorio darbo užduotis (SOW) gali pasikeisti, ji turi būti įvykdyta iki sandorio pabaigos termino. \nToks dokumentas (darbo užduotis) nėra kainos prašymas (a bid) arba pasiūlymas (proposal). Pastaruosius parengia potencialūs tiekėjai (pardavėjai) taip išreikšdami savo galimybes ir norą teikti pageidaujamą produktą ar paslaugą pirkėjui. Prašomą kainą ir pasiūlymą tiekėjas dažniausiai pateikia drauge. \n Toks dokumentas nėra projekto apimties aprašas (scope statement). Projekto apimties apraše apibrėžiami tikslai ir juo perduodamas vienodas projekto supratimas visiems akcininkams.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
-        },
-        {
-            "question": "Vieno iš jūsų projekto darbų (užduoties) anksčiausias pradžios laikas yra 9-ta savaitė, anksčiausias pabaigos laikas 15-ta savaitė, vėliausias pradžios laikas 12-ta savaitė ir vėliausias pabaigos laikas 18-ta savaitė. Koks yra šio darbo laiko svyravimo dydis?",
-            "options": [
-                {"title": "3", "correct": true},
-                {"title": "6", "correct": false},
-                {"title": "9", "correct": false},
-                {"title": "12", "correct": false}
-            ],
-            "explain": "Darbo laiko svyravimo dydis yra 3 savaitės. Svyravimo dydis yra laikas, kuriuo gali būti paslinktas (atidėtas) darbo atlikimas, nepažeidžiant projekto kritinio kelio trukmės, t. y. nepažeidžiant viso projekto pabaigos termino. Darbo laiko svyravimo dydis apskaičiuojamas iš vėliausio pradžios laiko atimant anksčiausią pradžios laiką arba iš vėliausio pabaigos laiko atimant anksčiausią pabaigos laiką.\nTema: projekto planavimas\nTemos dalis:darbų grafiko planavimas"
-        },
-        {
-            "question": "Jūs svarstote klausimą, ką projekte galėtumėte pasidaryti patys ir ką reikėtų pirkti. Į kokį veiksnį jūs mažiausiai kreipsite dėmesį ?",
-            "options": [
-                {"title": "ar yra reikalingi išoriniai tiekėjai", "correct": true},
-                {"title": "neplatintinos (jautrios) projekto detalės", "correct": false},
-                {"title": "darbų kaina, jei juos darysite patys", "correct": false},
-                {"title": "jūsų organizacijos vidiniai ištekliai", "correct": false}
-            ],
-            "explain": "Jūs mažiausiai kreipsite dėmesį į tai, ar yra reikalingi išoriniai tiekėjai. Klausimo daryti patiems ar pirkti svarstymu siekiama išsiaiškinti, kokius produktus pigiau yra gamintis patiems, o kokius geriau pirkti. Tokio svarstymo metu labai svarbu žinoti: \n- ar jūsų organizacijoje yra specialistų, galinčių atlikti tam tikrus darbus;\n- ar reikalingi atlikti darbai susiję su komercinėmis, organizacijos vidinėmis, kt.\npaslaptimis;\n- ar pakanka laiko ir organizacijos išteklių norint patiems atlikti reikiamus darbus;\n- ar reikiamus darbus atlikti patiems yra pigiau (patogiau, naudingiau).\nKiti klausime išvardinti veiksniai yra svarbūs svarstant darymo patiems ar pirkimo klausimą. \nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
-        },
-        {
-            "question": "Kuri iš žemiau išvardintų priemonių nėra naudojama atliekant kokybinę rizikos analizę?",
-            "options": [
-                {"title": "rizikos duomenų kokybės įvertinimas", "correct": false},
-                {"title": "projekto prielaidų tikrinimas", "correct": false},
-                {"title": "pareigų paskirstymo lentelė", "correct": true},
-                {"title": "pagal tikimybę ir poveikio projektui lygį surikiuotų rizikos veiksnių lentelė", "correct": false}
-            ],
-            "explain": "Pareigų paskirstymo lentelė nėra naudojama atliekant kokybinę rizikos analizę. Kokybinės rizikos analizės metu nustatoma įvardintų projekto rizikos veiksnių tikimybė ir poveikio projektui lygis.\n Rizikos duomenų kokybės vertinimas yra naudojamas kokybinėje rizikos analizėje. Tai įvairių duomenų, kurie naudojami vertinant projekto riziką, naudingumo nustatymas.\nProjekto prielaidų tikrinimas (analizė) paprastai atliekamas rizikos veiksnių įvardinimo metu. Tikrinamas prielaidų pagrįstumas ir svarba. Tokio tikrinimo rezultatai yra svarbūs specifinių projekto rizikos veiksnių tikimybei ir poveikio lygiui nustatyti.\n Pagal tikimybę ir poveikio projektui lygį surikiuotų rizikos veiksnių lentelė yra naudojama kokybinėje rizikos analizėje.\n\nTema: projekto planavimas\nTemos dalis:rizikos planavimas"
-        },
-        {
-            "question": "Kas yra kokybės planavimo proceso rezultatas?",
-            "options": [
-                {"title": "kokybės taisyklės (policy)", "correct": false},
-                {"title": "kokybės kaina", "correct": false},
-                {"title": "kokybės valdymo planas", "correct": true},
-                {"title": "kokybės tikrinimo matavimai", "correct": false}
-            ],
-            "explain": "Kokybės planavimo proceso rezultatas yra kokybės valdymo planas. Jame nurodomi visi projekte kuriamo produkto kokybei užtikrinti reikalingi darbai, procedūros, kaip tie darbai turi būti atliekami ir tiems darbams atlikti reikalingi ištekliai. Pagal projektų valdymo žinyną (PMBOK) kokybės planavimo proceso rezultatai apima kokybės matus, kokybės kontrolinius sąrašus (checklist), šio proceso gerinimo planą, kokybę kontrolės taškuose, projekto valdymo plano atnaujinimus. \n Kokybės taisyklės (policy) yra vienas iš įmonės organizacinių dokumentų (enterprise organizational process assets), kuris naudojamas kokybės planavimo procese. Taivadovybės patvirtintos taisyklės, atspindinčios įmonės nuostatas kokybės klausimais. Kokybės kaina yra kokybės planavimo instrumentas, apimantis bendrąsias išlaidas reikiamai kokybei pasiekti.\nKokybės tikrinimo matavimai – tai rezultatai, kurie gaunami kontroliuojant kokybę. Jie po to naudojami siekiant reikiamos kokybės.\n\nTema: projekto planavimas\nTemos dalis:kokybės planavimas "
-        },
-        {
-            "question": "Kuris iš žemiau nurodytų dalykų nėra įeities duomenys rizikos valdymo planavimo procesui?",
-            "options": [
-                {"title": "įmonės organizaciniai dokumentai (enterprise organizational process assets)", "correct": false},
-                {"title": "rizikos veiksnių sąrašas", "correct": true},
-                {"title": "įmonės aplinkos duomenys (enterprise environmental factors)", "correct": false},
-                {"title": "projekto valdymo planas", "correct": false}
-            ],
-            "explain": "Rizikos veiksnių sąrašas nėra rizikos valdymo planavimo proceso įeities duomenys. Rizikos veiksnių sąrašas yra rizikos veiksnių įvardinimo proceso rezultatas ir kaip įeities duomenys naudojamas kokybinėje rizikos analizėje.\nVisi kiti klausime nurodyti dalykai yra įeities duomenys rizikos valdymo planavimo procesui. Šio proceso įeities duomenims dar priklauso projekto apimties aprašas (scope statement).\n\nTema: projekto planavimas\nTemos dalis: rizikos planavimas "
-        },
-        {
-            "question": "Jūs esate įrangos kūrimo projekto vadovas ir manote, jei įranga bus sukurta mažesnėmis sąnaudomis, užsakovai bus labai dėkingi. Tokiai idėjai parengti skiriate kažkiek laiko ir norite nustatyti idealų įrangos dydį. Koks tinkamiausias būdas idėjai patikrinti?",
-            "options": [
-                {"title": "poveikio analizė", "correct": false},
-                {"title": "kainos - naudos analizė", "correct": false},
-                {"title": "atlikti eksperimentus", "correct": true},
-                {"title": "rizikos duomenų kokybės vertinimas", "correct": false}
-            ],
-            "explain": "Atlikti eksperimentus yra geriausias idėjos patikrinimo būdas. Eksperimentai daromi kokybės planavimo procese, kad kaitaliojant parametrus statistikos būtų nustatyti veiksniai, turintys įtaką produktui ar procesui. Mūsų atveju tai padėtų įvertinti idealų įrangos dydį.\nPoveikio analizė apima rizikos nagrinėjimą ir jos potencialų poveikį projektui. Dažniausiai tai atliekama kokybinės rizikos analizės metu.\n Kainos - naudos analizės metu projekto kaina lyginama su nauda, ieškant, ar nėra geresnio varianto. Kainos - naudos analizė yra kokybės planavimo instrumentas ir būdas, tačiau mūsų atveju jis nėra tinkamas įrangos dydžiui nustatyti.\n Rizikos duomenų kokybės vertinimas padeda nustatyti informacijos apie riziką naudingumą. Tai kokybinės rizikos analizės metu naudojama priemonė.\n\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
-        },
-        {
-            "question": "Jūsų kompanija pasirašė fiksuotos kainos sandorį su užsakovu. Pagal sandorio užduotį jūs turite sukurti naują programinės įrangos modulį. Atsižvelgiant į sandorio tipą, kuris iš žemiau išvardintų dalykų reikalauja didžiausio dėmesio? ",
-            "options": [
-                {"title": "projekto apimtis (scope)", "correct": true},
-                {"title": "kokybė", "correct": false},
-                {"title": "baigimo terminas", "correct": false},
-                {"title": "išteklių buvimas", "correct": false}
-            ],
-            "explain": "Didžiausią dėmesį reikia skirti projekto apimčiai (scope) ,nes jūs kaip tiekėjas esate atsakingas už darbų atlikimą su užsakovu sutarta fiksuota kaina, nežiūrint tikrųjų išlaidų. Baudos dėl bet kokių projekto vėlavimų gali sumenkinti viso projekto vykdymo naudą. Fiksuotos kainos tipo sandoriuose tiekėjas turi atidžiai stebėti projekto apimtį, kad išvengtų papildomų išlaidų. \n Kaip projekto vadovas jūs neturėtumėte ignoruoti ir kitų dalykų, nors daugiausiai esate atsakingas už tai, kas gali turėti įtakos projekto apimčiai.\n\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
-        },
-        {
-            "question": "Kuriame procese yra naudojami visi šie būdai ar priemonės kaip analogiškasis vertinimas, vertinimas iš viršaus į apačią, projektų valdymo programinė įranga, tiekėjų prašomos kainos (a bid) analizė, kokybės kaina?",
-            "options": [
-                {"title": "projekto kainos vertinimo", "correct": true},
-                {"title": "išlaidų planavimo", "correct": false},
-                {"title": "išlaidų kontroliavimo", "correct": false},
-                {"title": "darbams reikiamų išteklių dydžio vertinimo", "correct": false}
-            ],
-            "explain": "Projekto kainos vertinimo procese naudojami visi klausime išvardinti būdai ar priemonės. Taip pat kainos vertinimo procese dar yra naudojami išteklių kainininkai, parametrinis vertinimas, atsargų analizė./n Išlaidų planavimo procesas kaip toks nėra numatytas projektų valdymo žinyne (PMBOK).\n Projektų valdymo programinė įranga naudojama išlaidų kontroliavimo procese, tačiau kitos klausime paminėtos priemonės ar būdai išlaidų kontroliavimo procese nėra naudojami.\n Vertinimo iš viršaus į apačią būdas naudojamas projekto darbams reikiamų išteklių dydžiui įvertinti, tačiau kitos klausime paminėtos priemonės ar būdai projekto darbams reikiamų išteklių dydžiui įvertinti nėra naudojami.\n\nTema: projekto planavimas\n Temos dalis: kainos planavimas"
-        },
-        {
-            "question": "Kuris iš žemiau pateiktų sakinių geriausiai apibrėžia rizikos veiksnių sąrašą (registrą)?",
-            "options": [
-                {"title": "tai rizikos veiksnių, turinčių didžiausią tikimybę ir poveikio projektui lygį, sąrašas", "correct": false},
-                {"title": "tai centrinis dokumentas, kuriame projekto grupės nariai gali įvardinti (nurodyti) rizikos veiksnius", "correct": false},
-                {"title": "tai komercinė duomenų bazė, kurioje yra pramoniniai rizikos veiksnių analizės standartai", "correct": false},
-                {"title": "tai išsamiai apibūdintų projekto rizikos veiksnių masyvas", "correct": true}
-            ],
-            "explain": "Rizikos veiksnių sąrašas (registras) – tai išsamiai apibūdintų projekto rizikos veiksnių masyvas. Šis sąrašas yra projekto rizikos valdymo pagrindas. Jis pradedamas kurti rizikos veiksnių įvardinimo procese. Vėliau pastarojo sąrašo rizikos veiksniai detaliai apibūdinami kiekybinės ir kokybinės rizikos analizių, reakcijos į riziką planavimo, rizikos stebėjimo ir valdymo procesų metu ir tampa išsamiai apibūdintų projekto rizikos veiksnių masyvu.\n Rizikos veiksnių, turinčių didžiausią tikimybę ir poveikio projektui lygį, sąrašas nėra tikslus rizikos veiksnių sąrašo apibrėžimas . Rizikos veiksnių sąraše gali būti plati rizikos veiksnių tikimybių ir poveikio projektui lygių lentelė. \nRizikos veiksnių sąrašas nėra centrinis dokumentas, kuriame projekto grupės nariai gali įvardinti (nurodyti) rizikos veiksnius. Daugelio projekto grupės narių gali būti prašoma nurodyti rizikos veiksnius ir užfiksuoti juos centriniame dokumente ar bazėje. Tačiau toks dokumentas ar bazė nėra rizikos veiksnių sąrašas.\n Komercinė duomenų bazė, kurioje yra pramoniniai rizikos veiksnių analizės standartai, nėra rizikos veiksnių lentelė. Tokią duomenų bazę labiau tiktų priskirti įmonės aplinkos duomenų (enterprise environmental factor ) kategorijai, ir ji naudojama rizikos valdymo planavimo ir rizikos veiksnių įvardinimo procesuose.\n\nTema: projekto planavimas\n Temos dalis: rizikos planavimas"
-        },
-        {
-            "question": "Kuriems asmenims yra skirti pirkimų planavimo procese parengti pirkimo dokumentai?",
-            "options": [
-                {"title": "akcininkams", "correct": false},
-                {"title": "užsakovui (pirkėjui)", "correct": false},
-                {"title": "galimiems tiekėjams", "correct": true},
-                {"title": "projekto vadovui", "correct": false}
-            ],
-            "explain": "Pirkimų planavimo procese parengti pirkimo dokumentai yra skirti galimiems tiekėjams. Pirkimo dokumentuose pirkėjo poreikiai išdėstomi taip, kad galimas tiekėjas galėtų parengti aiškų ir tinkamą pirkėjo svarstymui atsakymą. Prašymai teikti pasiūlymus (RFP) ir kainos (a bid) siūlymai yra pirkimo dokumentų pavyzdžiai.\n Nors projekto vadovui ir akcininkams taip pat rūpi pirkimo dokumentai, tačiau jie nėra pagrindiniai šių dokumentų adresatai. Užsakovas (pirkėjas) yra pirkimo dokumentų kūrėjas , o ne gavėjas. \n\nTema: projekto planavimas\n Temos dalis: pirkimų planavimas"
-        },
-        {
-            "question": "Kuris sakinys geriausiai apibūdina išlaidų plano (cost baseline) sąvoką projekte?",
-            "options": [
-                {"title": "išlaidų planas reiškia visas projekto eigoje padarytas išlaidas", "correct": false},
-                {"title": "išlaidų planas yra projektui patvirtintų lėšų paskirstymas laike ir naudojamas projekto išlaidoms kontroliuoti", "correct": true},
-                {"title": "išlaidų planas yra nekintamas dydis, kuris reiškia projekto kainos įvertį projekto pradžioje", "correct": false},
-                {"title": "išlaidų planas naudojamas planavimo procese vertinant projekto darbų kainas", "correct": false}
-            ],
-            "explain": "Išlaidų planas yra projektui patvirtintų lėšų paskirstymas laike ir naudojamas projekto išlaidoms kontroliuoti.Išlaidų planas sudaromas rengiant projekto biudžetą. metu. Jis gaunamas sumuojant visas išlaidas bėgant laikui. Išlaidoms pavaizduoti yra naudojama S-kreivė (S-curve), kurios Y-ašyje atidedama padarytų išlaidų suma, o X-ašyje–laikas.\nKiti šiame klausime nurodyti atsakymai nėra teisingi, nes netiksliai apibūdina išlaidų planą.\n\nTema: projekto planavimas\nTemos dalis: kainos planavimas"
-        },
-        {
-            "question": "Kuriems rizikos veiksniams ypač svarbu parengti reakcijos į juos planus projekte?",
-            "options": [
-                {"title": "visiems aukštą poveikio projektui lygį turintiems rizikos veiksniams", "correct": false},
-                {"title": "aukštą tikimybę ir aukštą poveikio projektui lygį turintiems rizikos veiksniams", "correct": true},
-                {"title": "aukštą tikimybę ir vidutinį poveikio projektui lygį turintiems rizikos veiksniams", "correct": false},
-                {"title": "visiems įvardintiems rizikos veiksniams", "correct": false}
-            ],
-            "explain": "Ypač svarbu yra parengti reakcijos planus aukštą tikimybę ir aukštą poveikio projektui lygį turintiems rizikos veiksniams. Tikėtini aukštą poveikio projektui lygį turintys rizikos veiksniai turi būti atidžiai stebimi ir turi turėti parengtą reakcijos į juos veiksmų planą.\nVisiems aukšto poveikio projektui lygio rizikos veiksniams nėra būtina rengti reakcijos į juos planus. Jei rizikos veiksnio poveikio lygis yra aukštas, bet jo tikimybė yra maža, toks veiksnys projekte gali ir nepasireikšti. \n Nėra svarbu rengti reakcijos planus aukštos tikimybės ir vidutinio poveikio projektui lygio rizikos veiksniams. \nTaip pat nėra svarbu rengti reakcijos planus visiems projekte įvardintiems rizikos veiksniams. Rizikos veiksnys nėra tikras faktas, jo gali ir nebūti.\n\nTema: projekto planavimas\nTemos dalis:rizikos planavimas "
-        },
-        {
-            "question": "Kuris iš žemiau iš vardintų dalykų yra komunikacijų planavimo proceso įeities duomenys? ",
-            "options": [
-                {"title": "apribojimai", "correct": true},
-                {"title": "komunikavimo įgūdžiai", "correct": false},
-                {"title": "informacijos paieškos sistemos", "correct": false},
-                {"title": "komunikacijų valdymo planas", "correct": false}
-            ],
-            "explain": "Apribojimai yra komunikacijų proceso įeities duomenys. Apskritai, šio proceso įeities duomenys yra įmonės aplinkos duomenys (enterprise environmental factors),įmonės organizaciniai dokumentai (enterprise organizational process assets; juose yra komunikacijų reikalavimai), projekto apimties aprašas ir projekto valdymo planas.\nKomunikavimo įgūdžiai ir informacijos paieškos sistemos yra priemonės, kurios naudojamos informacijos platinimo procese.\nKomunikacijų valdymo planas yra komunikacijų planavimo proceso rezultatas, o ne įeities duomenys.\n\nTema: projekto planavimas\nTemos dalis: komunikacijų planavimas "
-        },
-        {
-            "question": "Kas daroma darbų apibrėžimo procese?",
-            "options": [
-                {"title": "įvardinamos priklausomybės tarp suskaidytų darbų lentelėje (WBS) nurodytų darbų", "correct": false},
-                {"title": "apibūdinami WBS’e nurodyti darbai (ką, kaip reikėtų daryti);", "correct": true},
-                {"title": "rengiamas WBS’e nurodytų darbų vykdymo grafikas", "correct": false},
-                {"title": "įvertinamas kiekvienam WBS’e nurodytam darbui atlikti reikalingas laiko kiekis", "correct": false}
-            ],
-            "explain": "Darbų apibrėžimo procese apibūdinami suskaidytų darbų lentelėje (WBS) nurodyti darbai (ką, kaip reikėtų daryti). Jo metu atidžiai peržiūrimas WBS ir parengiamas detalizuotų darbų sąrašas.\nDarbų apibrėžimo procese priklausomybės tarp suskaidytų darbų lentelėje (WBS) nurodytų darbų nėra nagrinėjamos. Tik po WBS‘e nurodytų darbų detalizavimo rengiama jų atlikimo eilės tvarka, remiantis darbų priklausomybėmis.\n Darbų apibrėžimo procese nėra rengiamas WBS’e nurodytų darbų vykdymo grafikas. Toks planas rengiamas darbų grafiko planavimo procese. \n Darbų apibrėžimo procese nėra vertinamas kiekvienam WBS’e nurodytam darbui atlikti reikalingas laiko kiekis. Tai daroma darbų trukmės vertinimo procese.\n\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas "
-        },
-        {
-            "question": "Kuris iš žemiau išvardintų dalykų nėra naudojamas kokybės planavimo procese?",
-            "options": [
-                {"title": "veikimo bandymai (benchmarking)", "correct": false},
-                {"title": "sekų diagramos (flowcharting)", "correct": false},
-                {"title": "statistinė atranka", "correct": true},
-                {"title": "kainos-naudos analizė", "correct": false}
-            ],
-            "explain": "Kokybės planavimo procese nėra naudojama statistinė atranka. Tai yra vienas iš kokybės kontrolės būdų. Statistinės atrankos metode atsitiktinai tikrinami tik keli gaminiai (produktai) ir sprendžiama apie visos gaminių partijos kokybę./n Veikimo bandymai yra kokybės planavimo procese naudojamas būdas. Jų metu palyginami kuriamos sistemos planuojami ar esami parametrai ir panašių egzistuojančių sistemų parametrai. Taip nustatomi tobulintini dalykai.\n Sekų diagramos (flowcharting) yra viena iš priemonių, naudojamų kokybės planavimo procese. Jos naudingos analizuojant galimų problemų atsiradimo priežastis ir taip pat yra naudojamos kokybės kontrolės procese. \nKainos - naudos analizė yra atliekama kokybės planavimo procese. Ji reikalinga ieškant kainos ir kokybės kompromiso.\n\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
-        },
-        {
-            "question": "Kodėl projekto apimties apibrėžimo metu svarbu peržiūrėti dokumentuotas prielaidas? ",
-            "options": [
-                {"title": "prielaidos įneša suvaržymus projekto grupei", "correct": false},
-                {"title": "dokumentuotų prielaidų peržiūra padeda įvardinti galimus projekto rizikos veiksnius", "correct": false},
-                {"title": "dokumentuotų prielaidų peržiūra naudinga rengiant projekto planą", "correct": false},
-                {"title": "nedokumentuotos arba nepagrįstos prielaidos gali turėti įtakos projekto darbų apimčiai", "correct": true}
-            ],
-            "explain": "Projekto apimties apibrėžimo metu svarbu peržiūrėti dokumentuotas prielaidas, nes nedokumentuotos arba nepagrįstos prielaidos gali turėti įtakos projekto darbų apimčiai. Planavimo metu į prielaidas žiūrima kaip į veiksnius, galinčius turėti įtakos projektui. \nTuri būti išanalizuoti projekto eigos variantai, jei prielaida pasitvirtintų ir nepasitvirtintų. Dokumentuo tų prielaidų vertė pasireiškia nustatant projekto siekiamus rezultatus ir tikslus. Todėl projekto apimties apibrėžimo metu svarbu peržiūrėti ir išanalizuoti šias prielaidas.\nPrielaidos nevaržo projekto grupės. Grupės veiklą varžo projekto apribojimai (kaina, laikas, kokybė).\nNors dokumentuotų prielaidų peržiūra ir padeda įvardinti galimus projekto rizikos veiksnius, tačiau jie įvardinami rizikos veiksnių įvardinimo procese.\nNors dokumentuotų prielaidų peržiūra ir yra naudinga rengiant projekto planą, tačiau jos yra kaip įeities duomenys plano rengimo procesui. Preliminariame projekto apimties apraše (apimties metmenyse) jau turėtų būti šiokia tokia prielaidų analizė. Detali jų analizė atliekama vėliau projekto apimties apibrėžimo procese.\n\nTema: projekto planavimas\nTemos dalis:projekto apimties planavimas "
-        },
-        {
-            "question": "Jūs, dėliodami projekto darbus eilės tvarka, naudojate rodyklinės diagramos metodą (ADM–Arrow Diagramming Method). Kuris iš žemiau nurodytų teiginių nėra teisingas kalbant apie ADM?",
-            "options": [
-                {"title": "ADM dar yra nurodomas kaip AOA (Activity-On-Arrow)", "correct": false},
-                {"title": "naudojant ADM, galimi darbai gali būti nurodomi punktyrine linija", "correct": false},
-                {"title": "ADM metode darbai nurodomi stačiakampiuose, kurie jungiami rodyklėmis", "correct": true},
-                {"title": "ADM naudojamas tik pabaigos - pradžios pobūdžio priklausomybės darbams", "correct": false}
-            ],
-            "explain": "Teiginys, kad ADM metode darbai nurodomi stačiakampiuose, kurie jungiami rodyklėmis, yra neteisingas. ADM diagramose, kurios dar yra vadinamos AOA (Activity-On-Arrow), darbų pavadinimai nurodomi ant taškus jungiančių rodyklių, o ne stačiakampiuose. Rodyklėmis tarp taškų atspindima darbų priklausomybė.\n\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
-        },
-        {
-            "question": "Jūs laimėjote konkursą projektui vykdyti. Projekto trukmė yra treji metai, ir jūs pasižadėjote užsakovui įdiegti naują įrangą ir procesus. Reikiamiems darbams atlikti pasirašėte 1,2 mln. Lt sandorį. Taip pat sandoryje suderėjote, kad atlikus darbus greičiau nei planuota, jūs gausite papildomai 200 000 Lt. Kokio tipo sandorį jūs sudarėte?",
-            "options": [
-                {"title": "grynai fiksuotos kainos (FFP-Firm Fixed Price)", "correct": false},
-                {"title": "išlaidas padengiantįjį su paskatinamuoju priedu (CPIF-Cost Plus Incentive Fee)", "correct": false},
-                {"title": "fiksuotos kainos su paskatinamuoju priedu (FPIF-Fixed Price Incentive Fee)", "correct": true},
-                {"title": "išlaidas padengiantįjį su fiksuoto dydžio priedu (CPFF-Cost Plus Fixed Fee)", "correct": false}
-            ],
-            "explain": "Jūs sudarėte fiksuotos kainos su paskatinamuoju priedu (FPIF-Fixed Price Incentive Fee) sandorį. FPIF sandoris yra toks, kuriame tiekėjas atlieka darbus už sutartą kainą ir turi galimybę gauti paskatinamąjį priedą (premiją), jei atitinka nustatytus kriterijus.\n Jūsų sudarytas sandoris nėra nei FFP, nei CPIF, nei CPFF tipo. FFP sandoris yra toks, kuriame už atliktus darbus sumokama sutarta fiksuoto dydžio suma. CPIF tipo sandoryje užsakovas padengia visas tiekėjo išlaidas ir papildomai premijuoja jį, jei viršijami numatyti kriterijai. CPFF tipo sandoryje užsakovas padengia visas tiekėjo išlaidas ir papildomai sumoka sutartą fiksuotą sumą. \n\nTema: projekto planavimas\nTemos dalis:pirkimų planavimas"
-        },
-        {
-            "question": "Ką visų pirma reikia atlikti rizikos veiksnių įvardinimo procese?",
-            "options": [
-                {"title": "kiekybiškai įvertinti rizikos veiksnius", "correct": false},
-                {"title": "įvardinti rizikos veiksnių priežastis", "correct": false},
-                {"title": "įvardinti ir dokumentuoti galimus rizikos veiksnius", "correct": true},
-                {"title": "parengti reakcijos į kiekvieną įvardintą rizikos veiksnį strategiją", "correct": false}
-            ],
-            "explain": "Rizikos veiksnių įvardinimo procese visų pirma reikia įvardinti ir dokumentuoti galimus rizikos veiksnius. \nRizikos veiksnių kiekybiniam vertinimui, jų priežastims įvardinti ir reakcijos į kiekvieną įvardintą rizikos veiksnį strategijai parengti būtina visų pirma įvardinti rizikos veiksnius.\n\nTema: projekto planavimas\nTemos dalis:rizikos planavimas "
-        },
-        {
-            "question": "Projekto vykdymo metu jums prireikė papildomo vadybininko specifiniams darbams koordinuoti. Projekto pradžioje tokios pareigos nebuvo numatytos. Reikalingas tarpinis vadybinis lygmuo tarp jūsų, kaip projekto vadovo, ir specifinius darbus atliekančios grupelės. Kuris iš žemiau nurodytų veiksmų būtų labiausiai tinkamas?",
-            "options": [
-                {"title": "visos projekto grupės pertvarkymas", "correct": false},
-                {"title": "komunikacijų valdymo plano modifikavimas", "correct": true},
-                {"title": "potvarkio, kad tos grupelės narių visi el. laiškai būtų siunčiami jums per naująjį vadybininką, paskelbimas", "correct": false},
-                {"title": "visos projekto grupės narių susirinkimo sušaukimas ir naujo grupės nario pristatymas", "correct": false}
-            ],
-            "explain": "Tinkamiausias jūsų veiksmas būtų komunikacijų valdymo plano modifikavimas .Tarpinio vadybinio lygmens tarp jūsų ir specifinius darbus atliekančios grupelės įvedimas reiškia, kad grupelė turi raportuoti naujam vadybininkui, o jis savo ruožtu raportuoti jums. Taip pasikeičia komunikacijų seka.\n Jūs neturėtumėte pertvarkyti visos projekto grupės. Toks žingsnis būtų pernelyg drastiškas, kai įvedama tik viena pareigybė viename aiškiai apibrėžtame projekto vykdytojų padalinyje.\n Jūs neturėtumėte skelbti potvarkio, kad tos grupelės narių visi el. laiškai būtų siunčiami jums per naująjį vadybininką. Tą patį galima gauti modifikuojant komunikacijų valdymo planą. Tokio atskiro potvarkio skelbimas nėra gerai, nes jis neapima visų galimų komunikavimo būdų, pvz., pokalbių telefonu. Dar daugiau, tai reikštų, kad komunikacijų valdymo planas lieka atitinkamai nepakoreguotas. Projekto planų apeiti ar ignoruoti nereikėtų.\nJūs neturėtumėte šaukti visos projekto grupės narių susirinkimo ir pristatyti naują grupės narį. Tai nebūtina ir nėra praktiška. Pakaktų pristatyti naują vadybininką tik specifinius darbus atliekančios grupelės nariams. \n\nTema: projekto planavimas\n Temos dalis: komunikacijų planavimas"
-        }
-    ]
+  "questions": [
+    {
+      "question": "Kuri iš žemiau pateiktų motyvacijos teorijų turi ryšį su gerovės veiksniais (hygiene factors) ir motyvais dirbti (motivating agents)",
+      "options": [
+        {"title": "X teorija", "correct": false},
+        {"title": "Y teorija", "correct": false},
+        {"title": "Herzberg’o teorija", "correct": true},
+        {"title": "Maslow’o poreikių hierarchija.", "correct": false}
+      ],
+      "explain": "Herzberg’o teorija turi ryšį su gerovės veiksniais (hygiene factors) ir dirbti skatinančiais veiksniais(motivating agents). Gerovės veiksniai palaiko žmogaus norąlikti darbovietėje. Tai darbo sąlygos, algos dydis, gyvenimo sąlygos, santykiai darbe, saugumas, tarnybinės pareigos. Dirbti skatinantys veiksniai yra atsakomybė, savirealizacija, profesinis augimas, nuopelnų pripažinimas. \n X ir Y teorijų autorius McGregor‘as visus darbuotojus dalina į dvi grupes: X ir Y.\n X teorijoje laikoma, kad darbuotojai nepradeda darbo, kol jų neparagina viršininkas. Darbuotojams reikalinga nuolatinė kontrolė ir jie nesiima jokios atsakomybės. \nY teorijoje laikoma, kad darbuotojai visada nori dirbti. Reikalinga minimali kontrolė arba jos gali iš viso nebūti, kad darbuotojai savo pastangas nukreiptų apibrėžtiems tikslams pasiekti. \n Maslow’o poreikių hierarchijos teorijoje laikoma, kad žmogaus gyvenimas pagrįstas poreikių tenkinimu. Norint patenkinti aukštesnio lygmens poreikius, jau turi būti patenkinti žemesnio lygmens poreikiai. Einant nuo žemiausio iki aukščiausio, yra tokie poreikių lygmenys: \n - 1 lygmuo: fiziologiniai poreikiai (oras, vanduo, maistas, pastogė, rūbai);\n - 2 lygmuo: saugumo poreikiai (patikimumas, stabilumas, skriaudos ar žalos nebuvimas);\n - 3 lygmuo: socialiniai poreikiai (meilė, prisirišimas, pripažinimas, draugai);\n - 4 lygmuo: pagarbos poreikiai (kvalifikacija, pagarba, dėmesys, dėkingumas);\n - 5 lygmuo: pasireiškimo poreikiai (pasitenkinimas, augimas, mokymasis).\nTema: projekto planavimas \n Temos dalis: projekto grupės planavimas\n"
+    },
+    {
+      "question": "Jūs esate didelio statybų projekto vadovas. Jau esate numatę darbus ir rengiate darbų grafiką. Jums reikės iškasti pamatų duobę prieš betonuojant pastato pamatus. Kokia yra šių darbų priklausomybė:",
+      "options": [
+        {"title": "Švelnioji", "correct": false},
+        {"title": "Išorinė (external)", "correct": false},
+        {"title": "Privalomoji (mandatory)", "correct": true},
+        {"title": "Laisvai pasirenkama (discretionary)", "correct": false}
+      ],
+      "explain": "Tarp šių darbų yra privalomoji priklausomybė. Šiame projekte, be abejo, jūs turite pirma iškasti duobę, o po to betonuoti pastato pamatus.\n Švelniosios darbų priklausomybės kaip tokios nėra. Tai išgalvotas pavadinimas.\n Išorinė priklausomybė yra tokia, kai projekte numatyto darbo atlikimas priklauso nuo išorinių veiksnių, pvz., nepalankių oro sąlygų, subrangovų, kt.\n Laisvai pasirenkama darbų priklausomybė yra tokia, kai darbų vykdymo eilės tvarką galima pasirinkti laisvai, pvz., labiau įprastą projekto grupei, nors ir galima kita darbų eilės tvarka.\nTema:projekto planavimas\nTemos dalis:darbų grafiko planavimas\n "
+    },
+    {
+      "question": "Kurio iš žemiau išvardintų dalykų nebūna projekto apimties apraše (project scope statement)?",
+      "options": [
+        {"title": "Prioriteto tvarka sudėliotų projekto rizikos veiksnių sąrašo", "correct": true},
+        {"title": "Preliminaraus siekiamų rezultatų sąrašo", "correct": false},
+        {"title": "Kuriamo produkto trumpo aprašo", "correct": false},
+        {"title": "Projekto tikslų santraukos", "correct": false}
+      ],
+      "explain": "Prioriteto tvarka sudėliotų projekto rizikos veiksnių sąrašo dar nebūna projekto apimties apraše. Šis aprašas yra bendrojo pobūdžio dokumentas, kuriame išdėstomi projekto tikslai ir siekiami rezultatai, ir jis tampa pradiniu projekto tašku (baseline). Rizikos veiksniai įvardinami vėliau, kai jau būna parengta suskaidytų darbų lentelė (WBS).\n Kiti klāusime išvardinti dalykai turi būti projekto apimties apraše. Rengiant jį na udojami įmonės organizaciniai dokumentai ( enterprise organizational process assets), projekto nuostatai (project charter), projekto apimties aprašo metmenys, projekto apimties valdymo planas (tvarka, norint keisti šį planą), visi patvirtinti prašymai daryt i šio plano keitimus. Projekto apimties apraše trumpai ir aiškiai išdėstomi reikalavimai, tikslai ir siekiami rezultatai. Pagal projektų valdymo žinyną (PMBOK) apraše turėtų būti ne vien tik tai, bet ir projekto pagrindimas, projekto produkto aprašas. Projekto pagrindime dėstomi verslo poreikiai ir potencialios projekto naudos įvertis. Projekto produkto apraše apibūdinamas pats kuriamas produktas.\n Projekto apimties apraše turėtų būti nurodyti siekiamų rezultatų metmenys. Jų tarpe turi būti ir tie rezultatai, kuriuos pasiekus projektas bus laikomas baigtu. Pastarieji turi būti išsamūs ir aiškūs, nes pagal juos akcininkai ir projekto grupė orientuosis, ko gi siekiama projektu. Tai išmatuojami projekto rezultatai, ir jie yra kritiniai projekto sėkmės kriterijai.\n Projekto apimties aprašas turėtų būti išplatintas visiems akcininkams,organizacijos vadovybei, projekto grupės nariams. Juos turėtų pasirašyti pagrindiniai akcininkai.\n Projekto apimties aprašas, kaip įeities duomenys, naudojamas rengiant suskaidytų darbų lentelę (WBS–Work Breackdown Stucture).\n Tema: projekto planavimas\n Temos dalis: projekto apimties planavimas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra pirkimų planavimo proceso įeities duomenys?",
+      "options": [
+        {"title": "Tiekėjų pasiūlymai", "correct": true},
+        {"title": "Suskaidytų darbų lentelė (WBS)", "correct": false},
+        {"title": "Projekto apimties aprašas (scope statement)", "correct": false},
+        {"title": "Įmonės organizaciniai dokumentai (enterpriseorganizational process assets)", "correct": false}
+      ],
+      "explain": "Tiekėjų pasiūlymai nėra naudojami pirkimų planavimo procese. Pasiūlymai gaunami tik paskelbus prašymą teikti juos (RFP–Request For Proposal), bet nepirkimų planavimo procese.\n Kiti šiame klausime išvardinti dalykai yra naudojami pirkimų planavimo procese.Be jų dar yra naudojamas darbų skaidymo žinynas ir projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas "
+    },
+    {
+      "question": "Kurį iš žemiau nurodytų dalykų reikėtų įtraukti į rizikos valdymo planą?",
+      "options": [
+        {"title": "Reakcijos į rizikos veiksnius planą", "correct": false},
+        {"title": "Pagrindinių rizikos veiksnių sąrašą", "correct": false},
+        {"title": "Rizikos veiksnių tikimybės ir poveikio dydžio lentelę", "correct": true},
+        {"title": "Prioriteto tvarka išdėstytų rizikos veiksnių sąrašą", "correct": false}
+      ],
+      "explain": "Į rizikos valdymo planą reikėtų įtraukti rizikos veiksnių tikimybės ir poveikio dydžio lentelę.Rizikos valdymo planas sukuriamas tik Rizikos valdymo planavimo proceso metu. Rizikos valdymo plane aprašomos detalės, kaip rizikos veiksniai turi būti įvardinami ir analizuojami, kaip rizikos veiksnių priežastys turi būti valdomos ir kaip rizika turi būti valdoma ir kontroliuojama viso projekto eigoje. Pagal projektų valdymo žinyną (PMBOK) į rizikos valdymo planą gali būti įtrauktos metodologijos, projekto grupės narių pareigos ir atsakomybės, projekto rizikos valdymo kaina, nurodymai, kaip dažnai rizikos valdymo veiksmai turi būti atliekami, rizikos veiksnių skaidymas į kategorijas, kiekybiniai ir kokybiniai rizikos analizės metodai, rizikos veiksnių tikimybės ir poveikio dydžio projektui lentelė, akcininkų požiūrių kaitą į leistiną rizikos lygį, informavimo apie riziką būdus, kaip bus stebima rizika projekto eigoje.\n Rizikos valdymo plane neturėtų būti reakcijos į rizikos veiksnius plano. Reakcijos į rizikos veiksnius planas yra atskiras dokumentas, kuriame pateikiama detali informacija apie planuojamus veiksmus kiekvieno potencialaus rizikos veiksnio atveju. Pastarasis planas parengiamas Reakcijos į rizikos veiksnius planavimo procese.\n Pagrindinių rizikos veiksnių sąrašas yra naudojamas Kokybinės rizikos analizės proceso metu. Rizikos valdymo plane tik nurodoma, kaip projekte reikėtų elgtis rizikos veiksnių atveju, tačiau jame nevardinami konkretūs rizikos veiksniai.\n Prioriteto tvarka išdėstytų rizikos veiksnių sąrašas gaunamas Kokybinės rizikos analizės ir Kiekybinės rizikos analizės procesų eigoje. Taip sudaromas išsamus projektui grėsmę galintis turėti rizikos veiksnių sąrašas. Visada prisiminkime, kad rizikos valdymo plane nevardinami konkretūs rizikos veiksniai.\n Tema: projekto planavimas\n Temos dalis: rizikos planavimas"
+    },
+    {
+      "question": "Kurioje projektų valdymo procesų grupėje rengiamas darbų grafikas?",
+      "options": [
+        {"title": "Inicijavimo", "correct": false},
+        {"title": "Planavimo", "correct": true},
+        {"title": "Vykdymo", "correct": false},
+        {"title": "Užbaigimo", "correct": false}
+      ],
+      "explain": "Projekto darbų grafikas rengiamas planavimo procesų grupės metu. Planavimo metu apibrėžiami projekto tikslai ir numatomi darbai tiems tikslams pasiekti.\n Inicijavimo procesų grupė baigiasi vadovybės pasirašytu leidimu pradėti projektą. \n Vykdymo procesų grupėje atliekami darbai suplanuotiems projekto tikslams pasiekti. \n Užbaigimo procesų grupėje formaliai priimami projekto rezultatai ir užbaigiamas projektas. \nTema: projekto planavimas\n Temos dalis: darbų grafiko planavimas "
+    },
+    {
+      "question": "Kuris iš žemiau pateiktų sakinių yra teisingas, kai kalbama apie organizacijos kokybės taisykles (quality policy) ?",
+      "options": [
+        {"title": "Kokybės taisykles paprastai paskelbia projekto vadovas", "correct": false},
+        {"title": "Organizacijos kokybės taisyklės yra svarbesnės už kitus kokybės standartus", "correct": false},
+        {"title": "Kokybės taisyklės įvardina išorinius kokybės reglamentus, kurie gali turėti įtakos projektui", "correct": false},
+        {"title": "Kokybės taisyklės - tai organizacijos bendrosios nuostatos ir gairės kokybės klausimais", "correct": true}
+      ],
+      "explain": "Kokybės taisyklės (quality policy) yra organizacijos bendrosios nuostatos ir gairėskokybės klausimais. Šios taisyklės priklauso įmonės organizacinių dokumentų (enterprise organizational process asset) kategorijai. Naudojamos kaip įeities duomenys Kokybės planavimo procese.\nKokybės taisykles paprastai išleidžia organizacijos vadovybė, bet ne projekto vadovas.\nKokybės taisyklės nėra svarbesnės už kitus kokybės standartus. Projekto užsakovas gali turėti savus papildomus kokybės standartus, kurie gali būti svarbesni už kokybės taisykles. \n Kokybės taisyklės nėra kokių nors išorinių kokybės reglamentų, kurie gali turėti įtakos projektui, įvardinimas. Tai vidinis organizacijos dokumentas. Išoriniai kokybėsreglamentai dažnai priskiriami įmonės aplinkos duomenų (enterprise environmental factors) kategorijai ir jie yra kiti įeities duomenys Kokybės planavimo procese.\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
+    },
+    {
+      "question": "Jūs jau esate įvardinę būtinus projekto tikslams pasiekti darbus ir sudarę darbų išdėstymo eilės tvarka PDM (Precedence Diagramming Method) diagramą. Toliau jums reikia įvertinti darbų trukmes. Kas turi didžiausią įtaką vertinant kiekvieno darbo trukmę?",
+      "options": [
+        {"title": "Organizacijos struktūra (tipas)", "correct": false},
+        {"title": "Darbui skirti ištekliai", "correct": true},
+        {"title": "Ankstesnis darbas, nurodytas PDM diagramoje", "correct": false},
+        {"title": "Laikas, kada projekto eigoje darbas turi būti daromas", "correct": false}
+      ],
+      "explain": "Darbo trukmės vertinimo metu didžiausią įtaką turi darbui skirti ištekliai. Trukmės įverčiui įtakos turi darbo dydis (apimtis) ir išteklių ypatybės. Pvz., aukštos kvalifikacijos specialistai darbą atliks greičiau, nei prastesnius įgūdžius turintys žmonės.\n Kiti klausime išvardinti veiksniai neturi įtakos vertinant darbų trukmę.\n Tema: projekto planavimas\n Temos dalis: darbų grafiko planavimas "
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų yra projekto biudžeto rengimo proceso rezultatas?",
+      "options": [
+        {"title": "Projekto etapams paskirstytos lėšos (cost baseline)", "correct": true},
+        {"title": "Darbų kainų įverčiai", "correct": false},
+        {"title": "Lėšų apjungimas (cost aggregation)", "correct": false},
+        {"title": "Atliktų darbų dydis", "correct": false}
+      ],
+      "explain": "Projekto etapams (pvz., mėnesiams) paskirstytos lėšos yra biudžeto rengimo rezultatas.\n Darbų kainų įverčiai gaunami kainos vertinimo procese. Lėšų apjungimas yra būdas arba priemonė, kuri naudojama biudžeto rengimoprocese.\nAtliktų darbų dydis yra naudojamas išlaidų kontrolės procese.\nTema: projekto planavimas\nTemos dalis: projekto kainos planavimas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra kliūtis efektyviam komunikavimui?",
+      "options": [
+        {"title": "Pašalinė su projektu nesusijusi informacija", "correct": false},
+        {"title": "Prasti rašymo įgūdžiai", "correct": false},
+        {"title": "Žargono naudojimas, kuris klausytojui nėra žinomas", "correct": false},
+        {"title": "Atidus klausymasis", "correct": true}
+      ],
+      "explain": "Atidus klausymasis nėra kliūtis efektyviam komunikavimui. Taip parodomas dėmesys kalbančiajam, savais žodžiais pasitikslinama kalbėtojo išsakyta mintis, paprašoma reikiamų paaiškinimų.\n Su projektu nesusijusi informacija, prasti rašymo įgūdžiai, klausytojui nesuprantamas žargonas yra komunikavimo kliūtys. Efektyviam komunikavimui taip pat kenkia nepakankamos informacijos perdavimas, informacijos perdavimas ne tam asmeniui, pavėluotas info rmacijos perdavimas arba perdavimas nepatogiu metu.\nTema: projekto planavimas \nTemos dalis: komunikacijų planavimas "
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra reikalingas vertinant darbui atlikti reikalingus išteklius ?",
+      "options": [
+        {"title": "Pareigybių (etatų) sąrašas", "correct": true},
+        {"title": "Įmonės organizaciniai dokumentai (enterprise organizational process assets)", "correct": false},
+        {"title": "Išteklių buvimas", "correct": false},
+        {"title": "Darbų sąrašas ir jų charakteristikos", "correct": false}
+      ],
+      "explain": "Preigybių (etatų) sąrašas nėra reikalingas vertinant darbui atlikti reikalingus išteklius. Jo prireikia tik projekto grupės formavimo procese.\n Kiti šiame klausime išvardinti dalykai yra reikalingi. Išteklių darbui atlikti vertinime reikalingi įmonės aplinkos duomenys (enterprise environmental factor), įmonės organizaciniai dokumentai (enterprise organizational process assets), darbų sąrašas ir jų charakteristikos, išteklių buvimo faktas ir projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: projekto kainos planavimas "
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra įeities duomenys reakcijos į rizikos veiksnius planavimui?",
+      "options": [
+        {"title": "Už rizikos veiksnius atsakingi asmenys", "correct": false},
+        {"title": "Rizikos veiksnių slenksčiai (svoriai)", "correct": false},
+        {"title": "Rizikos veiksnių priežastys", "correct": false},
+        {"title": "Susitarimai dėl rizikos sandoriuose", "correct": true}
+      ],
+      "explain": "Susitarimai dėl rizikos sandoriuose nėra įeities duomenys reakcijos į rizikos veiksnius planavimui.\n Kiti šiame klausime išvardinti dalykai yra naudojami planuojant, kaip bus reaguojama į rizikos veiksnius. Reakcijos į rizikos veiksnius planavimo metu kaip įeities duomenys dar yra naudojami rizikos valdymo planas ir rizikos veiksnių sąrašas (risk register). Šis sąrašas sudaromas rizikos veiksnių įvardinimo procese ir yra naudojamas kituose rizikos valdymo procesuose: kokybinėje ir kiekybinėje rizikos analizėse, reakcijos į rizikos veiksnius planavime, rizikos stebėsenoje ir kontrolėje. Projekto eigoje rizikos veiksnių sąrašas laikas nuo laiko peržiūrimas ir atnaujinamas, iš naujo suplanuojama reakcija į rizikos veiksnius. Rizikos veiksnių sąraše būna prioriteto tvarka surašyti rizikos veiksniai, poveikio projektui dydžio tvarka surašyti rizikos veiksniai, galimų reakcijos veiksmų į rizikos veiksnius sąrašas, atsakingi asmenys rizikos problemoms spręsti, rizikos kokybinės ir kiekybinės rizikos analizės rezultatų tendencijos.\nTema: projekto planavimas\nTemos dalis: rizikos planavimas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų būdų ar priemonių nėra naudojamas nustatant projekto darbų eilę ?",
+      "options": [
+        {"title": "PDM (Precedence Diagramming Method, stačiakampių) diagrama", "correct": false},
+        {"title": "Darbų priklausomybės nustatymas", "correct": false},
+        {"title": "Šablonai", "correct": false},
+        {"title": "Ekspertų nuomonė", "correct": true}
+      ],
+      "explain": "Ekspertų nuomonės neklausiama nustatant projekto darbų eilę. Darbų eilei nustatyti peržiūrimas išsamus projekto darbų sąrašas ir sudaroma diagrama, kurioje darbai išdėstomi logiška jų atlikimo tvarka. Tam naudojami šie būdai ar priemonės: PDM (precedence diagramming method, darbai nurodomis tačiakampiuose) arba ADM (arrow diagramming method, darbai nurodomi ant rodyklių) diagramos, darbų priklausomybių nustatymas, darbų grafiko šablonai.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas "
+    },
+    {
+      "question": "Kuriame procese kaip įeities duomenys yra reikalingi įmonės aplinkos duomenys (enterprise environmental factors), įmonės organizaciniai dokumentai (organizational process assets) ir projekto valdymo plane nurodyti darbams atlikti reikiami ištekliai ?",
+      "options": [
+        {"title": "Projekto grupės plėtros", "correct": false},
+        {"title": "Projekto grupės sudarymo", "correct": false},
+        {"title": "Žmoniškųjų išteklių planavimo", "correct": true},
+        {"title": "Informacijos platinimo", "correct": false}
+      ],
+      "explain": "Žmoniškųjų išteklių planavimo procese reikalingi įmonės aplinkos duomenys (enterprise environmental factors), įmonės organizaciniai dokumentai (organizational process assets) ir projekto valdymo plane nurodyti darbams atlikti reikalingi ištekliai. Pagal projektų valdymo žinyną (PMBOK) žmoniškųjų išteklių planavimo metu įvardinamos pareigybės (etatai), kas už ką bus atsakingas ir kas kam turės atskaityti.\n Projekto grupės plėtros proceso įeities duomenys yra grupės nariams paskirtos pareigos, etatų valdymo planas, turimi žmoniškieji ištekliai. Pagal PMBOK, projekto grupės plėtra apima projekto grupės narių gebėjimų vykdyti projekto užduotis gerinimą (mokymai, kvalifikacijos kėlimo kursai, kt.).\n Projekto grupės sudarymo procese reikalingi įmonės aplinkos duomenys, įmonės organizaciniai dokumentai, pareigybės (etatai) ir atsakomybės, projekto organizacinė schema, etatų valdymo planas. Pagal PMBOK, projekto grupės sudarymas yra ne kas kita, kaip projektui vykdyti reikalingų žmonių surinkimą.\n Informacijos platinimo proceso įeities duomenys yra komunikacijų valdymo planas. Pagal PMBOK, informacijos platinimu užtikrinamas savalaikis informacijos apie projekto stovį perdavimas akcininkams.\n Tema: projekto planavimas \nTemos dalis: projekto grupės planavimas"
+    },
+    {
+      "question": "Jūs esate naujo produkto kūrimo projekto vadovas. Rizikos veiksnių įvardinimo metu jūs pastebėjote veiksnį, galintį sukelti rimtą pavojų projektui. Todėl nusprendėte sumažinti reikalavimus naujam produktui, kad išvengtumėte pastebėto rimto rizikos veiksnio. Koks tai reakcijos į riziką būdas ?",
+      "options": [
+        {"title": "Rizikos vengimas", "correct": true},
+        {"title": "Rizikos prisiėmimas", "correct": false},
+        {"title": "Rizikos mažinimas", "correct": false},
+        {"title": "Rizikos nukreipimas kitiems", "correct": false}
+      ],
+      "explain": "Šiuo atveju jūs pasirinkote rizikos vengimo būdą. Vengimas apima projekto plano keitimą taip, kad būtų išvengta rizikos veiksnio ar jo poveikio projektui. Rizikos vengimo pavyzdžiu gali būti projekto apimties (scope) sumažinimas arba papildomų išteklių pritraukimas rizikai išvengti.\n Jūsų priimtas sprendimas nereiškia rizikos prisiėmimo. Prisiimant riziką projekto planas nėra keičiamas, bet, pvz., numatomas specialusis fondas arba atsarginis variantas. \nJūs nesiėmėt rizikos mažinimo. Rizikos mažinimas reiškia rizikos veiksnio tikimybės ar jo poveikio projektui sumažinimo iki priimtinos ribos. Jūs nenukreipėt rizikos kitiems. Rizikos nukreipimas kitiems reiškia rizikos ir jos pasekmių perdavimą trečiosioms šalims, pvz., rangovams. Tema: projekto planavimas\nTemos dalis: rizikos planavimas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra įeities duomenys darbų grafiko rengimo procesui?",
+      "options": [
+        {"title": "Išteklių kalendoriai (kada užimti, kada laisvi)", "correct": false},
+        {"title": "Darbų sąrašas", "correct": false},
+        {"title": "Projekto darbų sekos diagramos", "correct": false},
+        {"title": "Darbų grafikas (baseline)", "correct": true}
+      ],
+      "explain": "Darbų grafikas (baseline) nėra įeities duomenys darbų grafiko rengimo procesui.Jis yra šio proceso rezultatas. Darbų grafikas vėliau naudojami kontroliuojant, ar projektas vyksta pagal darbų grafiką. \n Kiti šiame klausime įvardinti dalykai yra darbų grafiko rengimo proceso įeities duomenys. Šio proceso įeities duomenims priskiriami įmonės organizaciniai dokumentai, projekto apimties aprašas (project scope statement), darbų sąrašas, darbų charakteristikos, projekto darbų sekos diagramos, darbams atlikti reikalingi ištekliai, išteklių kalendoriai (kada užimti, kada laisvi), darbų trukmės įverčiai, projekto valdymo planas.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
+    },
+    {
+      "question": "Jūs rengiate savo projekto darbų grafiką ir pastebite, kad vieno iš darbų vėliausias pradžios laikas yra ankstesnis už jo anksčiausią pradžios laiką. Sakoma, kad toks darbas turi?",
+      "options": [
+        {"title": "Delsimo laiką", "correct": false},
+        {"title": "Svyravimo dydį (float) laike lygų nuliui", "correct": false},
+        {"title": "Laisvąjį svyravimo dydį laike", "correct": false},
+        {"title": "Neigiamą svyravimo dydį laike", "correct": true}
+      ],
+      "explain": "Paprastai sakoma, kad toks darbas turi neigiamą svyravimo dydį laike. Neigiamas svyravimo dydis gaunamas tada, kai darbo vėl iausias pradžios laikas yra ankstesnis už darbo anksčiausią pradžios laiką. Neigiamas svyravimo dydis rodo, kad darbas yra kritinis ir darbų grafiką būtina paderinti, kad projektas būtų užbaigtas numatytu laiku. Neigiami svyravimo dydžiai paprastai gaunami , kai projektui uždedami pernelyg griežti laiko apribojimai. Būdai neigiamiems svyravimo dydžiams darbų grafike pašalinti yra papildomų išteklių kritinio kelio darbams atlikti skyrimas arba projekto darbų grafiko perdarymas ar pailginimas.\n Klausime nurodytas darbas neturi delsimo laiko. Uždelsimas yra laikų tarp pirmojo darbo pradžios ir antrojo darbo pradžios skirtumas (tai nėra lygu vien pirmojo darbo trukmei).\n Klausime nurodyto darbo svyravimo dydis laike nėra lygus nuliui. Darbo svyravimo dydis laike lygus nuliui gaunamas tada, kai anksčiausias ir vėliausias darbo pradžios laikai yra vienodi. Tokie darbai yra kritiniai. Jei kurio nors iš jų atlikimas užtrunka ilgiau, bus vėluojama įvykdyti visą projektą. \nKlausime nurodytas darbas neturi laisvojo svyravimo dydžio laike. Laisvasis darbo svyravimo dydis yra perteklinis laikas, sugaištas iki kito darbo pradžios. Tai mažiausias skirtumas tarp pirmojo darbo anksčiausio pabaigos laiko ir visų kitų antrųjų darbų (successor) anksčiausių pradžios laikų. Laisvasis darbo svyravimo dydis atspindi laiką, kuriuo gali būti vėluojama darbo pabaiga, nedarant įtakos kitiems projekto darbams. Laisvas darbo svyravimo dydis atsiranda tik tuomet, kai dviejų ar daugiau pirmųjų darbų (predcessor) rezultatai reikalingi tam pačiam antrajam darbui (successor).Pastebėkime, kad laisvasis darbo svyravimo dydis negali būti neigiamas.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
+    },
+    {
+      "question": "Kurio proceso rezultatas yra vertinimo kriterijai?",
+      "options": [
+        {"title": "Prašymo tiekėjams teikti pasiūlymus", "correct": false},
+        {"title": "Tiekėjų atrankos", "correct": false},
+        {"title": "Pirkimų planavimo", "correct": true},
+        {"title": "Sandorių planavimo", "correct": false}
+      ],
+      "explain": "Vertinimo kriterijai yra pirkimų planavimo proceso rezultatas. Pirkimų planavimo proceso rezultatai yra pirkimų valdymo planas, darbų užduotys (SOW–Statement Of Work) tiekėjams, sprendimas daryti patiems ar pirkti, pirkimo dokumentai, vertinimo kriterijai ir įvairūs reikalingi pakeitimai.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
+    },
+    {
+      "question": "Rizikos veiksniai, atsirandantys įgyvendinant reakcijos į rizikos veiksnius planą, yra vadinami ?",
+      "options": [
+        {"title": "Liekamaisiais", "correct": false},
+        {"title": "Išoriniais", "correct": false},
+        {"title": "Antriniais", "correct": true},
+        {"title": "Ktiniais", "correct": false}
+      ],
+      "explain": "Rizikos veiksniai, atsirandantys įgyvendinant reakcijos į rizikos veiksnius planą, yra vadinami antriniais .Projekto pradžioje antrinių rizikos veiksnių nėra, tačiau jie galiatsirasti projekto eigoje atliekant reakcijos veiksmus į plane įvardintus rizikos veiksnius. Rengiant reakcijos į rizikos veiksnius planą reikėtų būti atidiems ir įvardinti galimus antrinius rizikos veiksnius bei numatyti veiksmus jų atveju. \nRizikos dalis, kuri išlieka įgyvendinus reakcijos veiksmus į rizikos veiksnį, vadinama liekamąja rizika.\n Išorinis rizikos veiksnys yra toks, kuris nėra pavaldus jūsų organizacijai ir negalite jo valdyti, pvz., teisės aktų arba oro sąlygų pasikeitimas.Atsitiktinio rizikos veiksnio sąvoka apskritai nėra naudojama.\nTema: projekto planavimas\nTemos dalis: rizikos planavimas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų individo poreikių yra minimas Maslow’o sukurtoje žmogaus poreikių hierarchijos teorijoje",
+      "options": [
+        {"title": "Alga", "correct": false},
+        {"title": "Saugumas", "correct": true},
+        {"title": "Atsakomybė", "correct": false},
+        {"title": "Darbo sąlygos", "correct": false}
+      ],
+      "explain": "Saugumas yra minimas Maslow’o sukurtoje žmogaus poreikių hierarchijos teorijoje. Joje laikoma, kad žmogaus gyvenimas pagrįstas poreikių tenkinimu. Norint patenkinti aukštesnio lygmens poreikius, jau turi būti patenkinti žemesnio lygmens poreikiai. Einant nuo žemiausio iki aukščiausio, yra tokie poreikių lygmenys:\n - 1 lygmuo: fiziologiniai poreikiai (oras, vanduo, maistas, pastogė, rūbai)\n-2 lygmuo: saugumo poreikiai (patikimumas, stabilumas, skriaudos ar žalos nebuvimas)\n-3 lygmuo: socialiniai poreikiai (meilė, prisirišimas, pripažinimas, draugai)\n-4 lygmuo: pagarbos poreikiai (kvalifikacija, pagarba, dėmesys, dėkingumas)\n-5 lygmuo: pasireiškimo poreikiai (pasitenkinimas, augimas, mokymasis).\nKiti šiam klausime išvardinti dalykai nėra minimi Maslow‘o teorijoje. \nTema: projekto planavimas\nTemos dalis: projekto grupės planavimas"
+    },
+    {
+      "question": "Kam skirsite pagrindinį dėmesį vadovaudami projektui, kuriame su tiekėju yra sudarytas laiko ir medžiagų apmokėjimo (T&M) tipo sandoris? ",
+      "options": [
+        {"title": "Projekto apimčiai (scope)", "correct": false},
+        {"title": "Projekto darbų grafikui (schedule)", "correct": true},
+        {"title": "Tiekėjo patikimumui", "correct": false},
+        {"title": "Tiekėjo medžiagų kainai", "correct": false}
+      ],
+      "explain": "Jūs, kaip pirkėjas, laiko ir medžiagų apmokėjimo (T&M) tipo sandoryje turėtumėte pagrindinį dėmesį skirti projekto darbų grafikui. Šio tipo sandoriuose atsiskaitomaremiantis fiksuotu darbo valandos įkainiu ir pateiktomis išlaidomis medžiagoms. Jei atsiliekama nuo projekto darbų grafiko, pirkėjas turi papildomas išlaidas. Todėl reikia atidžiai stebėti, kaip laikomasi projekto darbų grafiko.\n Jums, kaip projekto vadovui, nuolatos tenka stebėti projekto apimtį (scope).Dauguma projekto apimties keitimų reikalauja ilginti projekto trukmę. T&M tipo sandorio atveju tai iššaukia papildomas išlaidas. Todėl projekto darbų grafikas turi būti jūsų dėmesio centre.\n Tiekėjo patikimumas įvertinamas prieš pasirašant sandorį. Jūs kaip pirkėjas turite padengti tiekėjo išlaidas medžiagoms. Tačiau dažniausiai pirkėjo išlaidų padidėjimą lemia ne medžiagos, o atsilikimas nuo projekto darbų grafiko.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
+    },
+    {
+      "question": "Jūs esate projekto vadovas leidybos kompanijoje. Sudarydami projekto darbų grafiką pastebėjote, kad jame yra daug kritinių kelių. Kuris iš žemiau pateiktų teiginių geriausiai tinka tokiam projektui ?",
+      "options": [
+        {"title": "Jūsų atlikti kritinio kelio skaičiavimai yra neteisingi, nes projektas gali turėti tik vieną kritinį kelią", "correct": false},
+        {"title": "Projektui valdyti reikia mažiau pastangų, nei esant tik vienam kritiniam keliui", "correct": false},
+        {"title": "Projekto rizika yra didesnė, nes esant daug kritinių kelių jo valdymas yra sudėtingesnis", "correct": true},
+        {"title": "Kritiniai keliai sueina į tą patį projekto tašką", "correct": false}
+      ],
+      "explain": "Jūsų projekto rizika yra didesnė, nes esant daug kritinių kelių projekto valdymas yra sudėtingesnis. Nukrypimams nuo darbų grafiko išvengti tenka įdėti žymiai daugiau pastangų. Kuo daugiau kritinių kelių, tuo didesnė tikimybė, kad kurį nors darbą bus vėluojama atlikti.\nTeiginys, kad jūsų atlikti kritinio kelio skaičiavimai yra neteisingi, nes projektas gali turėti tik vieną kritinį kelią, yra neteisingas. Projektas gali turėti daug kritinių kelių. Teiginys, kad daug kritinių kelių turinčiam projektui valdyti reikia mažiau pastangų, nei esant tik vienam kritiniam keliui, yra neteisingas. Kuo daugiau kritinių kelių, tuo sudėtingiau valdyti tokį projektą.\nTeiginys, kad kritiniai keliai sueina į tą patį projekto tašką, yra neteisingas. Nesant informacijos apie atskirus darbus, šito nustatyti negalima.\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų yra naudojamas Pirkimų planavimo procese?",
+      "options": [
+        {"title": "Standartiniai blankai (formos)", "correct": false},
+        {"title": "Atrankos (screening) sistema", "correct": false},
+        {"title": "Ekspertų nuomonė", "correct": true},
+        {"title": "Tiekėjų konferencija", "correct": false}
+      ],
+      "explain": "Ekspertų nuomonė yra svarbi Pirkimų planavimo procese. Pirkimų planavimo metu priimamas sprendimas dėl sistemos (paslaugų) darymo patiems arba pirkimo. Jeigu nutariama pirkti, išvardinami numatomi pirkti dalykai. Ekspertų nuomonė labai praverčia priimant darymo/pirkimo sprendimą.\n Standartiniai blankai (formos) nėra naudojami Pirkimų planavimo procese. Jie dažniausiai naudojami planuojant sandorius. \n Atrankos (screening) sistema nėra naudojama Pirkimų planavimo procese. Tik vėliau, gavus pasiūlymus, ji naudojama atrenkant priimtiniausią tiekėją. Tiekėjų konferencija nėra šaukiama Pirkimų planavimo procese. Ji gali būti šaukiama prašymo potencialiems tiekėjams duoti pasiūlymus paskelbimui. \nTema: projekto planavimas\nTemos dalis:pirkimų planavimas"
+    },
+    {
+      "question": "Kuri priemonė yra naudingiausia atliekant rizikos veiksnių poveikio projektui analizę?",
+      "options": [
+        {"title": "Pareto diagramos", "correct": false},
+        {"title": "Tinklinės diagramos", "correct": false},
+        {"title": "Besišakojančios (fishbone) diagramos", "correct": false},
+        {"title": "Sprendimų medžio diagramos", "correct": true}
+      ],
+      "explain": "Sprendimų medžio diagramos yra naudingiausia priemonė atliekant rizikos veiksnių poveikio projektui analizę. Medžio pavidalo diagramos gerai tinka pavaizduoti serijai galimų alternatyvų ir jų rezultatų. Todėl sprendimų medžiai dažnai naudojami kiekybinėje rizikos analizėje rizikos veiksnių poveikiams projektui pavaizduoti.\n Pareto diagrama yra priemonė, kuri histogramos pavidalu atspindi įvairių rezultatų pasirodymo dažnį.\nTinklinės diagramos yra naudojamos projekto darbų eiliškumui ir jų tarpusavio priklausomybėms pavaizduoti. \nBesišakojančios (fishbone) diagramos dar yra vadinamos Išikavos (Ishikawa) diagramomis arba variantų -rezultatų (case-and-effect) diagramomis. Jose atspindima, kaip įvairios priežastys gali sukelti problemas.\nTema: projekto planavimas\nTemos dalis: rizikos planavimas"
+    },
+    {
+      "question": "Jūs esate įmonės išteklių planavimo (ERP) sistemos diegimo projekto vadovas ir siekiate įvardinti galimus šio projekto rizikos veiksnius. Kokios priemonės ar veiksmo tam nereikėtų naudoti? ",
+      "options": [
+        {"title": "Apklausos", "correct": false},
+        {"title": "Sistemos darbo bandymo (benchmarking)", "correct": true},
+        {"title": "Kolektyvinio svarstymo", "correct": false},
+        {"title": "Delfi metodo", "correct": false}
+      ],
+      "explain": "Rizikos veiksniams įvardinti nereikėtų naudoti sistemos darbo bandymo (benchmarking).Tokie bandymai atliekami kokybės planavimo metu, kuomet projekto planuojama ar esama vertė palyginama su kitų projektų verte, kad būtų nustatytos galimų tobulinimų sritys ar siekiai.\n Apklausos yra informacijos rinkimo būdas, naudojamas rizikos veiksniams įvardinti. Tai individualūs susitikimai su asmenimis, užduodant jiems klausimus ir kaupiant informaciją.\nKolektyvinis svarstymas – tai grupės asmenų susirinkimas, dažniausiai projekto vykdytojų grupės arba grupės ekspertų. Susirinkimo tikslas yra spontaniškai generuoti idėjas.\nDelfi metodas yra informacijos rinkimo būdas, kuris naudojamas rizikos veiksnių įvardinimo procese. Delfi metodas – tai ekspertų grupės veikla, siekiant konsensuso (sutarimo) projekto rizikos klausimu.\n Tema:projekto planavimas\nTemos dalis: kokybės planavimas"
+    },
+    {
+      "question": "Kuris iš teiginių nėra teisingas, kalbant apie suskaidytų darbų lentelę (WBS)?",
+      "options": [
+        {"title": "WBS gali būti naudojamas išteklių poreikiui įvertinti", "correct": false},
+        {"title": "WBS yra į smulkius darbus suskaidytas projektas, kurie gali būti lengvai įvertinami", "correct": false},
+        {"title": "WBS’e atsispindi projekto apimtis, nes jame nurodomi visi reikiami atlikti darbai", "correct": false},
+        {"title": "WBS yra unikalius vardus turinčių projekto darbų sąrašas, kurie turi būti atlikti nurodyta eilės tvarka", "correct": true}
+      ],
+      "explain": "Kalbant apie suskaidytų darbų lentelę (WBS) nėra teisingas teiginys, kad WBS yra unikalius vardus turinčių projekto darbų sąrašas, kurie turi būti atlikti nurodyta eilės tvarka. WBS yra hierarchinė visų projekto darbų lentelė. Ją rengia projekto vadovas su grupe projekto apimties planavimo metu. Rengiant WBS dauguma projekto siekiamų rezultatų jau būna apibrėžti. Tuomet kiekvienas siekiamas rezultatas skaidomas į smulkesnes dalis, kurios atitinka žemiausių darbų lygmenį (work package). Kadangi WBS’e kiekvienas darbas nenurodomas unikaliu vardu, WBS’e nėra nurodoma darbų eilės tvarka. Darbų eilės tvarka nustatoma vėliau planavimo procese.\n WBS gali būti naudojamas vertinant išteklių poreikį. WBS kaip įeities duomenys naudojami daugelyje kitų projekto procesų. Projektų vadovai WBS naudoja vertindami projekto kainą, darbų trukmes ir išteklių poreikį. \n WBS’e projektas skaidomas į smulkius darbus, kuriems galima būtų sėkmingai įvertinti laiką ir kainą ir galėtume efektingai juos valdyti.\n WBS’e atsispindi projekto apimtis, nes jame nurodomi visi reikiami atlikti darbai. WBS’e nenurodyti darbai nėra privalomi.\nTema: projekto planavimas\nTemos dalis:projekto apimties planavimas"
+    },
+    {
+      "question": "Kada projekto vadovas turi didžiausią įtaką projekto kainai?",
+      "options": [
+        {"title": "Rengiant projekto nuostatus", "correct": false},
+        {"title": "Projekto planavimo stadijoje", "correct": true},
+        {"title": "Stebint projekto išlaidų nuokrypį", "correct": false},
+        {"title": "Projekto vykdymo stadijoje", "correct": false}
+      ],
+      "explain": "Projekto vadovas didžiausią įtaką projekto kainai turi projekto planavimo stadijoje. Galimybė daryti įtaką projekto kainai yra didesnė ankstesnėse planavimo stadijose, kol projektas nepradėtas vykdyti.\n Rengiant projekto nuostatus projekto vadovo įtaka projekto kainai nėra didžiausia. Geram projekto kainos įvertinimui ir išlaidų tvarkymui reikalinga projekto apimties informacija apie reikalingus atlikti darbus (WBS).\n Projekto vadovas neturi didelės įtakos projekto kainai išlaidų nuokrypio stebėjimo ar projekto vykdymo metu. Pradėjus projekto darbus yra žymiai sunkiau kontroliuoti projekto išlaidas, nes atsiranda nenumatytų atvejų.\nTema: projekto planavimas\nTemos dalis:darbų grafiko planavimas"
+    },
+    {
+      "question": "Kokiais argumentais reikėtų remtis tikrinant visas daromas prielaidas? ",
+      "options": [
+        {"title": "Poveikio projektui lygiu", "correct": false},
+        {"title": "Prielaidos prioritetu", "correct": false},
+        {"title": "Prielaidos pagrįstumu ir poveikio projektui lygiu", "correct": true},
+        {"title": "Prielaidos pagrįstumu ir tikimybe", "correct": false}
+      ],
+      "explain": "Visų prielaidų tikrinimas turi būti pagrįstas prielaidų pagrįstumu ir poveikio projektui lygiu. Prielaidų pagrįstumo tikrinimas sumažina projekto riziką. Prielaidų poveikio projektui lygio tikrinimas padeda nustatyti, kuri iš jų yra svarbiausia. \nPrielaidos turi būti tikrinamos ne tik poveikio projektui lygio požiūriu, bet dar turi būti tikrinamas ir jų pagrįstumas. Neteisingos prielaidos turi įtakos projekto rizikai. Prielaidos nėra dėstomos prioriteto tvarka.\nPrielaidos yra veiksniai, kurie turi įtakos projekto apribojimams (kainai, laikui, apimčiai). Tuo tarpu apribojimai nėra naudojami tikrinant prielaidų pagrįstumą.\n Tema: projekto planavimas\nTemos dalis: rizikos planavimas"
+    },
+    {
+      "question": "Jūs esate naujos įrangos kūrimo projekto vadovas. Dalis įrangos komponentų bus kuriami savo organizacijos jėgomis, o kiti bus perkami iš tiekėjo. Jūs pateikiate tiekėjui komponentų sąrašą, kuriuos jis turės sukurti sudarius sandorį. Kaip šis dokumentas yra vadinamas?",
+      "options": [
+        {"title": "Kainos prašymas (a bid)", "correct": false},
+        {"title": "Pasiūlymas (proposal)", "correct": false},
+        {"title": "Projekto apimties aprašas (scope statement)", "correct": false},
+        {"title": "Darbo užduotis (SOW–Statement Of Work)", "correct": true}
+      ],
+      "explain": "Tokio dokumento pavadinimas yra sandorio darbo užduotis (SOW–Statement Of Work). Tai pirkimo dokumentas, kuriame nurodoma, kas turi būti atlikta sudaryto sandorio metu.SOW parengiamas Pirkimų planavimo procese. Nors projekto eigoje sandorio darbo užduotis (SOW) gali pasikeisti, ji turi būti įvykdyta iki sandorio pabaigos termino. \nToks dokumentas (darbo užduotis) nėra kainos prašymas (a bid) arba pasiūlymas (proposal). Pastaruosius parengia potencialūs tiekėjai (pardavėjai) taip išreikšdami savo galimybes ir norą teikti pageidaujamą produktą ar paslaugą pirkėjui. Prašomą kainą ir pasiūlymą tiekėjas dažniausiai pateikia drauge. \n Toks dokumentas nėra projekto apimties aprašas (scope statement). Projekto apimties apraše apibrėžiami tikslai ir juo perduodamas vienodas projekto supratimas visiems akcininkams.\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
+    },
+    {
+      "question": "Vieno iš jūsų projekto darbų (užduoties) anksčiausias pradžios laikas yra 9-ta savaitė, anksčiausias pabaigos laikas 15-ta savaitė, vėliausias pradžios laikas 12-ta savaitė ir vėliausias pabaigos laikas 18-ta savaitė. Koks yra šio darbo laiko svyravimo dydis?",
+      "options": [
+        {"title": "3", "correct": true},
+        {"title": "6", "correct": false},
+        {"title": "9", "correct": false},
+        {"title": "12", "correct": false}
+      ],
+      "explain": "Darbo laiko svyravimo dydis yra 3 savaitės. Svyravimo dydis yra laikas, kuriuo gali būti paslinktas (atidėtas) darbo atlikimas, nepažeidžiant projekto kritinio kelio trukmės, t. y. nepažeidžiant viso projekto pabaigos termino. Darbo laiko svyravimo dydis apskaičiuojamas iš vėliausio pradžios laiko atimant anksčiausią pradžios laiką arba iš vėliausio pabaigos laiko atimant anksčiausią pabaigos laiką.\nTema: projekto planavimas\nTemos dalis:darbų grafiko planavimas"
+    },
+    {
+      "question": "Jūs svarstote klausimą, ką projekte galėtumėte pasidaryti patys ir ką reikėtų pirkti. Į kokį veiksnį jūs mažiausiai kreipsite dėmesį ?",
+      "options": [
+        {"title": "Ar yra reikalingi išoriniai tiekėjai", "correct": true},
+        {"title": "Neplatintinos (jautrios) projekto detalės", "correct": false},
+        {"title": "Darbų kaina, jei juos darysite patys", "correct": false},
+        {"title": "Jūsų organizacijos vidiniai ištekliai", "correct": false}
+      ],
+      "explain": "Jūs mažiausiai kreipsite dėmesį į tai, ar yra reikalingi išoriniai tiekėjai. Klausimo daryti patiems ar pirkti svarstymu siekiama išsiaiškinti, kokius produktus pigiau yra gamintis patiems, o kokius geriau pirkti. Tokio svarstymo metu labai svarbu žinoti: \n- ar jūsų organizacijoje yra specialistų, galinčių atlikti tam tikrus darbus\n- ar reikalingi atlikti darbai susiję su komercinėmis, organizacijos vidinėmis, kt.\npaslaptimis\n- ar pakanka laiko ir organizacijos išteklių norint patiems atlikti reikiamus darbus\n- ar reikiamus darbus atlikti patiems yra pigiau (patogiau, naudingiau).\nKiti klausime išvardinti veiksniai yra svarbūs svarstant darymo patiems ar pirkimo klausimą. \nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
+    },
+    {
+      "question": "Kuri iš žemiau išvardintų priemonių nėra naudojama atliekant kokybinę rizikos analizę?",
+      "options": [
+        {"title": "Rizikos duomenų kokybės įvertinimas", "correct": false},
+        {"title": "Projekto prielaidų tikrinimas", "correct": false},
+        {"title": "Pareigų paskirstymo lentelė", "correct": true},
+        {"title": "Pagal tikimybę ir poveikio projektui lygį surikiuotų rizikos veiksnių lentelė", "correct": false}
+      ],
+      "explain": "Pareigų paskirstymo lentelė nėra naudojama atliekant kokybinę rizikos analizę. Kokybinės rizikos analizės metu nustatoma įvardintų projekto rizikos veiksnių tikimybė ir poveikio projektui lygis.\n Rizikos duomenų kokybės vertinimas yra naudojamas kokybinėje rizikos analizėje. Tai įvairių duomenų, kurie naudojami vertinant projekto riziką, naudingumo nustatymas.\nProjekto prielaidų tikrinimas (analizė) paprastai atliekamas rizikos veiksnių įvardinimo metu. Tikrinamas prielaidų pagrįstumas ir svarba. Tokio tikrinimo rezultatai yra svarbūs specifinių projekto rizikos veiksnių tikimybei ir poveikio lygiui nustatyti.\n Pagal tikimybę ir poveikio projektui lygį surikiuotų rizikos veiksnių lentelė yra naudojama kokybinėje rizikos analizėje.\n\nTema: projekto planavimas\nTemos dalis:rizikos planavimas"
+    },
+    {
+      "question": "Kas yra kokybės planavimo proceso rezultatas?",
+      "options": [
+        {"title": "Kokybės taisyklės (policy)", "correct": false},
+        {"title": "Kokybės kaina", "correct": false},
+        {"title": "Kokybės valdymo planas", "correct": true},
+        {"title": "Kokybės tikrinimo matavimai", "correct": false}
+      ],
+      "explain": "Kokybės planavimo proceso rezultatas yra kokybės valdymo planas. Jame nurodomi visi projekte kuriamo produkto kokybei užtikrinti reikalingi darbai, procedūros, kaip tie darbai turi būti atliekami ir tiems darbams atlikti reikalingi ištekliai. Pagal projektų valdymo žinyną (PMBOK) kokybės planavimo proceso rezultatai apima kokybės matus, kokybės kontrolinius sąrašus (checklist), šio proceso gerinimo planą, kokybę kontrolės taškuose, projekto valdymo plano atnaujinimus. \n Kokybės taisyklės (policy) yra vienas iš įmonės organizacinių dokumentų (enterprise organizational process assets), kuris naudojamas kokybės planavimo procese. Taivadovybės patvirtintos taisyklės, atspindinčios įmonės nuostatas kokybės klausimais. Kokybės kaina yra kokybės planavimo instrumentas, apimantis bendrąsias išlaidas reikiamai kokybei pasiekti.\nKokybės tikrinimo matavimai – tai rezultatai, kurie gaunami kontroliuojant kokybę. Jie po to naudojami siekiant reikiamos kokybės.\n\nTema: projekto planavimas\nTemos dalis:kokybės planavimas "
+    },
+    {
+      "question": "Kuris iš žemiau nurodytų dalykų nėra įeities duomenys rizikos valdymo planavimo procesui?",
+      "options": [
+        {"title": "Įmonės organizaciniai dokumentai (enterprise organizational process assets)", "correct": false},
+        {"title": "Rizikos veiksnių sąrašas", "correct": true},
+        {"title": "Įmonės aplinkos duomenys (enterprise environmental factors)", "correct": false},
+        {"title": "Projekto valdymo planas", "correct": false}
+      ],
+      "explain": "Rizikos veiksnių sąrašas nėra rizikos valdymo planavimo proceso įeities duomenys. Rizikos veiksnių sąrašas yra rizikos veiksnių įvardinimo proceso rezultatas ir kaip įeities duomenys naudojamas kokybinėje rizikos analizėje.\nVisi kiti klausime nurodyti dalykai yra įeities duomenys rizikos valdymo planavimo procesui. Šio proceso įeities duomenims dar priklauso projekto apimties aprašas (scope statement).\n\nTema: projekto planavimas\nTemos dalis: rizikos planavimas "
+    },
+    {
+      "question": "Jūs esate įrangos kūrimo projekto vadovas ir manote, jei įranga bus sukurta mažesnėmis sąnaudomis, užsakovai bus labai dėkingi. Tokiai idėjai parengti skiriate kažkiek laiko ir norite nustatyti idealų įrangos dydį. Koks tinkamiausias būdas idėjai patikrinti?",
+      "options": [
+        {"title": "Poveikio analizė", "correct": false},
+        {"title": "Kainos - naudos analizė", "correct": false},
+        {"title": "Atlikti eksperimentus", "correct": true},
+        {"title": "Rizikos duomenų kokybės vertinimas", "correct": false}
+      ],
+      "explain": "Atlikti eksperimentus yra geriausias idėjos patikrinimo būdas. Eksperimentai daromi kokybės planavimo procese, kad kaitaliojant parametrus statistikos būtų nustatyti veiksniai, turintys įtaką produktui ar procesui. Mūsų atveju tai padėtų įvertinti idealų įrangos dydį.\nPoveikio analizė apima rizikos nagrinėjimą ir jos potencialų poveikį projektui. Dažniausiai tai atliekama kokybinės rizikos analizės metu.\n Kainos - naudos analizės metu projekto kaina lyginama su nauda, ieškant, ar nėra geresnio varianto. Kainos - naudos analizė yra kokybės planavimo instrumentas ir būdas, tačiau mūsų atveju jis nėra tinkamas įrangos dydžiui nustatyti.\n Rizikos duomenų kokybės vertinimas padeda nustatyti informacijos apie riziką naudingumą. Tai kokybinės rizikos analizės metu naudojama priemonė.\n\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
+    },
+    {
+      "question": "Jūsų kompanija pasirašė fiksuotos kainos sandorį su užsakovu. Pagal sandorio užduotį jūs turite sukurti naują programinės įrangos modulį. Atsižvelgiant į sandorio tipą, kuris iš žemiau išvardintų dalykų reikalauja didžiausio dėmesio? ",
+      "options": [
+        {"title": "Projekto apimtis (scope)", "correct": true},
+        {"title": "Kokybė", "correct": false},
+        {"title": "Baigimo terminas", "correct": false},
+        {"title": "Išteklių buvimas", "correct": false}
+      ],
+      "explain": "Didžiausią dėmesį reikia skirti projekto apimčiai (scope) ,nes jūs kaip tiekėjas esate atsakingas už darbų atlikimą su užsakovu sutarta fiksuota kaina, nežiūrint tikrųjų išlaidų. Baudos dėl bet kokių projekto vėlavimų gali sumenkinti viso projekto vykdymo naudą. Fiksuotos kainos tipo sandoriuose tiekėjas turi atidžiai stebėti projekto apimtį, kad išvengtų papildomų išlaidų. \n Kaip projekto vadovas jūs neturėtumėte ignoruoti ir kitų dalykų, nors daugiausiai esate atsakingas už tai, kas gali turėti įtakos projekto apimčiai.\n\nTema: projekto planavimas\nTemos dalis: pirkimų planavimas"
+    },
+    {
+      "question": "Kuriame procese yra naudojami visi šie būdai ar priemonės kaip analogiškasis vertinimas, vertinimas iš viršaus į apačią, projektų valdymo programinė įranga, tiekėjų prašomos kainos (a bid) analizė, kokybės kaina?",
+      "options": [
+        {"title": "Projekto kainos vertinimo", "correct": true},
+        {"title": "Išlaidų planavimo", "correct": false},
+        {"title": "Išlaidų kontroliavimo", "correct": false},
+        {"title": "Darbams reikiamų išteklių dydžio vertinimo", "correct": false}
+      ],
+      "explain": "Projekto kainos vertinimo procese naudojami visi klausime išvardinti būdai ar priemonės. Taip pat kainos vertinimo procese dar yra naudojami išteklių kainininkai, parametrinis vertinimas, atsargų analizė./n Išlaidų planavimo procesas kaip toks nėra numatytas projektų valdymo žinyne (PMBOK).\n Projektų valdymo programinė įranga naudojama išlaidų kontroliavimo procese, tačiau kitos klausime paminėtos priemonės ar būdai išlaidų kontroliavimo procese nėra naudojami.\n Vertinimo iš viršaus į apačią būdas naudojamas projekto darbams reikiamų išteklių dydžiui įvertinti, tačiau kitos klausime paminėtos priemonės ar būdai projekto darbams reikiamų išteklių dydžiui įvertinti nėra naudojami.\n\nTema: projekto planavimas\n Temos dalis: kainos planavimas"
+    },
+    {
+      "question": "Kuris iš žemiau pateiktų sakinių geriausiai apibrėžia rizikos veiksnių sąrašą (registrą)?",
+      "options": [
+        {"title": "Tai rizikos veiksnių, turinčių didžiausią tikimybę ir poveikio projektui lygį, sąrašas", "correct": false},
+        {"title": "Tai centrinis dokumentas, kuriame projekto grupės nariai gali įvardinti (nurodyti) rizikos veiksnius", "correct": false},
+        {"title": "Tai komercinė duomenų bazė, kurioje yra pramoniniai rizikos veiksnių analizės standartai", "correct": false},
+        {"title": "Tai išsamiai apibūdintų projekto rizikos veiksnių masyvas", "correct": true}
+      ],
+      "explain": "Rizikos veiksnių sąrašas (registras) – tai išsamiai apibūdintų projekto rizikos veiksnių masyvas. Šis sąrašas yra projekto rizikos valdymo pagrindas. Jis pradedamas kurti rizikos veiksnių įvardinimo procese. Vėliau pastarojo sąrašo rizikos veiksniai detaliai apibūdinami kiekybinės ir kokybinės rizikos analizių, reakcijos į riziką planavimo, rizikos stebėjimo ir valdymo procesų metu ir tampa išsamiai apibūdintų projekto rizikos veiksnių masyvu.\n Rizikos veiksnių, turinčių didžiausią tikimybę ir poveikio projektui lygį, sąrašas nėra tikslus rizikos veiksnių sąrašo apibrėžimas . Rizikos veiksnių sąraše gali būti plati rizikos veiksnių tikimybių ir poveikio projektui lygių lentelė. \nRizikos veiksnių sąrašas nėra centrinis dokumentas, kuriame projekto grupės nariai gali įvardinti (nurodyti) rizikos veiksnius. Daugelio projekto grupės narių gali būti prašoma nurodyti rizikos veiksnius ir užfiksuoti juos centriniame dokumente ar bazėje. Tačiau toks dokumentas ar bazė nėra rizikos veiksnių sąrašas.\n Komercinė duomenų bazė, kurioje yra pramoniniai rizikos veiksnių analizės standartai, nėra rizikos veiksnių lentelė. Tokią duomenų bazę labiau tiktų priskirti įmonės aplinkos duomenų (enterprise environmental factor ) kategorijai, ir ji naudojama rizikos valdymo planavimo ir rizikos veiksnių įvardinimo procesuose.\n\nTema: projekto planavimas\n Temos dalis: rizikos planavimas"
+    },
+    {
+      "question": "Kuriems asmenims yra skirti pirkimų planavimo procese parengti pirkimo dokumentai?",
+      "options": [
+        {"title": "Akcininkams", "correct": false},
+        {"title": "Užsakovui (pirkėjui)", "correct": false},
+        {"title": "Galimiems tiekėjams", "correct": true},
+        {"title": "Projekto vadovui", "correct": false}
+      ],
+      "explain": "Pirkimų planavimo procese parengti pirkimo dokumentai yra skirti galimiems tiekėjams. Pirkimo dokumentuose pirkėjo poreikiai išdėstomi taip, kad galimas tiekėjas galėtų parengti aiškų ir tinkamą pirkėjo svarstymui atsakymą. Prašymai teikti pasiūlymus (RFP) ir kainos (a bid) siūlymai yra pirkimo dokumentų pavyzdžiai.\n Nors projekto vadovui ir akcininkams taip pat rūpi pirkimo dokumentai, tačiau jie nėra pagrindiniai šių dokumentų adresatai. Užsakovas (pirkėjas) yra pirkimo dokumentų kūrėjas , o ne gavėjas. \n\nTema: projekto planavimas\n Temos dalis: pirkimų planavimas"
+    },
+    {
+      "question": "Kuris sakinys geriausiai apibūdina išlaidų plano (cost baseline) sąvoką projekte?",
+      "options": [
+        {"title": "Išlaidų planas reiškia visas projekto eigoje padarytas išlaidas", "correct": false},
+        {"title": "Išlaidų planas yra projektui patvirtintų lėšų paskirstymas laike ir naudojamas projekto išlaidoms kontroliuoti", "correct": true},
+        {"title": "Išlaidų planas yra nekintamas dydis, kuris reiškia projekto kainos įvertį projekto pradžioje", "correct": false},
+        {"title": "Išlaidų planas naudojamas planavimo procese vertinant projekto darbų kainas", "correct": false}
+      ],
+      "explain": "Išlaidų planas yra projektui patvirtintų lėšų paskirstymas laike ir naudojamas projekto išlaidoms kontroliuoti.Išlaidų planas sudaromas rengiant projekto biudžetą. metu. Jis gaunamas sumuojant visas išlaidas bėgant laikui. Išlaidoms pavaizduoti yra naudojama S-kreivė (S-curve), kurios Y-ašyje atidedama padarytų išlaidų suma, o X-ašyje–laikas.\nKiti šiame klausime nurodyti atsakymai nėra teisingi, nes netiksliai apibūdina išlaidų planą.\n\nTema: projekto planavimas\nTemos dalis: kainos planavimas"
+    },
+    {
+      "question": "Kuriems rizikos veiksniams ypač svarbu parengti reakcijos į juos planus projekte?",
+      "options": [
+        {"title": "Visiems aukštą poveikio projektui lygį turintiems rizikos veiksniams", "correct": false},
+        {"title": "Aukštą tikimybę ir aukštą poveikio projektui lygį turintiems rizikos veiksniams", "correct": true},
+        {"title": "Aukštą tikimybę ir vidutinį poveikio projektui lygį turintiems rizikos veiksniams", "correct": false},
+        {"title": "Visiems įvardintiems rizikos veiksniams", "correct": false}
+      ],
+      "explain": "Ypač svarbu yra parengti reakcijos planus aukštą tikimybę ir aukštą poveikio projektui lygį turintiems rizikos veiksniams. Tikėtini aukštą poveikio projektui lygį turintys rizikos veiksniai turi būti atidžiai stebimi ir turi turėti parengtą reakcijos į juos veiksmų planą.\nVisiems aukšto poveikio projektui lygio rizikos veiksniams nėra būtina rengti reakcijos į juos planus. Jei rizikos veiksnio poveikio lygis yra aukštas, bet jo tikimybė yra maža, toks veiksnys projekte gali ir nepasireikšti. \n Nėra svarbu rengti reakcijos planus aukštos tikimybės ir vidutinio poveikio projektui lygio rizikos veiksniams. \nTaip pat nėra svarbu rengti reakcijos planus visiems projekte įvardintiems rizikos veiksniams. Rizikos veiksnys nėra tikras faktas, jo gali ir nebūti.\n\nTema: projekto planavimas\nTemos dalis:rizikos planavimas "
+    },
+    {
+      "question": "Kuris iš žemiau iš vardintų dalykų yra komunikacijų planavimo proceso įeities duomenys? ",
+      "options": [
+        {"title": "Apribojimai", "correct": true},
+        {"title": "Komunikavimo įgūdžiai", "correct": false},
+        {"title": "Informacijos paieškos sistemos", "correct": false},
+        {"title": "Komunikacijų valdymo planas", "correct": false}
+      ],
+      "explain": "Apribojimai yra komunikacijų proceso įeities duomenys. Apskritai, šio proceso įeities duomenys yra įmonės aplinkos duomenys (enterprise environmental factors),įmonės organizaciniai dokumentai (enterprise organizational process assets; juose yra komunikacijų reikalavimai), projekto apimties aprašas ir projekto valdymo planas.\nKomunikavimo įgūdžiai ir informacijos paieškos sistemos yra priemonės, kurios naudojamos informacijos platinimo procese.\nKomunikacijų valdymo planas yra komunikacijų planavimo proceso rezultatas, o ne įeities duomenys.\n\nTema: projekto planavimas\nTemos dalis: komunikacijų planavimas"
+    },
+    {
+      "question": "Kas daroma darbų apibrėžimo procese?",
+      "options": [
+        {"title": "Įvardinamos priklausomybės tarp suskaidytų darbų lentelėje (WBS) nurodytų darbų", "correct": false},
+        {"title": "Apibūdinami WBS’e nurodyti darbai (ką, kaip reikėtų daryti)", "correct": true},
+        {"title": "Rengiamas WBS’e nurodytų darbų vykdymo grafikas", "correct": false},
+        {"title": "Įvertinamas kiekvienam WBS’e nurodytam darbui atlikti reikalingas laiko kiekis", "correct": false}
+      ],
+      "explain": "Darbų apibrėžimo procese apibūdinami suskaidytų darbų lentelėje (WBS) nurodyti darbai (ką, kaip reikėtų daryti). Jo metu atidžiai peržiūrimas WBS ir parengiamas detalizuotų darbų sąrašas.\nDarbų apibrėžimo procese priklausomybės tarp suskaidytų darbų lentelėje (WBS) nurodytų darbų nėra nagrinėjamos. Tik po WBS‘e nurodytų darbų detalizavimo rengiama jų atlikimo eilės tvarka, remiantis darbų priklausomybėmis.\n Darbų apibrėžimo procese nėra rengiamas WBS’e nurodytų darbų vykdymo grafikas. Toks planas rengiamas darbų grafiko planavimo procese. \n Darbų apibrėžimo procese nėra vertinamas kiekvienam WBS’e nurodytam darbui atlikti reikalingas laiko kiekis. Tai daroma darbų trukmės vertinimo procese.\n\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas "
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra naudojamas kokybės planavimo procese?",
+      "options": [
+        {"title": "Veikimo bandymai (benchmarking)", "correct": false},
+        {"title": "Sekų diagramos (flowcharting)", "correct": false},
+        {"title": "Statistinė atranka", "correct": true},
+        {"title": "Kainos-naudos analizė", "correct": false}
+      ],
+      "explain": "Kokybės planavimo procese nėra naudojama statistinė atranka. Tai yra vienas iš kokybės kontrolės būdų. Statistinės atrankos metode atsitiktinai tikrinami tik keli gaminiai (produktai) ir sprendžiama apie visos gaminių partijos kokybę./n Veikimo bandymai yra kokybės planavimo procese naudojamas būdas. Jų metu palyginami kuriamos sistemos planuojami ar esami parametrai ir panašių egzistuojančių sistemų parametrai. Taip nustatomi tobulintini dalykai.\n Sekų diagramos (flowcharting) yra viena iš priemonių, naudojamų kokybės planavimo procese. Jos naudingos analizuojant galimų problemų atsiradimo priežastis ir taip pat yra naudojamos kokybės kontrolės procese. \nKainos - naudos analizė yra atliekama kokybės planavimo procese. Ji reikalinga ieškant kainos ir kokybės kompromiso.\n\nTema: projekto planavimas\nTemos dalis: kokybės planavimas"
+    },
+    {
+      "question": "Kodėl projekto apimties apibrėžimo metu svarbu peržiūrėti dokumentuotas prielaidas? ",
+      "options": [
+        {"title": "Prielaidos įneša suvaržymus projekto grupei", "correct": false},
+        {"title": "Dokumentuotų prielaidų peržiūra padeda įvardinti galimus projekto rizikos veiksnius", "correct": false},
+        {"title": "Dokumentuotų prielaidų peržiūra naudinga rengiant projekto planą", "correct": false},
+        {"title": "Nedokumentuotos arba nepagrįstos prielaidos gali turėti įtakos projekto darbų apimčiai", "correct": true}
+      ],
+      "explain": "Projekto apimties apibrėžimo metu svarbu peržiūrėti dokumentuotas prielaidas, nes nedokumentuotos arba nepagrįstos prielaidos gali turėti įtakos projekto darbų apimčiai. Planavimo metu į prielaidas žiūrima kaip į veiksnius, galinčius turėti įtakos projektui. \nTuri būti išanalizuoti projekto eigos variantai, jei prielaida pasitvirtintų ir nepasitvirtintų. Dokumentuo tų prielaidų vertė pasireiškia nustatant projekto siekiamus rezultatus ir tikslus. Todėl projekto apimties apibrėžimo metu svarbu peržiūrėti ir išanalizuoti šias prielaidas.\nPrielaidos nevaržo projekto grupės. Grupės veiklą varžo projekto apribojimai (kaina, laikas, kokybė).\nNors dokumentuotų prielaidų peržiūra ir padeda įvardinti galimus projekto rizikos veiksnius, tačiau jie įvardinami rizikos veiksnių įvardinimo procese.\nNors dokumentuotų prielaidų peržiūra ir yra naudinga rengiant projekto planą, tačiau jos yra kaip įeities duomenys plano rengimo procesui. Preliminariame projekto apimties apraše (apimties metmenyse) jau turėtų būti šiokia tokia prielaidų analizė. Detali jų analizė atliekama vėliau projekto apimties apibrėžimo procese.\n\nTema: projekto planavimas\nTemos dalis:projekto apimties planavimas "
+    },
+    {
+      "question": "Jūs, dėliodami projekto darbus eilės tvarka, naudojate rodyklinės diagramos metodą (ADM–Arrow Diagramming Method). Kuris iš žemiau nurodytų teiginių nėra teisingas kalbant apie ADM?",
+      "options": [
+        {"title": "ADM dar yra nurodomas kaip AOA (Activity-On-Arrow)", "correct": false},
+        {"title": "Naudojant ADM, galimi darbai gali būti nurodomi punktyrine linija", "correct": false},
+        {"title": "ADM metode darbai nurodomi stačiakampiuose, kurie jungiami rodyklėmis", "correct": true},
+        {"title": "ADM naudojamas tik pabaigos - pradžios pobūdžio priklausomybės darbams", "correct": false}
+      ],
+      "explain": "Teiginys, kad ADM metode darbai nurodomi stačiakampiuose, kurie jungiami rodyklėmis, yra neteisingas. ADM diagramose, kurios dar yra vadinamos AOA (Activity-On-Arrow), darbų pavadinimai nurodomi ant taškus jungiančių rodyklių, o ne stačiakampiuose. Rodyklėmis tarp taškų atspindima darbų priklausomybė.\n\nTema: projekto planavimas\nTemos dalis: darbų grafiko planavimas"
+    },
+    {
+      "question": "Jūs laimėjote konkursą projektui vykdyti. Projekto trukmė yra treji metai, ir jūs pasižadėjote užsakovui įdiegti naują įrangą ir procesus. Reikiamiems darbams atlikti pasirašėte 1,2 mln. Lt sandorį. Taip pat sandoryje suderėjote, kad atlikus darbus greičiau nei planuota, jūs gausite papildomai 200 000 Lt. Kokio tipo sandorį jūs sudarėte?",
+      "options": [
+        {"title": "Grynai fiksuotos kainos (FFP-Firm Fixed Price)", "correct": false},
+        {"title": "Išlaidas padengiantįjį su paskatinamuoju priedu (CPIF-Cost Plus Incentive Fee)", "correct": false},
+        {"title": "Fiksuotos kainos su paskatinamuoju priedu (FPIF-Fixed Price Incentive Fee)", "correct": true},
+        {"title": "Išlaidas padengiantįjį su fiksuoto dydžio priedu (CPFF-Cost Plus Fixed Fee)", "correct": false}
+      ],
+      "explain": "Jūs sudarėte fiksuotos kainos su paskatinamuoju priedu (FPIF-Fixed Price Incentive Fee) sandorį. FPIF sandoris yra toks, kuriame tiekėjas atlieka darbus už sutartą kainą ir turi galimybę gauti paskatinamąjį priedą (premiją), jei atitinka nustatytus kriterijus.\n Jūsų sudarytas sandoris nėra nei FFP, nei CPIF, nei CPFF tipo. FFP sandoris yra toks, kuriame už atliktus darbus sumokama sutarta fiksuoto dydžio suma. CPIF tipo sandoryje užsakovas padengia visas tiekėjo išlaidas ir papildomai premijuoja jį, jei viršijami numatyti kriterijai. CPFF tipo sandoryje užsakovas padengia visas tiekėjo išlaidas ir papildomai sumoka sutartą fiksuotą sumą. \n\nTema: projekto planavimas\nTemos dalis:pirkimų planavimas"
+    },
+    {
+      "question": "Ką visų pirma reikia atlikti rizikos veiksnių įvardinimo procese?",
+      "options": [
+        {"title": "Kiekybiškai įvertinti rizikos veiksnius", "correct": false},
+        {"title": "Įvardinti rizikos veiksnių priežastis", "correct": false},
+        {"title": "Įvardinti ir dokumentuoti galimus rizikos veiksnius", "correct": true},
+        {"title": "Parengti reakcijos į kiekvieną įvardintą rizikos veiksnį strategiją", "correct": false}
+      ],
+      "explain": "Rizikos veiksnių įvardinimo procese visų pirma reikia įvardinti ir dokumentuoti galimus rizikos veiksnius. \nRizikos veiksnių kiekybiniam vertinimui, jų priežastims įvardinti ir reakcijos į kiekvieną įvardintą rizikos veiksnį strategijai parengti būtina visų pirma įvardinti rizikos veiksnius.\n\nTema: projekto planavimas\nTemos dalis:rizikos planavimas "
+    },
+    {
+      "question": "Projekto vykdymo metu jums prireikė papildomo vadybininko specifiniams darbams koordinuoti. Projekto pradžioje tokios pareigos nebuvo numatytos. Reikalingas tarpinis vadybinis lygmuo tarp jūsų, kaip projekto vadovo, ir specifinius darbus atliekančios grupelės. Kuris iš žemiau nurodytų veiksmų būtų labiausiai tinkamas?",
+      "options": [
+        {"title": "Visos projekto grupės pertvarkymas", "correct": false},
+        {"title": "Komunikacijų valdymo plano modifikavimas", "correct": true},
+        {"title": "Potvarkio, kad tos grupelės narių visi el. laiškai būtų siunčiami jums per naująjį vadybininką, paskelbimas", "correct": false},
+        {"title": "Visos projekto grupės narių susirinkimo sušaukimas ir naujo grupės nario pristatymas", "correct": false}
+      ],
+      "explain": "Tinkamiausias jūsų veiksmas būtų komunikacijų valdymo plano modifikavimas .Tarpinio vadybinio lygmens tarp jūsų ir specifinius darbus atliekančios grupelės įvedimas reiškia, kad grupelė turi raportuoti naujam vadybininkui, o jis savo ruožtu raportuoti jums. Taip pasikeičia komunikacijų seka.\n Jūs neturėtumėte pertvarkyti visos projekto grupės. Toks žingsnis būtų pernelyg drastiškas, kai įvedama tik viena pareigybė viename aiškiai apibrėžtame projekto vykdytojų padalinyje.\n Jūs neturėtumėte skelbti potvarkio, kad tos grupelės narių visi el. laiškai būtų siunčiami jums per naująjį vadybininką. Tą patį galima gauti modifikuojant komunikacijų valdymo planą. Tokio atskiro potvarkio skelbimas nėra gerai, nes jis neapima visų galimų komunikavimo būdų, pvz., pokalbių telefonu. Dar daugiau, tai reikštų, kad komunikacijų valdymo planas lieka atitinkamai nepakoreguotas. Projekto planų apeiti ar ignoruoti nereikėtų.\nJūs neturėtumėte šaukti visos projekto grupės narių susirinkimo ir pristatyti naują grupės narį. Tai nebūtina ir nėra praktiška. Pakaktų pristatyti naują vadybininką tik specifinius darbus atliekančios grupelės nariams. \n\nTema: projekto planavimas\n Temos dalis: komunikacijų planavimas"
+    },
+    {
+      "question": "Jūs esate elektroninių įrenginių įmonės projektų vadovas ir vadovaujate naujos įrangos, kurią numatote pasiūlyti savo pirkėjams, kūrimo projektui. Projekto galimiems rizikos veiksniams įvardinti jūs galite naudoti visus žemiau nurodytus būdus ar priemones, išskyrus:",
+      "options": [
+        {"title": "Apklausas", "correct": false},
+        {"title": "Išikavos (Ishikawa) diagramas", "correct": false},
+        {"title": "Prielaidų analizę", "correct": false},
+        {"title": "Rizikos duomenų kokybės vertinimą", "correct": true}
+      ],
+      "explain": "Jūs neturėtumėte imtis rizikos duomenų kokybės vertinimo rizikos veiksnių įvardinimo procese. Rizikos duomenų kokybė vertinama kokybinės rizikos analizės metu, kai jau būna įvardinti rizikos veiksniai. Rizikos duomenų kokybės vertinimu siekiama nustatyti, kiek jie gali būti naudingi rizikos valdymui.\nRizikos veiksnių įvardinimo procese jūs galite daryti apklausas. Informacijos apie riziką rinkimo būdai, tokie kaip apklausos, Delfi metodas, kolektyviniai svarstymai (brainstorming) yra naudingi.\nRizikos veiksnių įvardinimo procese jūs galite naudoti Išikavos (Ishikawa)diagramas, kurios dar yra vadinamos besišakojančiomis (fishbone) diagramomis arbavariantų-rezultatų (cause-and-effect) diagramomis. Jose atspindima, kaip įvairiospriežastys gali sukelti problemas. Apskritai, ir kitokios diagramos, pvz., sistemų ar procesų sekų diagramos, yra naudingos priemonės įvardinant rizikos veiksnius.\nRizikos veiksnių įvardinimo procese jūs galite analizuoti prielaidas. Prielaidų analizė apima projekto prielaidų pagrįstumo peržiūrą. Neteisingos prielaidos didina projekto riziką."
+    },
+    {
+      "question": "Jūs vertinate savo projekto darbų trukmes ir paprašėte ekspertų grupės, kad jie pateiktų projekto kažkurio etapo trukmės blogiausią, geriausią ir labiausiai tikėtiną scenarijus. Kai grupė baigė darbą, jūs apskaičiavote gautų trijų įverčių vidurkį ir gavote naują trukmės įvertį. Kokio tipo vertinimą jūs naudojote?",
+      "options": [
+        {"title": "Nepriklausomų specialistų įvertį (should-cost)", "correct": false},
+        {"title": "Analogiškajį", "correct": false},
+        {"title": "Trijų taškų", "correct": true},
+        {"title": "Parametrinį", "correct": false}
+      ],
+      "explain": "Jūs naudojote trijų taškų vertinimo būdą. Jame prognozuotos blogiausia, geriausia ir labiausiai tikėtina reikšmės susumuojamos ir padalinamos iš 3. \n Nepriklausomų specialistų įvertis (should-cost) naudojamas tiekėjų atrankos procese netikėtoms pasiūlymų kainoms pasverti.\n Analogiškasis būdas yra naudojamas darbų trukmei įvertinti, tačiau jame nėra nustatomos blogiausias, geriausias ir labiausiai tikėtinas variantai. Esamo projekto darbų trukmei įvertinti analogiškajame būde naudojama panašių darbų anksčiau vykdytuose projektuose informacija.\n Parametrinis vertinimas yra toks, kuris remiasi įvairia anksčiau sukaupta informacija. Kartais ir jis yra naudojamas darbų trukmei įvertinti, tačiau jame blogiausias, geriausias ir labiausiai tikėtinas scenarijai nenaudojami."
+    },
+    {
+      "question": "Naujo inventoriaus diegimo projekte daliai darbų atlikti jūs sudarėte sandorį su tiekėju lentynoms prekių sandėlyje įrengti. Sutarėte tiekėjui mokėti 40 Lt už darbo valandą ir padengti jo išlaidas už lentynas ir kitas detales. Kokio tipo sandorį jūs sudarėte?",
+      "options": [
+        {"title": "Išlaidas padengiantįjį su fiksuoto dydžio priedu (CPFF - Cost Plus Fixed Fee)", "correct": false},
+        {"title": "Grynai fiksuotos kainos (FFP - Firm Fixed Price)", "correct": false},
+        {"title": "Išlaidas padengiantįjį su paskatinamuoju priedu (CPIF - Cost Plus Incentive Fee)", "correct": false},
+        {"title": "Laiko ir medžiagų apmokėjimo (T&M - Time and Material)", "correct": true}
+      ],
+      "explain": "Jūs sudarėte laiko ir medžiagų apmokėjimo (T&M - Time and Material) tipo sandorį. T&M sandoris yra toks, kuriame užsakovas apmoka tiekėjui už sugaištas darbo valandas ir padengia jo išlaidas už reikiamas medžiagas. \n Jūsų sudarytas sandoris nėra nei CPFF, nei FFP, nei CPIF tipo. CPFF tipo sandoryje užsakovas padengia visas tiekėjo išlaidas ir papildomai sumoka sutartą fiksuotą sumą. FFP sandoris yra toks, kuriame už atliktus darbus sumokama sutarta fiksuoto dydžio suma. CPIF tipo sandoryje užsakovas padengia visas tiekėjo išlaidas ir papildomai premijuoja jį, jei viršijami numatyti kriterijai."
+    },
+    {
+      "question": "Pagal Herzberg’o teoriją visi žemiau išvardinti dalykai priklauso gerovės veiksniams (hygiene factors), išskyrus:",
+      "options": [
+        {"title": "Algą", "correct": false},
+        {"title": "Pareigas", "correct": false},
+        {"title": "Darbo sąlygas", "correct": false},
+        {"title": "Savirealizaciją (self-actualization)", "correct": true}
+      ],
+      "explain": "Pagal Herzberg‘o teoriją savirealizacija (self-actualization) nėra gerovės veiksnys (hygiene factor). Greičiau, tai yra dirbti skatinantis veiksnys (motivating agent). \n Herzberg’o teorija turi ryšį su gerovės veiksniais ir dirbti skatinančiais veiksniais. Gerovės veiksniai palaiko žmogaus norą likti darbovietėje. Tai darbo sąlygos, algos dydis, gyvenimo sąlygos, santykiai darbe, saugumas, tarnybinės pareigos. Dirbti skatinantys veiksniai yra atsakomybė, savirealizacija, profesinis augimas, nuopelnų pripažinimas."
+    },
+    {
+      "question": "Kuris kainos vertinimo būdas naudoja projekto charakteristikas ir matematinį modelį įverčiams gauti?",
+      "options": [
+        {"title": "Parametrinio modeliavimo", "correct": true},
+        {"title": "Tiekėjų pasiūlymų analizės", "correct": false},
+        {"title": "Vertinimo iš apačios į viršų", "correct": false},
+        {"title": "Analogiškąjį", "correct": false}
+      ],
+      "explain": "Parametrinis modeliavimas naudoja projekto charakteristikas ir matematinį modelį įverčiams gauti. Šis modelis gali būti labai paprastas (pvz., viso ryšių kabelio nutiesimo kainai apskaičiuoti, kai žinoma kabelio ilgio vieneto nutiesimo kaina) arba labai sudėtingas (pvz., programinės įrangos kūrimo modelis, kuriame naudojama daug korekcinių veiksnių, turinčių įvairias reikšmes). Parametrinis modeliavimas yra daugiau patikimas, kai anksčiau sukaupta informacija modeliui pagrįsti yra patikima, modelyje naudojami parametrai lengvai išmatuojami ir modelis yra tinkamas. Tiekėjų pasiūlymų analizė nėra projekto kainos vertinimo būdas. Tai tiekėjų pasiūlymų vertinimas – priimtinas ar ne. \n Kainos vertinimo iš apačios į viršų būde nėra naudojamos projekto charakteristikos ir matematinis modelis. Čia vertinamos atskirų darbų kainos ir, susumavus jas, gaunama viso projekto darbų kaina. Gaunama kaina ir jos tikslumas priklauso nuo darbų dydžio ir sudėtingumo. Kainos įvertis yra tikslesnis, kai darbai suskaidomi į smulkesnes dalis (prisiminkime WBS), tačiau tai kažkiek pabrangina patį kainos vertinimo procesą. \n Analogiškasis kainos vertinimo būdas nenaudoja projekto charakteristikų ir matematinio modelio. Jo pagrindas yra panašių praeityje vykdytų projektų duomenys. Analogiškasis kainos vertinimo būdas kitaip dar vadinamas vertinimo iš viršaus į apačią būdu. Jis yra pigesnis už kitus būdus, bet mažiau tikslus. Jo tikslumas priklauso nuo jūsų naujo projekto panašumo į ankstesnius projektus, kuriais remiamasi vertinant kainą."
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų nėra pirkimų planavimo proceso įeities duomenys?",
+      "options": [
+        {"title": "Projekto apimties aprašas", "correct": false},
+        {"title": "Suskaidytų darbų lentelė (WBS)", "correct": false},
+        {"title": "Rinkos sąlygos", "correct": false},
+        {"title": "Tinkamų tiekėjų sąrašas", "correct": true}
+      ],
+      "explain": "Tinkamų tiekėjų sąrašas nėra pirkimų planavimo proceso įeities duomenys. Toks sąrašas sudaromas tiekėjų pasiūlymų rinkimo procese. \n Kiti šio klausimo atsakymai nurodo pirkimų planavimo proceso įeities duomenis. Įmonės aplinkos duomenys (enterprise environmental factors; šalia kitų duomenų juose yra rinkos sąlygos), įmonės organizaciniai dokumentai (organizational process assets), projekto apimties aprašas, suskaidytų darbų lentelė (WBS), projekto valdymo planas taip pat yra pirkimų planavimo proceso įeities duomenys."
+    },
+    {
+      "question": "Jūs esate įmonės resursų planavimo (ERP) sistemos diegimo projekto vadovas. Keletas projekto grupės narių atkreipė jūsų dėmesį, kad jiems nesuteikiama reikiama informacija apie projekto stovį. Kokius projekto dokumentus reikia peržiūrėti?",
+      "options": [
+        {"title": "Projekto valdymo planą", "correct": false},
+        {"title": "Reakcijos į rizikos veiksnius planą", "correct": false},
+        {"title": "Projekto apimties valdymo planą", "correct": false},
+        {"title": "Komunikacijų valdymo planą", "correct": true}
+      ],
+      "explain": "Tokiu atveju reikėtų peržiūrėti komunikacijų valdymo planą. Šiame plane apibrėžiama projekto informacijos platinimo struktūra, kartu nurodant, kas turi gauti informaciją. \n Projekto valdymo plane išdėstomos bendrosios projekto nuostatos. Jame, kaip atskira jo dalis, gali būti komunikacijų valdymo planas, kurį ir reikėtų peržiūrėti. Reakcijos į rizikos veiksnius plane nurodoma, kaip bus valdoma projekto rizika, o projekto apimties valdymo plane nurodoma, kaip bus valdoma projekto apimtis. \n Šiuose planuose nėra rašoma apie projekto informacijos platinimą."
+    },
+    {
+      "question": "Remdamiesi savo projekto suskaidytų darbų lentele (WBS), jūs parengėte detalizuotų darbų sąrašą. Koks turėtų būti kitas jūsų žingsnis?",
+      "options": [
+        {"title": "Vertinti kiekvieno darbo trukmę", "correct": false},
+        {"title": "Rengti projekto darbų grafiką, remiantis detalizuotų darbų sąrašu", "correct": false},
+        {"title": "Atnaujinti projekto nuostatus, įtraukiant į juos detalizuotų darbų sąrašą", "correct": false},
+        {"title": "Nustatyti priklausomybes tarp darbų ir surikiuoti juos atlikimo eilės tvarka", "correct": true}
+      ],
+      "explain": "Kitas jūsų žingsnis turėtų būti priklausomybės tarp darbų nustatymas ir jų surikiavimas atlikimo eilės tvarka. Įvardinus projekto darbus, jie turi būti surikiuojami atlikimo eilės tvarka, remiantis priklausomybėmis tarp darbų. Darbų rikiavimo atlikimo eilės tvarka metu peržiūrimas detalizuotų darbų sąrašas, projektu kuriamo produkto aprašymas, priklausomybės tarp darbų. Tam naudojamos diagramos arba šablonai ir sudaroma darbų išdėstymo diagrama (PDM arba ADM). \n Jūs kitame žingsnyje neturėtumėte: \n - vertinti kiekvieno darbo trukmės. Tai daroma darbų trukmės vertinimo procese, kai jau būna nustatyta darbų atlikimo eilės tvarka \n - rengti projekto darbų grafiko, remdamiesi detalizuotų darbų sąrašu. Darbų grafikas rengiamas vėliau, kai būna nustatyta darbų atlikimo eilės tvarka ir įvertintos darbų trukmės \n - atnaujinti projekto nuostatų, įtraukiant į juos detalizuotų darbų sąrašą. Nuostatuose tokio lygio detalės nerodomos. Paprastai juose nurodomi projekto tikslai."
+    },
+    {
+      "question": "Kas yra šių dviejų procesų - darbų atlikimo eilės tvarkos nustatymo ir darbų trukmės vertinimo - bendras rezultatas?",
+      "options": [
+        {"title": "Projekto darbų grafikas", "correct": false},
+        {"title": "Trijų taškų įverčiai", "correct": false},
+        {"title": "Atnaujinti darbų atributai", "correct": true},
+        {"title": "Darbų trukmės įverčiai", "correct": false}
+      ],
+      "explain": "Atnaujinti darbų atributai yra dviejų procesų - darbų atlikimo eilės tvarkos nustatymo ir darbų trukmės vertinimo - bendras rezultatas. Darbų atlikimo eilės tvarkos nustatymo proceso rezultatai yra projekto darbų grafikas, atnaujintas darbų sąrašas, atnaujinti darbų atributai ir kiti pakeitimai, kurių prireikia. Darbų trukmės vertinimo proceso rezultatai yra darbų trukmės įverčiai ir atnaujinti darbų atributai. \n Projekto darbų grafikas nėra darbų trukmės vertinimo proceso rezultatas. Jis rengiamas darbų atlikimo eilės tvarkos nustatymo procese, kuriame kaip įrankiai naudojamos PDM arba ADM diagramos. \n Trijų taškų įverčiai nėra darbų atlikimo eilės tvarkos nustatymo proceso rezultatas. Trijų taškų metodas naudojamas darbų trukmės vertinimo procese. \n Darbų trukmės įverčiai nėra darbų atlikimo eilės tvarkos nustatymo proceso rezultatas. Šie įverčiai gaunami darbų trukmės vertinimo procese."
+    },
+    {
+      "question": "Kuris iš žemiau nurodytų dalykų nėra darbų trukmės vertinimo proceso įeities duomenys?",
+      "options": [
+        {"title": "Atsargų fondo analizė", "correct": true},
+        {"title": "Darbų sąrašas", "correct": false},
+        {"title": "Rizikos veiksnių sąrašas (registras)", "correct": false},
+        {"title": "Išteklių sąrašas", "correct": false}
+      ],
+      "explain": "Atsargų fondo analizė nėra darbų trukmės vertinimo proceso įeities duomenys (analizė – veiksmas, o ne daiktas). Greičiau ji yra kaip instrumentas (būdas), naudojamas darbų trukmės vertinimo metu. \n Kiti šio klausimo atsakymai nėra teisingi, nes juose įvardinti dalykai yra darbų trukmės vertinimo proceso įeities duomenys. Darbų trukmės vertinimo proceso įeities duomenys yra įmonės aplinkos duomenys (enterprise environmental factors), įmonės organizaciniai dokumentai (organizational process assets), darbų sąrašas, darbų požymiai, išteklių sąrašas, projekto valdymo planas (jame yra rizikos veiksnių sąrašas ir darbų trukmės įverčiai)."
+    },
+    {
+      "question": "Kuris iš žemiau išvardintų dalykų yra įeities duomenys abiems procesams: darbų eilės nustatymo ir darbų trukmės vertinimo?",
+      "options": [
+        {"title": "Suskaidytų darbų lentelė (WBS)", "correct": false},
+        {"title": "Darbų sąrašas", "correct": true},
+        {"title": "Projekto darbų grafikas", "correct": false},
+        {"title": "Projekto valdymo planas", "correct": false}
+      ],
+      "explain": "Darbų sąrašas yra įeities duomenys šiems abiems procesams: darbų eilės nustatymo ir darbų trukmės vertinimo. Darbų eilės nustatymo proceso įeities duomenys yra projekto apimties aprašas, darbų sąrašas, darbų atributai, etapų sąrašas ir bet kokie patvirtinti prašymai daryti pakeitimus. Darbų trukmės vertinimo proceso įeities duomenys yra įmonės aplinkos duomenys (enterprise environmental factors), įmonės organizaciniai dokumentai (organizational process assets), projekto apimties aprašas, darbų sąrašas, darbų atributai, darbams reikalingi ištekliai, išteklių sąrašas, projekto valdymo planas (jame yra rizikos veiksnių sąrašas ir darbų kainos įverčiai). \n Suskaidytų darbų lentelė (WBS) nėra įeities duomenys nei darbų eilės nustatymo, nei darbų trukmės vertinimo procesui. WBS yra įeities duomenys darbų apibrėžimo procesui, kurio metu sudaromas darbų sąrašas.\n Projekto darbų grafikas nėra įeities duomenys darbų eilės nustatymo procesui, bet yra šio proceso rezultatas. \n Projekto valdymo planas yra įeities duomenys darbų trukmės vertinimo procesui, bet ne darbų eilės nustatymo procesui."
+    }
+  ]
 }

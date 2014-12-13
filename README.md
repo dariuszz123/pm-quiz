@@ -18,7 +18,16 @@ Modern web browser with enabled javascript.
 
 ```npm install```
 
-```./node_modules/.bin/bower install```
+###Run the Application
+
+We have preconfigured the project with a simple development web server.  The simplest way to start
+this server is:
+
+```
+npm start
+```
+
+Now browse to the app at `http://localhost:8000/`.
 
 ###Questions data
 
@@ -43,9 +52,16 @@ Data structure is self explaining:
 
 ##Credits
 
-* Course lecturer: dr. Asta Vaitkevičienė http://uosis.mif.vu.lt/~astak
+Author: Darius Krištapavičius
 
-* Questions data: professor Valdas Undzėnas http://uosis.mif.vu.lt/~astak/data/laboratoriniai/2014_09_INICIJAVIMAS_pratyboms_auditorijoje.pdf
+Course lecturer: dr. Asta Vaitkevičienė http://uosis.mif.vu.lt/~astak
+
+Questions: professor Valdas Undzėnas
+
+Various improvements:
+* Tautvidas Sipavičius http://www.tautvidas.com
+* Aurimas Sadauskas http://www.aursad.eu
+* Donatas Kurapkis http://l2topai.eu
 
 ##License
 
