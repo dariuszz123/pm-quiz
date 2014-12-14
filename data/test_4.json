@@ -1,0 +1,683 @@
+{
+    "questions": [
+        {
+            "question": "Problemų priežasčių rikiavimas pagal jų pasireiškimo dažnį naudojamas rengiant korekcinius veiksmus. Tai yra pagrindinis principas, kuriuo remiasi",
+            "options": [
+                {
+                    "title": "inspektavimai",
+                    "correct": false
+                },
+                {
+                    "title": "tendencijų analizė",
+                    "correct": false
+                },
+                {
+                    "title": "kontroliniai grafikai",
+                    "correct": false
+                },
+                {
+                    "title": "Pareto diagramos",
+                    "correct": true
+                }
+            ],
+            "explain": "Problemų priežasčių rikiavimas pagal jų pasireiškimo dažnį naudojamas rengiant Pareto diagramas. Pareto diagramų pagrindinio principo esmė yra ta, kad 80 procentų problemų kyla dėl 20 procentų priežasčių. Tokios diagramos padeda atkreipti dėmesį į kritines priežastis ir koncentruotis ties jų šalinimu.\nInspektavimai (tikrinimai) yra priemonė, naudojama kokybės kontrolės procese. Tai nagrinėjimo, matavimo ir testavimo veiklos, kuriomis tikrinama, ar gauti rezultatai atitinka projekto reikalavimus.\nTendencijų analizė yra būdas projekto rezultatams stebėti laiko bėgyje, kad nustatytume, ar kažkuriuo požiūriu projekto padėtis gerėja ar blogėja.\nKontrolinis grafikas yra priemonė, padedanti nustatyti, ar procesas vyksta pagal planą, ar nėra nukrypimo nuo numatyto grafiko.\n\nTema: projekto kontrolė \nTemos dalis: kokybės kontrolė"
+        },
+        {
+            "question": "Jūs esate internetinio puslapio kūrimo projekto vadovas. Baigiamojoje priėmimo testavimo stadijoje užsakovo atstovas pareiškė, kad sukurtame produkte trūksta pradiniuose reikalavimuose numatytos funkcijos. Kokių veiksmų jūs imsitės?",
+            "options": [
+                {
+                    "title": "peržiūrėsite projekto nuostatus (charter) ir pasitikrinsite, ar juose tai buvo numatyta",
+                    "correct": false
+                },
+                {
+                    "title": "peržiūrėsit suskaidytų darbų lentelę (WBS) ir tuomet priimsite arba atmesite užsakovo atstovo pretenzijas",
+                    "correct": true
+                },
+                {
+                    "title": "peržiūrėsite projekto apimties (scope) valdymo planą ir tuomet priimsite arba atmesite užsakovo atstovo pretenzijas",
+                    "correct": false
+                },
+                {
+                    "title": "peržiūrėsite susirinkimų protokolus, kad įsitikintumėte, ar tos funkcijos buvo reikalaujama, ir tuomet nuspręsite, ar ji buvo projekto apimties (scope) dalis",
+                    "correct": false
+                }
+            ],
+            "explain": "Toliau jūs turėtumėte peržiūrėti suskaidytų darbų lentelę (WBS) ir tuomet priimti arba atmesti užsakovo atstovo pretenzijas. Detalus projekto apimties (scope) aprašas, suskaidytų darbų lentelė (WBS) ir WBS darbų sąrašas turi būti visa ir galutinė medžiaga projekto apimčiai patikrinti ir ginčams dėl projekto apimties išspręsti. WBS‘e neįvardinti rezultatai ir darbai nėra projekto apimties dalis.\nJūs neturėtumėte peržiūrėti:\n- projekto nuostatų (charter) ar susirinkimų protokolų, nes jie negali būti traktuojami kaip projekto apimtis (scope). Detalus projekto apimties (scope) aprašas, suskaidytų darbų lentelė (WBS) ir WBS darbų sąrašas yra galutinė projekto apimties medžiaga;\n- projekto apimties (scope) valdymo plano ir tuomet priimti arba atmesti užsakovo atstovo pretenzijas. Projekto apimties valdymo planas yra dokumentas, kuriame apibrėžiama, kaip projekto eigoje turi būti valdoma projekto apimtis. Jis yra apimties tvirtinimo proceso įeities duomuo ir vienas negali būti naudojamas visiems projekto darbams patvirtinti. Tik detalus projekto apimties (scope) aprašas, suskaidytų darbų lentelė (WBS) ir WBS darbų sąrašas suteikia informaciją apie kiekvieną projekto rezultatą ir darbą. Tik jais remiantis turi būti sprendžiama, ar visi darbai projekte buvo atlikti.\n\nTema: projekto kontrolė\nTemos dalis: apimties tvirtinimas"
+        },
+        {
+            "question": "Jūs esate vadovas projekto, kurio trukmė pradiniame darbų grafike buvo numatyta 12 mėn. Pradinis projekto biudžetas buvo 486 000 Lt arba 40 500 Lt kiekvieną mėnesį. Mėnesio gale jūs vertinate projekto eigą. Atlikta 40 proc. projekto darbų, o pinigų liko 90 000 Lt. Kokia yra likusių projekto darbų prognozuojama kaina (ETC – Estimate To Complete)?",
+            "options": [
+                {
+                    "title": "194 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "396 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "595 918,37 Lt",
+                    "correct": true
+                },
+                {
+                    "title": "991 836,73 Lt",
+                    "correct": false
+                }
+            ],
+            "explain": "ETC apskaičiuojamas taip:\nBAC = 486 000 Lt (projekto kainos įvertis projekto pradžioje; BAC – budget at completion);\nAC = 486 000 – 90 000 = 396 000 Lt (tikrosios projekto išlaidos; AC – Actual Cost);\nEV = BAC x atliktų darbų procentas = 486 000 x 0,4 = 194 000 Lt (atliktų darbų vertė; EV – Earned Value);\nCPI = EV / AC = 194 000 / 396 000 = 0,49 (išlaidų indeksas; CPI – cost performance index);\nETC = (BAC - EV) / CPI = (486 000 – 194 000) / 0,49 = 595 918,37 Lt\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+        },
+        {
+            "question": "Kurį iš žemiau parodytų rodiklių jūs galite apskaičiuoti žinodami atliktų darbų vertę (BCWP - Budgeted Cost of Work Performed; EV - Earned Value; BCWP = EV) ir darbų indeksą (SPI – schedule performance index)?",
+            "options": [
+                {
+                    "title": "SV (darbų nuokrypį; SV – schedule variance)",
+                    "correct": true
+                },
+                {
+                    "title": "CPI (išlaidų indeksą; CPI – Cost Performance Index)",
+                    "correct": false
+                },
+                {
+                    "title": "EAC (viso projekto patikslintos kainos įvertį duotu laiku; EAC – Estimate At Completion)",
+                    "correct": false
+                },
+                {
+                    "title": "ROI (atsipirkimų normą; ROI – Return Of Investment)",
+                    "correct": false
+                }
+            ],
+            "explain": "Jei jūs žinote savo projekto BCWP ir SPI, tai jūs galite apskaičiuoti SV. Nukrypimų analizė yra efektyvus instrumentas kontroliuoti projekto darbų grafiko laikymąsi. SPI = BCWP / BCWS, kur BCWS – Budgeted Cost of Work Sheduled, planuotų atlikti darbų vertė. SV = BCWP – BCVS. Turėdami SPI ir BCWP, jūs galite apskaičiuoti BCWS, o tuo pačiu ir SV. Taip pat, turėdami šiuos dydžius, jūs galite apskaičiuoti, koks procentas darbų yra atlikta: (BCWP / BCWS x 100) arba (SPI x 100).\nTurėdami BCWP ir SPI jūs negalite apskaičiuoti:\n- CPI. Šis dydis apskaičiuojamas taip: CPI = EV / AC, kur AC – Actual Cost, tikrosios išlaidos;\n- EAC. Jis gaunamas taip: EAC = AC + ETC , kur ETC - Estimate To Complete, iki projekto pabaigos likusių darbų prognozuojama kaina;\n- ROI. Tai procentinis dydis, nurodantis investicijų grąžą. Tai gautų pajamų ir investuotos į projektą sumos skirtumo santykis su investuota į projektą suma. Jei ROI > 0, tai projektas atsipirko.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko laikymosi kontrolė"
+        },
+        {
+            "question": "Klientui pakeitus kokybės reikalavimus jūs pakeitėte projekto apimtį. Atitinkamai pakoregavote projekto planą ir rezultatų priėmimo kriterijus. Koks turėtų būti kitas jūsų žingsnis?",
+            "options": [
+                {
+                    "title": "parengti pakeitimų ataskaitos versiją",
+                    "correct": false
+                },
+                {
+                    "title": "informuoti akcininkus nustatytu būdu",
+                    "correct": true
+                },
+                {
+                    "title": "peržiūrėti kompanijos kokybės valdymo vadovą",
+                    "correct": false
+                },
+                {
+                    "title": "gauti formalų pritarimą iš jūsų sponsoriaus ir užsakovo",
+                    "correct": false
+                }
+            ],
+            "explain": "Kitas jūsų žingsnis turėtų būti akcininkų informavimas nustatytu būdu. Apimties keitimas gali pareikalauti projekto kainos, trukmės, kokybės ar kitų tikslų keitimo. Po projekto plano ir rezultatų priėmimo kriterijų koregavimo jūs turite informuoti akcininkus.\nKitu žingsniu jūs neturėtumėte:\n- rengti pakeitimų ataskaitos versijos. Jūs turite informuoti akcininkus apie pakeistus dokumentus iki pakeitimų ataskaitos versijos rengimo;\n- peržiūrėti kompanijos kokybės valdymo vadovą. Kliento kokybės reikalavimų pokyčiai negali versti koreguoti jūsų kompanijos kokybės valdymo vadovo. Šie reikalavimai gali iššaukti kai kurių procedūrų pokyčius šiame specifiniame projekte, bet neturėtų turėti įtakos bendrai jūsų organizacijos kokybės sistemai (taisyklėms, politikai);\n- gauti formalų pritarimą iš jūsų sponsoriaus ir užsakovo. Formalus sponsoriaus ar užsakovo pritarimas atsiranda dar prieš projekto plano ir rezultatų priėmimo kriterijų koregavimą.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+        },
+
+        {
+            "question": "Jūs esate sportinės bazės statybos projekto vadovas, kuris vyksta pagal numatytą grafiką. Įprasto kasmėnesinio susirinkimo metu projekto stoviui su klientais aptarti vadovybė formaliai informavo, kad nori stabdyti projektą neapibrėžtam laikui dėl lėšų stokos. Jūs grįžote iš susirinkimo ir paprašėte savo grupės parengti ataskaitą apie iki šios dienos atliktus darbus, taip pat paprašėte savo teisės departamento pateikti sandorio kopiją. Kuris iš žemiau esančių sakinių geriausiai apibūdina šią situaciją?",
+            "options": [
+                {
+                    "title": "jūs pradėjote projekto užbaigimo veiklas",
+                    "correct": false
+                },
+                {
+                    "title": "jūs pradėjote sandorio užbaigimo veiklas",
+                    "correct": false
+                },
+                {
+                    "title": "jūs pradėjote darbų ataskaitų rengimo veiklas",
+                    "correct": false
+                },
+                {
+                    "title": "jūs pradėjote apimties tikrinimo veiklas, kad nustatytumėte projekto užbaigtumo laipsnį",
+                    "correct": true
+                }
+            ],
+            "explain": "Klausime aprašytą situaciją geriausiai apibūdina šis sakinys: jūs pradėjote apimties tikrinimo veiklas, kad nustatytumėte projekto užbaigtumo laipsnį. Apimties tikrinimo veiklos būtinos tada, kai yra gauti reikalaujami projekto rezultatai ir projektas eina link logiškos pabaigos arba kai reikia nutraukti projektą anksčiau laiko. Šiame scenarijuje klientas reikalauja stabdyti projektą neapibrėžtam laikui. Tai nereiškia, kad projektas turi būti nutrauktas. Jums reikia peržiūrėti sandorį ir pasiruošti ateičiai šio tipo situacijoje.\nJūs nepradėjote:\n- projekto užbaigimo veiklų. Projekto užbaigimas nėra įteisintas procesas;\n- sandorio užbaigimo veiklų. Pastarosios reikalingos sandoriui su tiekėju ar pardavėju užbaigti, o ne projektui užbaigti;\n- darbų ataskaitų rengimo veiklų. Jos jau vykdomos iki apimties patvirtinimo. Jūs visų pirma turite gauti informaciją apie duotam laiku reikalingas užbaigti užduotis ir veiklas ir tik tada pradėti apimties tvirtinimo veiklas.\n\nTema: projekto kontrolė\nTemos dalis: apimties tvirtinimas"
+        },
+
+        {
+            "question": "Projekto viduryje jūs atlikote nukrypimų analizę ir pastebėjote, kad SPI (Shedule Performance Index, darbų indeksas) yra lygus 0,8 ir SV (Shedule Variance, darbų nuokrypis) yra -2000 Lt. Kokios yra EV (Earned Value, atliktų darbų vertė) ir PV (Planned Value, duotam laikotarpiui skirta suma) reikšmės tuo metu?",
+            "options": [
+                {
+                    "title": "800 Lt ir 2 800 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "8 000 Lt ir 10 000 Lt",
+                    "correct": true
+                },
+                {
+                    "title": "10 000 Lt ir 8 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "iš turimų duomenų šių reikšmių negalima apskaičiuoti",
+                    "correct": false
+                }
+            ],
+            "explain": "EV ir PV reikšmės atitinkamai yra 8 000 Lt ir 10 000 Lt. Nukrypimų analizė yra efektyvus instrumentas kontroliuoti, kaip laikomasi darbų grafiko. SV = EV – PV. SPI = EV / PV. Šiame scenarijuje sprendžiama tokia lygčių sistema:\nEV – PV = -2000\nEV / PV = 0,8\nAtlikę veiksmus gauname (PV – 2000) / PV = 0,8. Taigi, PV = 10 000, o EV = 8 000.\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+        },
+
+        {
+            "question": "Duotu momentu jūsų projekto EV (Earned Value, atliktų darbų vertė) yra 750 000 Lt, AC (Actual Cost, tikrosios projekto išlaidos) yra 600 000 Lt, PV (Planned Value, duotam laikotarpiui skirta suma) yra 500 000 Lt. Koks yra jūsų projekto SPI (Schedule Performance Index, darbų indeksas)?",
+            "options": [
+                {
+                    "title": "-3,0",
+                    "correct": false
+                },
+                {
+                    "title": "-1,5",
+                    "correct": false
+                },
+                {
+                    "title": "1,5",
+                    "correct": true
+                },
+                {
+                    "title": "3,0",
+                    "correct": false
+                }
+            ],
+            "explain": "Jūsų projekto SPI yra 1,5. Jis apskaičiuojamas taip: SPI = EV / PV. Šiame scenarijuje SPI = 750 000 / 500 000 = 1,5. Tai reiškia, kad jūsų projekte duotu momentu jau atlikta daugiau darbų nei buvo planuota. SPI yra pagrindinis rodiklis, kaip laikomasi darbų grafiko. Jei SPI>1, tai darbų grafikas yra viršytas. Jei SPI<1, nuo darbų grafiko atsiliekama. Duotame scenarijuje SPI rodo, kad jūsų projektas viršija darbų grafiką.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko kontrolė"
+        },
+
+        {
+            "question": "Jūs nagrinėjate rinkinį prašymų daryti apimties pakeitimus projekto, kurį perėmėte iš pasitraukusio projekto vadovo. Projekto apimties pakeitimo laipsniui įvertinti su kuriuo projekto dokumentu jūs turite palyginti prašymus daryti projekto apimties pakeitimus?",
+            "options": [
+                {
+                    "title": "WBS (Work Breackdown Structure, suskaidytų darbų lentelė);",
+                    "correct": true
+                },
+                {
+                    "title": "projekto valdymo planu",
+                    "correct": false
+                },
+                {
+                    "title": "projekto veiklų atributais",
+                    "correct": false
+                },
+                {
+                    "title": "apimties valdymo planu",
+                    "correct": false
+                }
+            ],
+            "explain": "Jūs turite lyginti prašymus daryti projekto apimties pakeitimus su WBS‘u, nes jame įvardinama projekto apimtis. Bet kokios WBS‘o modifikacijos iššaukia apimties keitimus. Projekto apimties pakeitimo laipsniui įvertinti prašymai daryti pakeitimus turi būti lyginami su planuota projekto apimtimi. Planuota projekto apimtis yra apibrėžta detaliame projekto apimties apraše, WBS‘e ir WBS‘o darbų sąraše.\nJums nereikia lyginti prašymų daryti apimties pakeitimus su:\n- projekto valdymo planu. Valdymo planas padeda valdyti projekto vykdymą. Šį planą jūs naudosite apimties pakeitimų poveikiui kitoms projekto sritims įvertinti;\n- projekto veiklų atributais. Veiklų atributai - tai kiekvienos darbų grafiką turinčios veiklos charakteristikos. Tai veiklos pavadinimas, kodas, veiklos aprašas, loginiai ryšiai, reikalingi ištekliai;\n- apimties valdymo planu. Šis planas apibrėžia procedūras, kaip turi būti valdomi apimties pakeitimai, kaip jų prašoma, kas ir kaip svarsto prašymus ir t.t. Jame pačių apimties pakeitimų nėra.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+        },
+
+        {
+            "question": "Integruotoji keitimų kontrolė apima visus žemiau išvardintus dalykus, išskyrus",
+            "options": [
+                {
+                    "title": "išlaidų kontrolę",
+                    "correct": false
+                },
+                {
+                    "title": "apimties keitimo kontrolę",
+                    "correct": false
+                },
+                {
+                    "title": "sąskaitų kontrolę",
+                    "correct": true
+                },
+                {
+                    "title": "darbų grafiko kontrolę",
+                    "correct": false
+                }
+            ],
+            "explain": "Integruotoji keitimu kontrole nera siejama su s¹skaitu kontrole. Ji apima projekto apimties keitimo kontrolź, darbu grafiko kontrolź, ilaidu kontrolź, kokybes kontrolź, rizikos valdymo kontrolź. S¹skaitu tvarkymas nera integruotosios keitimu kontroles funkcija.\nIntegruotoji keitimu kontrole apima:\n- ilaidu kontrolź, nes tai gali tureti poveiki viso projekto eigai;\n- apimties keitimo kontrolź, nes apimties keitimas gali atsiliepti projekto kainai, rizikai, kokybei, darbuotojams. Todel yra svarbu valdyti apimties keitimus;\n- darbu grafiko kontrolź, nes siulomi grafiko keitimai gali tureti itakos projekto kainai, rizikai, kokybei, darbuotojams.\n\nTema: projekto kontrole\nTemos dalis: integruotoji keitimu kontrole"
+        },
+
+        {
+            "question": "Užsakovas, jūsų organizacijos vadovybė ir kiti pagrindiniai akcininkai yra sutarę dėl kuriamos sistemos reikalavimų. Projektas vyksta pagal grafiką. Tačiau išėję nauji reguliaciniai aktai verčia daryti vieną projekto specifikacijos keitimą. Ką jūs visų pirma turėtumėte daryti, kad šis pakeitimas būtų įtrauktas į projekto planą?",
+            "options": [
+                {
+                    "title": "perengti prašymą daryti pakeitimą",
+                    "correct": true
+                },
+                {
+                    "title": "susitikti su vadovybe reikalui aptarti",
+                    "correct": false
+                },
+                {
+                    "title": "keisti WBS (Work Breackdown Structure, suskaidytų darbų lentelę), projekto darbų grafiką ir projekto planą, kuriuose būtų atspindėti naujas reikalavimas",
+                    "correct": false
+                },
+                {
+                    "title": "nedelsdami informuoti visus akcininkus apie numatomą pakeitimą projekte",
+                    "correct": false
+                }
+            ],
+            "explain": "Jūs visų pirma turite parengti prašymą daryti pakeitimą. Pakeitimo darymui turi pritarti keitimų kontrolės taryba. Prašymo daryti pakeitimą parengimu jūs duodate impulsą šaukti tarybos susirinkimą ir siekiate pritarimo prašomam pakeitimui. Tik po prašymo priėmimo ar atmetimo turi būti informuojami visi akcininkai.\nJūs neturėtumėte:\n- susitikti su vadovybe reikalui aptarti. Prieš susitikdami su vadovybe jūs turite parengti prašymą daryti pakeitimą. Tai būtų lyg darbotvarkė susitikimui su vadovybe. Po prašymo parengimo gali būti šaukiama keitimų kontrolės taryba;\n- keisti WBS, projekto darbų grafiko ir projekto plano, kuriuose būtų atspindėti nauji reikalavimai. Daryti minėtus darbus reikia tik gavus visų akcininkų pritarimą ir keitimų kontrolės tarybos leidimą;\n- nedelsdami informuoti visus akcininkus apie numatomą pakeitimą projekte. Akcininkai informuojami tik po to, kai keitimų kontrolės taryba pritaria prašomam pakeitimui ir atnaujina atitinkamus projekto dokumentus.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+        },
+
+        {
+            "question": "Pareto diagrama padeda projekto grupei:",
+            "options": [
+                {
+                    "title": "prognozuoti galimas problemas",
+                    "correct": false
+                },
+                {
+                    "title": "analizuoti problemų priežastis",
+                    "correct": false
+                },
+                {
+                    "title": "parodyti, kad procesas yra kontroliuojamas",
+                    "correct": false
+                },
+                {
+                    "title": "koncentruotis ties svarbiausiomis problemu prie˛astimis",
+                    "correct": true
+                }
+            ],
+            "explain": "Pareto diagrama padeda projekto grupei koncentruotis ties svarbiausiomis problemų priežastimis. Pareto diagrama yra stačiakampių pavidalo ir pagrįsta tuo, kad 80 proc. problemų atsiranda dėl 20 proc. priežasčių. Joje problemų kiekiai priklausomai nuo priežasties išdėstomi mažėjimo tvarka. Tai padeda projekto grupei nustatyti daugiausia problemų keliančias priežastis ir koncentruotis ties tų priežasčių šalinimu.\nGalimų problemų prognozavimui jūs galite naudoti išsisklaidymo (pasiskirstymo) diagramas, kurios yra tendencijų analizės instrumentas. Šios diagramos atspindi koreliaciją tarp duomenų X/Y ašių plokštumoje. Tai padeda prognozuoti tendencijas.\nProblemų priežasčių analizei jūs galite naudoti „žuvies kaulų“ pavidalo (fishbone) arba Išikavos diagramas. Tai priežasties-pasekmės diagramos, ir jos padeda įvardinti pagrindines kokybės problemos priežastis.\nParodymui, kad procesas yra kontroliuojamas, jūs galite naudoti kontrolines diagramas, kurios yra grafinis proceso rezultatų atvaizdavimas laike. Tai padeda kontroliuoti procesą, ar jis vyksta taip, kaip turėtų. Pagal skirtumą tarp gautų ir planuotų rezultatų sprendžiama, ar tai įvyko dėl atsitiktinių priežasčių, ar tai yra nenumatyta projekto eiga ir reikalingos korekcijos.\n\nTema: projekto kontrolė\nTemos dalis: kokybės kontrolė"
+        },
+
+        {
+            "question": "Dėl kai kurių darbų vėlavimo jums prireikė koreguoti projekto darbų grafiką. Ko jūs neturėtumėte daryti?",
+            "options": [
+                {
+                    "title": "keisti suplanuoto projekto darbų grafiko",
+                    "correct": false
+                },
+                {
+                    "title": "perskaičiuoti SPI (Shedule Performance Index, darbų indekso)",
+                    "correct": true
+                },
+                {
+                    "title": "informuoti akcininkų",
+                    "correct": false
+                },
+                {
+                    "title": "atnaujinti projekto valdymo plano",
+                    "correct": false
+                }
+            ],
+            "explain": "Jūs neturėtumėte perskaičiuoti SPI (Shedule Performance Index, darbų indekso). SPI rodo, kaip projekto vykdymas atitinka darbų grafiką. Jį perskaičiuoti jūs turėtumėte vėliau, kai analizuosite darbų grafiko vykdymą, bet ne po darbų grafiko pakeitimo.\nKiti atsakymai į šį klausimą yra neteisingi, nes juose nurodyti veiksmai turi būti vykdomi koreguojant projekto darbų grafiką.\nPastebėkime, kad suplanuoto darbų grafiko keisti nereikėtų, kol nukrypimai nuo jo nėra žymūs.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko kontrolė"
+        },
+
+        {
+            "question": "Integruotoji keitimų kontrolė apima visas žemiau išvardintas veiklas, išskyrus:",
+            "options": [
+                {
+                    "title": "pradinės projekto apimties keitimą",
+                    "correct": false
+                },
+                {
+                    "title": "keitimų darymą pradiniame projekto plane",
+                    "correct": false
+                },
+                {
+                    "title": "pradinio išlaidų plano (cost baseline) rengimą projekto eigai stebėti",
+                    "correct": true
+                },
+                {
+                    "title": "integralumo (suderinamumo) tarp projekto elementų palaikymą",
+                    "correct": false
+                }
+            ],
+            "explain": "Integruotoji keitimų kontrolė neapima pradinio išlaidų plano (cost baseline) rengimo projekto eigai stebėti. Išlaidų planas rengiamas projekto biudžeto sudarymo procese, ir jis yra projekto plano dalis.\nradžioje apibrėžtos projekto apimties keitimai daromi integruotosios keitimų kontrolės metu. Prašomi daryti pakeitimai atmetami arba jiems pritariama ir daromi pakeitimai peržiūrėtame projekto plane.\nKeitimų darymas pradiniame projekto plane yra pagrindinė integruotosios keitimų kontrolės proceso veikla. Projekto plano pakeitimai yra šios veiklos rezultatas.\nIntegralumas (suderinamumas) tarp projekto elementų integruotosios keitimų kontrolės procese palaikomas, prašomus daryti pakeitimus atmetant arba jiems pritariant ir darant pakeitimus peržiūrėtame projekto plane.\n\nTema: projekto kontrolė\nTemos dalis: integruotoji keitimų kontrolė"
+        },
+
+        {
+            "question": "Jūs esate didelio infrastruktūros plėtros projekto vadovas. Šiame projekte teko keisti apimtį (project scope), kam pritarė akcininkai, ir buvo atnaujinta suskaidytų darbų lentelė (WBS). Ką toliau reikėtų peržiūrėti?",
+            "options": [
+                {
+                    "title": "apimtį",
+                    "correct": false
+                },
+                {
+                    "title": "kokybės valdymo planą",
+                    "correct": false
+                },
+                {
+                    "title": "darbų grafiką",
+                    "correct": true
+                },
+                {
+                    "title": "darbų grafiko valdymo planą",
+                    "correct": false
+                }
+            ],
+            "explain": "Toliau reikėtų peržiūrėti projekto darbų grafiką. Projekto apimties keitimai iššaukia WBS keitimą, o WBS keitimai dažniausiai pareikalauja ir darbų grafiko keitimo.\nDuotu atveju nereikia peržiūrėti:\n- projekto apimties, nes tai atlikta darant WBS pakeitimus;\n- kokybės valdymo plano. Pastarasis gali nesikeisti, keičiant WBS;\n- darbų grafiko valdymo plano, nes jis apibrėžia tvarką, kaip turėtų būti elgiamasi su prašymais daryti grafiko pakeitimus. Tokia tvarka nustatoma planavimo proceso metu. Projekto apimties keitimas nereikalauja peržiūrėti darbų grafiko valdymo plano.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko kontrolė"
+        },
+
+        {
+            "question": "Jūs rengiate grupės nario darbo įvertinimą. Kuris iš žemiau pateiktų sakinių yra teisingas kalbant apie tokius įvertinimus?",
+            "options": [
+                {
+                    "title": "duomenys darbui įvertinti turi būti gaunami tik iš tiesioginio grupės nario viršininko",
+                    "correct": false
+                },
+                {
+                    "title": "darbo įvertinimas visada turi būti parengtas raštu",
+                    "correct": false
+                },
+                {
+                    "title": "darbo įvertinime turi būti tik teigiami atsiliepimai",
+                    "correct": false
+                },
+                {
+                    "title": "darbo įvertinimas gali būti panaudotas grupės nario pareigų ir atsakomybės pakeitimams pagrįsti",
+                    "correct": true
+                }
+            ],
+            "explain": "Teisingas šio klausimo atsakymas: darbo įvertinimas gali būti panaudotas grupės nario pareigų ir atsakomybės pakeitimams pagrįsti. Projekto vykdymo metu yra vertinamas grupės narių darbas. Tai yra projekto grupės valdymo proceso dalis. Darbo įvertinimas ne tik suteikia grupės nariams informaciją, kaip į juos žiūrima, bet gali būti panaudotas ir jų pareigų keitimo pagrindimui, kvalifikacijos kėlimo planų rengimui.\nDuomenys grupės nario darbui įvertinti gali būti renkami iš įvairių asmenų, nežiūrint jų užimamų pareigų ar pavaldumo projekte.\nDarbo įvertinimas gali būti neformalus ir nebūtinai rašytinio pavidalo. Tačiau sudėtingesniuose projektuose įvertinimai paprastai rengiami raštu. Organizacijose esančios taisyklės dažnai reikalauja, kad darbo įvertinimas būtų oficialus dokumentas.\nDarbo įvertinime gali būti ir teigiamų, ir neigiamų punktų. Tai suteikia tikslumo, ypač jei vertinimas nėra teigiamas.\n\nTema: projekto kontrolė\nTemos dalis: projekto grupės valdymas"
+        },
+
+        {
+            "question": "Jūs įvertinote savo projekto darbų nuokrypį (SV – Schedule Variance) ir pasiūlėte daryti darbų grafiko pakeitimus. Jūsų pasiūlymui buvo pritarta. Ką nedelsdami jūs turėtumėte daryti toliau?",
+            "options": [
+                {
+                    "title": "parengti naują darbų grafiką",
+                    "correct": false
+                },
+                {
+                    "title": "pakoreguoti pradinį darbų grafiką",
+                    "correct": true
+                },
+                {
+                    "title": "parengti prašymą daryti pakeitimą",
+                    "correct": false
+                },
+                {
+                    "title": "parengti darbų ataskaitą",
+                    "correct": false
+                }
+            ],
+            "explain": "Nedelsdami jūs turėtumėte pakoreguoti pradinį darbų grafiką. Kai tik pasiūlytiems darbų grafiko pakeitimams buvo pritarta, jūs turite pakoreguoti jį ir informuoti atitinkamus akcininkus apie naują garbų grafiką.\nDarbų grafikas padeda stebėti, ar projekto eigoje nenukrypstama nuo jo. Tai vienintelis grafikas, kurio laikomasi projekte. Prireikus, jis koreguojamas visų akcininkų sutikimu. Naujas darbų grafikas nėra rengiamas.\nPrašymas daryti pakeitimą rengiamas, kai projekto vadovas siekia projekto darbų grafiko pataisų patvirtinimo.\nDarbų ataskaitos suteikia informaciją apie darbų grafiko laikymąsi. Jos naudojamos darbų nuokrypiui (SV) nustatyti.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko kontrolė"
+        },
+
+        {
+            "question": "Vietoje to, kad naudotų suskaidytų darbų lentelę (WBS – Work Breackdown Structure), jūsų grupė parengė darbų užduotį (SOW – Statement Of Work) projekto darbo komponentams apibrėžti. Tokį SOW dokumentą peržiūrėjęs klientas pastebėjo, kad reikia daryti projekto apimties pakeitimus ir parengė atitinkamą prašymą. Visa tai yra prašymo daryti pakeitimą pavyzdys, kurio priežastis buvo:",
+            "options": [
+                {
+                    "title": "išorinis įvykis",
+                    "correct": false
+                },
+                {
+                    "title": "pridėtinės vertės didinimas",
+                    "correct": false
+                },
+                {
+                    "title": "kuriamo produkto savybių apibrėžimo klaida",
+                    "correct": false
+                },
+                {
+                    "title": "projekto apimties apibrėžimo klaida",
+                    "correct": true
+                }
+            ],
+            "explain": "Tai yra prašymo daryti pakeitimą pavyzdys, kurio priežastis yra projekto apimties apibrėžimo klaida. SOW yra produkto ar paslaugos, kuri turi būti teikiama sandorio metu, aprašas. Tuo tarpu WBS yra projekto darbų ir jų rezultatų toks suskaidymas, kad būtų apibrėžta visa projekto apimtis. SOW naudojimas vietoje WBS gali būti skurdaus projekto apimties apibrėžimo ir prašymų daryti apimties pakeitimus priežastimi.\nPrašymo daryti apimties pakeitimus priežastimi mūsų klausimo atveju nėra:\n- išorinis įvykis. Projekto atžvilgiu išorinis įvykis yra, pvz., Vyriausybės nutarimo pakeitimas, bet jis neatitinka mūsų klausimo;\n- pridėtinės vertės didinimas. Jis gali iššaukti prašymą daryti apimties pakeitimą tik atsiradus technologijoms, kurios nebuvo žinomos projekto pradinės apimties planavimo metu ir kurios gali būti pritaikytos projekto kainai ir trukmei sumažinti;\n- kuriamo produkto savybių apibrėžimo klaida. Ši klaida gali iššaukti prašymą daryti apimties pakeitimą tik tuo atveju, jei ji buvo padaryta pradinės projekto apimties apibrėžimo metu. WBS yra projekto darbų ir jų rezultatų toks suskaidymas, kad būtų apibrėžta visa projekto apimtis. Jei SOW buvo parengta vietoje WBS, reiškia, projekto apimtis buvo parengta netinkamai.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+        },
+
+        {
+            "question": "Jūs esate programinės įrangos kūrimo projekto vadovas. Projekto biudžetas yra 1 230 000 Lt, o projekto trukmė 10 mėn. Darbų grafikui parengti jūs sudarėte suskaidytų darbų lentelę (WBS) ir įvertinote atskirų darbų apimtis (trukmę, kainą). Darbai buvo paskirstyti jūsų grupės nariams. Praėjus trims mėnesiams pasirodė, kad darbai vyksta ne taip, kaip buvo planuota. Pagal jūsų planą buvo numatyta išleisti 36 000 Lt, o išleidote 45 000 Lt. Projektas atsilieka nuo darbų grafiko. Kas buvo negerai?",
+            "options": [
+                {
+                    "title": "negerai sudaryta WBS",
+                    "correct": false
+                },
+                {
+                    "title": "netinkamai sudaryta darbų eilė",
+                    "correct": false
+                },
+                {
+                    "title": "nebuvo naudotas Monte Karlo metodas",
+                    "correct": false
+                },
+                {
+                    "title": "netinkamai jūs įvertinote atskirų darbų apimtis (trukmę, kainą).",
+                    "correct": true
+                }
+            ],
+            "explain": "Manoma, kad netinkamai jūs įvertinote atskirų darbų apimtis (trukmę, kainą). Atskirų darbų apimtis turėjo įvertinti jūsų grupės nariai. Tai skatina juos laikytis ir kontroliuoti pačių sudarytą grafiką. Atskiri grupės nariai yra geresni savo srities darbų žinovai ir gali geriau įvertinti jiems pavedamų darbų apimtis.\nŠiame mūsų klausime nėra jokios informacijos, kad:\n- negerai sudaryta WBS;\n- netinkamai sudaryta darbų eilė.\nMonte Karlo metodas naudojamas projekto rezultatams modeliuoti. Jis nėra naudojamas darbų apimties vertinime.\n\nTema: projekto kontrolė\nTemos dalis: darbų grafiko kontrolė"
+        },
+
+        {
+            "question": "Projekto metu užsakovas primygtinai pareikalavo užbaigti projektą anksčiau. Projekto eigai paspartinti jūs nutarėte pasitelkti subrangovą. Tačiau subrangovas nepajėgė prisiderinti prie jūsų darbų grafiko. Laikydamiesi sandorio su juo sąlygų, jūs nusprendėte iš jo išieškoti numatyto dydžio baudą. Ką jūs turėtumėte daryti toliau?",
+            "options": [
+                {
+                    "title": "nusileisti prašymui daryti sandorio pakeitimą",
+                    "correct": false
+                },
+                {
+                    "title": "prašyti pateikti darbų ataskaitą",
+                    "correct": true
+                },
+                {
+                    "title": "inicijuoti atsiskaitymą",
+                    "correct": false
+                },
+                {
+                    "title": "informuoti subrangovą apie įsipareigojimų nevykdymą",
+                    "correct": false
+                }
+            ],
+            "explain": "Toliau jūs turėtumėte prašyti pateikti darbų ataskaitą. Ataskaitoje pateikiamos detalės apie subrangovui pavestus darbus: grafiką, kokybę, kt. Kadangi mūsų atveju nekalbama apie sąskaitos pateikimą, ataskaitoje jūs galite gauti informaciją apie vėlavimo priežastis ir sandorio stovį. Kada subrangovas pats pateiks sąskaitą, jūs, remdamiesi minėta ataskaita, atitinkamai pakoreguosite atsiskaitymą su subrangovu.\nJūs neturėtumėte:\n- nusileisti prašymui daryti sandorio pakeitimą. Tai neatitinka mūsų klausimo konteksto. Prašymas daryti pakeitimą teikiamas tik tada, kai keičiama sandorio darbų apimtis;\n- inicijuoti atsiskaitymą. Atsiskaitymas nepradedamas, kol subrangovas nepateikia sąskaitos;\n- informuoti subrangovą apie įsipareigojimų nevykdymą. Jis pats turi tai suprasti.\n\nTema: projekto kontrolė\nTemos dalis: sandorio administravimas"
+        },
+
+        {
+            "question": "Kas yra projekto apimties pakeitimo kontrolės sistema?",
+            "options": [
+                {
+                    "title": "procedūrų rinkinys projekto darbų grafikui keisti",
+                    "correct": false
+                },
+                {
+                    "title": "procedūrų rinkinys sandorio darbų užduočiai (SOW – Statement Of Work) taisyti ir sandoriui keisti",
+                    "correct": false
+                },
+                {
+                    "title": "formalių dokumentų ir procedūrų rinkinys oficialiems projekto dokumentams keisti",
+                    "correct": false
+                },
+                {
+                    "title": "procedūrų rinkinys, kaip turėtų būti keičiama projekto apimtis, apimantis popierinių dokumentų tvarkymą, stebėjimo sistemas ir keitimams nagrinėti ir tvirtinti įgaliotus asmenis",
+                    "correct": true
+                }
+            ],
+            "explain": "Projekto apimties keitimo kontrolės sistema yra procedūrų rinkinys, kaip turėtų būti keičiama projekto apimtis, apimantis popierinių dokumentų tvarkymą, stebėjimo sistemas ir keitimams nagrinėti ir tvirtinti įgaliotus asmenis.\nKeitimų kontrolės sistema susideda iš procedūrų rinkinio, nurodančio, kaip gali būti:\n- keičiami oficialūs projekto dokumentai;\n- taisomos sandorio darbų užduotys (SOW) ir keičiami sandoriai;\n- keičiamas darbų grafikas.\n\nTema: projekto kontrolė\nTemos dalis: apimties kontrolė"
+        },
+
+        {
+            "question": "Visi žemiau išvardinti dalykai yra konfliktų sprendimo būdai, išskyrus",
+            "options": [
+                {
+                    "title": "konfliktų vengimą",
+                    "correct": false
+                },
+                {
+                    "title": "diskusijas",
+                    "correct": true
+                },
+                {
+                    "title": "konfrontavimą (ginčus)",
+                    "correct": false
+                },
+                {
+                    "title": "kompromisus",
+                    "correct": false
+                }
+            ],
+            "explain": "Diskusijos nėra konfliktų sprendimo būdas. Konfliktai sprendžiami konfrontuojant (sprendžiant problemas, ginčijantis), darant kompromisus, vengiant konfliktų (atsisakant kažko), švelninant (pvz., reikalavimus), spaudžiant. Diskusijos reikalingos bet kurio iš minėtų konflikto sprendimo būdų metu.\nKonfliktų vengimas (atsisakymas kažko) suprantamas kaip atsitraukimas arba problemos sprendimo atidėjimas. Paprastai tai nėra geriausias problemos sprendimas.\nKonfrontavimas (ginčai) yra susijęs su problemų sprendimu. Besiginčydami asmenys geriausiai gali išsiaiškinti problemas ar situaciją. Tai yra demokratiškas problemų sprendimo būdas.\nKompromisas yra sprendimų priėmimo būdas abiem pusėms kažko atsisakant, darant nuolaidas.\n\nTema: projekto kontrolė\nTemos dalis: projekto grupės valdymas"
+        },
+
+        {
+            "question": "Atliktų darbų vertės analizė (Earned Value Analysis) yra dažniausiai naudojamas projekto eigos vertinimo būdas. Jame naudojami indikatoriai, kuriems gauti būtini žemiau išvardinti dalykai, išskyrus:",
+            "options": [
+                {
+                    "title": "atliktų darbų vertė (BCWP - Budgeted Cost of Work Performed; EV)",
+                    "correct": false
+                },
+                {
+                    "title": "tikrosios išlaidos atliktiems darbams (ACWP-Actual Cost of Work Performed; AC)",
+                    "correct": false
+                },
+                {
+                    "title": "planuotų atlikti darbų vertė (BCWS - Budgeted Cost of Work Scheduled; PV)",
+                    "correct": false
+                },
+                {
+                    "title": "tikroji darbų vertė (ACWS - Actual Cost of Work Scheduled)",
+                    "correct": true
+                }
+            ],
+            "explain": "Atliktų darbų vertės analizėje nenaudojama tikroji darbų vertė (ACWS – Actual Cost of Work Scheduled). Analizės metu apskaičiuojami tokie svarbūs indikatoriai kaip išlaidų nuokrypis (CV – Cost Variance), darbų nuokrypis (SV – Schedule Variance), išlaidų indeksas (CPI – Cost Performance Index) ir darbų indeksas (SPI – Schedule Performance Index). Minėtiems indikatoriams apskaičiuoti reikia žinoti tokius dydžius kaip BCWP (kitaip - EV), ACWP (kitaip – AC), BCWS (kitaip – PV).\nCV ir SV dydžiai apskaičiuojami pagal šias formules: CV = EV – AC; SV = EV – PV. Jei CV>0, tai projektas neviršija biudžeto. Jei SV>0, projektas viršija darbų grafiką.\nCPI ir SPI dydžiai apskaičiuojami pagal šias formules: CPI = EV/AC; SPI = EV/PV. Jei CPI>1, tai projekto grupė išleido daugiau pinigų, nei buvo planuota. Jei SPI>1, tai projekto grupė lenkia (viršija) darbų grafiką.\n\nTema: projekto kontrolė\nTemos dalis: projekto darbų kontrolė"
+        },
+
+        {
+            "question": "Kuris iš žemiau išvardintų dalykų nėra išlaidų kontrolės proceso rezultatas?",
+            "options": [
+                {
+                    "title": "išlaidų planas (cost baseline)",
+                    "correct": true
+                },
+                {
+                    "title": "biudžeto atnaujinimai (updates)",
+                    "correct": false
+                },
+                {
+                    "title": "peržiūrėti kainų įverčiai",
+                    "correct": false
+                },
+                {
+                    "title": "patikslintas viso projekto kainos įvertis",
+                    "correct": false
+                }
+            ],
+            "explain": "Išlaidų planas (cost baseline) nėra išlaidų kontrolės proceso rezultatas. Išlaidų planas yra biudžeto sudarymo proceso rezultatas ir yra naudojamas kaip išlaidų kontrolės proceso įeities duomuo. Išlaidų kontrolės proceso rezultatai yra kainų įverčių atnaujinimai, išlaidų plano atnaujinimai, darbų eigos indikatoriai, patikslintų projekto kainų prognozės, prašymai daryti keitimus, korekcinių veiksmų rekomendacijos, įmonės organizacinių dokumentų atnaujinimai ir projekto plano atnaujinimai. Išlaidų planas yra projekto elementų kainų įverčių suma duotam laiko intervale. Išlaidų planas dažnai vaizduojamas S-kreivės pavidalu, kur y-ašyje atidedamos išlaidos, o x-ašyje laikas.\nIšlaidų proceso kontrolės rezultatai yra:\n- biudžeto atnaujinimai, ir jie yra naudojami projekto išlaidoms valdyti. Projekto biudžeto atnaujinimai yra išlaidų plano atnaujinimai;\n- peržiūrėti kainų įverčiai. Jie naudojami reikiamų projekto elementų kainoms modifikuoti;\n- patikslintas viso projekto kainos įvertis. Jis rengiamas kiekvieno darbų etapo pabaigoje remiantis jau atliktų darbų informacija, kas padeda tiksliau prognozuoti viso projekto kainą.\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+        },
+        {
+            "question": "Kuris iš žemiau išvardintų dalykų nėra akcininkų valdymo proceso rezultatas?",
+            "options": [
+                {
+                    "title": "darbų ataskaitos",
+                    "correct": true
+                },
+                {
+                    "title": "išspręsti klausimai (ginčai)",
+                    "correct": false
+                },
+                {
+                    "title": "įmonės organizacinių dokumentų atnaujinimai",
+                    "correct": false
+                },
+                {
+                    "title": "patvirtinti korekciniai veiksmai",
+                    "correct": false
+                }
+            ],
+            "explain": "Darbų ataskaitos nėra akcininkų valdymo proceso rezultatas. Tai ataskaitų apie projekto darbų eigą rengimo proceso rezultatas.\nAkcininkų valdymo proceso rezultatai yra išspręsti klausimai (ginčai), patvirtinti prašymai daryti pakeitimus, patvirtinti korekciniai veiksmai, įvairūs įmonės organizacinių dokumentų atnaujinimai, projekto plano atnaujinimai.\n\nTema: projekto kontrolė\nTemos dalis: akcininkų valdymas"
+        },
+        {
+            "question": "Jūs esate sudėtingo aštuonių mėnesių trukmės projekto vadovas. Projekto visas biudžetas yra 800 000 Lt arba po 100 000 Lt kiekvienam mėnesiui. Per tris mėnesius jūs atlikote 30% darbų ir išleidote 200 000 Lt. Koks yra jūsų projekto išlaidų nuokrypis (CV – Cost Variance)?",
+            "options": [
+                {
+                    "title": "-40 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "-20 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "+25 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "+40 000 Lt",
+                    "correct": true
+                }
+            ],
+            "explain": "Jūsų projekto CV yra +40 000 Lt. Norint rasti CV, visų pirma reikia apskaičiuoti atliktų darbų vertę (EV – Earned Value). Tai daroma taip:\n- viso projekto kainos įvertis projekto pradžioje (BAC – Budget At Completion) BAC = 800 000 Lt;\n- tikrosios išlaidos (AC – Actual Cost) AC = 200 000 Lt;\n- EV = BAC x 0,30 = 800 000 x 0.30 = 240 000 Lt.\nToliau CV randamas pagal formulę\nCV = EV – AC = 240 000 – 200 000 = 40 000 Lt.\nKiti nurodyti šio klausimo atsakymai yra neteisingi.\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+        },
+        {
+            "question": "Projekto stoviui įvertinti jūs sušaukėte projekto grupės susirinkimą ir išanalizavote projekto eigą, remdamiesi tuo metu turima atliktų darbų verte. Jūs pastebėjote, kad kai kurie darbai atsilieka nuo darbų grafiko ir kad organizacija kitiems darbams išleidžia daugiau lėšų nei buvo planuota. Koks turėtų būti šio susirinkimo rezultatas?",
+            "options": [
+                {
+                    "title": "perdarymai;",
+                    "correct": false
+                },
+                {
+                    "title": "gautos pamokos (lessons learned)",
+                    "correct": false
+                },
+                {
+                    "title": "prašymai daryti pakeitimus",
+                    "correct": true
+                },
+                {
+                    "title": "patvirtinti korekciniai veiksmai",
+                    "correct": false
+                }
+            ],
+            "explain": "Prašymai daryti pakeitimus turėtų būti šio susirinkimo rezultatas. Jie gimsta atlikus projekto eigos analizę ir yra darbų eigos ataskaitų rengimo proceso rezultatas. Prašymai daryti pakeitimus būna susiję su įvairiais projekto aspektais (apimtimi, darbų grafiku, kaina, kt.) ir yra integruotosios keitimų kontrolės proceso įeities duomenys.\nPerdarymai yra kokybės kontrolės proceso rezultatas ir jais siekiama pašalinti gautų rezultatų neatitikimą projekto reikalavimams ar specifikacijai.\nGautų pamokų (lessons learned) dokumente pasižymimos priežastys, dėl kurių atsirado projekto eigos nukrypimai, korekcinių veiksmų detali motyvacija ir kita patirtis, susijusi su įvairiais projekto kontrolės aspektais.\nPatvirtintais korekciniais veiksmais siekiama gražinti projektą į plane numatytas vėžes. Nors korekcinius veiksmus gali rekomenduoti grupės susirinkimas, tačiau šios rekomendacijos turi būti patvirtintos keitimų kontrolės procese.\n\nTema: projekto kontrolė\nTemos dalis: projekto darbų kontrolė"
+        },
+        {
+            "question": "Programinės įrangos kūrimo projekto prastas planavimas buvo priežastis, dėl kurios projekto rezultatai neatitiko kliento specifikacijos. Tai buvo pastebėta tikrinimo metu, ir projekto grupė buvo priversta iš naujo atlikti kai kuriuos darbus. Tie perdarymai kompanijai atsiėjo apie 25 000 Lt. Kokia šių nuostolių dalis priskirtina prastam vadovavimui?",
+            "options": [
+                {
+                    "title": "0 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "3 750 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "12 500 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "21 250 Lt",
+                    "correct": true
+                }
+            ],
+            "explain": "Pagal Demingą (mokslininką) 85 procentai kokybės problemų atsiranda dėl prasto vadovavimo. Taigi, šiame scenarijuje nuostoliai dėl prasto vadovavimo yra 25 000 x 0,85 = 21 250 Lt. Nuostoliai dėl darbuotojų ar projekto grupės kaltės yra 25 000 x 0,15 = 3 750 Lt.\nKiti atsakymai į šį klausimą yra neteisingi.\n\nTema: projekto kontrolė\nTemos dalis: kokybės kontrolė"
+        },
+        {
+            "question": "Išlaidų kontrolės procesas projekto finansų valdyme apima visus žemiau išvardintus dalykus, išskyrus:",
+            "options": [
+                {
+                    "title": "akcininkų informavimą apie leistinus pakeitimus",
+                    "correct": false
+                },
+                {
+                    "title": "išlaidų stebėjimą jų nuokrypiams aptikti",
+                    "correct": false
+                },
+                {
+                    "title": "tinkamą kainų pasikeitimų registravimą",
+                    "correct": false
+                },
+                {
+                    "title": "išlaidų plano (cost baseline) projekto eigai stebėti sudarymą",
+                    "correct": true
+                }
+            ],
+            "explain": "Išlaidų kontrolės procesas neapima išlaidų plano (cost baseline) projekto eigai stebėti sudarymo. Tai yra biudžeto sudarymo proceso dalis, kas daroma dar iki išlaidų kontrolės proceso. Išlaidų planas – tai išlaidos paskirstytos laike, ir jis naudojamas projekto išlaidoms kontroliuoti. Išlaidų planas yra projekto biudžeto sudarymo proceso rezultatas ir yra įeities duomenys išlaidų kontrolės procesui.\nVisi kiti atsakymai į šį klausimą yra neteisingi, nes juose nurodyti dalykai priklauso išlaidų kontrolės procesui.\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+        },
+        {
+            "question": "Jūs esate vadovas projekto, kurio planuota trukmė yra 12 mėnesių. Planuotas biudžetas yra 486 000 Lt arba 40 500 Lt kiekvienam mėnesiui. Mėnesio gale jūs įvertinote padėtį ir pastebėjote, kad yra atlikta 40% projekto darbų ir yra likę 90 000 Lt. Kokia yra tuo metu patikslinta viso projekto kaina (EAC – Estimate At Compltion)?",
+            "options": [
+                {
+                    "title": "194 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "396 000 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "595 836,73 Lt",
+                    "correct": false
+                },
+                {
+                    "title": "991 836,73 Lt",
+                    "correct": true
+                }
+            ],
+            "explain": "Tuo metu patikslinta viso projekto kaina (EAC) yra 991 836,73 Lt. EAC apskaičiuojamas taip:\nBAC = 486 000 Lt, (BAC – Budget At Complete; viso projekto kainos įvertis projekto pradžioje);\nAC = 486 – 90 000 = 396 000 Lt, (AC – Actual Cost; tikrosios projekto išlaidos iki duoto laiko);\nEV = BAC x 0,40 = 486 000 x 0,40 = 194 400 Lt, (EV – Earned Value; atliktų darbų vertė);\nCPI = EV/AC = 194 400/396 000 = 0,49 , (CPI – Cost Performance Index; išlaidų indeksas);\nETC=(BAC-EV) / CPI = (486 000 – 194 000) / 0,49 = 595 918, 37\nEAC =ETC + AC = 595 918,37 + 396 000 = 991 918,37 Lt.\nVisi kiti atsakymai į šį klausimą yra neteisingi.\n\nTema: projekto kontrolė\nTemos dalis: išlaidų kontrolė"
+        }
+    ]
+}

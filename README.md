@@ -61,7 +61,7 @@ Questions: professor Valdas Undzėnas
 Various improvements:
 * Tautvidas Sipavičius http://www.tautvidas.com
 * Aurimas Sadauskas http://www.aursad.eu
-* Donatas Kurapkis http://l2topai.eu
+* Donatas Kurapkis http://top4games.com
 
 ##License
 
