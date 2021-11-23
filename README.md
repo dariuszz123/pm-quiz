@@ -1,24 +1,24 @@
-#pm-quiz
+# pm-quiz
 
 Quiz for software projects management practice class at VU.
 
 Live: http://pm.cuf.lt
 
-##Requirements
+## Requirements
 
 Modern web browser with enabled javascript.
 
-##Dev
+## Dev
 
-###Requirements
+### Requirements
 
 * npm ~1.4.28 https://www.npmjs.org/
 
-###Build
+### Build
 
 ```npm install```
 
-###Run the Application
+### Run the Application
 
 We have preconfigured the project with a simple development web server.  The simplest way to start
 this server is:
@@ -29,7 +29,7 @@ npm start
 
 Now browse to the app at `http://localhost:8000/`.
 
-###Questions data
+### Questions data
 
 Questions data stored in JSON ```./data/test_1.json```
 
@@ -50,7 +50,7 @@ Data structure is self explaining:
 }
 ```
 
-##Credits
+## Credits
 
 Author: Darius Krištapavičius
 
@@ -63,6 +63,6 @@ Various improvements:
 * Aurimas Sadauskas http://www.aursad.eu
 * Donatas Kurapkis http://top4games.com
 
-##License
+## License
 
 The MIT License (MIT)
